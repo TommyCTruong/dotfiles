@@ -1,0 +1,15 @@
+#alias src="source  $HOME/.zshrc"
+alias src="exec zsh"
+alias ch="chezmoi"
+alias update="sudo apt update && sudo apt upgrade -y"
+alias valias="vi ~/.bash_aliases"
+alias vzsh="vi ~/.zshrc"
+alias e="nvim"
+alias vinit="vi /home/tam/.config/nvim/init.lua"
+#alias ls='nnn -de'
+alias lla='exa -la'
+alias cat='bat'
+alias n='nnn -de'
+alias vstar='vi ~/.config/starship.toml'
+alias vplay='vi /opt/git/github/homelab/docs/play.txt'
+alias wiki='vi -c VimwikiIndex'
