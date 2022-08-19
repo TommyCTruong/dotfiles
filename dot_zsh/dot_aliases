@@ -2,7 +2,7 @@
 #alias src="exec zsh"
 alias src="source ~/.zsh/.zshrc"
 
-##### chezmoi ################
+###### chezmoi ################
 alias ch="chezmoi"
 #alias valias="chezmoi edit --apply ~/.zsh/.aliases; source ~/.zsh/.aliases"
 alias valias="chezmoi edit --apply ~/.zsh/.aliases; src"
