@@ -14,3 +14,5 @@ alias lla='exa -la'
 alias cat='bat'
 alias n='nnn -de'
 alias myip="curl ifconfig.me; echo"
+alias shutdown='sudo shutdown now'
+alias restart='sudo reboot'
