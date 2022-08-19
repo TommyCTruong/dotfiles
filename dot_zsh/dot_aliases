@@ -9,6 +9,8 @@ alias ce="chezmoi edit --apply"
 alias ca="chezmoi apply -v"
 alias cdiff="chezmoi diff"
 alias vzsh="chezmoi edit ~/.zsh/.zshrc"
+alias ccd="cd ~/.local/share/chezmoi"
+
 #######################################
 
 #### debian #################
