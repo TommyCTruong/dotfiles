@@ -20,3 +20,4 @@ source $ZDOTDIR/plugins/fast-syntax-highlighting/fast-syntax-highlighting.plugin
 
 source $ZDOTDIR/spaceship
 eval "$(zoxide init zsh)"
+eval $(thefuck --alias fix)
