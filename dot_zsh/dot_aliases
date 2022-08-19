@@ -1,0 +1,16 @@
+#alias src="source  $HOME/.zshrc"
+alias src="exec zsh"
+alias ch="chezmoi"
+alias update="sudo apt update && sudo apt upgrade -y"
+alias paci="sudo pacman -S"
+alias pacupdate="sudo pacman -Syu"
+alias valias="vi ~/.zsh/.aliases"
+alias vzsh="vi ~/.zsh/.zshrc"
+alias e="nvim"
+alias vi="nvim"
+alias vinit="vi /home/tam/.config/nvim/init.lua"
+#alias ls='nnn -de'
+alias lla='exa -la'
+alias cat='bat'
+alias n='nnn -de'
+alias myip="curl ifconfig.me; echo"
