@@ -19,8 +19,10 @@ alias update="sudo apt update && sudo apt upgrade -y"
 ##############################
 
 alias calias="bat ~/.zsh/.aliases;src"
-alias paci="sudo pacman -S --noconfirm"
-alias pacupdate="sudo pacman -Syu"
+alias pi="sudo pacman -S --noconfirm --needed"
+alias pu="sudo pacman -R"
+alias pupdate="sudo pacman -Syu"
+alias plist="sudo pacman -Qe"
 alias e="nvim"
 alias vi="nvim"
 alias vinit="vi /home/tam/.config/nvim/init.lua"
