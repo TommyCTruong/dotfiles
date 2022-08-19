@@ -19,7 +19,7 @@ alias update="sudo apt update && sudo apt upgrade -y"
 ##############################
 
 alias calias="bat ~/.zsh/.aliases;src"
-alias paci="sudo pacman -S"
+alias paci="sudo pacman -S --noconfirm"
 alias pacupdate="sudo pacman -Syu"
 alias e="nvim"
 alias vi="nvim"
