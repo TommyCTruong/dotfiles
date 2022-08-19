@@ -18,6 +18,7 @@ alias ccd="cd ~/.local/share/chezmoi"
 alias update="sudo apt update && sudo apt upgrade -y"
 ##############################
 
+alias calias="bat ~/.zsh/.aliases;src"
 alias paci="sudo pacman -S"
 alias pacupdate="sudo pacman -Syu"
 alias e="nvim"
