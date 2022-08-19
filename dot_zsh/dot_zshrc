@@ -10,7 +10,7 @@ source ~/.zsh/.aliases
 
 export PATH=~/bin:$PATH
 
-### Plugins ######
+### Plugins #######
 source /usr/share/fzf/completion.zsh
 source /usr/share/fzf/key-bindings.zsh
 source $ZDOTDIR/plugins/zsh-autocomplete/zsh-autocomplete.plugin.zsh
