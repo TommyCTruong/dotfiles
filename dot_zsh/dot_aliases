@@ -18,11 +18,15 @@ alias ccd="cd ~/.local/share/chezmoi"
 alias update="sudo apt update && sudo apt upgrade -y"
 ##############################
 
-alias calias="bat ~/.zsh/.aliases;src"
+##### pacman ##########
 alias pi="sudo pacman -S --noconfirm --needed"
 alias pu="sudo pacman -R"
 alias pupdate="sudo pacman -Syu"
 alias plist="sudo pacman -Qe"
+alias pseek="sudo pacman -Ss"
+
+######## Misc #####
+alias lalias="bat ~/.zsh/.aliases"
 alias e="nvim"
 alias vi="nvim"
 alias vinit="vi /home/tam/.config/nvim/init.lua"
