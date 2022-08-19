@@ -18,5 +18,6 @@ source $ZDOTDIR/themes/spaceship-prompt/spaceship.zsh-theme
 source $ZDOTDIR/plugins/fast-syntax-highlighting/fast-syntax-highlighting.plugin.zsh
 #############################################################
 eval "$(thefuck --alias fix)"
-source $ZDOTDIR/spaceship
+#source $ZDOTDIR/spaceship
+eval "$(starship init zsh)"
 eval "$(zoxide init zsh)"
