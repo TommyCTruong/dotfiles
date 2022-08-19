@@ -6,11 +6,12 @@ setopt sharehistory
 setopt hist_save_no_dups
 setopt hist_ignore_dups
 
-
-
 source $HOME/.zsh/aliases
 
-PATH=$HOME/bin:/usr/local/bin:$PATH
+PATH=$HOME/bin:$PATH
 source /usr/share/fzf/completion.zsh
 source /usr/share/fzf/key-bindings.zsh
 source $ZDOTDIR/plugins/zsh-autocomplete/zsh-autocomplete.plugin.zsh
+source $ZDOTDIR/themes/spaceship-prompt/spaceship.zsh-theme
+source $ZDOTDIR/spaceship
+eval "$(zoxide init zsh)"
