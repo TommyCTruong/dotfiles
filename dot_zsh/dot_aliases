@@ -4,12 +4,14 @@ alias src="source ~/.zsh/.zshrc"
 
 #### chezmoi ################
 alias ch="chezmoi"
-alias valias="chezmoi edit --apply ~/.zsh/.aliases; source ~/.zsh/.aliases"
+#alias valias="chezmoi edit --apply ~/.zsh/.aliases; source ~/.zsh/.aliases"
+alias valias="chezmoi edit --apply ~/.zsh/.aliases; src"
 alias ce="chezmoi edit --apply"
 alias ca="chezmoi apply -v"
 alias cdiff="chezmoi diff"
 alias vzsh="chezmoi edit ~/.zsh/.zshrc"
 alias ccd="cd ~/.local/share/chezmoi"
+alias tct="tct"
 #######################################
 
 #### debian #################
