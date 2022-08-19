@@ -12,7 +12,7 @@ alias cdiff="chezmoi diff"
 alias vzsh="chezmoi edit ~/.zsh/.zshrc"
 alias ccd="cd ~/.local/share/chezmoi"
 #alias tct="tct"
-#######################################
+########################################
 
 #### debian #################
 alias update="sudo apt update && sudo apt upgrade -y"
