@@ -26,7 +26,7 @@ alias plist="sudo pacman -Qe"
 alias pseek="sudo pacman -Ss"
 
 ######## Misc #####
-alias lalias="bat ~/.zsh/.aliases"
+alias aliasl="bat ~/.zsh/.aliases"
 alias e="nvim"
 alias vi="nvim"
 alias vinit="vi /home/tam/.config/nvim/init.lua"
