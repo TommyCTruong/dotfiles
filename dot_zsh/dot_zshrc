@@ -13,7 +13,7 @@ export PATH=~/bin:$PATH
 ### Plugins ######
 source /usr/share/fzf/completion.zsh
 source /usr/share/fzf/key-bindings.zsh
-source $ZDOTDIR/plugins/zsh-autocomplete/zsh-autocomplete.plugin.zsh
+#source $ZDOTDIR/plugins/zsh-autocomplete/zsh-autocomplete.plugin.zsh
 source $ZDOTDIR/themes/spaceship-prompt/spaceship.zsh-theme
 source $ZDOTDIR/plugins/fast-syntax-highlighting/fast-syntax-highlighting.plugin.zsh
 #############################################################
