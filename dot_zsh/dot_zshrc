@@ -1,4 +1,4 @@
-# History won't save duplicates.
+# History won't save duplicates. #
 setopt HIST_IGNORE_ALL_DUPS
 setopt HIST_FIND_NO_DUPS
 setopt appendhistory
