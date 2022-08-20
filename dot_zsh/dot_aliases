@@ -33,6 +33,7 @@ alias vi="nvim"
 alias vinit="vi /home/tam/.config/nvim/init.lua"
 #alias ls='nnn -de'
 alias l='exa -la'
+alias ls='exa -la'
 alias cat='bat'
 alias n='nnn -de'
 alias myip="curl ifconfig.me; echo"
