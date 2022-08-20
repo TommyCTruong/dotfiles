@@ -1,10 +1,14 @@
 # History won't save duplicates.
-#export PATH=/home/tam/.zsh/scripts:$PATH
 setopt HIST_IGNORE_ALL_DUPS
 setopt HIST_FIND_NO_DUPS
+setopt appendhistory
+setopt sharehistory
+setopt hist_save_no_dups
+setopt hist_ignore_dups
 
 source ~/.zsh/.aliases
 
+export PATH=~/bin:$PATH
 
 ### Plugins ######
 source /usr/share/fzf/completion.zsh
