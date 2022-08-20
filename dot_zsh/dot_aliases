@@ -1,10 +1,8 @@
-#alias src="source  $HOME/.zshrc"
 #alias src="exec zsh"
 alias src="source ~/.zsh/.zshrc"
 
 ###### chezmoi #################
 alias ch="chezmoi"
-#alias valias="chezmoi edit --apply ~/.zsh/.aliases; source ~/.zsh/.aliases"
 alias valias="chezmoi edit --apply ~/.zsh/.aliases; src"
 alias venv="chezmoi edit --apply ~/.zshenv; source ~/.zshenv"
 alias zshadd="chezmoi add  ~/.zsh/"
@@ -13,7 +11,6 @@ alias ca="chezmoi apply -v"
 alias cdiff="chezmoi diff"
 alias vzsh="chezmoi edit ~/.zsh/.zshrc"
 alias ccd="cd ~/.local/share/chezmoi"
-#alias tct="tct"
 ########################################
 
 #### debian #################
@@ -34,11 +31,9 @@ alias sys="sudo systemctl"
 alias e="nvim"
 alias vi="nvim"
 alias vinit="vi /home/tam/.config/nvim/init.lua"
-#alias ls='nnn -de'
 alias l='exa -la'
 alias ls='exa -la'
 alias cat='bat'
-alias n='nnn -de'
 alias myip="curl ifconfig.me; echo"
 alias shutdown='sudo shutdown now'
 alias restart='sudo reboot'
