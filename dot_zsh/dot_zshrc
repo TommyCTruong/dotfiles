@@ -1,10 +1,10 @@
 # History won't save duplicates.
+export PATH=$HOME/.zsh/scripts:$PATH
 setopt HIST_IGNORE_ALL_DUPS
 setopt HIST_FIND_NO_DUPS
 
 source ~/.zsh/.aliases
 
-export PATH=~/.zsh/scripts:$PATH
 
 ### Plugins ######
 source /usr/share/fzf/completion.zsh
