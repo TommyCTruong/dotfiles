@@ -28,6 +28,7 @@ alias plist="sudo pacman -Qe"
 alias pseek="sudo pacman -Ss"
 
 ######## Misc #####
+alias home="cd ~"
 alias aliasl="bat ~/.zsh/.aliases"
 alias sys="sudo systemctl"
 alias e="nvim"
