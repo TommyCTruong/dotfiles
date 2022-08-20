@@ -23,12 +23,6 @@ Host hostodo
     HostName hostodo.cuti.net
     User tam
     Port 2020
-Host githubdot
-  HostName github.com
-  User git
-  Port 22
-  IdentityFile ~/.ssh/id_rsa_githubdot
-  IdentitiesOnly yes
 Host github
   HostName github.com
   User git
