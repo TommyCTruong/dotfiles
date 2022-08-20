@@ -3,6 +3,7 @@ alias src="source ~/.zsh/.zshrc"
 
 ###### chezmoi #################
 alias ch="chezmoi"
+alias readd="chezmoi re-add"
 alias valias="chezmoi edit --apply ~/.zsh/.aliases; src"
 alias venv="chezmoi edit --apply ~/.zshenv; source ~/.zshenv"
 alias zshadd="chezmoi add  ~/.zsh/"
