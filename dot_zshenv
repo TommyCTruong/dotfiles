@@ -9,6 +9,4 @@ export ZDOTDIR="$HOME/.zsh"
 export HISTFILE="$HOME/.zhistory"    # History filepath
 export HISTSIZE=10000                   # Maximum events for internal history
 export SAVEHIST=10000
-setopt HIST_IGNORE_ALL_DUPS
-setopt HIST_FIND_NO_DUPS
 export STARSHIP_CONFIG=~/.zsh/starship.toml
