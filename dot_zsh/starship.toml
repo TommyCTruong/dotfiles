@@ -120,8 +120,8 @@ truncation_length = 4
 fish_style_pwd_dir_length = 2 # Not work?
 truncate_to_repo = false
 format = "[$read_only]($read_only_style)[$path]($style) "
-# home_symbol = ""
-# truncation_symbol = "…/"
+home_symbol = ""
+truncation_symbol = "…/"
 
 [directory.substitutions]
 "~/projects" = ""
