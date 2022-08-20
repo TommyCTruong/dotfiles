@@ -1,5 +1,5 @@
 #. "$HOME/.cargo/env"
-#######no more test 2
+#######no more test 3
 export PATH=$HOME/.zsh/scripts:~/.gdrive-downloader:$PATH
 export XDG_CONFIG_HOME="$HOME/.config"
 export XDG_DATA_HOME="$HOME/.local/share"
