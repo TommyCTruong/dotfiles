@@ -1,5 +1,5 @@
 # History won't save duplicates.
-export PATH=/home/tam/.zsh/scripts:$PATH
+#export PATH=/home/tam/.zsh/scripts:$PATH
 setopt HIST_IGNORE_ALL_DUPS
 setopt HIST_FIND_NO_DUPS
 
