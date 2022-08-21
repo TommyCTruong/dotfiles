@@ -1,2 +1,0 @@
-#!/bin/zsh
-wezterm --config-file /home/tam/.config/wezterm/wezterm.lua
