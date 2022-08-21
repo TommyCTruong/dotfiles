@@ -1,7 +1,7 @@
 local wezterm = require 'wezterm';
 
 wezterm.on('update-right-status', function(window, pane)
-  local date = wezterm.strftime '%Y-%m-%d %H:%M:%S'
+  local date = wezterm.strftime '%m-%d-%Y - %I:%M:%S %P'
   window:set_right_status(wezterm.format {
     { Text = date .. '  ' },
   })
