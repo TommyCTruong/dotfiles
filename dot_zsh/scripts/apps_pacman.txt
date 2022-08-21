@@ -6,6 +6,7 @@ dust
 exa
 fd
 fzf
+git-delta
 gping
 hyperfine
 neofetch
