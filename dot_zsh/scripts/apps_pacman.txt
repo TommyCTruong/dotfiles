@@ -21,4 +21,5 @@ starship
 tmux
 tokei
 watchexec
+wezterm
 zoxide
