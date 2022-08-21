@@ -30,9 +30,9 @@ $battery
     $lua\
     $python\
     $custom\
-    $env_var
+    $env_var\
+    $time
 [╰─](blue)\
-    $time\
     $character
 """
 
@@ -101,8 +101,8 @@ number_threshold = 1
 format = "[$symbol$number]($style)"
 
 [time]
-disabled = true
-time_format = "%T"
+disabled = false
+time_format = "%r"
 format = '  [$time]($style) '
 use_12hr = true
 
