@@ -1,5 +1,13 @@
 #. "$HOME/.cargo/env"
+<<<<<<< HEAD
+<<<<<<< HEAD
+#######no more test 8
+=======
+#######no more test 5
+>>>>>>> parent of 1d193dd (Update dot_zshenv)
+=======
 #######no more test 6
+>>>>>>> parent of f71c4bf (chore: savepoint)
 export PATH=$HOME/.zsh/scripts:~/.gdrive-downloader:$PATH
 export XDG_CONFIG_HOME="$HOME/.config"
 export XDG_DATA_HOME="$HOME/.local/share"
