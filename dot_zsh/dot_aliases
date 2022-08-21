@@ -7,12 +7,12 @@ alias addzsh="chezmoi add ~/.zsh"
 alias readd="chezmoi re-add"
 alias cs="chezmoi status"
 alias valias="chezmoi edit --apply ~/.zsh/.aliases; src"
-alias venv="chezmoi edit --apply ~/.zshenv; source ~/.zshenv"
+alias venv="chezmoi edit --apply ~/.zshenv; source ~/.zshenv;src"
 alias zshadd="chezmoi add  ~/.zsh/"
 alias ce="chezmoi edit --apply"
 alias ca="chezmoi apply -v"
 alias cdiff="chezmoi diff"
-alias vzsh="chezmoi edit ~/.zsh/.zshrc"
+alias vzsh="chezmoi edit --apply ~/.zsh/.zshrc;src"
 alias ccd="cd ~/.local/share/chezmoi"
 ########################################
 
@@ -28,13 +28,13 @@ alias plist="sudo pacman -Qe"
 alias pseek="sudo pacman -Ss"
 
 ######## Misc #####
-alias vgit="vi ~/.gitconfig"
+alias vgit="chezmoi edit --apply ~/.gitconfig;src"
 alias home="cd ~"
 alias aliasl="bat ~/.zsh/.aliases"
 alias sys="sudo systemctl"
 alias e="nvim"
 alias vi="nvim"
-alias vinit="vi /home/tam/.config/nvim/init.lua"
+alias vinit="chezmoi edit --apply /home/tam/.config/nvim/init.lua;src"
 alias l='exa -la'
 alias cat='bat'
 alias myip="curl ifconfig.me; echo"
