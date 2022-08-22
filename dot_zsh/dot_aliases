@@ -18,7 +18,7 @@ alias ccd="cd ~/.local/share/chezmoi"
 alias add="chezmoi add"
 
 ###### Tmux #############################
-alias mux="tmuxp load ~/.config/tmuxp/main.yaml"
+alias mux="tmuxp load main"
 #### debian #################
 alias dupdate="sudo apt update && sudo apt upgrade -y"
 ##############################
