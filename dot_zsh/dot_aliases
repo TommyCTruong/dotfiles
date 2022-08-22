@@ -19,6 +19,9 @@ alias add="chezmoi add"
 
 ###### Tmux #############################
 alias mux="tmuxp load tmuxp"
+alias kmux="tmux kill-session"
+
+
 #### debian #################
 alias dupdate="sudo apt update && sudo apt upgrade -y"
 ##############################
