@@ -1,6 +1,6 @@
-session_name: tmuxp
+session_name: main
 windows:
-- window_name: tmuxp
+- window_name: main
   focus: True
   layout: 2878,156x67,0,0{56x67,0,0[56x33,0,0,1,56x33,0,34,3],99x67,57,0,2} 
   options:
