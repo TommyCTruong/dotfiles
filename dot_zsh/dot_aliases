@@ -14,6 +14,7 @@ alias ca="chezmoi apply -v"
 alias cdiff="chezmoi diff"
 alias vzsh="chezmoi edit --apply ~/.zsh/.zshrc;src"
 alias ccd="cd ~/.local/share/chezmoi"
+alias add="chezmoi add"
 ########################################
 
 #### debian #################
