@@ -1,3 +1,4 @@
+##https://vonheikemen.github.io/devlog/tools/build-your-first-lua-config-for-neovim/
 vim.opt.number = true
 vim.opt.mouse = 'a'
 vim.opt.ignorecase = true
@@ -12,9 +13,10 @@ vim.opt.expandtab = false
 vim.g.netrw_banner = 0
 vim.g.netrw_winsize = 30
 
-vim.g.mapleader = ' '
+vim.g.mapleader = ','
 
 vim.keymap.set({'n', 'x'}, 'cp', '"+y')
+vim.keymap.set("i", "jj", "<esc>", {noremap = true})
 vim.keymap.set({'n', 'x'}, 'cv', '"+p')
 vim.keymap.set({'n', 'x'}, 'x', '"_x')
 vim.keymap.set('n', '<leader>w', '<cmd>write<cr>')
