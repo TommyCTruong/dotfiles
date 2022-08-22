@@ -19,6 +19,7 @@ rofi
 sd
 starship
 tmux
+tmuxp
 tokei
 watchexec
 zoxide
