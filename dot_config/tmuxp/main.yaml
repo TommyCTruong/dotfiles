@@ -8,4 +8,4 @@ windows:
   panes:
   - focus: true
   - htop 
-  - 
+  - neofetch
