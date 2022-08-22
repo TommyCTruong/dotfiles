@@ -7,5 +7,5 @@ windows:
     main-pane-width: 35
   panes:
   - focus: true
-  - echo hello 
+  - neofetch
   - htop 
