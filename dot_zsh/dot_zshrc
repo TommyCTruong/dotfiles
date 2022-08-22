@@ -1,4 +1,5 @@
 # History won't save duplicates. #
+bindkey -M viins 'jj' vi-cmd-mode
 setopt HIST_IGNORE_ALL_DUPS
 setopt HIST_FIND_NO_DUPS
 setopt appendhistory
