@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/zsh
 # uncomment to clear setting
 #usr/bin/setxkbmap -option
 
