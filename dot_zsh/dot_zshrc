@@ -1,6 +1,10 @@
 # History won't save duplicates. #
 bindkey -M viins 'jj' vi-cmd-mode
+
+#### ctrl-q to save inline editing for next prompt #####
 bindkey '^q' push-line-or-edit
+
+###############################
 setopt HIST_IGNORE_ALL_DUPS
 setopt HIST_FIND_NO_DUPS
 setopt appendhistory
@@ -23,7 +27,8 @@ eval "$(starship init zsh)"
 eval "$(zoxide init zsh)"
 ##### swap caps lock for ctrl key
 #/usr/bin/setxkbmap -option "ctrl:swapcaps"
-#preexec() { print -Pn "\e]0;$1%~\a" } ## show last command name + working directory
+
+##### Set title in Alacritty title bar #########
 if [[ "${TERM}" != "" && "${TERM}" == "alacritty" ]]
 then
     precmd()
