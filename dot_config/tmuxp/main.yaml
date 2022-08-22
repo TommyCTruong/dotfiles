@@ -1,0 +1,11 @@
+session_name: tmuxp
+windows:
+- window_name: tmuxp
+  focus: True
+  layout: main-vertical
+  options:
+    main-pane-width: 25
+  panes:
+  - focus: true
+  - btm 
+  - 
