@@ -7,5 +7,5 @@ windows:
     main-pane-width: 25
   panes:
   - focus: true
-  - btm 
+  - htop 
   - 
