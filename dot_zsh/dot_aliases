@@ -17,7 +17,7 @@ alias vzsh="chezmoi edit --apply ~/.zsh/.zshrc;src"
 alias ccd="cd ~/.local/share/chezmoi"
 alias add="chezmoi add"
 
-###### Tmux #############################
+###### Tmux ###################################
 alias mux="tmuxp load dev"
 alias kmux="tmux kill-session"
 
