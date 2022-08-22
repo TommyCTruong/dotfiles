@@ -19,3 +19,5 @@ source $ZDOTDIR/plugins/fast-syntax-highlighting/fast-syntax-highlighting.plugin
 eval "$(thefuck --alias fix)"
 eval "$(starship init zsh)"
 eval "$(zoxide init zsh)"
+##### swap caps lock for ctrl key
+/usr/bin/setxkbmap -option "ctrl:swapcaps"
