@@ -2,10 +2,10 @@ session_name: tmuxp
 windows:
 - window_name: tmuxp
   focus: True
-  layout: main-vertical
+  layout: 2878,156x67,0,0{56x67,0,0[56x33,0,0,1,56x33,0,34,3],99x67,57,0,2} 
   options:
-    main-pane-width: 25
+    main-pane-width: 35
   panes:
   - focus: true
+  - echo hello 
   - htop 
-  - neofetch
