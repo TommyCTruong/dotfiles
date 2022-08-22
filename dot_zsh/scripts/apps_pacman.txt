@@ -22,4 +22,5 @@ tmux
 tmuxp
 tokei
 watchexec
+xdotool
 zoxide
