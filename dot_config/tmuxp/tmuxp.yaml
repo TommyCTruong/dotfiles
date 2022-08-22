@@ -1,0 +1,13 @@
+session_name: tmuxp
+windows:
+- focus: 'true'
+  layout: 0f1b,173x41,0,0{88x41,0,0[88x20,0,0,1,88x20,0,21,2],84x41,89,0,3}
+  options:
+    main-pane-width: 35
+  panes:
+  - focus: 'true'
+    shell_command: zsh
+  - zsh
+  - htop
+  start_directory: /home/tam
+  window_name: tmuxp
