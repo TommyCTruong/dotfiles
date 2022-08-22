@@ -1,0 +1,13 @@
+session_name: dev
+windows:
+- focus: 'true'
+  layout: 7f82,173x40,0,0{85x40,0,0,1,87x40,86,0[87x20,86,0,3,87x19,86,21,4]}
+  options:
+    main-pane-width: 35
+  panes:
+  - focus: 'true'
+    shell_command: clear
+  - htop 
+  - 
+  start_directory: /home/tam
+  window_name: dev
