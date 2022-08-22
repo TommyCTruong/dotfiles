@@ -22,3 +22,4 @@ eval "$(starship init zsh)"
 eval "$(zoxide init zsh)"
 ##### swap caps lock for ctrl key
 #/usr/bin/setxkbmap -option "ctrl:swapcaps"
+preexec() { print -Pn "\e]0;$1%~\a" } -- show last command name + working directory
