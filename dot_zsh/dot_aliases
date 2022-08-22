@@ -29,7 +29,7 @@ alias pseek="sudo pacman -Ss"
 
 ######## Misc #####
 alias vgit="chezmoi edit --apply ~/.gitconfig;src"
-alias home="cd ~"
+alias h="cd ~"
 alias aliasl="bat ~/.zsh/.aliases"
 alias sys="sudo systemctl"
 alias e="nvim"
