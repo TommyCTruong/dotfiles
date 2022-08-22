@@ -21,4 +21,4 @@ eval "$(thefuck --alias fix)"
 eval "$(starship init zsh)"
 eval "$(zoxide init zsh)"
 ##### swap caps lock for ctrl key
-/usr/bin/setxkbmap -option "ctrl:swapcaps"
+#/usr/bin/setxkbmap -option "ctrl:swapcaps"
