@@ -38,7 +38,7 @@ alias pseek="sudo pacman -Ss"
 
 ######## Misc #####
 alias mn="xdotool set_desktop --relative"
-alias mp="xdotool set_desktop --relative -- -"
+alias mp="xdotool set_desktop --relative -- "
 alias cl=clear
 alias vgit="chezmoi edit --apply ~/.gitconfig;src"
 alias h="cd ~"
