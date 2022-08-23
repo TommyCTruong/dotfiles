@@ -100,7 +100,7 @@ return packer.startup(function(use)
     mason_lspconfig = require("mason-lspconfig")
     mason_lspconfig.setup({
       ensure_installed = {
-       "bashls", "pyright", "clangd", "html", "cssls", "tsserver",
+       "bashls", "pyright", "clangd", "html", "cssls", "tsserver","ansible", "lua",
       }
     })
 
