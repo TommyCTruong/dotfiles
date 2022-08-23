@@ -74,7 +74,18 @@ return packer.startup(function(use)
   use { 'rose-pine/neovim', as = 'rose-pine' }
 
   -- LSP
-  use 'neovim/nvim-lspconfig'
+ use {
+      "williamboman/mason.nvim",
+      "williamboman/mason-lspconfig.nvim",
+      "neovim/nvim-lspconfig",
+    }
+    require("mason").setup()
+    mason_lspconfig = require("mason-lspconfig")
+    mason_lspconfig.setup({
+      ensure_installed = {
+       "bashls", "pyright", "clangd", "html", "cssls", "tsserver",
+      }
+    })
 
   -- Autocomplete
   use {
