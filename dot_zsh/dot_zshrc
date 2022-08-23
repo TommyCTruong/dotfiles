@@ -79,8 +79,8 @@ ZSH_THEME="powerlevel10k/powerlevel10k"
 
 # Would you like to use another custom folder than $ZSH/custom?
 # ZSH_CUSTOM=/path/to/new-custom-folder
-source /usr/share/fzf/completion.zsh
-source /usr/share/fzf/key-bindings.zsh
+#source /usr/share/fzf/completion.zsh
+#source /usr/share/fzf/key-bindings.zsh
 
 # Which plugins would you like to load?
 # Standard plugins can be found in $ZSH/plugins/
@@ -89,7 +89,7 @@ source /usr/share/fzf/key-bindings.zsh
 # Add wisely, as too many plugins slow down shell startup.
 export FZF_DEFAULT_OPTS='--height 40% --layout=reverse --border'
 
-plugins=(git fzf fzf-tab web-search copypath copyfile copybuffer vi-mode z zsh-autosuggestions sudo zsh-syntax-highlighting)
+plugins=(git fzf web-search copypath copyfile copybuffer vi-mode z zsh-autosuggestions sudo zsh-syntax-highlighting fzf-tab)
 
 source $ZSH/oh-my-zsh.sh
 
