@@ -1,0 +1,5 @@
+Move window to previous workspace : Alt-Ctrl-Home
+Move window to next workspace : Alt-Ctrl-End
+
+#### Neovim ######
+space is leader key
