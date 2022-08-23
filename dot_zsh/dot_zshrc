@@ -1,5 +1,5 @@
 # History won't save duplicates. #
-bindkey -M viins 'jj' vi-cmd-mode
+bindkey -M viins 'kk' vi-cmd-mode
 
 #### ctrl-q to save inline editing for next prompt #####
 bindkey '^q' push-line-or-edit
