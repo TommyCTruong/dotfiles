@@ -1,0 +1,48 @@
+# History won't save duplicates. #
+bindkey -M viins 'kk' vi-cmd-mode
+
+#### ctrl-q to save inline editing for next prompt #####
+bindkey '^q' push-line-or-edit
+
+###############################
+setopt HIST_IGNORE_ALL_DUPS
+setopt HIST_FIND_NO_DUPS
+setopt appendhistory
+setopt sharehistory
+setopt hist_save_no_dups
+setopt hist_ignore_dups
+
+source ~/.zsh/.aliases
+
+export PATH=~/bin:$PATH
+
+### Plugins ######asd
+source /usr/share/fzf/completion.zsh
+source /usr/share/fzf/key-bindings.zsh
+source $ZDOTDIR/plugins/fast-syntax-highlighting/fast-syntax-highlighting.plugin.zsh
+source $ZDOTDIR/plugins/zsh-autocomplete/zsh-autocomplete.plugin.zsh
+#############################################################
+eval "$(thefuck --alias fix)"
+eval "$(starship init zsh)"
+eval "$(zoxide init zsh)"
+##### swap caps lock for ctrl key
+#/usr/bin/setxkbmap -option "ctrl:swapcaps"
+
+##### Set title in Alacritty title bar #########
+if [[ "${TERM}" != "" && "${TERM}" == "alacritty" ]]
+then
+    precmd()
+    {
+        # output on which level (%L) this shell is running on.
+        # append the current directory (%~), substitute home directories with a tilde.
+        # "\a" bell (man 1 echo)
+        # "print" must be used here; echo cannot handle prompt expansions (%L)
+        print -Pn "\e]0;$(id --user --name)@$(hostname): zsh[%L] %~\a"
+    }
+
+    preexec()
+    {
+        # output current executed command with parameters
+        echo -en "\e]0;$(id --user --name)@$(hostname): ${1}\a"
+    }
+fi
