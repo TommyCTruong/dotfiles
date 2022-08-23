@@ -58,7 +58,24 @@ return packer.startup(function(use)
       require('nvim-autopairs').setup{}
     end
   }
-
+  -- vimwiki ---
+  use {
+    'vimwiki/vimwiki',
+    config = function()
+      vim.g.vimwiki_list = {
+        {
+          path = '~/wiki/',
+          syntax = 'markdown',
+          ext  = '.md',
+        }
+      }
+      vim.g.vimwiki_ext2syntax = {
+        ['.md'] = 'markdown',
+        ['.markdown'] = 'markdown',
+        ['.mdown'] = 'markdown',
+      }
+    end
+  }
   -- Icons
   use 'kyazdani42/nvim-web-devicons'
 
