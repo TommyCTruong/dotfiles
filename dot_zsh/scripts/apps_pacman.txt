@@ -18,6 +18,7 @@ ripgrep
 rofi
 sd
 starship
+the_silver_searcher
 tmux
 tmuxp
 tokei
