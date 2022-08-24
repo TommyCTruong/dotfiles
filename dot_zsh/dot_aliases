@@ -39,6 +39,7 @@ alias plist="sudo pacman -Qe"
 alias pseek="sudo pacman -Ss"
 
 ######## Misc #####
+alias distro='cat /etc/*-release'
 alias 1="xdotool set_desktop 0"
 alias 2="xdotool set_desktop 1"
 alias 3="xdotool set_desktop 2"
