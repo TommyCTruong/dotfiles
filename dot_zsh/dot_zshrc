@@ -121,7 +121,7 @@ source /usr/share/fzf/key-bindings.zsh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 eval "$(thefuck --alias fix)"
 source ~/.zsh/plugins/zsh-autocomplete/zsh-autocomplete.plugin.zsh
-
+eval "$(starship init zsh)"
 # To customize prompt, run `p10k configure` or edit ~/.zsh/.p10k.zsh.
-PROMPT='%{$fg_bold[white]%}$USER@%{$fg[yellow]%}%m%}%{$fg_bold[cyan]%} %c $(git_prompt_info)%{$reset_color%}'
+#PROMPT='%{$fg_bold[white]%}$USER@%{$fg[yellow]%}%m%}%{$fg_bold[cyan]%} %c $(git_prompt_info)%{$reset_color%}'
 #[[ ! -f ~/.zsh/.p10k.zsh ]] || source ~/.zsh/.p10k.zsh
