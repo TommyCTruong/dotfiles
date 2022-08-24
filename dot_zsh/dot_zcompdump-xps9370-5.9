@@ -1,4 +1,4 @@
-#files: 984	version: 5.9
+#files: 994	version: 5.9
 
 _comps=(
 '-' '_precommand'
@@ -245,6 +245,7 @@ _comps=(
 'curl' '_curl'
 'cut' '_cut'
 'cvs' '_cvs'
+'d' '_dirs'
 'dad' '_dad'
 'darcs' '_darcs'
 'dash' '_sh'
@@ -291,6 +292,9 @@ _comps=(
 'dmesg' '_dmesg'
 'dmidecode' '_dmidecode'
 'doas' '_doas'
+'docker' '_docker'
+'docker-compose' '_docker-compose'
+'dockerd' '_docker'
 'docpad' '_docpad'
 'domainname' '_yp'
 'dos2unix' '_dos2unix'
@@ -428,6 +432,7 @@ _comps=(
 'gbasename' '_basename'
 'gcat' '_cat'
 'gcc' '_gcc'
+'gccd' '_git'
 'gccgo' '_go'
 'gchgrp' '_chown'
 'gchmod' '_chmod'
@@ -444,7 +449,9 @@ _comps=(
 'gdd' '_dd'
 'gdf' '_df'
 'gdiff' '_diff'
+'gdnolock' '_git'
 'gdu' '_du'
+'gdv' '_git'
 'geany' '_geany'
 'gegrep' '_grep'
 'gem' '_gem'
@@ -467,7 +474,13 @@ _comps=(
 'gfmt' '_fmt'
 'gfold' '_fold'
 'ggetopt' '_getopt'
+'ggf' '_git'
+'ggfl' '_git'
+'ggl' '_git'
+'ggp' '_git'
+'ggpnp' '_git'
 'ggrep' '_grep'
+'ggu' '_git'
 'ggv' '_gnome-gv'
 'ghc' '_ghc'
 'ghci' '_ghc'
@@ -483,6 +496,7 @@ _comps=(
 'git-flow' '_git-flow'
 'git-journal' '_git-journal'
 'gitk' '_git'
+'_git_log_prettily' '_git'
 'git-pulls' '_git-pulls'
 'git-receive-pack' '_git'
 'git-revise' '_git-revise'
@@ -955,6 +969,7 @@ _comps=(
 'ogginfo' '_vorbis'
 'oksh' '_sh'
 'okular' '_okular'
+'omz' '_omz'
 'oomctl' '_oomctl'
 'openssl' '_openssl'
 'openstack' '_openstack'
@@ -1725,8 +1740,18 @@ _comps=(
 
 _services=(
 'bzcat' 'bunzip2'
+'gccd' 'git-clone'
 'gchgrp' 'chgrp'
 'gchown' 'chown'
+'gdnolock' 'git-diff'
+'gdv' 'git-diff'
+'ggf' 'git-checkout'
+'ggfl' 'git-checkout'
+'ggl' 'git-checkout'
+'ggp' 'git-checkout'
+'ggpnp' 'git-checkout'
+'ggu' 'git-checkout'
+'_git_log_prettily' 'git-log'
 'gnupod_addsong.pl' 'gnupod_addsong'
 'gnupod_check.pl' 'gnupod_check'
 'gnupod_INIT.pl' 'gnupod_INIT'
@@ -1828,23 +1853,10 @@ zle -C _list_expansions .list-choices _expand_word
 zle -C _most_recent_file .complete-word _most_recent_file
 zle -C _next_tags .list-choices _next_tags
 zle -C _read_comp .complete-word _read_comp
-bindkey '^X^R' _read_comp
-bindkey '^X?' _complete_debug
-bindkey '^XC' _correct_filename
-bindkey '^Xa' _expand_alias
-bindkey '^Xc' _correct_word
-bindkey '^Xd' _list_expansions
-bindkey '^Xe' _expand_word
-bindkey '^Xh' _complete_help
-bindkey '^Xm' _most_recent_file
-bindkey '^Xn' _next_tags
-bindkey '^Xt' _complete_tag
-bindkey '^X~' _bash_list-choices
-bindkey '^[,' _history-complete-newer
-bindkey '^[/' _history-complete-older
-bindkey '^[~' _bash_complete-word
 
-autoload -Uz _afew _alacritty _android _archlinux-java _artisan \
+autoload -Uz _autocomplete.ancestor_dirs _autocomplete.command _autocomplete.compadd_opts_len _autocomplete.history_lines _autocomplete.is_glob \
+            _autocomplete.recent_paths _autocomplete.requoted _autocomplete.unambiguous _docker-compose _docker \
+            _afew _alacritty _android _archlinux-java _artisan \
             _atach _bat _bitcoin-cli _bootctl _bower \
             _btm _bundle _busctl _bwrap _caffeinate \
             _cap _cargo _cask _ccache _cf \
@@ -2045,6 +2057,5 @@ autoload -Uz +X _call_program
 
 typeset -gUa _comp_assocs
 _comp_assocs=( '' )
-
 #omz revision: 6d48309cd7da1b91038cf08be7865fb5bb9bc5ea
-#omz fpath: /home/tam/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting /home/tam/.oh-my-zsh/plugins/sudo /home/tam/.oh-my-zsh/custom/plugins/zsh-autosuggestions /home/tam/.oh-my-zsh/plugins/z /home/tam/.oh-my-zsh/plugins/vi-mode /home/tam/.oh-my-zsh/plugins/copybuffer /home/tam/.oh-my-zsh/plugins/copyfile /home/tam/.oh-my-zsh/plugins/copypath /home/tam/.oh-my-zsh/plugins/web-search /home/tam/.oh-my-zsh/plugins/fzf /home/tam/.oh-my-zsh/plugins/git /home/tam/.oh-my-zsh/functions /home/tam/.oh-my-zsh/completions /home/tam/.oh-my-zsh/cache/completions /usr/local/share/zsh/site-functions /usr/share/zsh/site-functions /usr/share/zsh/functions/Calendar /usr/share/zsh/functions/Chpwd /usr/share/zsh/functions/Completion /usr/share/zsh/functions/Completion/Base /usr/share/zsh/functions/Completion/Linux /usr/share/zsh/functions/Completion/Unix /usr/share/zsh/functions/Completion/X /usr/share/zsh/functions/Completion/Zsh /usr/share/zsh/functions/Exceptions /usr/share/zsh/functions/Math /usr/share/zsh/functions/MIME /usr/share/zsh/functions/Misc /usr/share/zsh/functions/Newuser /usr/share/zsh/functions/Prompts /usr/share/zsh/functions/TCP /usr/share/zsh/functions/VCS_Info /usr/share/zsh/functions/VCS_Info/Backends /usr/share/zsh/functions/Zftp /usr/share/zsh/functions/Zle
+#omz fpath: /home/tam/.oh-my-zsh/plugins/docker-compose /home/tam/.oh-my-zsh/plugins/docker /home/tam/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting /home/tam/.oh-my-zsh/plugins/sudo /home/tam/.oh-my-zsh/plugins/z /home/tam/.oh-my-zsh/plugins/vi-mode /home/tam/.oh-my-zsh/plugins/copybuffer /home/tam/.oh-my-zsh/plugins/copyfile /home/tam/.oh-my-zsh/plugins/copypath /home/tam/.oh-my-zsh/plugins/web-search /home/tam/.oh-my-zsh/plugins/fzf /home/tam/.oh-my-zsh/plugins/git /home/tam/.oh-my-zsh/functions /home/tam/.oh-my-zsh/completions /home/tam/.oh-my-zsh/cache/completions /usr/local/share/zsh/site-functions /usr/share/zsh/site-functions /usr/share/zsh/functions/Calendar /usr/share/zsh/functions/Chpwd /usr/share/zsh/functions/Completion /usr/share/zsh/functions/Completion/Base /usr/share/zsh/functions/Completion/Linux /usr/share/zsh/functions/Completion/Unix /usr/share/zsh/functions/Completion/X /usr/share/zsh/functions/Completion/Zsh /usr/share/zsh/functions/Exceptions /usr/share/zsh/functions/Math /usr/share/zsh/functions/MIME /usr/share/zsh/functions/Misc /usr/share/zsh/functions/Newuser /usr/share/zsh/functions/Prompts /usr/share/zsh/functions/TCP /usr/share/zsh/functions/VCS_Info /usr/share/zsh/functions/VCS_Info/Backends /usr/share/zsh/functions/Zftp /usr/share/zsh/functions/Zle

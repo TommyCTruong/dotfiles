@@ -1,3 +1,6 @@
+Host uranus #Tam's computer
+    Hostname 192.168.1.3
+    User tam
 Host uranus
     Hostname 192.168.1.3
     User tam
