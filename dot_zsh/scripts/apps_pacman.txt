@@ -1,11 +1,13 @@
 alacritty
 bat
+base-devel
 bottom
 broot
 dust
 exa
 fd
 fzf
+git
 git-delta
 gping
 hyperfine
