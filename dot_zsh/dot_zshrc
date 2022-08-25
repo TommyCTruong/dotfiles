@@ -20,7 +20,7 @@ export PATH=$HOME/.zsh/scripts/:/usr/local/bin:$PATH
 #### source aliases ####
 
 #### ctrl-q to save inline editing for next prompt #####
-#bindkey '^q' push-line-or-edit
+bindkey '^q' push-line-or-edit
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
