@@ -15,7 +15,7 @@
 export PATH=$HOME/.zsh/scripts/:$PATH
 
 # History won't save duplicates. #
-#bindkey -M viins 'kk' vi-cmd-mode
+bindkey -M viins 'kk' vi-cmd-mode
 
 #### source aliases ####
 
@@ -115,15 +115,16 @@ source ~/.zsh/plugins/zsh-autocomplete/zsh-autocomplete.plugin.zsh
 # users are encouraged to define aliases within the ZSH_CUSTOM folder.
 # For a full list of active aliases, run `alias`.
 #
+source $HOME/.zsh/plugins/.zsh-vi-mode/zsh-vi-mode.plugin.zsh
+source ~/.zsh/plugins/zsh-autocomplete/zsh-autocomplete.plugin.zsh
 source /usr/share/fzf/completion.zsh
 source /usr/share/fzf/key-bindings.zsh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-ZVM_VI_INSERT_ESCAPE_BINDKEY=kk
+#ZVM_VI_INSERT_ESCAPE_BINDKEY=kk
 #zstyle ':autocomplete:*' min-delay 0.05
 eval "$(thefuck --alias fix)"
-source ~/.zsh/plugins/zsh-autocomplete/zsh-autocomplete.plugin.zsh
 eval "$(starship init zsh)"
 #unalias -a
 source ~/.zsh/.aliases
