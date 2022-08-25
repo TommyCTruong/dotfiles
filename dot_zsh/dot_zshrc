@@ -122,10 +122,13 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 ZVM_VI_INSERT_ESCAPE_BINDKEY=kk
 eval "$(thefuck --alias fix)"
-#source ~/.zsh/plugins/zsh-autocomplete/zsh-autocomplete.plugin.zsh
+source ~/.zsh/plugins/zsh-autocomplete/zsh-autocomplete.plugin.zsh
 eval "$(starship init zsh)"
 #unalias -a
 source ~/.zsh/.aliases
+fpath=(~/.zsh/plugins/zsh-autocomplete
+autoload -U compinit && compinit
+
 # To customize prompt, run `p10k configure` or edit ~/.zsh/.p10k.zsh.
 #PROMPT='%{$fg_bold[white]%}$USER@%{$fg[yellow]%}%m%}%{$fg_bold[cyan]%} %c $(git_prompt_info)%{$reset_color%}'
 #[[ ! -f ~/.zsh/.p10k.zsh ]] || source ~/.zsh/.p10k.zsh
