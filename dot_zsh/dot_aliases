@@ -40,6 +40,7 @@ alias plist="sudo pacman -Qe"
 alias pseek="sudo pacman -Ss"
 
 ######## Misc #####
+alias cp="rsync -avz"
 alias distro='cat /etc/*-release'
 alias 1="xdotool set_desktop 0"
 alias 2="xdotool set_desktop 1"
