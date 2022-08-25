@@ -79,7 +79,6 @@ ZSH_THEME="robbyrussell"
 # see 'man strftime' for details.
 # HIST_STAMPS="mm/dd/yyyy"
 
-source ~/.zsh/plugins/zsh-autocomplete/zsh-autocomplete.plugin.zsh
 # Would you like to use another custom folder than $ZSH/custom?
 # ZSH_CUSTOM=/path/to/new-custom-folder
 export FZF_DEFAULT_OPTS='--height 40% --layout=reverse --border'
@@ -92,6 +91,7 @@ export FZF_DEFAULT_OPTS='--height 40% --layout=reverse --border'
 #plugins=(git fzf web-search copypath copyfile copybuffer zsh-vi-mode sudo zsh-syntax-highlighting fzf-tab docker docker-compose zoxide)
 plugins+=(git zsh-autosuggestions copyfile copybuffer zsh-vi-mode zsh-syntax-highlighting sudo docker docker-compose zoxide fzf-tab fzf)
 source $ZSH/oh-my-zsh.sh
+source ~/.zsh/plugins/zsh-autocomplete/zsh-autocomplete.plugin.zsh
 
 # User configuration
 
