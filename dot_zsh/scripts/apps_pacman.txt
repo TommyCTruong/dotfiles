@@ -3,7 +3,6 @@ bat
 base-devel
 bottom
 broot
-chezmoi
 dust
 exa
 fd
