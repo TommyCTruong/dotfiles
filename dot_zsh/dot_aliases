@@ -33,6 +33,7 @@ alias dupdate="sudo apt update && sudo apt upgrade -y"
 ##############################
 
 ##### pacman ##########
+alias killterm="killall alacritty"
 alias pi="sudo pacman -S --noconfirm --needed"
 alias pu="sudo pacman -R"
 alias pupdate="sudo pacman -Syu"
