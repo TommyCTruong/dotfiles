@@ -15,7 +15,7 @@
 export PATH=$HOME/.zsh/scripts/:$PATH
 
 # History won't save duplicates. #
-bindkey -M viins 'kk' vi-cmd-mode
+#bindkey -M viins 'kk' vi-cmd-mode
 
 #### source aliases ####
 
@@ -116,7 +116,6 @@ source ~/.zsh/plugins/zsh-autocomplete/zsh-autocomplete.plugin.zsh
 # For a full list of active aliases, run `alias`.
 #
 source $HOME/.zsh/plugins/.zsh-vi-mode/zsh-vi-mode.plugin.zsh
-source ~/.zsh/plugins/zsh-autocomplete/zsh-autocomplete.plugin.zsh
 source /usr/share/fzf/completion.zsh
 source /usr/share/fzf/key-bindings.zsh
 # Example aliases
