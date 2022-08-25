@@ -122,7 +122,7 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 ZVM_VI_INSERT_ESCAPE_BINDKEY=kk
 eval "$(thefuck --alias fix)"
-#source ~/.zsh/plugins/zsh-autocomplete/zsh-autocomplete.plugin.zsh
+source ~/.zsh/plugins/zsh-autocomplete/zsh-autocomplete.plugin.zsh
 eval "$(starship init zsh)"
 #unalias -a
 source ~/.zsh/.aliases
