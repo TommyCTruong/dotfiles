@@ -59,6 +59,8 @@ alias vi="nvim"
 alias vinit="chezmoi edit --apply /home/tam/.config/nvim/init.lua;src"
 alias l='exa -la'
 alias ls'ls -la'
+alias ls='ls --color=auto'
+alias ll='ls -la'
 alias cat='bat'
 alias myip="curl ifconfig.me; echo"
 alias shutdown='sudo shutdown now'
