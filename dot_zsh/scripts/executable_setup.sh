@@ -1,9 +1,11 @@
-#!/bin/bash
+#!/bin/zsh
 #
-sudo ln -s ~/.zsh/scripts/caps2ctrl.sh /bin/1
-
-file="/home/tam/.zsh/scripts/apps_pacman.txt"
-while read line; do
-    sudo pacman -S --noconfirm --needed $line
-done < $file
-
+sudo pacman -Syu --noconfirm
+sudo pacman -S chezmoi
+chezmoi init --apply git@github.com:tommyctruong/dotfiles.git
+exec zsh
+mkdir ~/git/
+cd ~/git/
+git clone git@github:tommyctruong/wiki.git
+chsh -s /bin/zsh
+./install_pacman.sh
