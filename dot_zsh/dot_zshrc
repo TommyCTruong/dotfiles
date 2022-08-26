@@ -39,4 +39,4 @@ function mkcd {
   fi
 }
 ### Dynamic title bar for alacritty
-preexec() { print -Pn "\e]0;$1%~\a" } -- show last command name + working directory
+preexec() { print -Pn "\e]0;$1%~\a" }
