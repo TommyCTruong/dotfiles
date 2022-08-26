@@ -40,3 +40,7 @@ function mkcd {
 }
 ### Dynamic title bar for alacritty
 preexec() { print -Pn "\e]0;$1%~\a" }
+### edit command line in text editor
+autoload -z edit-command-line
+zle -N edit-command-line
+bindkey "^X^E" edit-command-line
