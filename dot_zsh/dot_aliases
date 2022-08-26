@@ -34,7 +34,6 @@ alias dupdate="sudo apt update && sudo apt upgrade -y"
 
 ##### pacman ##########
 ## make a directory and  cd into
-alias vk='() { md $1 && cd $_ }'
 alias killterm="killall alacritty"
 alias pi="sudo pacman -S --noconfirm --needed"
 alias pu="sudo pacman -R"
