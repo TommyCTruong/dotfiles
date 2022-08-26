@@ -28,4 +28,5 @@ tmuxp
 tokei
 watchexec
 xdotool
+xscreensaver
 zoxide
