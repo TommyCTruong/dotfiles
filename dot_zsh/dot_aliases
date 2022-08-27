@@ -1,7 +1,7 @@
 alias src="exec zsh"
 #alias src="source ~/.zsh/.zshrc"
 #### Wiki ###
-alias wiki="cd ~/wiki; vi ~/wiki/index.md"
+alias wiki="cd ~/wiki; vi ~/wiki/index.wiki"
 alias wupdate="cd ~/wiki; git save; git done"
 
 ###### chezmoi #################
