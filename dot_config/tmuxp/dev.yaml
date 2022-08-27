@@ -7,7 +7,7 @@ windows:
   panes:
   - focus: 'true'
     shell_command: clear
-  - htop 
-  - 
+  -
+  - htop
   start_directory: /home/tam
   window_name: dev
