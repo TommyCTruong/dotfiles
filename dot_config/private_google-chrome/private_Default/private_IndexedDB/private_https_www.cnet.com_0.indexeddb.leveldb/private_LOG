@@ -1,6 +1,0 @@
-2022/08/16-09:38:00.209 7e60 Creating DB /home/tam/.config/google-chrome/Default/IndexedDB/https_www.cnet.com_0.indexeddb.leveldb since it was missing.
-2022/08/16-09:38:00.235 7e60 Reusing MANIFEST /home/tam/.config/google-chrome/Default/IndexedDB/https_www.cnet.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/08/16-09:41:21.767 7eee Level-0 table #5: started
-2022/08/16-09:41:21.775 7eee Level-0 table #5: 1582 bytes OK
-2022/08/16-09:41:21.790 7eee Delete type=0 #3
-2022/08/16-09:41:21.791 7eee Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,6 +1,0 @@
-2022/08/14-13:28:02.893 8aa Creating DB /home/tam/.config/google-chrome/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb since it was missing.
-2022/08/14-13:28:02.924 8aa Reusing MANIFEST /home/tam/.config/google-chrome/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/08/14-13:34:20.233 a00 Level-0 table #5: started
-2022/08/14-13:34:20.242 a00 Level-0 table #5: 1863 bytes OK
-2022/08/14-13:34:20.257 a00 Delete type=0 #3
-2022/08/14-13:34:20.258 a00 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

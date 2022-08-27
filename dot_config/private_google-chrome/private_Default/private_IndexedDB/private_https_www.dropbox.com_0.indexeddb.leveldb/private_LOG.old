@@ -1,6 +1,0 @@
-2022/08/19-23:36:10.383 39ba4 Creating DB /home/tam/.config/google-chrome/Default/IndexedDB/https_www.dropbox.com_0.indexeddb.leveldb since it was missing.
-2022/08/19-23:36:10.408 39ba4 Reusing MANIFEST /home/tam/.config/google-chrome/Default/IndexedDB/https_www.dropbox.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/08/19-23:37:30.434 39ba2 Level-0 table #5: started
-2022/08/19-23:37:30.464 39ba2 Level-0 table #5: 896559 bytes OK
-2022/08/19-23:37:30.484 39ba2 Delete type=0 #3
-2022/08/19-23:37:30.485 39ba2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

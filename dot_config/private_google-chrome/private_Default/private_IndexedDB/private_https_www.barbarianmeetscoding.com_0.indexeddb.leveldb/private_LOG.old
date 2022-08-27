@@ -1,6 +1,0 @@
-2022/08/21-15:17:27.139 e7021 Creating DB /home/tam/.config/google-chrome/Default/IndexedDB/https_www.barbarianmeetscoding.com_0.indexeddb.leveldb since it was missing.
-2022/08/21-15:17:27.167 e7021 Reusing MANIFEST /home/tam/.config/google-chrome/Default/IndexedDB/https_www.barbarianmeetscoding.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/08/21-15:18:32.999 e7023 Level-0 table #5: started
-2022/08/21-15:18:33.007 e7023 Level-0 table #5: 4730 bytes OK
-2022/08/21-15:18:33.022 e7023 Delete type=0 #3
-2022/08/21-15:18:33.022 e7023 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

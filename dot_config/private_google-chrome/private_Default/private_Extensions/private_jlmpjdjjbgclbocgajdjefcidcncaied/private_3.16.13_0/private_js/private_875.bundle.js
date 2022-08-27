@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkextension=self.webpackChunkextension||[]).push([[875],{8247:(e,t,n)=>{n.r(t),n.d(t,{default:()=>a});var u=n(5776),l=n(2343);function r(e){let t=e.children;return(0,u.createPortal)(t,document.body)}function a(e){return u.default.createElement(r,null,u.default.createElement(l.v2,e))}}}]);

@@ -1,4 +1,0 @@
-[2022-08-19 23:18:15.038] [main] [info] update#ctor - updates are disabled as there is no update URL
-[2022-08-19 23:18:17.795] [main] [info] Starting extension host with pid 231562 (fork() took 23 ms).
-[2022-08-20 00:55:39.745] [main] [info] Waiting for extension host with pid 231562 to exit.
-[2022-08-20 00:55:39.755] [main] [info] Extension host with pid 231562 exited with code: 0, signal: null.

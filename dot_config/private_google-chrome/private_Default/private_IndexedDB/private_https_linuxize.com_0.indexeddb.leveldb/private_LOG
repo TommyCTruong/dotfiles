@@ -1,6 +1,0 @@
-2022/08/22-22:13:21.124 d0c3 Creating DB /home/tam/.config/google-chrome/Default/IndexedDB/https_linuxize.com_0.indexeddb.leveldb since it was missing.
-2022/08/22-22:13:21.154 d0c3 Reusing MANIFEST /home/tam/.config/google-chrome/Default/IndexedDB/https_linuxize.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/08/22-22:14:22.731 d0eb Level-0 table #5: started
-2022/08/22-22:14:22.739 d0eb Level-0 table #5: 6143 bytes OK
-2022/08/22-22:14:22.755 d0eb Delete type=0 #3
-2022/08/22-22:14:22.755 d0eb Manual compaction at level-0 from (begin) .. (end); will stop at (end)

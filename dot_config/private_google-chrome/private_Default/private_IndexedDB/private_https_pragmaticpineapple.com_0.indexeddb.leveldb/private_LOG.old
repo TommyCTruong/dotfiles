@@ -1,6 +1,0 @@
-2022/08/23-00:24:51.502 1174f Creating DB /home/tam/.config/google-chrome/Default/IndexedDB/https_pragmaticpineapple.com_0.indexeddb.leveldb since it was missing.
-2022/08/23-00:24:51.530 1174f Reusing MANIFEST /home/tam/.config/google-chrome/Default/IndexedDB/https_pragmaticpineapple.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/08/23-00:25:23.642 1174f Level-0 table #5: started
-2022/08/23-00:25:23.653 1174f Level-0 table #5: 1358 bytes OK
-2022/08/23-00:25:23.668 1174f Delete type=0 #3
-2022/08/23-00:25:23.668 1174f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

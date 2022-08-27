@@ -1,9 +1,0 @@
-ls -las
-l
-ls
-tmux
-echo $SHELL
-date
-sys
-sys host
-sys|get host

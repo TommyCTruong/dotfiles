@@ -1,1 +1,0 @@
-import Backbone from"backbone";import{ajax}from"JS/bg/utils/ajax";Backbone.ajax=ajax;export default Backbone;

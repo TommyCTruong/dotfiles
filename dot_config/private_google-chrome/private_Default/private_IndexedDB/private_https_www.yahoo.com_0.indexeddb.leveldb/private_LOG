@@ -1,6 +1,0 @@
-2022/08/14-15:02:29.258 2040 Creating DB /home/tam/.config/google-chrome/Default/IndexedDB/https_www.yahoo.com_0.indexeddb.leveldb since it was missing.
-2022/08/14-15:02:29.284 2040 Reusing MANIFEST /home/tam/.config/google-chrome/Default/IndexedDB/https_www.yahoo.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/08/14-19:09:26.552 34ef Level-0 table #5: started
-2022/08/14-19:09:26.563 34ef Level-0 table #5: 1544 bytes OK
-2022/08/14-19:09:26.575 34ef Delete type=0 #3
-2022/08/14-19:09:26.575 34ef Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,6 +1,0 @@
-2022/08/22-03:00:21.437 154dd Creating DB /home/tam/.config/google-chrome/Default/IndexedDB/https_www.ghacks.net_0.indexeddb.leveldb since it was missing.
-2022/08/22-03:00:21.468 154dd Reusing MANIFEST /home/tam/.config/google-chrome/Default/IndexedDB/https_www.ghacks.net_0.indexeddb.leveldb/MANIFEST-000001
-2022/08/22-03:00:32.207 1508d Level-0 table #5: started
-2022/08/22-03:00:32.216 1508d Level-0 table #5: 1954 bytes OK
-2022/08/22-03:00:32.231 1508d Delete type=0 #3
-2022/08/22-03:00:32.231 1508d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

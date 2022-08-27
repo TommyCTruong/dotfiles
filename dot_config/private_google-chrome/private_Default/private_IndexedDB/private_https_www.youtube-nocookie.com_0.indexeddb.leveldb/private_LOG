@@ -1,6 +1,0 @@
-2022/08/25-20:14:03.422 17412 Creating DB /home/tam/.config/google-chrome/Default/IndexedDB/https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
-2022/08/25-20:14:03.449 17412 Reusing MANIFEST /home/tam/.config/google-chrome/Default/IndexedDB/https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/08/25-20:14:50.188 17193 Level-0 table #5: started
-2022/08/25-20:14:50.199 17193 Level-0 table #5: 1203 bytes OK
-2022/08/25-20:14:50.213 17193 Delete type=0 #3
-2022/08/25-20:14:50.214 17193 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
