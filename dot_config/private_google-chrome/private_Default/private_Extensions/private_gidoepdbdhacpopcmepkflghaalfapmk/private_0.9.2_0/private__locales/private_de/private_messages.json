@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "Text",
+      "message": "Erstelle individuelle QR-Codes mit Logo, Farbe und mehr. Dieser freie QR-Code-Generator generiert QR-Codes in Druck-Qualität."
+   },
+   "appName": {
+      "description": "QRCode Monkey title",
+      "message": "QRCode Monkey - QR Code Generator"
+   }
+}

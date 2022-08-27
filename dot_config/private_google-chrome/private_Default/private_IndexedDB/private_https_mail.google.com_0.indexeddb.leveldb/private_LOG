@@ -1,0 +1,6 @@
+2022/08/17-17:23:15.023 9308 Reusing MANIFEST /home/tam/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/17-17:23:15.023 9308 Recovering log #3
+2022/08/17-17:23:15.027 9308 Reusing old log /home/tam/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
+2022/08/17-17:23:35.371 9587 Level-0 table #5: started
+2022/08/17-17:23:35.423 9587 Level-0 table #5: 1977195 bytes OK
+2022/08/17-17:23:35.444 9587 Delete type=0 #3

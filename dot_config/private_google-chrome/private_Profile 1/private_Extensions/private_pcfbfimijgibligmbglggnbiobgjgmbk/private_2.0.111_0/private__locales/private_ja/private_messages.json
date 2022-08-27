@@ -1,0 +1,2393 @@
+{
+   "NoteStationClipperSECTIONappKEYdescription": {
+      "message": "Synology Web Clipper は、簡単にアクセスできるようにウェブコンテンツを Synology NAS に保存します。テキスト、画像、リンクすべてのページを保存できます。"
+   },
+   "NoteStationClipperSECTIONappKEYdescription_detail": {
+      "message": "Synology Web Clipper はウェブコンテンツをクリップし、Synology NAS に保存します。テキスト、画像、リンクすべてのウェブページを保存できます。多数のブラウザタブやブックマークの管理を簡略化できます。Synology Web Clipper を活用することで、Note Station を介してクリップコタコンテンツにすばやくアクセスできるようになります。クリップしたコンテンツを管理するために、タグやコメントを付けることもできます。"
+   },
+   "NoteStationClipperSECTIONappKEYdisplayname": {
+      "message": "Synology Web Clipper"
+   },
+   "NoteStationClipperSECTIONcaptureKEYez_capture_mode": {
+      "message": "クイックキャプチャ モードを有効にする"
+   },
+   "NoteStationClipperSECTIONcaptureKEYgmail_thread": {
+      "message": "Email Content"
+   },
+   "NoteStationClipperSECTIONcaptureKEYonly_mail_title": {
+      "message": "メッセージが選択されていません。Ｅメールの件名だけ保存されます。続行しますか?"
+   },
+   "NoteStationClipperSECTIONcaptureKEYscreenshot": {
+      "message": "スクリーンショット"
+   },
+   "NoteStationClipperSECTIONcaptureKEYsimplify_content": {
+      "message": "簡略化コンテンツ"
+   },
+   "NoteStationClipperSECTIONcaptureKEYwhole_content": {
+      "message": "フルコンテンツ"
+   },
+   "NoteStationClipperSECTIONcaptureKEYwhole_screenshot": {
+      "message": "ページ全体のスクリーンショット"
+   },
+   "NoteStationClipperSECTIONcommonKEYapply": {
+      "message": "OK"
+   },
+   "NoteStationClipperSECTIONcommonKEYcommfail": {
+      "message": "接続に失敗しました。ネットワーク設定を確認してください。"
+   },
+   "NoteStationClipperSECTIONcommonKEYcommon_settings": {
+      "message": "設定"
+   },
+   "NoteStationClipperSECTIONcommonKEYenter_otp_desc": {
+      "message": "6 桁のコードを入力してください"
+   },
+   "NoteStationClipperSECTIONcommonKEYerror_system": {
+      "message": "ネットワーク接続が不安定なため、この操作を実行できません。後で {0} にもう 1 度サイン インしてください。"
+   },
+   "NoteStationClipperSECTIONcommonKEYloading": {
+      "message": "読み込み中..."
+   },
+   "NoteStationClipperSECTIONcommonKEYlogin": {
+      "message": "サイン イン"
+   },
+   "NoteStationClipperSECTIONcommonKEYlogout": {
+      "message": "ログアウト"
+   },
+   "NoteStationClipperSECTIONcommonKEYmsg_waiting": {
+      "message": "処理中です。しばらくお待ちください..."
+   },
+   "NoteStationClipperSECTIONcommonKEYpassword": {
+      "message": "パスワード"
+   },
+   "NoteStationClipperSECTIONcommonKEYsave": {
+      "message": "保存"
+   },
+   "NoteStationClipperSECTIONcommonKEYusername": {
+      "message": "ユーザー名"
+   },
+   "NoteStationClipperSECTIONloginKEYenter_otp_desc": {
+      "message": "6 桁のコードを入力してください"
+   },
+   "NoteStationClipperSECTIONloginKEYerror_cantlogin": {
+      "message": "無効なアカウントまたはパスワードです。入力し直してください。"
+   },
+   "NoteStationClipperSECTIONloginKEYerror_otp_failed": {
+      "message": "認証コードが正しくありません。やり直してください。"
+   },
+   "NoteStationClipperSECTIONloginKEYmail_service_not_enable": {
+      "message": "E メール通知機能が有効ではありません。管理者にパスワードのリセットを依頼してください。"
+   },
+   "NoteStationClipperSECTIONloginKEYno_mail_address": {
+      "message": "No mail address found for this username."
+   },
+   "NoteStationClipperSECTIONloginKEYotp_lost_phone_desc": {
+      "message": "電話を紛失した場合"
+   },
+   "NoteStationClipperSECTIONloginKEYotp_mail_success": {
+      "message": "お客様の電子メール アドレスに緊急コードが送信されました。"
+   },
+   "NoteStationClipperSECTIONloginKEYotp_no_emergency_code": {
+      "message": "緊急コードを入力できる回数が上限に達しました。システム管理者に連絡してください。"
+   },
+   "NoteStationClipperSECTIONloginKEYotp_wrong_input_format": {
+      "message": "6 桁の認証コード、または 8 桁の緊急コードを入力してください。"
+   },
+   "NoteStationClipperSECTIONloginKEYtrust_device": {
+      "message": "このデバイスを信頼する"
+   },
+   "NoteStationClipperSECTIONloginKEYunknown_otp_err": {
+      "message": "エラーが発生しました。システム管理者に連絡してください。"
+   },
+   "NoteStationClipperSECTIONmailKEYattachment": {
+      "message": "Attachment"
+   },
+   "NoteStationClipperSECTIONmailKEYpeople_involved": {
+      "message": "People Involved"
+   },
+   "NoteStationClipperSECTIONmailKEYsubject": {
+      "message": "件名"
+   },
+   "NoteStationClipperSECTIONmessageKEYcapture_fail": {
+      "message": "クリップできません"
+   },
+   "NoteStationClipperSECTIONmessageKEYcapture_success": {
+      "message": "クリップ完了"
+   },
+   "NoteStationClipperSECTIONmessageKEYerror_clipper_open_fail": {
+      "message": "このページでは Synology Web Clipper を起動できません。このページを更新して再試行してください。"
+   },
+   "NoteStationClipperSECTIONmessageKEYerror_https_certificate": {
+      "message": "認証されていないセキュリティ証明書です。{0} を開き、この接続で手続きを進めてください。今すぐ開きますか？"
+   },
+   "NoteStationClipperSECTIONmessageKEYerror_install_note_station": {
+      "message": "ログインできません。DSM で Note Station をインストールするか、アクティベートしてください。"
+   },
+   "NoteStationClipperSECTIONmessageKEYerror_upgrade_note_station": {
+      "message": "Note Station のバージョンが古すぎます。パッケージセンターを選択し、Note Station を更新してください。"
+   },
+   "NoteStationClipperSECTIONmessageKEYerror_user_home_disabled": {
+      "message": "「ユーザー ホーム」サービスは現在無効になっています。DSM で「ユーザー ホーム」サービスを有効にしてからやり直してください。"
+   },
+   "NoteStationClipperSECTIONmessageKEYhint_add_comment": {
+      "message": "コメントの追加"
+   },
+   "NoteStationClipperSECTIONmessageKEYhint_add_tag": {
+      "message": "タグの追加"
+   },
+   "NoteStationClipperSECTIONmessageKEYhint_hostname": {
+      "message": "NAS IP/QuickConnect ID"
+   },
+   "NoteStationClipperSECTIONquickconnectKEYcannot_connect_to_ds": {
+      "message": "Synology NAS に接続できません。QuickConnect ID が正しいことと、Synology NAS に接続できることを確認してください。"
+   },
+   "NoteStationClipperSECTIONquickconnectKEYcannot_connect_to_global": {
+      "message": "QuickConnect サーバーに接続できませんでした。後からやり直してください。"
+   },
+   "NoteStationClipperSECTIONquickconnectKEYcannot_request_tunnel": {
+      "message": "QuickConnect で接続を確立できません。QuickConnect の設定が正しいことと、ネットワークが正常に動作していることを確認してください。"
+   },
+   "NoteStationClipperSECTIONsettingKEYaccount": {
+      "message": "アカウント"
+   },
+   "NoteStationClipperSECTIONsettingKEYdisk_station": {
+      "message": "Synology NAS"
+   },
+   "NoteStationClipperSECTIONsettingKEYfeedback": {
+      "message": "Feedback"
+   },
+   "NoteStationClipperSECTIONsettingKEYversion": {
+      "message": "バージョン"
+   },
+   "NoteStationClipperSECTIONtooltipKEYsearch": {
+      "message": "検索"
+   },
+   "NoteStationSECTIONappKEYdescription": {
+      "message": "Note Station では、豊富な内容のメモを書いたり、見たり、管理したり、共有したりすることができます。リッチテキストの編集、メディアの埋め込み、添付ファイルなどで、メモの内容は簡単に作成できます。メモ帳でタグを使い、メモをグループ化することで、メモ..."
+   },
+   "NoteStationSECTIONappKEYdisplayname": {
+      "message": "Note Station"
+   },
+   "NoteStationSECTIONappKEYopen_in_note_station": {
+      "message": "Note Station で開く"
+   },
+   "NoteStationSECTIONappKEYwz_rm_repo_chkbox": {
+      "message": "データベースを完全に削除"
+   },
+   "NoteStationSECTIONappKEYwz_rm_repo_desc": {
+      "message": "Note Station のデータベースを完全に削除します。このデータは復元できません。"
+   },
+   "NoteStationSECTIONappKEYwz_rm_repo_title": {
+      "message": "Note Station のデータベースを削除"
+   },
+   "NoteStationSECTIONcategoryKEYall_joined_notes": {
+      "message": "結合したメモ"
+   },
+   "NoteStationSECTIONcategoryKEYall_notes": {
+      "message": "すべてのメモ"
+   },
+   "NoteStationSECTIONcategoryKEYall_shared_notes": {
+      "message": "共有したメモ"
+   },
+   "NoteStationSECTIONcategoryKEYarchive": {
+      "message": "ノートブックのアーカイブ"
+   },
+   "NoteStationSECTIONcategoryKEYjoined": {
+      "message": "結合したメモ帳"
+   },
+   "NoteStationSECTIONcategoryKEYnotebook": {
+      "message": "メモ帳"
+   },
+   "NoteStationSECTIONcategoryKEYrecycle": {
+      "message": "ごみ箱"
+   },
+   "NoteStationSECTIONcategoryKEYshortcut": {
+      "message": "お気に入り"
+   },
+   "NoteStationSECTIONcategoryKEYsmart": {
+      "message": "スマート ノートブック"
+   },
+   "NoteStationSECTIONcategoryKEYtag": {
+      "message": "タグ"
+   },
+   "NoteStationSECTIONcategoryKEYtodo_task": {
+      "message": "To-do リスト"
+   },
+   "NoteStationSECTIONchartKEYchart_property": {
+      "message": "プロパティ"
+   },
+   "NoteStationSECTIONchartKEYchart_size": {
+      "message": "サイズ（ピクセル単位）"
+   },
+   "NoteStationSECTIONchartKEYchart_title": {
+      "message": "タイトル"
+   },
+   "NoteStationSECTIONchartKEYclone": {
+      "message": "クローン"
+   },
+   "NoteStationSECTIONchartKEYdata": {
+      "message": "データ"
+   },
+   "NoteStationSECTIONchartKEYdata_direction": {
+      "message": "カテゴリー (X軸として)"
+   },
+   "NoteStationSECTIONchartKEYdata_direction_by_column": {
+      "message": "行"
+   },
+   "NoteStationSECTIONchartKEYdata_direction_by_row": {
+      "message": "列"
+   },
+   "NoteStationSECTIONchartKEYdata_header": {
+      "message": "見出し"
+   },
+   "NoteStationSECTIONchartKEYdata_header_first_column": {
+      "message": "左端の列"
+   },
+   "NoteStationSECTIONchartKEYdata_header_first_row": {
+      "message": "一番上の行"
+   },
+   "NoteStationSECTIONchartKEYdata_range": {
+      "message": "範囲"
+   },
+   "NoteStationSECTIONchartKEYinsert_number": {
+      "message": "量"
+   },
+   "NoteStationSECTIONchartKEYinsert_position": {
+      "message": "配置"
+   },
+   "NoteStationSECTIONchartKEYinvalid_must_between": {
+      "message": "{0} から {1} の範囲でなければなりません。"
+   },
+   "NoteStationSECTIONchartKEYmenu_delete_columns": {
+      "message": "列を削除"
+   },
+   "NoteStationSECTIONchartKEYmenu_delete_rows": {
+      "message": "行を削除"
+   },
+   "NoteStationSECTIONchartKEYmenu_insert_column_left": {
+      "message": "1 つ左に挿入"
+   },
+   "NoteStationSECTIONchartKEYmenu_insert_column_right": {
+      "message": "1 つ右に挿入"
+   },
+   "NoteStationSECTIONchartKEYmenu_insert_multi_columns": {
+      "message": "複数の列を挿入"
+   },
+   "NoteStationSECTIONchartKEYmenu_insert_multi_rows": {
+      "message": "複数の行を挿入"
+   },
+   "NoteStationSECTIONchartKEYmenu_insert_row_above": {
+      "message": "1 つ上に挿入"
+   },
+   "NoteStationSECTIONchartKEYmenu_insert_row_below": {
+      "message": "1 つ下に挿入"
+   },
+   "NoteStationSECTIONchartKEYposition_above": {
+      "message": "上"
+   },
+   "NoteStationSECTIONchartKEYposition_below": {
+      "message": "下"
+   },
+   "NoteStationSECTIONchartKEYposition_left": {
+      "message": "左"
+   },
+   "NoteStationSECTIONchartKEYposition_right": {
+      "message": "右"
+   },
+   "NoteStationSECTIONchartKEYremove_all_column_notify": {
+      "message": "シートのすべての列を削除することはできません。"
+   },
+   "NoteStationSECTIONchartKEYremove_all_row_notify": {
+      "message": "シートのすべての行を削除することはできません。"
+   },
+   "NoteStationSECTIONchartKEYtab_title_chart": {
+      "message": "表"
+   },
+   "NoteStationSECTIONchartKEYtab_title_config": {
+      "message": "設定"
+   },
+   "NoteStationSECTIONchartKEYtitle": {
+      "message": "チャート エディタ"
+   },
+   "NoteStationSECTIONchartKEYtype": {
+      "message": "タイプ"
+   },
+   "NoteStationSECTIONchartKEYx_axis_title": {
+      "message": "X軸のタイトル"
+   },
+   "NoteStationSECTIONchartKEYy_axis_title": {
+      "message": "Y軸のタイトル"
+   },
+   "NoteStationSECTIONclipperKEYfail": {
+      "message": "Clip fail"
+   },
+   "NoteStationSECTIONclipperKEYprocessing": {
+      "message": "Clipping webpage"
+   },
+   "NoteStationSECTIONcommonKEYaction": {
+      "message": "削除"
+   },
+   "NoteStationSECTIONcommonKEYadd": {
+      "message": "追加"
+   },
+   "NoteStationSECTIONcommonKEYadd_to_shortcut": {
+      "message": "お気に入りに追加"
+   },
+   "NoteStationSECTIONcommonKEYadd_to_stack": {
+      "message": "シェルフの追加"
+   },
+   "NoteStationSECTIONcommonKEYcancel": {
+      "message": "キャンセル"
+   },
+   "NoteStationSECTIONcommonKEYchange_password": {
+      "message": "パスワードの変更"
+   },
+   "NoteStationSECTIONcommonKEYchange_password_tip": {
+      "message": "新しいパスワードはこのメモの新しいコピーにのみ適用されます。元のメモは古いパスワードで暗号化されています。"
+   },
+   "NoteStationSECTIONcommonKEYclose": {
+      "message": "閉じる"
+   },
+   "NoteStationSECTIONcommonKEYcolon": {
+      "message": ":"
+   },
+   "NoteStationSECTIONcommonKEYconfirm_leave": {
+      "message": "DSM からログアウトしようとしているか、このページを更新しようとしています。続行すると、実行中のすべてのタスクがキャンセルされ、保存していない変更内容は失われます。よろしいですか?"
+   },
+   "NoteStationSECTIONcommonKEYconfirm_password": {
+      "message": "パスワードの確認"
+   },
+   "NoteStationSECTIONcommonKEYcopy": {
+      "message": "コピー"
+   },
+   "NoteStationSECTIONcommonKEYcreate": {
+      "message": "作成"
+   },
+   "NoteStationSECTIONcommonKEYdate_format_with_year": {
+      "message": "{0}{1}日（{2}）"
+   },
+   "NoteStationSECTIONcommonKEYdecrypt": {
+      "message": "暗号化の解除"
+   },
+   "NoteStationSECTIONcommonKEYdelete": {
+      "message": "削除"
+   },
+   "NoteStationSECTIONcommonKEYdifferent_values": {
+      "message": "[複数エントリ...]"
+   },
+   "NoteStationSECTIONcommonKEYdone": {
+      "message": "完了"
+   },
+   "NoteStationSECTIONcommonKEYduplicate": {
+      "message": "複製"
+   },
+   "NoteStationSECTIONcommonKEYedit": {
+      "message": "編集"
+   },
+   "NoteStationSECTIONcommonKEYempty_recycle": {
+      "message": "ごみ箱を空にする"
+   },
+   "NoteStationSECTIONcommonKEYencrypt": {
+      "message": "暗号化"
+   },
+   "NoteStationSECTIONcommonKEYenter_password": {
+      "message": "パスワードを入力してください。"
+   },
+   "NoteStationSECTIONcommonKEYextra": {
+      "message": "Extra"
+   },
+   "NoteStationSECTIONcommonKEYhere": {
+      "message": "ここ"
+   },
+   "NoteStationSECTIONcommonKEYleave": {
+      "message": "終了"
+   },
+   "NoteStationSECTIONcommonKEYloading": {
+      "message": "ロード中..."
+   },
+   "NoteStationSECTIONcommonKEYmove": {
+      "message": "移動"
+   },
+   "NoteStationSECTIONcommonKEYname": {
+      "message": "名前"
+   },
+   "NoteStationSECTIONcommonKEYnew_password": {
+      "message": "新しいパスワード"
+   },
+   "NoteStationSECTIONcommonKEYnote_link_in_recycle": {
+      "message": "Note has been deleted"
+   },
+   "NoteStationSECTIONcommonKEYok": {
+      "message": "OK"
+   },
+   "NoteStationSECTIONcommonKEYopen_note_in_new_tab": {
+      "message": "メモを新しいタブで開く"
+   },
+   "NoteStationSECTIONcommonKEYowner": {
+      "message": "所有者"
+   },
+   "NoteStationSECTIONcommonKEYplease_select_item": {
+      "message": "カテゴリーの中のアイテムをクリックすると、参照を開始できます。"
+   },
+   "NoteStationSECTIONcommonKEYpreview": {
+      "message": "プレビュー"
+   },
+   "NoteStationSECTIONcommonKEYprint": {
+      "message": "印刷"
+   },
+   "NoteStationSECTIONcommonKEYrecord_audio": {
+      "message": "録音"
+   },
+   "NoteStationSECTIONcommonKEYrefresh": {
+      "message": "最新の情報に更新"
+   },
+   "NoteStationSECTIONcommonKEYremove_from_stack": {
+      "message": "シェルフから削除"
+   },
+   "NoteStationSECTIONcommonKEYrename": {
+      "message": "別名を付ける"
+   },
+   "NoteStationSECTIONcommonKEYreset": {
+      "message": "リセット"
+   },
+   "NoteStationSECTIONcommonKEYrestore": {
+      "message": "復元"
+   },
+   "NoteStationSECTIONcommonKEYsearch": {
+      "message": "検索"
+   },
+   "NoteStationSECTIONcommonKEYsearch_todo_tasks": {
+      "message": "To-do リストの検索"
+   },
+   "NoteStationSECTIONcommonKEYsend_as_mail": {
+      "message": "メールとして送信"
+   },
+   "NoteStationSECTIONcommonKEYset_as_preset": {
+      "message": "デフォルトのメモ帳に設定"
+   },
+   "NoteStationSECTIONcommonKEYsetting": {
+      "message": "設定"
+   },
+   "NoteStationSECTIONcommonKEYshare": {
+      "message": "共有"
+   },
+   "NoteStationSECTIONcommonKEYsize": {
+      "message": "サイズ"
+   },
+   "NoteStationSECTIONcommonKEYskip_notify": {
+      "message": "次回から確認しない"
+   },
+   "NoteStationSECTIONcommonKEYsync": {
+      "message": "今すぐ同期"
+   },
+   "NoteStationSECTIONcommonKEYuser_or_group": {
+      "message": "ユーザー/グループ"
+   },
+   "NoteStationSECTIONcommonKEYusername": {
+      "message": "ユーザー名"
+   },
+   "NoteStationSECTIONcommonKEYweekday_0": {
+      "message": "日"
+   },
+   "NoteStationSECTIONcommonKEYweekday_1": {
+      "message": "月"
+   },
+   "NoteStationSECTIONcommonKEYweekday_2": {
+      "message": "火"
+   },
+   "NoteStationSECTIONconflictKEYcurrent_version": {
+      "message": "マイバージョン"
+   },
+   "NoteStationSECTIONconflictKEYduplicate": {
+      "message": "マイバージョンを使って新しいメモを作成します"
+   },
+   "NoteStationSECTIONconflictKEYlatest_version": {
+      "message": "最新バージョン"
+   },
+   "NoteStationSECTIONconflictKEYoverwrite": {
+      "message": "マイバージョンを保持"
+   },
+   "NoteStationSECTIONconflictKEYreadme": {
+      "message": "このメモは、Synology NAS に最後に保存されたバージョンとは異なります。どちらのバージョンを残しますか?"
+   },
+   "NoteStationSECTIONconflictKEYskip": {
+      "message": "最新バージョンを残す"
+   },
+   "NoteStationSECTIONconflictKEYtitle": {
+      "message": "バージョンの競合"
+   },
+   "NoteStationSECTIONddKEYmulti_items": {
+      "message": "複数のアイテム ({0})"
+   },
+   "NoteStationSECTIONeditorKEYcontent": {
+      "message": "本文"
+   },
+   "NoteStationSECTIONeditorKEYcustom_color": {
+      "message": "カスタマイズ"
+   },
+   "NoteStationSECTIONeditorKEYcustom_color_win_title": {
+      "message": "カスタム カラー"
+   },
+   "NoteStationSECTIONeditorKEYdrop_to_copy": {
+      "message": "ここに挿入"
+   },
+   "NoteStationSECTIONeditorKEYheading": {
+      "message": "見出し"
+   },
+   "NoteStationSECTIONeditorKEYsearch_status": {
+      "message": "{0} / {1}"
+   },
+   "NoteStationSECTIONeditorKEYupload_processing": {
+      "message": "処理中"
+   },
+   "NoteStationSECTIONeditorKEYupload_waiting": {
+      "message": "待機中"
+   },
+   "NoteStationSECTIONerrorKEYalready_in_shortcut": {
+      "message": "これは既にお気に入りにあります。"
+   },
+   "NoteStationSECTIONerrorKEYbackuping": {
+      "message": "データのバックアップを実行しています。後で再試行してください。"
+   },
+   "NoteStationSECTIONerrorKEYcannot_delete_preset": {
+      "message": "デフォルトのメモ帳を削除できません。"
+   },
+   "NoteStationSECTIONerrorKEYchange_volume_fail": {
+      "message": "データの {0} への移動に失敗しました。原因：{1}"
+   },
+   "NoteStationSECTIONerrorKEYcompress_fail": {
+      "message": "Note Station エクスポートファイルを作成できません。"
+   },
+   "NoteStationSECTIONerrorKEYcopy_note_link": {
+      "message": "Ctrl+C/Command+C で下のリンクをコピーします。"
+   },
+   "NoteStationSECTIONerrorKEYcopy_share_link": {
+      "message": "Ctrl+C/Command+C でリンクをコピー"
+   },
+   "NoteStationSECTIONerrorKEYdefault_create_fail": {
+      "message": "「ユーザー ホーム」は現在無効になっています。「ユーザー」ページを開き、先にこれを有効にしてください。"
+   },
+   "NoteStationSECTIONerrorKEYdefault_create_fail_directory": {
+      "message": "ユーザー ホーム サービスは現在無効になっています。[コントロール パネル] > [ユーザー] > [詳細設定] を選択して、これを有効にしてください。"
+   },
+   "NoteStationSECTIONerrorKEYdrive_get_failed": {
+      "message": "メモまたはメモ帳を使用できません。権限の設定を確認してください。"
+   },
+   "NoteStationSECTIONerrorKEYerror_demo": {
+      "message": "この機能はデモモードでは使用できません。"
+   },
+   "NoteStationSECTIONerrorKEYerror_filename": {
+      "message": "不正なファイルが選択されました。拡張子が.nsx\"であることを確認してください\""
+   },
+   "NoteStationSECTIONerrorKEYerror_format": {
+      "message": "未対応フォーマットです。"
+   },
+   "NoteStationSECTIONerrorKEYerror_no_such_user": {
+      "message": "ユーザーアカウントが存在します。"
+   },
+   "NoteStationSECTIONerrorKEYerror_ns_disabled": {
+      "message": "Note Station が無効になっています。"
+   },
+   "NoteStationSECTIONerrorKEYerror_synodrive": {
+      "message": "データへのアクセスに失敗しました。"
+   },
+   "NoteStationSECTIONerrorKEYerror_system": {
+      "message": "操作に失敗しました。"
+   },
+   "NoteStationSECTIONerrorKEYexport_no_select_notebook": {
+      "message": "少なくとも1つのメモ帳を選択してください。"
+   },
+   "NoteStationSECTIONerrorKEYexport_no_select_target": {
+      "message": "エクスポートするアイテムを少なくとも 1 個選択してください。"
+   },
+   "NoteStationSECTIONerrorKEYexport_op_fail": {
+      "message": "タスクをエクスポートできませんでした。後からやり直してください。"
+   },
+   "NoteStationSECTIONerrorKEYextract_fail": {
+      "message": "選択した nsx ファイルは壊れています。別の nsx ファイルを選択して、もう一度やり直してください。"
+   },
+   "NoteStationSECTIONerrorKEYfeature_in_https_only": {
+      "message": "録音に失敗しました。HTTPS を介して再度 _DISKSTATION_ に接続し、録音を行ってください。"
+   },
+   "NoteStationSECTIONerrorKEYgeolocation_failed": {
+      "message": "位置検出サービスを起動できませんでした。"
+   },
+   "NoteStationSECTIONerrorKEYgeolocation_not_support": {
+      "message": "このブラウザは位置検出サービスに対応していません。"
+   },
+   "NoteStationSECTIONerrorKEYimport_evernote_auth_fail": {
+      "message": "Evernote にアクセスできませんでした。Note Station を再認証して Evernote アカウントにアクセスし、やり直してください。"
+   },
+   "NoteStationSECTIONerrorKEYimport_export_not_running": {
+      "message": "インポートタスクもエクスポートタスクも実行されていません。"
+   },
+   "NoteStationSECTIONerrorKEYimport_export_running": {
+      "message": "別のインポートタスクまたはエクスポートタスクを実行中です。後からやり直してください。"
+   },
+   "NoteStationSECTIONerrorKEYimport_no_select_notebook": {
+      "message": "少なくとも1つのメモ帳を選択してください。"
+   },
+   "NoteStationSECTIONerrorKEYimport_op_fail": {
+      "message": "タスクをインポートできませんでした。後からやり直してください。"
+   },
+   "NoteStationSECTIONerrorKEYimport_reach_limit": {
+      "message": "Evernote の同期量が上限に達したため、インポート タスクを続行できません。後からやり直してください。"
+   },
+   "NoteStationSECTIONerrorKEYimport_unknown": {
+      "message": "不明なエラー: "
+   },
+   "NoteStationSECTIONerrorKEYlatest_chrome_or_firefox": {
+      "message": "録音するには、Google Chrome または Mozilla Firefox の最新版をお使いください。"
+   },
+   "NoteStationSECTIONerrorKEYloadsetting_fail": {
+      "message": "システム設定のロードに失敗しました。"
+   },
+   "NoteStationSECTIONerrorKEYmaintenance": {
+      "message": "Note Station は現在、メンテナンス中です。後で再試行してください。"
+   },
+   "NoteStationSECTIONerrorKEYmoving_data": {
+      "message": "Note Station is changing volume now, please try again later."
+   },
+   "NoteStationSECTIONerrorKEYno_available_notebook": {
+      "message": "有効なメモ帳がありません。"
+   },
+   "NoteStationSECTIONerrorKEYno_enough_space": {
+      "message": "使用できる容量が十分でないので操作ができませんでした。"
+   },
+   "NoteStationSECTIONerrorKEYnote_conflict": {
+      "message": "Note version conflict"
+   },
+   "NoteStationSECTIONerrorKEYnote_link_in_preview": {
+      "message": "履歴バージョンではメモ リンクは機能しません。"
+   },
+   "NoteStationSECTIONerrorKEYnote_not_exist": {
+      "message": "選択したメモは存在しません。"
+   },
+   "NoteStationSECTIONerrorKEYnote_not_in_recycle": {
+      "message": "このメモはごみ箱には入っていません。"
+   },
+   "NoteStationSECTIONerrorKEYobject_no_permission": {
+      "message": "このアイテムにアクセスするには、十分な権限がありません。"
+   },
+   "NoteStationSECTIONerrorKEYobject_not_exist": {
+      "message": "メモ帳またはメモが存在しません。"
+   },
+   "NoteStationSECTIONerrorKEYperm_op_fail": {
+      "message": "権限を変更できませんでした。"
+   },
+   "NoteStationSECTIONerrorKEYpreset_already_exist": {
+      "message": "デフォルトのメモ帳が既に存在します。"
+   },
+   "NoteStationSECTIONerrorKEYrecord_device_no_found": {
+      "message": "マイクロフォン デバイスが検出されませんでした。マイクロフォンを接続してデバイスの設定を確認してください。"
+   },
+   "NoteStationSECTIONerrorKEYrecord_perm_deny": {
+      "message": "マイクロフォンへのアクセスが拒否されました。十分な権限がありません。"
+   },
+   "NoteStationSECTIONerrorKEYrecord_unknown": {
+      "message": "不明なエラー: "
+   },
+   "NoteStationSECTIONerrorKEYsave": {
+      "message": "保存できませんでした。後からやり直してください。"
+   },
+   "NoteStationSECTIONerrorKEYspace_not_enough": {
+      "message": "バックアップ先のボリュームに十分な容量がありません。"
+   },
+   "NoteStationSECTIONerrorKEYtag_conflict": {
+      "message": "タグは既に同じレベルに存在します。"
+   },
+   "NoteStationSECTIONerrorKEYvolume_moving": {
+      "message": "Note Station は、別のボリュームにデータを移動しています。後で再試行してください。"
+   },
+   "NoteStationSECTIONerror_backupKEYerr_backup_version": {
+      "message": "間違ったバックアップ バージョン。"
+   },
+   "NoteStationSECTIONerror_backupKEYerr_estimate_dir": {
+      "message": "バックアップのデータ サイズの見積もりに失敗しました。"
+   },
+   "NoteStationSECTIONerror_backupKEYerr_export_repo": {
+      "message": "データのエクスポートに失敗しました。"
+   },
+   "NoteStationSECTIONerror_backupKEYerr_export_setting": {
+      "message": "設定のエクスポートに失敗"
+   },
+   "NoteStationSECTIONerror_backupKEYerr_home_share": {
+      "message": "ホーム ディレクトリを見つけるのに失敗しました。 ホーム サービスが有効になっているか確認してください。"
+   },
+   "NoteStationSECTIONerror_backupKEYerr_import_repo": {
+      "message": "データのインポートに失敗しました。"
+   },
+   "NoteStationSECTIONerror_backupKEYerr_import_setting": {
+      "message": "設定のインポートに失敗しました。"
+   },
+   "NoteStationSECTIONerror_backupKEYerr_init_failed": {
+      "message": "バックアップの初期化に失敗しました。"
+   },
+   "NoteStationSECTIONerror_backupKEYerr_no_space": {
+      "message": "データを復元するための十分なディスク容量がありません。"
+   },
+   "NoteStationSECTIONexportKEYconfig": {
+      "message": "メモ帳のエクスポート"
+   },
+   "NoteStationSECTIONexportKEYconfig_desc": {
+      "message": "別の Synology NAS にメモ帳をバックアップまたはインポートするためにエクスポートします。"
+   },
+   "NoteStationSECTIONexportKEYctime": {
+      "message": "作成時刻"
+   },
+   "NoteStationSECTIONexportKEYdescription": {
+      "message": "メモ帳または To-do リストをエクスポートすると、重要なデータをバックアップしたり、別の Synology NAS にインポートしたりすることができます。"
+   },
+   "NoteStationSECTIONexportKEYdest": {
+      "message": "Destination folder"
+   },
+   "NoteStationSECTIONexportKEYdest_desc": {
+      "message": "Please choose output folder"
+   },
+   "NoteStationSECTIONexportKEYexporting": {
+      "message": "エクスポートしています"
+   },
+   "NoteStationSECTIONexportKEYguideline": {
+      "message": "選択したメモ帳または To-do リストはバックアップ用に .nsx ファイルとしてエクスポートされ、別の Synology NAS 向けにインポートされます。"
+   },
+   "NoteStationSECTIONexportKEYmtime": {
+      "message": "修正時刻"
+   },
+   "NoteStationSECTIONexportKEYnote": {
+      "message": "メモを .zip としてエクスポート"
+   },
+   "NoteStationSECTIONexportKEYnotebook": {
+      "message": "エクスポート"
+   },
+   "NoteStationSECTIONexportKEYnotebook_display": {
+      "message": "選択したメモ帳をバックアップまたは別の Synology NAS にインポートするために、Note Station nsx ファイルにエクスポートします。"
+   },
+   "NoteStationSECTIONexportKEYnotebook_title": {
+      "message": "メモ帳の名前"
+   },
+   "NoteStationSECTIONexportKEYpersonal_config": {
+      "message": "Keep personal settings"
+   },
+   "NoteStationSECTIONexportKEYselect_notebook": {
+      "message": "メモ帳の選択"
+   },
+   "NoteStationSECTIONexportKEYselect_notebook_desc": {
+      "message": "Please select export notebooks"
+   },
+   "NoteStationSECTIONexportKEYtarget_desc": {
+      "message": "エクスポートするアイテムを少なくとも 1 個選択してください"
+   },
+   "NoteStationSECTIONexportKEYtarget_notebook": {
+      "message": "メモ帳"
+   },
+   "NoteStationSECTIONexportKEYtitle": {
+      "message": "メモ帳または To-do リストをエクスポート"
+   },
+   "NoteStationSECTIONexportKEYtodo_list": {
+      "message": "To-do リスト"
+   },
+   "NoteStationSECTIONexportKEYword": {
+      "message": ".docx としてエクスポート"
+   },
+   "NoteStationSECTIONfiletableKEYdrop_file": {
+      "message": "ここにファイルをドロップ"
+   },
+   "NoteStationSECTIONhistoryKEYcopy_to_new_note": {
+      "message": "新しいメモにコピー"
+   },
+   "NoteStationSECTIONhistoryKEYdevice_name": {
+      "message": "デバイス"
+   },
+   "NoteStationSECTIONhistoryKEYmodify_time": {
+      "message": "変更時間"
+   },
+   "NoteStationSECTIONhistoryKEYrestore": {
+      "message": "復元"
+   },
+   "NoteStationSECTIONhistoryKEYusername": {
+      "message": "ユーザー名"
+   },
+   "NoteStationSECTIONhistoryKEYversion": {
+      "message": "バージョン"
+   },
+   "NoteStationSECTIONimportKEYcalculating": {
+      "message": "処理中"
+   },
+   "NoteStationSECTIONimportKEYcancel_import": {
+      "message": "インポートをキャンセル"
+   },
+   "NoteStationSECTIONimportKEYconfirm_cancel_import": {
+      "message": "別のセッションが開いているか、インポート タスクを実行中です。続行すると、実行中の全てのタスクがキャンセルされます。よろしいですか?"
+   },
+   "NoteStationSECTIONimportKEYctime": {
+      "message": "作成時刻"
+   },
+   "NoteStationSECTIONimportKEYevernote_config": {
+      "message": "メモ帳のインポート"
+   },
+   "NoteStationSECTIONimportKEYevernote_server": {
+      "message": "サーバーを選択"
+   },
+   "NoteStationSECTIONimportKEYget_access_right": {
+      "message": "Evernote 認証をリクエストする"
+   },
+   "NoteStationSECTIONimportKEYget_access_right_btn": {
+      "message": "Evernote 認証をリクエストする"
+   },
+   "NoteStationSECTIONimportKEYget_access_right_desc": {
+      "message": "Evernote からメモ帳をインポートするには、Evernote にログインして Note Station があなたのアカウントにアクセスできるように認証します。Note Station が Evernote を開きます。 "
+   },
+   "NoteStationSECTIONimportKEYimport_from_enex": {
+      "message": "インポート"
+   },
+   "NoteStationSECTIONimportKEYimport_from_enex_display": {
+      "message": "Evernote .enex フィアルからノートブックをインポート。"
+   },
+   "NoteStationSECTIONimportKEYimport_from_evernote": {
+      "message": "Evernote からインポート"
+   },
+   "NoteStationSECTIONimportKEYimport_from_evernote_display": {
+      "message": "Evernote からメモ帳をインポート"
+   },
+   "NoteStationSECTIONimportKEYimport_from_notebook": {
+      "message": "インポート"
+   },
+   "NoteStationSECTIONimportKEYimport_from_notebook_display": {
+      "message": "Note Station nsx ファイルからメモ帳をインポートします。"
+   },
+   "NoteStationSECTIONimportKEYimport_wizard": {
+      "message": "Evernote インポート ウィザード"
+   },
+   "NoteStationSECTIONimportKEYimporting": {
+      "message": "インポート中"
+   },
+   "NoteStationSECTIONimportKEYmerge_into_notebook": {
+      "message": "同じ名前を持つメモ帳をまとめる"
+   },
+   "NoteStationSECTIONimportKEYmtime": {
+      "message": "修正時刻"
+   },
+   "NoteStationSECTIONimportKEYnotebook_name": {
+      "message": "メモ帳の名前"
+   },
+   "NoteStationSECTIONimportKEYnotebook_stack": {
+      "message": "スタック"
+   },
+   "NoteStationSECTIONimportKEYprepare_import": {
+      "message": "準備中"
+   },
+   "NoteStationSECTIONimportKEYselect_notebook": {
+      "message": "メモ帳の選択"
+   },
+   "NoteStationSECTIONimportKEYselect_notebook_desc": {
+      "message": "インポートするメモ帳を選択してください。"
+   },
+   "NoteStationSECTIONimportKEYtask_canceled": {
+      "message": "インポート タスクはキャンセルされました。"
+   },
+   "NoteStationSECTIONimportKEYwait_evernote": {
+      "message": "接続中..."
+   },
+   "NoteStationSECTIONimportKEYwaiting": {
+      "message": "待機中"
+   },
+   "NoteStationSECTIONimportKEYyinxiang": {
+      "message": "YinXiangBiJi"
+   },
+   "NoteStationSECTIONimportingKEYwaiting": {
+      "message": "Evernote の評価上限に達しました。再試行しています... "
+   },
+   "NoteStationSECTIONinfoKEYbrief": {
+      "message": "テキスト"
+   },
+   "NoteStationSECTIONinfoKEYcopy_url": {
+      "message": "コピー"
+   },
+   "NoteStationSECTIONinfoKEYcreated": {
+      "message": "作成済み"
+   },
+   "NoteStationSECTIONinfoKEYdelete_gps": {
+      "message": "GPS 情報を削除"
+   },
+   "NoteStationSECTIONinfoKEYdelete_gps_message": {
+      "message": "GPS 情報を削除しました。"
+   },
+   "NoteStationSECTIONinfoKEYhistory": {
+      "message": "履歴"
+   },
+   "NoteStationSECTIONinfoKEYlocation": {
+      "message": "位置"
+   },
+   "NoteStationSECTIONinfoKEYmodified": {
+      "message": "変更済み"
+   },
+   "NoteStationSECTIONinfoKEYnotebook": {
+      "message": "メモ帳"
+   },
+   "NoteStationSECTIONinfoKEYset_coordinates": {
+      "message": "位置の設定"
+   },
+   "NoteStationSECTIONinfoKEYsource_url": {
+      "message": "リンク"
+   },
+   "NoteStationSECTIONinfoKEYtitle": {
+      "message": "タイトル"
+   },
+   "NoteStationSECTIONinfoKEYview_history": {
+      "message": "履歴を表示"
+   },
+   "NoteStationSECTIONjavaKEYjava_not_remind": {
+      "message": "今後このメッセージを表示しない"
+   },
+   "NoteStationSECTIONnoteKEYarchive_delete": {
+      "message": "アーカイブのメモは、削除すると、ごみ箱から復元することはできません。メモ {0} を削除してよろしいですか？"
+   },
+   "NoteStationSECTIONnoteKEYcopy_link": {
+      "message": "ノート リンクをコピー"
+   },
+   "NoteStationSECTIONnoteKEYcopy_to_encrypt": {
+      "message": "新しく暗号化したメモにコピー"
+   },
+   "NoteStationSECTIONnoteKEYcopy_to_unencrypt": {
+      "message": "暗号化されてないメモにコピー"
+   },
+   "NoteStationSECTIONnoteKEYcreate": {
+      "message": "メモの作成"
+   },
+   "NoteStationSECTIONnoteKEYcreate_encrypt": {
+      "message": "暗号化したメモの作成"
+   },
+   "NoteStationSECTIONnoteKEYcreate_encrypt_desc": {
+      "message": "パスワードでこのメモを暗号化する"
+   },
+   "NoteStationSECTIONnoteKEYcreate_from_todo": {
+      "message": "タスクの出力先"
+   },
+   "NoteStationSECTIONnoteKEYcreate_in": {
+      "message": "メモの作成場所..."
+   },
+   "NoteStationSECTIONnoteKEYdelete_title": {
+      "message": "{0} 個のメモを削除する"
+   },
+   "NoteStationSECTIONnoteKEYdelete_to_recycle": {
+      "message": "{0} 個のメモをごみ箱に捨てる"
+   },
+   "NoteStationSECTIONnoteKEYencrypt_desc": {
+      "message": "このメモは暗号化されています。"
+   },
+   "NoteStationSECTIONnoteKEYencrypted_note": {
+      "message": "暗号化したメモ"
+   },
+   "NoteStationSECTIONnoteKEYno_item": {
+      "message": "ここにはアイテムがありません!"
+   },
+   "NoteStationSECTIONnoteKEYnote_is_encrypted": {
+      "message": "このメモはパスワード保護されています。"
+   },
+   "NoteStationSECTIONnoteKEYuntitled": {
+      "message": "名称未設定のメモ"
+   },
+   "NoteStationSECTIONnotebookKEYarchive": {
+      "message": "アーカイブ"
+   },
+   "NoteStationSECTIONnotebookKEYarchive_delete": {
+      "message": "アーカイブのメモは、削除すると、ごみ箱から復元することはできません。選択したメモのアーカイブ、およびそのメモを削除してよろしいですか？"
+   },
+   "NoteStationSECTIONnotebookKEYarchive_warning": {
+      "message": "メモ帳のアーカイブを行うと、その共有権限とシェルフのプロパティを削除します。よろしいですか？"
+   },
+   "NoteStationSECTIONnotebookKEYcreate": {
+      "message": "メモ帳の作成"
+   },
+   "NoteStationSECTIONnotebookKEYcreate_title": {
+      "message": "メモ帳のタイトルを入力してください"
+   },
+   "NoteStationSECTIONnotebookKEYdefault": {
+      "message": "マイメモ帳"
+   },
+   "NoteStationSECTIONnotebookKEYdelete": {
+      "message": "選択したメモ帳を削除しますか？"
+   },
+   "NoteStationSECTIONnotebookKEYrename": {
+      "message": "メモ帳の名前を変える"
+   },
+   "NoteStationSECTIONnotebookKEYunarchive": {
+      "message": "アーカイブ解除"
+   },
+   "NoteStationSECTIONnotifyKEYclipper_install": {
+      "message": "{0} をインストールすると、ウェブコンテンツに手軽にアクセスできるように、これを Synology NAS に保存することができます。"
+   },
+   "NoteStationSECTIONnotifyKEYexport_success": {
+      "message": "エクスポート タスクが完了しました。{0}{1}{2} を確認してください。"
+   },
+   "NoteStationSECTIONnotifyKEYreminder": {
+      "message": "注意：{0} - {1}"
+   },
+   "NoteStationSECTIONnotifyKEYsend_message": {
+      "message": "{0} さんが {1} をあなたと共有しました。{2}{3}{4} で確認できます。"
+   },
+   "NoteStationSECTIONpermKEYro": {
+      "message": "表示"
+   },
+   "NoteStationSECTIONpermKEYrw": {
+      "message": "変更"
+   },
+   "NoteStationSECTIONpresentationKEYtheme_display": {
+      "message": "テンプレートを選択してください"
+   },
+   "NoteStationSECTIONpromptKEYdo_not_show_again": {
+      "message": "次回からこのメッセージを表示しない"
+   },
+   "NoteStationSECTIONpromptKEYdownload_center_link": {
+      "message": "Synology ダウンロード センター"
+   },
+   "NoteStationSECTIONpromptKEYpanel_desc": {
+      "message": "コンピュータからNote Stationを直接使用する。"
+   },
+   "NoteStationSECTIONpromptKEYpanel_error_msg": {
+      "message": "ダウンロードできませんでした。 {0}にアクセスしてください。"
+   },
+   "NoteStationSECTIONpromptKEYpanel_title": {
+      "message": "Note Station(デスクトップ用)"
+   },
+   "NoteStationSECTIONpromptKEYtoast_link": {
+      "message": "デスクトップ バージョンが現在利用可能です！"
+   },
+   "NoteStationSECTIONpromptKEYtoast_title": {
+      "message": "グッドニュースです！"
+   },
+   "NoteStationSECTIONsearchKEYdate_from": {
+      "message": "この日から"
+   },
+   "NoteStationSECTIONsearchKEYdate_to": {
+      "message": "この日まで"
+   },
+   "NoteStationSECTIONsearchKEYkeyword": {
+      "message": "キーワード"
+   },
+   "NoteStationSECTIONsearchKEYno_search_result": {
+      "message": "一致する結果はありません。"
+   },
+   "NoteStationSECTIONsearchKEYresult_title": {
+      "message": "Search Result"
+   },
+   "NoteStationSECTIONsearchKEYsave_as_smart": {
+      "message": "スマート ノートブックとして保存"
+   },
+   "NoteStationSECTIONsearchKEYtag_operator": {
+      "message": "選択した共通項目を選択"
+   },
+   "NoteStationSECTIONsearchKEYtitle": {
+      "message": "タイトル"
+   },
+   "NoteStationSECTIONsettingKEYadmin": {
+      "message": "管理"
+   },
+   "NoteStationSECTIONsettingKEYapp_portal": {
+      "message": "アプリケーション ポータル"
+   },
+   "NoteStationSECTIONsettingKEYapp_portal_admin_desc": {
+      "message": "Note Station のアプリケーション ポータルは有効ではありません。システム管理者に連絡して、Note Station のアプリケーション ポータルを有効にしてください。"
+   },
+   "NoteStationSECTIONsettingKEYapp_portal_enable_desc": {
+      "message": "エイリアスとポート設定を行うと、個別のブラウザ タブで Note Station にアクセスして実行することができます。"
+   },
+   "NoteStationSECTIONsettingKEYapp_portal_link_desc": {
+      "message": "下のリンクを使って、新しいブラウザ タブで Note Station を起動します。"
+   },
+   "NoteStationSECTIONsettingKEYauto_purge": {
+      "message": "自動消去"
+   },
+   "NoteStationSECTIONsettingKEYauto_purge_desc": {
+      "message": "完了したタスクは、ここで設定した時間に自動的に削除されます。"
+   },
+   "NoteStationSECTIONsettingKEYconfirm_move_volume": {
+      "message": "Note Station は、バックグラウンドでデータを移動します。完了の前に、全てのユーザーはメモを表示することができます。"
+   },
+   "NoteStationSECTIONsettingKEYcrypto_delete_orig": {
+      "message": "暗号化/解析後に元のメモ削除する"
+   },
+   "NoteStationSECTIONsettingKEYdefault_due_date": {
+      "message": "デフォルトの有効期限"
+   },
+   "NoteStationSECTIONsettingKEYdefault_priority": {
+      "message": "デフォルトの優先度"
+   },
+   "NoteStationSECTIONsettingKEYdefault_reminder_offset": {
+      "message": "デフォルトのリマインダーの時間"
+   },
+   "NoteStationSECTIONsettingKEYdesktop_button": {
+      "message": "デスクトップ用Note Stationを入手"
+   },
+   "NoteStationSECTIONsettingKEYdesktop_desc": {
+      "message": "下記のボタンをクリックしてデスクトップ用Note Stationを入手してください。"
+   },
+   "NoteStationSECTIONsettingKEYexport_field": {
+      "message": "メモ帳または To-do リストをエクスポート"
+   },
+   "NoteStationSECTIONsettingKEYexport_notebook": {
+      "message": "メモ帳のエクスポート"
+   },
+   "NoteStationSECTIONsettingKEYfont_size": {
+      "message": "デフォルトの文字サイズ"
+   },
+   "NoteStationSECTIONsettingKEYgeneral": {
+      "message": "全般"
+   },
+   "NoteStationSECTIONsettingKEYimport_export": {
+      "message": "インポートおよびエクスポート"
+   },
+   "NoteStationSECTIONsettingKEYimport_notebook": {
+      "message": "メモ帳のインポート"
+   },
+   "NoteStationSECTIONsettingKEYinline_thumb": {
+      "message": "大きい埋め込み画像をメモパネルに表示するためにサムネイルを使う"
+   },
+   "NoteStationSECTIONsettingKEYlaunch_app_portal": {
+      "message": "アプリケーション ポータルの設定"
+   },
+   "NoteStationSECTIONsettingKEYmoving_data": {
+      "message": "実行中：{0}"
+   },
+   "NoteStationSECTIONsettingKEYnote": {
+      "message": "メモ オプション"
+   },
+   "NoteStationSECTIONsettingKEYreminder_offset_desc": {
+      "message": "リマインダーにタスクを完了させますか? ここでタスクの期限を知らせるリマインダーの時間を設定します。"
+   },
+   "NoteStationSECTIONsettingKEYsearch_attachment": {
+      "message": "検索用に添付コンテンツのインデックスを有効にする"
+   },
+   "NoteStationSECTIONsettingKEYshare": {
+      "message": "共有"
+   },
+   "NoteStationSECTIONsettingKEYshare_mode": {
+      "message": "admin でないユーザーにメモとノートブックを共有することを許可します"
+   },
+   "NoteStationSECTIONsettingKEYshare_need_admin": {
+      "message": "あなたには、共有が認められていません。援助を必要とされる場合、管理者にご連絡ください。"
+   },
+   "NoteStationSECTIONsettingKEYtodo_comment": {
+      "message": "備考"
+   },
+   "NoteStationSECTIONsettingKEYtodo_done": {
+      "message": "完了状態"
+   },
+   "NoteStationSECTIONsettingKEYtodo_due_date": {
+      "message": "有効期限"
+   },
+   "NoteStationSECTIONsettingKEYtodo_export_info": {
+      "message": "出力する次のタイプのタスク情報を選択します。"
+   },
+   "NoteStationSECTIONsettingKEYtodo_export_to_note": {
+      "message": "タスクをメモとして出力"
+   },
+   "NoteStationSECTIONsettingKEYtodo_general": {
+      "message": "タスク管理"
+   },
+   "NoteStationSECTIONsettingKEYtodo_priority": {
+      "message": "優先順位"
+   },
+   "NoteStationSECTIONsettingKEYtodo_show_badge": {
+      "message": "期限切れタスクの印を表示"
+   },
+   "NoteStationSECTIONsettingKEYtodo_star": {
+      "message": "評価"
+   },
+   "NoteStationSECTIONsettingKEYtodo_subtask": {
+      "message": "サブタスク"
+   },
+   "NoteStationSECTIONsettingKEYtodo_task": {
+      "message": "To-do リスト"
+   },
+   "NoteStationSECTIONsettingKEYtodo_title": {
+      "message": "タスク"
+   },
+   "NoteStationSECTIONsettingKEYview": {
+      "message": "表示オプション"
+   },
+   "NoteStationSECTIONshareKEYcopy_url_done": {
+      "message": "クリップボードにコピーしました"
+   },
+   "NoteStationSECTIONshareKEYenable_public": {
+      "message": "公開共有を有効にする"
+   },
+   "NoteStationSECTIONshareKEYpublic_share": {
+      "message": "公開共有"
+   },
+   "NoteStationSECTIONshareKEYpublic_share_link": {
+      "message": "公開共有リンク"
+   },
+   "NoteStationSECTIONshareKEYshare_link_via": {
+      "message": "リンクを共有"
+   },
+   "NoteStationSECTIONshareKEYshare_to_dsm_user": {
+      "message": "DSM ユーザーと共有"
+   },
+   "NoteStationSECTIONshareKEYshare_to_dsm_user_or_group": {
+      "message": "DSM ユーザー/グループ"
+   },
+   "NoteStationSECTIONshortcutKEYremove": {
+      "message": "お気に入りから削除"
+   },
+   "NoteStationSECTIONsmartKEYcreate": {
+      "message": "スマート ノートブックの作成"
+   },
+   "NoteStationSECTIONsmartKEYcreate_message": {
+      "message": "このスマート ノートブックに名前を付ける"
+   },
+   "NoteStationSECTIONsmartKEYdelete": {
+      "message": "選択したスマート ノートブックを削除してよろしいですか？"
+   },
+   "NoteStationSECTIONsmartKEYedit": {
+      "message": "スマート ノートブックの編集"
+   },
+   "NoteStationSECTIONsmartKEYquery_empty": {
+      "message": "少なくとも 1 つの条件を指定してください。"
+   },
+   "NoteStationSECTIONsmartKEYtitle": {
+      "message": "スマート ノートブックのタイトル"
+   },
+   "NoteStationSECTIONsmartKEYwindow": {
+      "message": "智慧型筆記本"
+   },
+   "NoteStationSECTIONsortKEYby_ctime": {
+      "message": "作成時間で並べ替え"
+   },
+   "NoteStationSECTIONsortKEYby_mtime": {
+      "message": "変更時間で並べ替え"
+   },
+   "NoteStationSECTIONsortKEYby_title": {
+      "message": "タイトルで並べ替え"
+   },
+   "NoteStationSECTIONsortKEYorder_asc": {
+      "message": "昇順"
+   },
+   "NoteStationSECTIONsortKEYorder_desc": {
+      "message": "降順"
+   },
+   "NoteStationSECTIONstackKEYcreate": {
+      "message": "シェルフの作成"
+   },
+   "NoteStationSECTIONstackKEYcreate_title": {
+      "message": "シェルフのタイトルを入力してください"
+   },
+   "NoteStationSECTIONstackKEYdelete": {
+      "message": "選択したシェルフを削除しますか？"
+   },
+   "NoteStationSECTIONstackKEYdisassemble": {
+      "message": "分解"
+   },
+   "NoteStationSECTIONstackKEYnew": {
+      "message": "新しいシェルフ"
+   },
+   "NoteStationSECTIONstackKEYrename": {
+      "message": "シェルフに別名を付ける"
+   },
+   "NoteStationSECTIONtagKEYadd_tag": {
+      "message": "+タグ"
+   },
+   "NoteStationSECTIONtagKEYcreate_title": {
+      "message": "タグのタイトルを入力してください"
+   },
+   "NoteStationSECTIONtagKEYquick_add": {
+      "message": "Add tags quickly"
+   },
+   "NoteStationSECTIONtagKEYremove_from_all": {
+      "message": "すべてのメモからタグを削除"
+   },
+   "NoteStationSECTIONtagKEYrename": {
+      "message": "タグのタイトルに別名を付ける"
+   },
+   "NoteStationSECTIONtagKEYselect_parent": {
+      "message": "この中のタグをネスト化する"
+   },
+   "NoteStationSECTIONtagKEYshow_subtag": {
+      "message": "サブタグ付きメモ"
+   },
+   "NoteStationSECTIONtinymceKEYadjust_table_size": {
+      "message": "テーブルのサイズを調整"
+   },
+   "NoteStationSECTIONtinymceKEYchoose_file": {
+      "message": "参照"
+   },
+   "NoteStationSECTIONtinymceKEYchoose_file_from_local": {
+      "message": "ローカルコンピュータからファイルを選択してください"
+   },
+   "NoteStationSECTIONtinymceKEYconvert_to_image": {
+      "message": "画像に変換"
+   },
+   "NoteStationSECTIONtinymceKEYdelete_column": {
+      "message": "列を削除"
+   },
+   "NoteStationSECTIONtinymceKEYdelete_row": {
+      "message": "行を削除"
+   },
+   "NoteStationSECTIONtinymceKEYdimensions": {
+      "message": "サイズ"
+   },
+   "NoteStationSECTIONtinymceKEYdownload": {
+      "message": "ダウンロード"
+   },
+   "NoteStationSECTIONtinymceKEYedit": {
+      "message": "編集"
+   },
+   "NoteStationSECTIONtinymceKEYfile_path": {
+      "message": "ファイルのパス"
+   },
+   "NoteStationSECTIONtinymceKEYformat": {
+      "message": "テキスト フォーマット"
+   },
+   "NoteStationSECTIONtinymceKEYfrom_local_file": {
+      "message": "マイ コンピュータから"
+   },
+   "NoteStationSECTIONtinymceKEYfrom_url": {
+      "message": "URL から"
+   },
+   "NoteStationSECTIONtinymceKEYgenerate_chart": {
+      "message": "表"
+   },
+   "NoteStationSECTIONtinymceKEYheight": {
+      "message": "行の高さ"
+   },
+   "NoteStationSECTIONtinymceKEYimage_l": {
+      "message": "大"
+   },
+   "NoteStationSECTIONtinymceKEYimage_m": {
+      "message": "中"
+   },
+   "NoteStationSECTIONtinymceKEYimage_ori": {
+      "message": "オリジナル"
+   },
+   "NoteStationSECTIONtinymceKEYimage_s": {
+      "message": "小"
+   },
+   "NoteStationSECTIONtinymceKEYimage_source": {
+      "message": "イメージソース"
+   },
+   "NoteStationSECTIONtinymceKEYinsert_column_after": {
+      "message": "右に列を挿入"
+   },
+   "NoteStationSECTIONtinymceKEYinsert_column_before": {
+      "message": "左に列を挿入"
+   },
+   "NoteStationSECTIONtinymceKEYinsert_edit_link": {
+      "message": "リンクの挿入/編集"
+   },
+   "NoteStationSECTIONtinymceKEYinsert_row_after": {
+      "message": "下に行を挿入"
+   },
+   "NoteStationSECTIONtinymceKEYinsert_row_before": {
+      "message": "上に行を挿入"
+   },
+   "NoteStationSECTIONtinymceKEYinsert_table": {
+      "message": "表を挿入"
+   },
+   "NoteStationSECTIONtinymceKEYlarge": {
+      "message": "large"
+   },
+   "NoteStationSECTIONtinymceKEYmerge_cells": {
+      "message": "セルの結合"
+   },
+   "NoteStationSECTIONtinymceKEYnormal": {
+      "message": "normal"
+   },
+   "NoteStationSECTIONtinymceKEYopen": {
+      "message": "開く"
+   },
+   "NoteStationSECTIONtinymceKEYoriginal": {
+      "message": "オリジナル"
+   },
+   "NoteStationSECTIONtinymceKEYproper_size": {
+      "message": "最適"
+   },
+   "NoteStationSECTIONtinymceKEYredo": {
+      "message": "やり直し"
+   },
+   "NoteStationSECTIONtinymceKEYremove": {
+      "message": "削除"
+   },
+   "NoteStationSECTIONtinymceKEYshow_as_youtube_video": {
+      "message": "埋め込んだ Youtube ビデオ"
+   },
+   "NoteStationSECTIONtinymceKEYsmall": {
+      "message": "small"
+   },
+   "NoteStationSECTIONtinymceKEYtable_property": {
+      "message": "表のプロパティ"
+   },
+   "NoteStationSECTIONtinymceKEYtext_to_display": {
+      "message": "表示するテキスト"
+   },
+   "NoteStationSECTIONtinymceKEYundo": {
+      "message": "元に戻す"
+   },
+   "NoteStationSECTIONtinymceKEYupdate_data_from_table": {
+      "message": "Update data"
+   },
+   "NoteStationSECTIONtinymceKEYurl": {
+      "message": "URL"
+   },
+   "NoteStationSECTIONtinymceKEYwidth": {
+      "message": "列の幅"
+   },
+   "NoteStationSECTIONtinymceKEYx_large": {
+      "message": "x-large"
+   },
+   "NoteStationSECTIONtinymceKEYx_small": {
+      "message": "x-small"
+   },
+   "NoteStationSECTIONtinymceKEYxx_large": {
+      "message": "xx-large"
+   },
+   "NoteStationSECTIONtinymceKEYxx_small": {
+      "message": "xx-small"
+   },
+   "NoteStationSECTIONtocKEYnotestation": {
+      "message": "Note Station"
+   },
+   "NoteStationSECTIONtocKEYnotestation_creating_notes": {
+      "message": "メモの作成"
+   },
+   "NoteStationSECTIONtocKEYnotestation_editing_note_information": {
+      "message": "メモ情報の編集"
+   },
+   "NoteStationSECTIONtocKEYnotestation_getting_started": {
+      "message": "はじめましょう"
+   },
+   "NoteStationSECTIONtocKEYnotestation_managing_notes": {
+      "message": "Note Station の管理"
+   },
+   "NoteStationSECTIONtocKEYnotestation_sharing_notes": {
+      "message": "メモの共有"
+   },
+   "NoteStationSECTIONtocKEYnotestation_using_todo_list": {
+      "message": "To-do リストの使い方"
+   },
+   "NoteStationSECTIONtocKEYnotestation_viewing_notes": {
+      "message": "メモの表示"
+   },
+   "NoteStationSECTIONtodoKEYadd_a_new_task": {
+      "message": "新しいタスクを追加"
+   },
+   "NoteStationSECTIONtodoKEYadd_comment": {
+      "message": "備考を追加"
+   },
+   "NoteStationSECTIONtodoKEYadd_sub_task": {
+      "message": "新しいサブタスク"
+   },
+   "NoteStationSECTIONtodoKEYall": {
+      "message": "すべて"
+   },
+   "NoteStationSECTIONtodoKEYall_tasks": {
+      "message": "すべてのタスク"
+   },
+   "NoteStationSECTIONtodoKEYclick_add_task": {
+      "message": "クリックして新しいタスクを追加します"
+   },
+   "NoteStationSECTIONtodoKEYcompleted": {
+      "message": "完了"
+   },
+   "NoteStationSECTIONtodoKEYcustomized": {
+      "message": "カスタマイズ"
+   },
+   "NoteStationSECTIONtodoKEYday": {
+      "message": "日"
+   },
+   "NoteStationSECTIONtodoKEYdays_later": {
+      "message": "日後"
+   },
+   "NoteStationSECTIONtodoKEYdelete_all_tasks": {
+      "message": "すべてのタスクを削除"
+   },
+   "NoteStationSECTIONtodoKEYdelete_independent_todo": {
+      "message": "｢個々のタスク｣の全てのタスクを完全に削除しますか？"
+   },
+   "NoteStationSECTIONtodoKEYdelete_note_todo": {
+      "message": "｢{0}｣の全てのタスクを完全に削除しますか？"
+   },
+   "NoteStationSECTIONtodoKEYdelete_todo": {
+      "message": "{0} 個のタスクを削除しますか？"
+   },
+   "NoteStationSECTIONtodoKEYdue_date": {
+      "message": "有効期限"
+   },
+   "NoteStationSECTIONtodoKEYdue_time": {
+      "message": "有効期限"
+   },
+   "NoteStationSECTIONtodoKEYhour": {
+      "message": "時間"
+   },
+   "NoteStationSECTIONtodoKEYindependent_tasks": {
+      "message": "個々のタスク"
+   },
+   "NoteStationSECTIONtodoKEYminute": {
+      "message": "分"
+   },
+   "NoteStationSECTIONtodoKEYmonth": {
+      "message": "月"
+   },
+   "NoteStationSECTIONtodoKEYnew_task": {
+      "message": "新しいタスク"
+   },
+   "NoteStationSECTIONtodoKEYnext_30_days": {
+      "message": "今日から 30日間"
+   },
+   "NoteStationSECTIONtodoKEYnext_7_days": {
+      "message": "今日から7日間"
+   },
+   "NoteStationSECTIONtodoKEYno_due_date": {
+      "message": "有効期限なし"
+   },
+   "NoteStationSECTIONtodoKEYno_todo_task": {
+      "message": "ここにはタスクがありません!"
+   },
+   "NoteStationSECTIONtodoKEYnote": {
+      "message": "注"
+   },
+   "NoteStationSECTIONtodoKEYoff": {
+      "message": "オフ"
+   },
+   "NoteStationSECTIONtodoKEYon_time": {
+      "message": "締切時間"
+   },
+   "NoteStationSECTIONtodoKEYothers": {
+      "message": "1か月後"
+   },
+   "NoteStationSECTIONtodoKEYoverdue": {
+      "message": "期限切れ"
+   },
+   "NoteStationSECTIONtodoKEYpriority": {
+      "message": "優先順位"
+   },
+   "NoteStationSECTIONtodoKEYpriority_high": {
+      "message": "高"
+   },
+   "NoteStationSECTIONtodoKEYpriority_low": {
+      "message": "低"
+   },
+   "NoteStationSECTIONtodoKEYpriority_medium": {
+      "message": "中"
+   },
+   "NoteStationSECTIONtodoKEYpriority_no": {
+      "message": "なし"
+   },
+   "NoteStationSECTIONtodoKEYreminder_date": {
+      "message": "リマインダーの時間"
+   },
+   "NoteStationSECTIONtodoKEYreminder_time": {
+      "message": "リマインダーの時間"
+   },
+   "NoteStationSECTIONtodoKEYset_due_date": {
+      "message": "期限を設定する"
+   },
+   "NoteStationSECTIONtodoKEYset_due_date_first": {
+      "message": "先に有効期限を設定してください。"
+   },
+   "NoteStationSECTIONtodoKEYstarred": {
+      "message": "星印が付いた"
+   },
+   "NoteStationSECTIONtodoKEYtitle_cannot_empty": {
+      "message": "タスクのタイトルは必ず入力してください。"
+   },
+   "NoteStationSECTIONtodoKEYtoday": {
+      "message": "今日"
+   },
+   "NoteStationSECTIONtodoKEYtomorrow": {
+      "message": "明日"
+   },
+   "NoteStationSECTIONtodoKEYuncompleted": {
+      "message": "未完了"
+   },
+   "NoteStationSECTIONtodoKEYweek": {
+      "message": "週間"
+   },
+   "NoteStationSECTIONtodoKEYweek_later": {
+      "message": "日後"
+   },
+   "NoteStationSECTIONtooltipKEYalign_center": {
+      "message": "中央"
+   },
+   "NoteStationSECTIONtooltipKEYalign_justify": {
+      "message": "配置調整"
+   },
+   "NoteStationSECTIONtooltipKEYalign_left": {
+      "message": "右揃え"
+   },
+   "NoteStationSECTIONtooltipKEYattach_file": {
+      "message": "ファイルを添付"
+   },
+   "NoteStationSECTIONtooltipKEYbackground_color": {
+      "message": "背景色"
+   },
+   "NoteStationSECTIONtooltipKEYbold": {
+      "message": "太字"
+   },
+   "NoteStationSECTIONtooltipKEYbullet_list": {
+      "message": "箇条書き"
+   },
+   "NoteStationSECTIONtooltipKEYclear_formatting": {
+      "message": "フォーマットをクリア"
+   },
+   "NoteStationSECTIONtooltipKEYcontent": {
+      "message": "コンテンツ"
+   },
+   "NoteStationSECTIONtooltipKEYcopy_format": {
+      "message": "フォーマットをコピー"
+   },
+   "NoteStationSECTIONtooltipKEYdecrease_indent": {
+      "message": "インデントを減らす"
+   },
+   "NoteStationSECTIONtooltipKEYdecrypt": {
+      "message": "暗号化の解除"
+   },
+   "NoteStationSECTIONtooltipKEYdelete": {
+      "message": "削除"
+   },
+   "NoteStationSECTIONtooltipKEYencrypt": {
+      "message": "暗号化"
+   },
+   "NoteStationSECTIONtooltipKEYfont_family": {
+      "message": "フォント サイズ"
+   },
+   "NoteStationSECTIONtooltipKEYhorizontal_line": {
+      "message": "横線"
+   },
+   "NoteStationSECTIONtooltipKEYincrease_indent": {
+      "message": "インデントを増やす"
+   },
+   "NoteStationSECTIONtooltipKEYinfo": {
+      "message": "情報"
+   },
+   "NoteStationSECTIONtooltipKEYinsert_checkbox": {
+      "message": "チェックボックスの挿入"
+   },
+   "NoteStationSECTIONtooltipKEYinsert_image": {
+      "message": "イメージの挿入"
+   },
+   "NoteStationSECTIONtooltipKEYitalic": {
+      "message": "斜体"
+   },
+   "NoteStationSECTIONtooltipKEYmail": {
+      "message": "メールとして送信"
+   },
+   "NoteStationSECTIONtooltipKEYnumbered_list": {
+      "message": "番号付け"
+   },
+   "NoteStationSECTIONtooltipKEYpresentation": {
+      "message": "表示"
+   },
+   "NoteStationSECTIONtooltipKEYprint": {
+      "message": "印刷"
+   },
+   "NoteStationSECTIONtooltipKEYremoveformat": {
+      "message": "フォーマットをクリア"
+   },
+   "NoteStationSECTIONtooltipKEYsave": {
+      "message": "保存"
+   },
+   "NoteStationSECTIONtooltipKEYshare": {
+      "message": "共有"
+   },
+   "NoteStationSECTIONtooltipKEYsort_by": {
+      "message": "並べ替え"
+   },
+   "NoteStationSECTIONtooltipKEYstrikethrough": {
+      "message": "取り消し線"
+   },
+   "NoteStationSECTIONtooltipKEYsubscript": {
+      "message": "下付き"
+   },
+   "NoteStationSECTIONtooltipKEYsuperscript": {
+      "message": "上付き"
+   },
+   "NoteStationSECTIONtooltipKEYsyno_highlight": {
+      "message": "ハイライト"
+   },
+   "NoteStationSECTIONtooltipKEYtable": {
+      "message": "表"
+   },
+   "NoteStationSECTIONtooltipKEYtag": {
+      "message": "タグ"
+   },
+   "NoteStationSECTIONtooltipKEYtext_color": {
+      "message": "フォントの色"
+   },
+   "NoteStationSECTIONtooltipKEYunderline": {
+      "message": "下線"
+   },
+   "NoteStationSECTIONtooltipKEYview_by": {
+      "message": "表示"
+   },
+   "NoteStationSECTIONuploadKEYfrom_ds": {
+      "message": "マイ Synology NAS から"
+   },
+   "NoteStationSECTIONuploadKEYfrom_pc": {
+      "message": "マイ コンピュータからアップロード"
+   },
+   "NoteStationSECTIONuploadKEYlist_file": {
+      "message": "ファイルリスト"
+   },
+   "NoteStationSECTIONuploadKEYupload_file": {
+      "message": "ファイルをアップロード"
+   },
+   "NoteStationSECTIONviewerKEYopen_in_audio": {
+      "message": "AudioPlayerで開く"
+   },
+   "NoteStationSECTIONviewerKEYopen_in_google": {
+      "message": "Google Docsで開く"
+   },
+   "NoteStationSECTIONviewerKEYopen_in_new_window": {
+      "message": "新しいタブで開く"
+   },
+   "NoteStationSECTIONviewerKEYopen_in_office": {
+      "message": "Microsoft Office Online で開く"
+   },
+   "NoteStationSECTIONviewerKEYopen_in_pdf": {
+      "message": "PDF ビューアで開く"
+   },
+   "NoteStationSECTIONviewerKEYopen_in_photo": {
+      "message": "写真ビューアで開く"
+   },
+   "NoteStationSECTIONviewerKEYopen_in_syno_doc": {
+      "message": "Open in Document Viewer"
+   },
+   "NoteStationSECTIONviewerKEYopen_in_text": {
+      "message": "テキスト ビューアで開く"
+   },
+   "NoteStationSECTIONviewerKEYopen_in_video": {
+      "message": "VideoPlayer で開く"
+   },
+   "NoteStationSECTIONwindowKEYnote_encryption": {
+      "message": "メモの暗号化"
+   },
+   "NoteStationSECTIONwindowKEYnote_information": {
+      "message": "メモ情報"
+   },
+   "NoteStationSECTIONwindowKEYtodo_information": {
+      "message": "Task information"
+   },
+   "synojslibSECTIONcommonKEYclean": {
+      "message": "クリア"
+   },
+   "synojslibSECTIONcommonKEYclear_input": {
+      "message": "入力のクリア"
+   },
+   "synojslibSECTIONcommonKEYcommit": {
+      "message": "適用"
+   },
+   "synojslibSECTIONcommonKEYdisabled": {
+      "message": "無効"
+   },
+   "synojslibSECTIONcommonKEYerror_system": {
+      "message": "この操作は実行できません。_OSNAME_ にサイン インし、再試行してください。"
+   },
+   "synojslibSECTIONcommonKEYloading": {
+      "message": "ロード中..."
+   },
+   "synojslibSECTIONcommonKEYreset": {
+      "message": "リセット"
+   },
+   "synojslibSECTIONcommonKEYsetting_applied": {
+      "message": "変更を適用しました。"
+   },
+   "synojslibSECTIONcommonKEYsize_byte": {
+      "message": "バイト"
+   },
+   "synojslibSECTIONcommonKEYsize_gb": {
+      "message": "GB"
+   },
+   "synojslibSECTIONcommonKEYsize_kb": {
+      "message": "KB"
+   },
+   "synojslibSECTIONcommonKEYsize_mb": {
+      "message": "MB"
+   },
+   "synojslibSECTIONcommonKEYsize_pb": {
+      "message": "PB"
+   },
+   "synojslibSECTIONcommonKEYsize_tb": {
+      "message": "TB"
+   },
+   "synojslibSECTIONextlangKEYafterPageText": {
+      "message": "{0}ページ"
+   },
+   "synojslibSECTIONextlangKEYafterdate": {
+      "message": "このフィールドの日付は {0} またはそれ以降でなければなりません。"
+   },
+   "synojslibSECTIONextlangKEYaftertime": {
+      "message": "この欄の時間は {0} 以降でなければなりません。"
+   },
+   "synojslibSECTIONextlangKEYalphaText": {
+      "message": "このフィールドには、文字と下線(_)のみ入力できます。"
+   },
+   "synojslibSECTIONextlangKEYalphanumText": {
+      "message": "このフィールドには、文字、数字、下線(_)のみ入力できます。"
+   },
+   "synojslibSECTIONextlangKEYapr": {
+      "message": "4月"
+   },
+   "synojslibSECTIONextlangKEYaug": {
+      "message": "8月"
+   },
+   "synojslibSECTIONextlangKEYbeforePageText": {
+      "message": "ページ"
+   },
+   "synojslibSECTIONextlangKEYbeforedate": {
+      "message": "このフィールドの日付は {0} またはそれ以前でなければなりません。"
+   },
+   "synojslibSECTIONextlangKEYbeforetime": {
+      "message": "この欄の時間は {0} 以前でなければなりません。"
+   },
+   "synojslibSECTIONextlangKEYcancel": {
+      "message": "キャンセル"
+   },
+   "synojslibSECTIONextlangKEYcloseText": {
+      "message": "タブを閉じる"
+   },
+   "synojslibSECTIONextlangKEYcolumnsText": {
+      "message": "カラム"
+   },
+   "synojslibSECTIONextlangKEYdate_format": {
+      "message": "Y/M/D"
+   },
+   "synojslibSECTIONextlangKEYddText": {
+      "message": "選択行数{0} "
+   },
+   "synojslibSECTIONextlangKEYdec": {
+      "message": "12月"
+   },
+   "synojslibSECTIONextlangKEYdisplaypage": {
+      "message": "{0} - {1} / {2} ページの表示"
+   },
+   "synojslibSECTIONextlangKEYemailText": {
+      "message": "ここには電子メールアドレスを入力します。例：user@domain.com"
+   },
+   "synojslibSECTIONextlangKEYfeb": {
+      "message": "2月"
+   },
+   "synojslibSECTIONextlangKEYfieldblank": {
+      "message": "必須フィールド"
+   },
+   "synojslibSECTIONextlangKEYfieldmaxlen": {
+      "message": "最大文字数は{0}です。"
+   },
+   "synojslibSECTIONextlangKEYfieldminlen": {
+      "message": "最小文字数は{0}です。"
+   },
+   "synojslibSECTIONextlangKEYfirstpage": {
+      "message": "最初のページ"
+   },
+   "synojslibSECTIONextlangKEYfriday": {
+      "message": "金曜日"
+   },
+   "synojslibSECTIONextlangKEYinvalidText": {
+      "message": "不正な値です。"
+   },
+   "synojslibSECTIONextlangKEYinvaliddate": {
+      "message": "{0} は有効な日付ではありません。{1} のフォーマットで日付を入力してください。"
+   },
+   "synojslibSECTIONextlangKEYinvalidinteger": {
+      "message": "整数を入力してください。 "
+   },
+   "synojslibSECTIONextlangKEYinvalidnumber": {
+      "message": "{0} は不正な数字です。"
+   },
+   "synojslibSECTIONextlangKEYinvalidtime": {
+      "message": "{0} は有効な時間ではありません。"
+   },
+   "synojslibSECTIONextlangKEYjan": {
+      "message": "1月"
+   },
+   "synojslibSECTIONextlangKEYjul": {
+      "message": "7月"
+   },
+   "synojslibSECTIONextlangKEYjun": {
+      "message": "6月"
+   },
+   "synojslibSECTIONextlangKEYlastpage": {
+      "message": "最後のページ"
+   },
+   "synojslibSECTIONextlangKEYloading": {
+      "message": "ローディング中..."
+   },
+   "synojslibSECTIONextlangKEYlockText": {
+      "message": "カラムのロック"
+   },
+   "synojslibSECTIONextlangKEYmar": {
+      "message": "3月"
+   },
+   "synojslibSECTIONextlangKEYmaxdate": {
+      "message": "最終日以前の日付にしてください。"
+   },
+   "synojslibSECTIONextlangKEYmaxnumber": {
+      "message": "最高数は{0}です。"
+   },
+   "synojslibSECTIONextlangKEYmay": {
+      "message": "5月"
+   },
+   "synojslibSECTIONextlangKEYmindate": {
+      "message": "開始日以降の日付にしてください。"
+   },
+   "synojslibSECTIONextlangKEYminnumber": {
+      "message": "最少数は{0}です。"
+   },
+   "synojslibSECTIONextlangKEYmonday": {
+      "message": "月曜日"
+   },
+   "synojslibSECTIONextlangKEYmonthYearText": {
+      "message": "月の選択(Ctrlを押しながら上下矢印で年を移動)"
+   },
+   "synojslibSECTIONextlangKEYnextmonth": {
+      "message": "次の月(Ctrl+右矢)"
+   },
+   "synojslibSECTIONextlangKEYnextpage": {
+      "message": "次のページ"
+   },
+   "synojslibSECTIONextlangKEYno": {
+      "message": "いいえ"
+   },
+   "synojslibSECTIONextlangKEYnov": {
+      "message": "11月"
+   },
+   "synojslibSECTIONextlangKEYoct": {
+      "message": "10月"
+   },
+   "synojslibSECTIONextlangKEYok": {
+      "message": "OK"
+   },
+   "synojslibSECTIONextlangKEYpagenodata": {
+      "message": "データなし "
+   },
+   "synojslibSECTIONextlangKEYprevmonth": {
+      "message": "前の月(Ctrl+左矢)"
+   },
+   "synojslibSECTIONextlangKEYprevpage": {
+      "message": "前のページ"
+   },
+   "synojslibSECTIONextlangKEYrefresh": {
+      "message": "更新"
+   },
+   "synojslibSECTIONextlangKEYsaturday": {
+      "message": "土曜日"
+   },
+   "synojslibSECTIONextlangKEYsep": {
+      "message": "9月"
+   },
+   "synojslibSECTIONextlangKEYshow_password": {
+      "message": "表示"
+   },
+   "synojslibSECTIONextlangKEYsortAscText": {
+      "message": "昇順で並べ替え"
+   },
+   "synojslibSECTIONextlangKEYsortDescText": {
+      "message": "降順で並べ替え"
+   },
+   "synojslibSECTIONextlangKEYsunday": {
+      "message": "日曜日"
+   },
+   "synojslibSECTIONextlangKEYthursday": {
+      "message": "木曜日"
+   },
+   "synojslibSECTIONextlangKEYtime_format": {
+      "message": "H:M"
+   },
+   "synojslibSECTIONextlangKEYtodayText": {
+      "message": "本日"
+   },
+   "synojslibSECTIONextlangKEYtodayTip": {
+      "message": "{0} (スペースバー)"
+   },
+   "synojslibSECTIONextlangKEYtuesday": {
+      "message": "火曜日"
+   },
+   "synojslibSECTIONextlangKEYunlockText": {
+      "message": "カラムのアンロック"
+   },
+   "synojslibSECTIONextlangKEYurlText": {
+      "message": "ここにはURLを入力します。例：http://www.domain.com"
+   },
+   "synojslibSECTIONextlangKEYwednesday": {
+      "message": "水曜日"
+   },
+   "synojslibSECTIONextlangKEYyes": {
+      "message": "はい"
+   },
+   "synojslibSECTIONuicommonKEYadd_time": {
+      "message": "時間を追加"
+   },
+   "synojslibSECTIONuicommonKEYadvanced_search": {
+      "message": "詳細検索"
+   },
+   "synojslibSECTIONuicommonKEYap_mac_filter_mac_err": {
+      "message": "MAC アドレスを正しく入力してください"
+   },
+   "synojslibSECTIONuicommonKEYap_mac_filter_mac_used": {
+      "message": "MAC アドレスは既に存在します。"
+   },
+   "synojslibSECTIONuicommonKEYbandwidth_enable": {
+      "message": "速度制限を有効にする"
+   },
+   "synojslibSECTIONuicommonKEYbrowse": {
+      "message": "参照"
+   },
+   "synojslibSECTIONuicommonKEYdesktop": {
+      "message": "デスクトップ"
+   },
+   "synojslibSECTIONuicommonKEYdisable_limit": {
+      "message": "速度制限なし"
+   },
+   "synojslibSECTIONuicommonKEYdisable_limit_group": {
+      "message": "速度制限なし"
+   },
+   "synojslibSECTIONuicommonKEYdisable_limit_user": {
+      "message": "グループ設定の適用"
+   },
+   "synojslibSECTIONuicommonKEYedit": {
+      "message": "編集"
+   },
+   "synojslibSECTIONuicommonKEYempty_grid": {
+      "message": "データがありません"
+   },
+   "synojslibSECTIONuicommonKEYenable_column_checked": {
+      "message": "選択済み"
+   },
+   "synojslibSECTIONuicommonKEYenable_column_grayed": {
+      "message": "一部選択済み"
+   },
+   "synojslibSECTIONuicommonKEYenable_column_unchecked": {
+      "message": "未選択"
+   },
+   "synojslibSECTIONuicommonKEYerr_creating_volume": {
+      "message": "ボリューム設定を処理中。終了後に再びやり直してください。"
+   },
+   "synojslibSECTIONuicommonKEYerr_disk_secure_erasing": {
+      "message": "Secure Erase を実行しているときには、システムをシャットダウン、リブート、または更新することはできません。処理が完了してから再度お試しください。"
+   },
+   "synojslibSECTIONuicommonKEYerr_dsm_upgrading": {
+      "message": "_OSNAME_ をアップデートしているため、システムをシャットダウンまたはリブートすることはできません。"
+   },
+   "synojslibSECTIONuicommonKEYerr_processing_share_setting": {
+      "message": "共有フォルダの設定を行っています。 後でやり直してください。"
+   },
+   "synojslibSECTIONuicommonKEYerror_demo": {
+      "message": "この機能はデモモードでは使用できません。"
+   },
+   "synojslibSECTIONuicommonKEYerror_noprivilege": {
+      "message": "このサービスを使用する権限がありません。"
+   },
+   "synojslibSECTIONuicommonKEYerror_occupied": {
+      "message": "別のパッケージがインストール/設定されています。後からやり直してください。"
+   },
+   "synojslibSECTIONuicommonKEYerror_relogin": {
+      "message": "あなたは別のコンピュータにサインインしています。再度ログインしてください。"
+   },
+   "synojslibSECTIONuicommonKEYerror_system": {
+      "message": "この操作は実行できません。後でもう一度やり直してください。"
+   },
+   "synojslibSECTIONuicommonKEYerror_timeout": {
+      "message": "接続タイムアウトです。再度_OSNAME_ へログインしてください。"
+   },
+   "synojslibSECTIONuicommonKEYerror_unauth": {
+      "message": "ログインが無効です。もう 1 度サイン インしてください。"
+   },
+   "synojslibSECTIONuicommonKEYgoto_page": {
+      "message": " {0} ページに進んでください"
+   },
+   "synojslibSECTIONuicommonKEYgrid_record_count": {
+      "message": "{0} 個のアイテム。"
+   },
+   "synojslibSECTIONuicommonKEYinvalid_time": {
+      "message": "時間フォーマットが正しくありません。"
+   },
+   "synojslibSECTIONuicommonKEYitem": {
+      "message": "アイテム"
+   },
+   "synojslibSECTIONuicommonKEYitems": {
+      "message": "アイテム"
+   },
+   "synojslibSECTIONuicommonKEYlimit_customize": {
+      "message": "速度制限 2"
+   },
+   "synojslibSECTIONuicommonKEYlimit_default": {
+      "message": "速度制限 1"
+   },
+   "synojslibSECTIONuicommonKEYlogout": {
+      "message": "ログアウト"
+   },
+   "synojslibSECTIONuicommonKEYmsg_waiting": {
+      "message": "処理中です。 しばらくお待ちください..."
+   },
+   "synojslibSECTIONuicommonKEYnext_x_pages": {
+      "message": "次の {0} ページ"
+   },
+   "synojslibSECTIONuicommonKEYoff": {
+      "message": "OFF"
+   },
+   "synojslibSECTIONuicommonKEYon": {
+      "message": "ON"
+   },
+   "synojslibSECTIONuicommonKEYpoweroff_opt": {
+      "message": "シャットダウン"
+   },
+   "synojslibSECTIONuicommonKEYpre_x_pages": {
+      "message": "前の {0} ページ"
+   },
+   "synojslibSECTIONuicommonKEYreboot_opt": {
+      "message": "再起動"
+   },
+   "synojslibSECTIONuicommonKEYreboot_warn": {
+      "message": "再起動しますか?"
+   },
+   "synojslibSECTIONuicommonKEYremove": {
+      "message": "削除"
+   },
+   "synojslibSECTIONuicommonKEYschedule_abbre_fri": {
+      "message": "金"
+   },
+   "synojslibSECTIONuicommonKEYschedule_abbre_mon": {
+      "message": "月"
+   },
+   "synojslibSECTIONuicommonKEYschedule_abbre_sat": {
+      "message": "土"
+   },
+   "synojslibSECTIONuicommonKEYschedule_abbre_sun": {
+      "message": "日"
+   },
+   "synojslibSECTIONuicommonKEYschedule_abbre_thu": {
+      "message": "木"
+   },
+   "synojslibSECTIONuicommonKEYschedule_abbre_tue": {
+      "message": "火"
+   },
+   "synojslibSECTIONuicommonKEYschedule_abbre_wed": {
+      "message": "水"
+   },
+   "synojslibSECTIONuicommonKEYschedule_daily": {
+      "message": "毎日"
+   },
+   "synojslibSECTIONuicommonKEYschedule_fri": {
+      "message": "金曜日"
+   },
+   "synojslibSECTIONuicommonKEYschedule_mon": {
+      "message": "月曜日"
+   },
+   "synojslibSECTIONuicommonKEYschedule_sat": {
+      "message": "土曜日"
+   },
+   "synojslibSECTIONuicommonKEYschedule_sun": {
+      "message": "日曜日"
+   },
+   "synojslibSECTIONuicommonKEYschedule_thu": {
+      "message": "木曜日"
+   },
+   "synojslibSECTIONuicommonKEYschedule_tue": {
+      "message": "火曜日"
+   },
+   "synojslibSECTIONuicommonKEYschedule_wed": {
+      "message": "水曜日"
+   },
+   "synojslibSECTIONuicommonKEYschedule_weekdays": {
+      "message": "平日"
+   },
+   "synojslibSECTIONuicommonKEYschedule_weekend": {
+      "message": "ウィークエンド"
+   },
+   "synojslibSECTIONuicommonKEYsearch": {
+      "message": "検索"
+   },
+   "synojslibSECTIONuicommonKEYsearching": {
+      "message": "検索中..."
+   },
+   "synojslibSECTIONuicommonKEYshutdown_warn": {
+      "message": "シャットダウンしますか?"
+   },
+   "synojslibSECTIONuicommonKEYsuperboxselect_hint": {
+      "message": "選択するために、すべてのアイテムが表示されるように方向キーをヒットダウンしてください。選択を確認するために、方向キーを左へヒットしてください。"
+   },
+   "synojslibSECTIONuicommonKEYsystem_poweroff": {
+      "message": "_DISKSTATION_ は間もなく電源が切れます。"
+   },
+   "synojslibSECTIONuicommonKEYsystem_reboot": {
+      "message": "_DISKSTATION_ は再起動しています。"
+   },
+   "synojslibSECTIONuicommonKEYsystem_reboot_timeout": {
+      "message": "_DISKSTATION_ が再起動しています。再起動のプロセスが完了したら、\u003Ca class=\"link-font\" href=\"https://find.synology.com\" target=\"_blank\">Web Assistant\u003C/a> または Synology Assistant を使用して検索し、_DISKSTATION_ に接続します。"
+   },
+   "synojslibSECTIONuicommonKEYtime_hour": {
+      "message": "時"
+   },
+   "synojslibSECTIONuicommonKEYtime_min": {
+      "message": "分"
+   },
+   "synojslibSECTIONuicommonKEYtime_sec": {
+      "message": "秒"
+   },
+   "synojslibSECTIONuicommonKEYtimediff_day": {
+      "message": "{0} 日前"
+   },
+   "synojslibSECTIONuicommonKEYtimediff_days": {
+      "message": "{0} 日前"
+   },
+   "synojslibSECTIONuicommonKEYtimediff_hour": {
+      "message": "{0} 時間前"
+   },
+   "synojslibSECTIONuicommonKEYtimediff_hours": {
+      "message": "{0} 時間前"
+   },
+   "synojslibSECTIONuicommonKEYtimediff_minute": {
+      "message": "{0} 分前"
+   },
+   "synojslibSECTIONuicommonKEYtimediff_minutes": {
+      "message": "{0} 分前"
+   },
+   "synojslibSECTIONuicommonKEYtimediff_second": {
+      "message": "{0} 秒前"
+   },
+   "synojslibSECTIONuicommonKEYtimediff_seconds": {
+      "message": "{0} 秒前"
+   },
+   "synojslibSECTIONuicommonKEYwelcome": {
+      "message": "ようこそ"
+   },
+   "synojslibSECTIONvtypeKEYbad_adminname": {
+      "message": "The administrator account is invalid or it contains invalid characters."
+   },
+   "synojslibSECTIONvtypeKEYbad_alias": {
+      "message": "入力したエイリアスは無効です。"
+   },
+   "synojslibSECTIONvtypeKEYbad_backup_destination": {
+      "message": "バックアップ先の名前が無効か、使用できない文字が含まれています"
+   },
+   "synojslibSECTIONvtypeKEYbad_backup_target": {
+      "message": "ターゲットの名前が無効か、使用できない文字が含まれています。"
+   },
+   "synojslibSECTIONvtypeKEYbad_cidr": {
+      "message": "入力したCIDRは無効です。"
+   },
+   "synojslibSECTIONvtypeKEYbad_cidr_hostname": {
+      "message": "入力したCIDRまたはホスト名が無効です。"
+   },
+   "synojslibSECTIONvtypeKEYbad_dar_profile_name": {
+      "message": "文字、数字、スペースだけを使用します。\u003Cb>template\u003C/b>、\u003Cb>lang\u003C/b>、\u003Cb>global\u003C/b> など予約された単語は使用しないでください。名前の先頭と末尾にスペースを使用することはできません。"
+   },
+   "synojslibSECTIONvtypeKEYbad_ddns_noip_alphanumspace": {
+      "message": "アルファベットおよびスペースのみ"
+   },
+   "synojslibSECTIONvtypeKEYbad_ddns_noip_password": {
+      "message": "+,?,%,&文字は使用できません。"
+   },
+   "synojslibSECTIONvtypeKEYbad_devicename": {
+      "message": "デバイス名が有効であるか、無効な文字が含まれています。"
+   },
+   "synojslibSECTIONvtypeKEYbad_domain_name": {
+      "message": "ドメイン名が無効です"
+   },
+   "synojslibSECTIONvtypeKEYbad_email": {
+      "message": "電子メール形式が不正です。"
+   },
+   "synojslibSECTIONvtypeKEYbad_event_task_name": {
+      "message": "タスク名には英数字、スペースのみ使用できます。先頭と最後にスペースを使用することはできません。"
+   },
+   "synojslibSECTIONvtypeKEYbad_field": {
+      "message": "フィールドの値が不正です。"
+   },
+   "synojslibSECTIONvtypeKEYbad_fwname": {
+      "message": "このファイアウォール規則の名前は無効です。別の名前を入力してください。"
+   },
+   "synojslibSECTIONvtypeKEYbad_groupname": {
+      "message": "グループ名が無効か、使用できない文字が含まれています"
+   },
+   "synojslibSECTIONvtypeKEYbad_host": {
+      "message": "無効なホスト名。 ホスト名は、文字、数字、下線(_)、およびダッシュ(-)のみを含むことができます。そして、文字で始まる必要があります。"
+   },
+   "synojslibSECTIONvtypeKEYbad_hostname": {
+      "message": "ホスト名が不正です。"
+   },
+   "synojslibSECTIONvtypeKEYbad_ip": {
+      "message": "入力されたIPアドレスは無効です"
+   },
+   "synojslibSECTIONvtypeKEYbad_iporhostname": {
+      "message": "IP アドレスが不正です。"
+   },
+   "synojslibSECTIONvtypeKEYbad_ipv6prefixLeng": {
+      "message": "無効な IPv6 の接頭辞です。"
+   },
+   "synojslibSECTIONvtypeKEYbad_iscsi_hostname": {
+      "message": "ホスト名に使用できるのは、文字、数字、コロン (:)、ハイフン (-)、ドット (.) のみです。"
+   },
+   "synojslibSECTIONvtypeKEYbad_iscsi_lunname": {
+      "message": "入力した LUN 名は無効です。詳しくは [ヘルプ] を参照してください。"
+   },
+   "synojslibSECTIONvtypeKEYbad_iscsi_password": {
+      "message": "パスワードは12～16文字の長さでなければなりません。"
+   },
+   "synojslibSECTIONvtypeKEYbad_iscsi_targetiqn": {
+      "message": "入力した iSCSI Target IQN 名は無効です。詳細はヘルプを参照してください。"
+   },
+   "synojslibSECTIONvtypeKEYbad_iscsi_targetname": {
+      "message": "入力したターゲット名は無効です。詳細はヘルプを参照してください。"
+   },
+   "synojslibSECTIONvtypeKEYbad_iscsi_username": {
+      "message": "数字および英字のみ。最大12文字。"
+   },
+   "synojslibSECTIONvtypeKEYbad_mac": {
+      "message": "正しい MAC アドレスを入力してください。"
+   },
+   "synojslibSECTIONvtypeKEYbad_mask": {
+      "message": "サブネットマスクの値が無効です"
+   },
+   "synojslibSECTIONvtypeKEYbad_netbkp_module": {
+      "message": "モジュール名には、特定の文字を使用できません： / \\ # [ ] \u003C > \""
+   },
+   "synojslibSECTIONvtypeKEYbad_networkgroupname": {
+      "message": "ワークグループ名が無効か使用できない文字が含まれています"
+   },
+   "synojslibSECTIONvtypeKEYbad_number": {
+      "message": "この番号は 0 で開始することはできません。また全部の数字が必要です。"
+   },
+   "synojslibSECTIONvtypeKEYbad_port": {
+      "message": "ポート番号は1～65535です。"
+   },
+   "synojslibSECTIONvtypeKEYbad_relay_alias_name": {
+      "message": "QuickConnect IDは英語の文字、数字、およびダッシュ (-) のみを含むことができます。 先頭は文字でなければならず、末尾はダッシュで終わることはできません。"
+   },
+   "synojslibSECTIONvtypeKEYbad_sharename": {
+      "message": "共有フォルダ名には、無効な文字が含まれているか、空白文字で開始または終了しています。あるいは、システムが使用するために予約されています。詳細およびネーミング ルールについては、ヘルプを参照してください。"
+   },
+   "synojslibSECTIONvtypeKEYbad_taskname": {
+      "message": "タスク名が無効か、使用できない文字が含まれています。"
+   },
+   "synojslibSECTIONvtypeKEYbad_url": {
+      "message": "URL 形式が不正です。"
+   },
+   "synojslibSECTIONvtypeKEYbad_urlblocker_profile": {
+      "message": "The URL Blocker profile's name is invalid"
+   },
+   "synojslibSECTIONvtypeKEYbad_username": {
+      "message": "ユーザー名が正しくないか、無効な文字が含まれています。"
+   },
+   "synojslibSECTIONvtypeKEYbad_v6ip": {
+      "message": "無効な IPv6 のアドレスです。"
+   },
+   "synojslibSECTIONvtypeKEYpassword_confirm_failed": {
+      "message": "パスワードが確認できません。再入力してください。"
+   },
+   "synojslibSECTIONwizardKEYbtnback": {
+      "message": "戻る"
+   },
+   "synojslibSECTIONwizardKEYbtncancel": {
+      "message": "キャンセル"
+   },
+   "synojslibSECTIONwizardKEYbtnfinish": {
+      "message": "完了"
+   },
+   "synojslibSECTIONwizardKEYbtnnext": {
+      "message": "次へ"
+   },
+   "synojslibSECTIONwizardKEYfinaldescr": {
+      "message": "{0} をクリックしてウィンドウを閉じます。"
+   },
+   "synojslibSECTIONwizardKEYnextdescr": {
+      "message": "{0}をクリックして次に進みます。"
+   }
+}

@@ -1,0 +1,6 @@
+2022/08/24-20:12:52.742 d7f Creating DB /home/tam/.config/google-chrome/Default/IndexedDB/https_www.computerworld.com_0.indexeddb.leveldb since it was missing.
+2022/08/24-20:12:52.771 d7f Reusing MANIFEST /home/tam/.config/google-chrome/Default/IndexedDB/https_www.computerworld.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/24-20:13:24.757 d7f Level-0 table #5: started
+2022/08/24-20:13:24.765 d7f Level-0 table #5: 823 bytes OK
+2022/08/24-20:13:24.780 d7f Delete type=0 #3
+2022/08/24-20:13:24.780 d7f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

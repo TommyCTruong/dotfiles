@@ -1,0 +1,17 @@
+{
+   "content_scripts": [ {
+      "js": [ "content.js" ],
+      "matches": [ "https://*.medium.com/*" ]
+   } ],
+   "description": "Read Medium stories without leaving the page if you reached to free reading limit.",
+   "icons": {
+      "128": "icons/128.png",
+      "16": "icons/16.png",
+      "48": "icons/48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiNZuNJ1bkfKJ5uPhq8YP7fguaMiM5qF8RadkntRuXeyJ2JPl/jufbUHexNP4Qu5MHR9HxEcJNUaweeq8tc0GQNubgjBic3phgFtSAQ0kjSHOvfmEWdZZI4tynSzI4QEUM3+LGa2y1q0DSwUoKUYEJqSMbCoMfjY5BSjv/+Cv81IgOENe4zi94y5FvBhNlD41hj6EdaM+h1tl3eOlziUQu3J3Ii/yVWCzQuq857ONeZ5PV9vM7HdzkTOxz+GT+Hs+I3vLEE2qC0JOVK3ksYgli4l9Or92ePMzD2KUTIlo91f09Eyl/nFvKMJ0mvLSo1FuBOIUwR3uuu158Qw/JsLbBwIDAQAB",
+   "manifest_version": 2,
+   "name": "Read Medium for free",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.4"
+}

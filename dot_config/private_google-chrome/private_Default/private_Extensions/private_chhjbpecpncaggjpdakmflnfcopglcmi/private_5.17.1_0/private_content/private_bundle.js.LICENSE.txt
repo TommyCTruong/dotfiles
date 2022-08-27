@@ -1,0 +1,17 @@
+/*!
+ * Rakuten Cash Back Button v5.17.1
+ * Copyrights 2022 Ebates Inc. dba Rakuten
+ */
+
+/*!
+ * XRegExp 3.2.0
+ * <xregexp.com>
+ * Steven Levithan (c) 2007-2017 MIT License
+ */
+
+/*!
+ * qrcode.vue v1.7.0
+ * A Vue component to generate QRCode.
+ * © 2017-2019 @scopewu(https://github.com/scopewu)
+ * MIT License.
+ */

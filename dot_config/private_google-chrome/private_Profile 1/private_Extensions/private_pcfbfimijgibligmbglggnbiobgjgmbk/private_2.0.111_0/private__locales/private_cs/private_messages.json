@@ -1,0 +1,2393 @@
+{
+   "NoteStationClipperSECTIONappKEYdescription": {
+      "message": "Program Synology Web Clipper ukládá obsah webu na vaše zařízení Synology NAS, aby byl snadno a rychle přístupný. Lze ukládat úpl..."
+   },
+   "NoteStationClipperSECTIONappKEYdescription_detail": {
+      "message": "Nástroj Synology Web Clipper vytvoří klip webového obsahu a uloží jej na váš Synology NAS. Lze ukládat úplnou webovou stránku obsahující text, obrázky a odkazy. Zbavte se uspořádávání nepřeberného množství panelů prohlížeče a záložek. Díky aplikaci Synology Web Clipper máte snadný a rychlý přístup k obsahovým klipům pomocí Note Station. V rámci správy klipů s obsahem k nim můžete přidávat značky a komentáře."
+   },
+   "NoteStationClipperSECTIONappKEYdisplayname": {
+      "message": "Synology Web Clipper"
+   },
+   "NoteStationClipperSECTIONcaptureKEYez_capture_mode": {
+      "message": "Zapnout režim rychlého vytváření"
+   },
+   "NoteStationClipperSECTIONcaptureKEYgmail_thread": {
+      "message": "Email Content"
+   },
+   "NoteStationClipperSECTIONcaptureKEYonly_mail_title": {
+      "message": "Není vybrána žádná zpráva. Uloží se pouze předmět e-mailu. Chcete pokračovat?"
+   },
+   "NoteStationClipperSECTIONcaptureKEYscreenshot": {
+      "message": "Kopie obrazovky"
+   },
+   "NoteStationClipperSECTIONcaptureKEYsimplify_content": {
+      "message": "Zjednodušený obsah"
+   },
+   "NoteStationClipperSECTIONcaptureKEYwhole_content": {
+      "message": "Úplný obsah"
+   },
+   "NoteStationClipperSECTIONcaptureKEYwhole_screenshot": {
+      "message": "Úplná kopie stránky"
+   },
+   "NoteStationClipperSECTIONcommonKEYapply": {
+      "message": "OK"
+   },
+   "NoteStationClipperSECTIONcommonKEYcommfail": {
+      "message": "Připojení se nezdařilo. Zkontrolujte nastavení sítě."
+   },
+   "NoteStationClipperSECTIONcommonKEYcommon_settings": {
+      "message": "Nastavení"
+   },
+   "NoteStationClipperSECTIONcommonKEYenter_otp_desc": {
+      "message": "Zadat 6místný kód"
+   },
+   "NoteStationClipperSECTIONcommonKEYerror_system": {
+      "message": "Tuto operaci nelze provést, pravděpodobně z důvodu nestabilního připojení k síti. Přihlaste se do systému {0} znovu později."
+   },
+   "NoteStationClipperSECTIONcommonKEYloading": {
+      "message": "Načítání..."
+   },
+   "NoteStationClipperSECTIONcommonKEYlogin": {
+      "message": "Přihl."
+   },
+   "NoteStationClipperSECTIONcommonKEYlogout": {
+      "message": "Odhlásit"
+   },
+   "NoteStationClipperSECTIONcommonKEYmsg_waiting": {
+      "message": "Zpracování. Počkejte prosím..."
+   },
+   "NoteStationClipperSECTIONcommonKEYpassword": {
+      "message": "Heslo"
+   },
+   "NoteStationClipperSECTIONcommonKEYsave": {
+      "message": "Uložit"
+   },
+   "NoteStationClipperSECTIONcommonKEYusername": {
+      "message": "Uživatelské jméno"
+   },
+   "NoteStationClipperSECTIONloginKEYenter_otp_desc": {
+      "message": "Zadat 6místný kód"
+   },
+   "NoteStationClipperSECTIONloginKEYerror_cantlogin": {
+      "message": "Účet nebo heslo není platné. Zkuste to znovu."
+   },
+   "NoteStationClipperSECTIONloginKEYerror_otp_failed": {
+      "message": "Nesprávný ověřovací kód. Opakujte akci později."
+   },
+   "NoteStationClipperSECTIONloginKEYmail_service_not_enable": {
+      "message": "Služba upozornění e-mailem není povolena. O obnovení hesla požádejte svého správce."
+   },
+   "NoteStationClipperSECTIONloginKEYno_mail_address": {
+      "message": "No mail address found for this username."
+   },
+   "NoteStationClipperSECTIONloginKEYotp_lost_phone_desc": {
+      "message": "Ztratili jste telefon?"
+   },
+   "NoteStationClipperSECTIONloginKEYotp_mail_success": {
+      "message": "Na vaši e-mailovou adresu byl odeslán nouzový kód."
+   },
+   "NoteStationClipperSECTIONloginKEYotp_no_emergency_code": {
+      "message": "Dosáhli jste maximálního počtu nouzových kódů. Obraťte se na správce systému."
+   },
+   "NoteStationClipperSECTIONloginKEYotp_wrong_input_format": {
+      "message": "Zadejte 6místný ověřovací kód nebo 8místný nouzový kód."
+   },
+   "NoteStationClipperSECTIONloginKEYtrust_device": {
+      "message": "Důvěřovat tomuto zařízení"
+   },
+   "NoteStationClipperSECTIONloginKEYunknown_otp_err": {
+      "message": "Došlo k chybě. Obraťte se na správce systému."
+   },
+   "NoteStationClipperSECTIONmailKEYattachment": {
+      "message": "Attachment"
+   },
+   "NoteStationClipperSECTIONmailKEYpeople_involved": {
+      "message": "People Involved"
+   },
+   "NoteStationClipperSECTIONmailKEYsubject": {
+      "message": "Předmět"
+   },
+   "NoteStationClipperSECTIONmessageKEYcapture_fail": {
+      "message": "Vytvoření klipu se nezdařilo"
+   },
+   "NoteStationClipperSECTIONmessageKEYcapture_success": {
+      "message": "Vytvoření klipu proběhlo úspěšně"
+   },
+   "NoteStationClipperSECTIONmessageKEYerror_clipper_open_fail": {
+      "message": "Na této stránce nebylo možné spustit Synology Web Clipper. Obnovte stránku a zkuste to znovu."
+   },
+   "NoteStationClipperSECTIONmessageKEYerror_https_certificate": {
+      "message": "Neověřený bezpečnostní certifikát. Přejděte na {0} pro potvrzení tohoto připojení. Chcete přejít nyní?"
+   },
+   "NoteStationClipperSECTIONmessageKEYerror_install_note_station": {
+      "message": "Nebylo možné se přihlásit. Nainstalujte a aktivujte Note Station v DSM."
+   },
+   "NoteStationClipperSECTIONmessageKEYerror_upgrade_note_station": {
+      "message": "Vaše verze Note Station je zastaralá. Přejděte do části Centrum balíčků a aktualizujte Note Station."
+   },
+   "NoteStationClipperSECTIONmessageKEYerror_user_home_disabled": {
+      "message": "Služba „Složka uživatele“ je nyní neaktivní. Aktivujte službu „Složka uživatele“ v DSM a opakujte akci."
+   },
+   "NoteStationClipperSECTIONmessageKEYhint_add_comment": {
+      "message": "Přidat komentář"
+   },
+   "NoteStationClipperSECTIONmessageKEYhint_add_tag": {
+      "message": "Přidat značku"
+   },
+   "NoteStationClipperSECTIONmessageKEYhint_hostname": {
+      "message": "NAS IP/QuickConnect ID"
+   },
+   "NoteStationClipperSECTIONquickconnectKEYcannot_connect_to_ds": {
+      "message": "Nelze se připojit k vašemu zařízení Synology NAS. Ověřte, zda je správné QuickConnect ID a zda se můžete připojit ke svému zařízení Synology NAS."
+   },
+   "NoteStationClipperSECTIONquickconnectKEYcannot_connect_to_global": {
+      "message": "Nelze připojit k serveru QuickConnect. Opakujte akci později."
+   },
+   "NoteStationClipperSECTIONquickconnectKEYcannot_request_tunnel": {
+      "message": "Nelze navázat spojení pomocí funkce QuickConnect. Ověřte, zda jsou nastavení QuickConnect správná a zda je chování sítě v pořádku."
+   },
+   "NoteStationClipperSECTIONsettingKEYaccount": {
+      "message": "Účet"
+   },
+   "NoteStationClipperSECTIONsettingKEYdisk_station": {
+      "message": "Synology NAS"
+   },
+   "NoteStationClipperSECTIONsettingKEYfeedback": {
+      "message": "Reakce"
+   },
+   "NoteStationClipperSECTIONsettingKEYversion": {
+      "message": "Verze"
+   },
+   "NoteStationClipperSECTIONtooltipKEYsearch": {
+      "message": "Hledat"
+   },
+   "NoteStationSECTIONappKEYdescription": {
+      "message": "Díky Note Station si můžete plně užívat psaní, zobrazování, správu a sdílení obsahově bohatých poznámek. Je velmi snadné vytváře..."
+   },
+   "NoteStationSECTIONappKEYdisplayname": {
+      "message": "Note Station"
+   },
+   "NoteStationSECTIONappKEYopen_in_note_station": {
+      "message": "Otevřít ve službě Note Station"
+   },
+   "NoteStationSECTIONappKEYwz_rm_repo_chkbox": {
+      "message": "Trvale databázi odstranit"
+   },
+   "NoteStationSECTIONappKEYwz_rm_repo_desc": {
+      "message": "Trvale odstraní databázi Note Station. Tato data nelze obnovit."
+   },
+   "NoteStationSECTIONappKEYwz_rm_repo_title": {
+      "message": "Odstranit databázi Note Station"
+   },
+   "NoteStationSECTIONcategoryKEYall_joined_notes": {
+      "message": "Připojené poznámky"
+   },
+   "NoteStationSECTIONcategoryKEYall_notes": {
+      "message": "Všechny poznámky"
+   },
+   "NoteStationSECTIONcategoryKEYall_shared_notes": {
+      "message": "Sdílené poznámky"
+   },
+   "NoteStationSECTIONcategoryKEYarchive": {
+      "message": "Archivovat poznámkové bloky"
+   },
+   "NoteStationSECTIONcategoryKEYjoined": {
+      "message": "Připojené poznámkové bloky"
+   },
+   "NoteStationSECTIONcategoryKEYnotebook": {
+      "message": "Poznámkové bloky"
+   },
+   "NoteStationSECTIONcategoryKEYrecycle": {
+      "message": "Koš"
+   },
+   "NoteStationSECTIONcategoryKEYshortcut": {
+      "message": "Oblíbené"
+   },
+   "NoteStationSECTIONcategoryKEYsmart": {
+      "message": "Chytré poznámkové bloky"
+   },
+   "NoteStationSECTIONcategoryKEYtag": {
+      "message": "Značky"
+   },
+   "NoteStationSECTIONcategoryKEYtodo_task": {
+      "message": "Seznam úkolů"
+   },
+   "NoteStationSECTIONchartKEYchart_property": {
+      "message": "Vlastnost"
+   },
+   "NoteStationSECTIONchartKEYchart_size": {
+      "message": "Velikost (v pixelech)"
+   },
+   "NoteStationSECTIONchartKEYchart_title": {
+      "message": "Název"
+   },
+   "NoteStationSECTIONchartKEYclone": {
+      "message": "Klonovat"
+   },
+   "NoteStationSECTIONchartKEYdata": {
+      "message": "Data"
+   },
+   "NoteStationSECTIONchartKEYdata_direction": {
+      "message": "Kategorie (jako osa X)"
+   },
+   "NoteStationSECTIONchartKEYdata_direction_by_column": {
+      "message": "Řádek"
+   },
+   "NoteStationSECTIONchartKEYdata_direction_by_row": {
+      "message": "Sloupec"
+   },
+   "NoteStationSECTIONchartKEYdata_header": {
+      "message": "Záhlaví"
+   },
+   "NoteStationSECTIONchartKEYdata_header_first_column": {
+      "message": "Sloupec zcela vlevo"
+   },
+   "NoteStationSECTIONchartKEYdata_header_first_row": {
+      "message": "Řádek nahoře"
+   },
+   "NoteStationSECTIONchartKEYdata_range": {
+      "message": "Rozsah"
+   },
+   "NoteStationSECTIONchartKEYinsert_number": {
+      "message": "Množství"
+   },
+   "NoteStationSECTIONchartKEYinsert_position": {
+      "message": "Pozice"
+   },
+   "NoteStationSECTIONchartKEYinvalid_must_between": {
+      "message": "Musí být mezi {0} a {1}."
+   },
+   "NoteStationSECTIONchartKEYmenu_delete_columns": {
+      "message": "Odstranit sloupce"
+   },
+   "NoteStationSECTIONchartKEYmenu_delete_rows": {
+      "message": "Odstranit řádky"
+   },
+   "NoteStationSECTIONchartKEYmenu_insert_column_left": {
+      "message": "Vložit 1 doleva"
+   },
+   "NoteStationSECTIONchartKEYmenu_insert_column_right": {
+      "message": "Vložit 1 doprava"
+   },
+   "NoteStationSECTIONchartKEYmenu_insert_multi_columns": {
+      "message": "Vložit více sloupců"
+   },
+   "NoteStationSECTIONchartKEYmenu_insert_multi_rows": {
+      "message": "Vložit více řad"
+   },
+   "NoteStationSECTIONchartKEYmenu_insert_row_above": {
+      "message": "Vložit 1 nahoru"
+   },
+   "NoteStationSECTIONchartKEYmenu_insert_row_below": {
+      "message": "Vložit 1 dolů"
+   },
+   "NoteStationSECTIONchartKEYposition_above": {
+      "message": "Nad"
+   },
+   "NoteStationSECTIONchartKEYposition_below": {
+      "message": "Pod"
+   },
+   "NoteStationSECTIONchartKEYposition_left": {
+      "message": "Doleva"
+   },
+   "NoteStationSECTIONchartKEYposition_right": {
+      "message": "Doprava"
+   },
+   "NoteStationSECTIONchartKEYremove_all_column_notify": {
+      "message": "Nelze odstranit všechny sloupce na listu."
+   },
+   "NoteStationSECTIONchartKEYremove_all_row_notify": {
+      "message": "Nelze odstranit všechny řádky na listu."
+   },
+   "NoteStationSECTIONchartKEYtab_title_chart": {
+      "message": "Graf"
+   },
+   "NoteStationSECTIONchartKEYtab_title_config": {
+      "message": "Nastavení"
+   },
+   "NoteStationSECTIONchartKEYtitle": {
+      "message": "Editor grafu"
+   },
+   "NoteStationSECTIONchartKEYtype": {
+      "message": "Typ"
+   },
+   "NoteStationSECTIONchartKEYx_axis_title": {
+      "message": "Název osy X"
+   },
+   "NoteStationSECTIONchartKEYy_axis_title": {
+      "message": "Název osy Y"
+   },
+   "NoteStationSECTIONclipperKEYfail": {
+      "message": "Clip fail"
+   },
+   "NoteStationSECTIONclipperKEYprocessing": {
+      "message": "Clipping webpage"
+   },
+   "NoteStationSECTIONcommonKEYaction": {
+      "message": "Odebrat"
+   },
+   "NoteStationSECTIONcommonKEYadd": {
+      "message": "Přidat"
+   },
+   "NoteStationSECTIONcommonKEYadd_to_shortcut": {
+      "message": "Přidat do oblíbených"
+   },
+   "NoteStationSECTIONcommonKEYadd_to_stack": {
+      "message": "Přidat do regálu"
+   },
+   "NoteStationSECTIONcommonKEYcancel": {
+      "message": "Storno"
+   },
+   "NoteStationSECTIONcommonKEYchange_password": {
+      "message": "Změnit heslo"
+   },
+   "NoteStationSECTIONcommonKEYchange_password_tip": {
+      "message": "Nové heslo se vztahuje pouze na nové kopie této poznámky. Původní poznámka bude stále šifrována pomocí nového hesla."
+   },
+   "NoteStationSECTIONcommonKEYclose": {
+      "message": "Zavřít"
+   },
+   "NoteStationSECTIONcommonKEYcolon": {
+      "message": ":"
+   },
+   "NoteStationSECTIONcommonKEYconfirm_leave": {
+      "message": "Právě se odhlašujete ze systému DSM nebo aktualizujete tuto stránku. Budete-li pokračovat, dojde ke zrušení všech spuštěných úloh a neuložené změny budou ztraceny. Opravdu chcete pokračovat?"
+   },
+   "NoteStationSECTIONcommonKEYconfirm_password": {
+      "message": "Potvrdit heslo"
+   },
+   "NoteStationSECTIONcommonKEYcopy": {
+      "message": "Kopírovat"
+   },
+   "NoteStationSECTIONcommonKEYcreate": {
+      "message": "Vytvořit"
+   },
+   "NoteStationSECTIONcommonKEYdate_format_with_year": {
+      "message": "{2}, {1} {0}"
+   },
+   "NoteStationSECTIONcommonKEYdecrypt": {
+      "message": "Dešifrovat"
+   },
+   "NoteStationSECTIONcommonKEYdelete": {
+      "message": "Odstranit"
+   },
+   "NoteStationSECTIONcommonKEYdifferent_values": {
+      "message": "[Více položek...]"
+   },
+   "NoteStationSECTIONcommonKEYdone": {
+      "message": "Hotovo"
+   },
+   "NoteStationSECTIONcommonKEYduplicate": {
+      "message": "Duplikovat"
+   },
+   "NoteStationSECTIONcommonKEYedit": {
+      "message": "Upravit"
+   },
+   "NoteStationSECTIONcommonKEYempty_recycle": {
+      "message": "Vyprázdnit koš"
+   },
+   "NoteStationSECTIONcommonKEYencrypt": {
+      "message": "Šifrovat"
+   },
+   "NoteStationSECTIONcommonKEYenter_password": {
+      "message": "Zadejte heslo"
+   },
+   "NoteStationSECTIONcommonKEYextra": {
+      "message": "Extra"
+   },
+   "NoteStationSECTIONcommonKEYhere": {
+      "message": "Zde"
+   },
+   "NoteStationSECTIONcommonKEYleave": {
+      "message": "Odejít"
+   },
+   "NoteStationSECTIONcommonKEYloading": {
+      "message": "Načítání..."
+   },
+   "NoteStationSECTIONcommonKEYmove": {
+      "message": "Přesunout"
+   },
+   "NoteStationSECTIONcommonKEYname": {
+      "message": "Název"
+   },
+   "NoteStationSECTIONcommonKEYnew_password": {
+      "message": "Nové heslo"
+   },
+   "NoteStationSECTIONcommonKEYnote_link_in_recycle": {
+      "message": "Note has been deleted"
+   },
+   "NoteStationSECTIONcommonKEYok": {
+      "message": "OK"
+   },
+   "NoteStationSECTIONcommonKEYopen_note_in_new_tab": {
+      "message": "Otevřít poznámku na nové kartě"
+   },
+   "NoteStationSECTIONcommonKEYowner": {
+      "message": "Vlastník"
+   },
+   "NoteStationSECTIONcommonKEYplease_select_item": {
+      "message": "Kliknutím na položku v libovolné kategorii spustíte procházení."
+   },
+   "NoteStationSECTIONcommonKEYpreview": {
+      "message": "Náhled"
+   },
+   "NoteStationSECTIONcommonKEYprint": {
+      "message": "Tisk"
+   },
+   "NoteStationSECTIONcommonKEYrecord_audio": {
+      "message": "Záznam zvuku"
+   },
+   "NoteStationSECTIONcommonKEYrefresh": {
+      "message": "Aktualizovat"
+   },
+   "NoteStationSECTIONcommonKEYremove_from_stack": {
+      "message": "Odstranit z regálu"
+   },
+   "NoteStationSECTIONcommonKEYrename": {
+      "message": "Přejmenovat"
+   },
+   "NoteStationSECTIONcommonKEYreset": {
+      "message": "Obnovit"
+   },
+   "NoteStationSECTIONcommonKEYrestore": {
+      "message": "Obnovit"
+   },
+   "NoteStationSECTIONcommonKEYsearch": {
+      "message": "Hledat"
+   },
+   "NoteStationSECTIONcommonKEYsearch_todo_tasks": {
+      "message": "Prohledat seznam úkolů"
+   },
+   "NoteStationSECTIONcommonKEYsend_as_mail": {
+      "message": "Odeslat jako e-mail"
+   },
+   "NoteStationSECTIONcommonKEYset_as_preset": {
+      "message": "Nastavit jako výchozí poznámkový blok"
+   },
+   "NoteStationSECTIONcommonKEYsetting": {
+      "message": "Nastavení"
+   },
+   "NoteStationSECTIONcommonKEYshare": {
+      "message": "Sdílet"
+   },
+   "NoteStationSECTIONcommonKEYsize": {
+      "message": "Velikost"
+   },
+   "NoteStationSECTIONcommonKEYskip_notify": {
+      "message": "Tento dotaz již nezobrazovat"
+   },
+   "NoteStationSECTIONcommonKEYsync": {
+      "message": "Synchronizovat"
+   },
+   "NoteStationSECTIONcommonKEYuser_or_group": {
+      "message": "Uživatel/skupina"
+   },
+   "NoteStationSECTIONcommonKEYusername": {
+      "message": "Uživatelské jméno"
+   },
+   "NoteStationSECTIONcommonKEYweekday_0": {
+      "message": "Ne"
+   },
+   "NoteStationSECTIONcommonKEYweekday_1": {
+      "message": "Po"
+   },
+   "NoteStationSECTIONcommonKEYweekday_2": {
+      "message": "Út"
+   },
+   "NoteStationSECTIONconflictKEYcurrent_version": {
+      "message": "Moje verze"
+   },
+   "NoteStationSECTIONconflictKEYduplicate": {
+      "message": "Vytvořit novou poznámku pomocí mojí verze"
+   },
+   "NoteStationSECTIONconflictKEYlatest_version": {
+      "message": "Nejnovější verze"
+   },
+   "NoteStationSECTIONconflictKEYoverwrite": {
+      "message": "Zachovat moji verzi"
+   },
+   "NoteStationSECTIONconflictKEYreadme": {
+      "message": "Vaše poznámka se liší od nejnovější verze uložené v zařízení Synology NAS. Kterou verzi chcete zachovat?"
+   },
+   "NoteStationSECTIONconflictKEYskip": {
+      "message": "Zachovat nejnovější verzi"
+   },
+   "NoteStationSECTIONconflictKEYtitle": {
+      "message": "Konflikt verzí"
+   },
+   "NoteStationSECTIONddKEYmulti_items": {
+      "message": "Více položek ({0})"
+   },
+   "NoteStationSECTIONeditorKEYcontent": {
+      "message": "Tělo"
+   },
+   "NoteStationSECTIONeditorKEYcustom_color": {
+      "message": "Vlastní"
+   },
+   "NoteStationSECTIONeditorKEYcustom_color_win_title": {
+      "message": "Vlastní barva"
+   },
+   "NoteStationSECTIONeditorKEYdrop_to_copy": {
+      "message": "Vložit sem"
+   },
+   "NoteStationSECTIONeditorKEYheading": {
+      "message": "Záhlaví"
+   },
+   "NoteStationSECTIONeditorKEYsearch_status": {
+      "message": "{0} z {1}"
+   },
+   "NoteStationSECTIONeditorKEYupload_processing": {
+      "message": "Zpracování"
+   },
+   "NoteStationSECTIONeditorKEYupload_waiting": {
+      "message": "Čekání"
+   },
+   "NoteStationSECTIONerrorKEYalready_in_shortcut": {
+      "message": "Již existuje v části Oblíbené."
+   },
+   "NoteStationSECTIONerrorKEYbackuping": {
+      "message": "Provádí se zálohování dat. Zkuste to znovu později."
+   },
+   "NoteStationSECTIONerrorKEYcannot_delete_preset": {
+      "message": "Nelze odstranit výchozí poznámkový blok."
+   },
+   "NoteStationSECTIONerrorKEYchange_volume_fail": {
+      "message": "Přesunutí dat do svazku {0} se nezdařilo. Příčina: {1}"
+   },
+   "NoteStationSECTIONerrorKEYcompress_fail": {
+      "message": "Nelze vytvořit soubor pro export do Note Station."
+   },
+   "NoteStationSECTIONerrorKEYcopy_note_link": {
+      "message": "Stisknutím kláves Ctrl+C/Command+C zkopírujte následující odkaz."
+   },
+   "NoteStationSECTIONerrorKEYcopy_share_link": {
+      "message": "Stisknutím kláves Ctrl+C/Command+C zkopírujte odkaz."
+   },
+   "NoteStationSECTIONerrorKEYdefault_create_fail": {
+      "message": "„Složka uživatele“ je nyní zakázaná. Nejdříve přejděte na stránku „Uživatel“ a povolte ji."
+   },
+   "NoteStationSECTIONerrorKEYdefault_create_fail_directory": {
+      "message": "Služba Složka uživatele je nyní neaktivní. Přejděte do části Ovládací panel > Uživatel > Upřesnit, kde ji povolíte."
+   },
+   "NoteStationSECTIONerrorKEYdrive_get_failed": {
+      "message": "Poznámka nebo poznámkový blok není dostupný. Ověřte nastavení oprávnění."
+   },
+   "NoteStationSECTIONerrorKEYerror_demo": {
+      "message": "Tato funkce není v ukázkovém režimu k dispozici."
+   },
+   "NoteStationSECTIONerrorKEYerror_filename": {
+      "message": "Vybrali jste soubor s chybnou příponou. Zkontrolujte, zda je přípona souboru \".nsx\" (nezáleží na velikosti písmen)."
+   },
+   "NoteStationSECTIONerrorKEYerror_format": {
+      "message": "Nepodporovaný formát."
+   },
+   "NoteStationSECTIONerrorKEYerror_no_such_user": {
+      "message": "Uživatelský účet již existuje."
+   },
+   "NoteStationSECTIONerrorKEYerror_ns_disabled": {
+      "message": "Note Station je zakázaná."
+   },
+   "NoteStationSECTIONerrorKEYerror_synodrive": {
+      "message": "Přístup dat se nezdařil."
+   },
+   "NoteStationSECTIONerrorKEYerror_system": {
+      "message": "Operace se nezdařila."
+   },
+   "NoteStationSECTIONerrorKEYexport_no_select_notebook": {
+      "message": "Vyberte alespoň jeden poznámkový blok."
+   },
+   "NoteStationSECTIONerrorKEYexport_no_select_target": {
+      "message": "Vyberte alespoň jednu položku pro export."
+   },
+   "NoteStationSECTIONerrorKEYexport_op_fail": {
+      "message": "Exportování se nezdařilo. Opakujte akci později."
+   },
+   "NoteStationSECTIONerrorKEYextract_fail": {
+      "message": "Vybraný nsx soubor je poškozený. Vyberte jiný nsx soubor a zkuste to znovu."
+   },
+   "NoteStationSECTIONerrorKEYfeature_in_https_only": {
+      "message": "Záznam zvuku se nezdařil. Připojte se k zařízení _DISKSTATION_ znovu pomocí protokolu HTTPS a proveďte záznam."
+   },
+   "NoteStationSECTIONerrorKEYgeolocation_failed": {
+      "message": "Služba určování zeměpisné polohy se nezdařila."
+   },
+   "NoteStationSECTIONerrorKEYgeolocation_not_support": {
+      "message": "Váš prohlížeč nepodporuje služby určování zeměpisné polohy."
+   },
+   "NoteStationSECTIONerrorKEYimport_evernote_auth_fail": {
+      "message": "Přístup k aplikaci Evernote se nezdařil. Opětovným ověřením vytvořte přístup Note Station k aplikaci Evernote a opakujte akci."
+   },
+   "NoteStationSECTIONerrorKEYimport_export_not_running": {
+      "message": "Žádný úkol exportu ani importu není spuštěn."
+   },
+   "NoteStationSECTIONerrorKEYimport_export_running": {
+      "message": "Probíhá jiný úkol exportu nebo importu. Opakujte akci později."
+   },
+   "NoteStationSECTIONerrorKEYimport_no_select_notebook": {
+      "message": "Vyberte alespoň jeden poznámkový blok."
+   },
+   "NoteStationSECTIONerrorKEYimport_op_fail": {
+      "message": "Importování se nezdařilo. Opakujte akci později."
+   },
+   "NoteStationSECTIONerrorKEYimport_reach_limit": {
+      "message": "Bylo dosaženo kvóty synchronizace aplikace Evernote, nelze pokračovat v úloze importu. Opakujte akci později."
+   },
+   "NoteStationSECTIONerrorKEYimport_unknown": {
+      "message": "Neznámá chyba:"
+   },
+   "NoteStationSECTIONerrorKEYlatest_chrome_or_firefox": {
+      "message": "Zvuk zaznamenáte pomocí nejnovější verze prohlížeče Google Chrome nebo Mozilla Firefox."
+   },
+   "NoteStationSECTIONerrorKEYloadsetting_fail": {
+      "message": "Nepodařilo se načíst nastavení systému."
+   },
+   "NoteStationSECTIONerrorKEYmaintenance": {
+      "message": "Právě probíhá údržba služby Note Station. Zkuste to znovu později."
+   },
+   "NoteStationSECTIONerrorKEYmoving_data": {
+      "message": "Note Station is changing volume now, please try again later."
+   },
+   "NoteStationSECTIONerrorKEYno_available_notebook": {
+      "message": "Není k dispozici žádný poznámkový blok."
+   },
+   "NoteStationSECTIONerrorKEYno_enough_space": {
+      "message": "Operace se nezdařila, protože na svazku není k dispozici dostatek místa."
+   },
+   "NoteStationSECTIONerrorKEYnote_conflict": {
+      "message": "Note version conflict"
+   },
+   "NoteStationSECTIONerrorKEYnote_link_in_preview": {
+      "message": "V historických verzích nemohou fungovat propojení."
+   },
+   "NoteStationSECTIONerrorKEYnote_not_exist": {
+      "message": "Vybraná poznámka neexistuje."
+   },
+   "NoteStationSECTIONerrorKEYnote_not_in_recycle": {
+      "message": "Tato poznámka není v koši."
+   },
+   "NoteStationSECTIONerrorKEYobject_no_permission": {
+      "message": "Pro přístup k této položce nemáte dostatečná oprávnění."
+   },
+   "NoteStationSECTIONerrorKEYobject_not_exist": {
+      "message": "Tento poznámkový blok nebo poznámka neexistuje."
+   },
+   "NoteStationSECTIONerrorKEYperm_op_fail": {
+      "message": "Oprávnění se nepodařilo změnit."
+   },
+   "NoteStationSECTIONerrorKEYpreset_already_exist": {
+      "message": "Výchozí poznámkový blok již existuje."
+   },
+   "NoteStationSECTIONerrorKEYrecord_device_no_found": {
+      "message": "Nebyl nalezen žádný mikrofon. Připojte mikrofon a ověřte nastavení zařízení."
+   },
+   "NoteStationSECTIONerrorKEYrecord_perm_deny": {
+      "message": "Přístup k mikrofonu byl zamítnut. Pravděpodobně nemáte dostatečná oprávnění."
+   },
+   "NoteStationSECTIONerrorKEYrecord_unknown": {
+      "message": "Neznámá chyba:"
+   },
+   "NoteStationSECTIONerrorKEYsave": {
+      "message": "Uložení selhalo. Zkuste to znovu později."
+   },
+   "NoteStationSECTIONerrorKEYspace_not_enough": {
+      "message": "Na cílovém svazku není dostatek místa."
+   },
+   "NoteStationSECTIONerrorKEYtag_conflict": {
+      "message": "Značka na stejné úrovni již existuje."
+   },
+   "NoteStationSECTIONerrorKEYvolume_moving": {
+      "message": "Služba Note Station přesouvá data do jiného svazku. Zkuste to znovu později."
+   },
+   "NoteStationSECTIONerror_backupKEYerr_backup_version": {
+      "message": "Nesprávná verze zálohy."
+   },
+   "NoteStationSECTIONerror_backupKEYerr_estimate_dir": {
+      "message": "Odhad velikosti dat zálohy se nezdařil."
+   },
+   "NoteStationSECTIONerror_backupKEYerr_export_repo": {
+      "message": "Export dat se nezdařil."
+   },
+   "NoteStationSECTIONerror_backupKEYerr_export_setting": {
+      "message": "Export nastavení se nezdařil"
+   },
+   "NoteStationSECTIONerror_backupKEYerr_home_share": {
+      "message": "Vyhledání adresáře uživatele se nezdařilo Přesvědčte se, jestli je povolená služba uživatele."
+   },
+   "NoteStationSECTIONerror_backupKEYerr_import_repo": {
+      "message": "Import dat se nezdařil."
+   },
+   "NoteStationSECTIONerror_backupKEYerr_import_setting": {
+      "message": "Import nastavení se nezdařil."
+   },
+   "NoteStationSECTIONerror_backupKEYerr_init_failed": {
+      "message": "Inicializace zálohování se nezdařila."
+   },
+   "NoteStationSECTIONerror_backupKEYerr_no_space": {
+      "message": "Na disku není dostatek místa pro obnovení dat."
+   },
+   "NoteStationSECTIONexportKEYconfig": {
+      "message": "Export poznámkových bloků"
+   },
+   "NoteStationSECTIONexportKEYconfig_desc": {
+      "message": "Export poznámkových bloků za účelem zálohování nebo importu na jiný Synology NAS."
+   },
+   "NoteStationSECTIONexportKEYctime": {
+      "message": "Čas vytvoření"
+   },
+   "NoteStationSECTIONexportKEYdescription": {
+      "message": "Exportováním poznámkových bloků nebo seznamů úkolů je možné zálohovat důležitá data nebo je importovat do jiného zařízení Synology NAS."
+   },
+   "NoteStationSECTIONexportKEYdest": {
+      "message": "Destination folder"
+   },
+   "NoteStationSECTIONexportKEYdest_desc": {
+      "message": "Please choose output folder"
+   },
+   "NoteStationSECTIONexportKEYexporting": {
+      "message": "Exportování"
+   },
+   "NoteStationSECTIONexportKEYguideline": {
+      "message": "Vybrané poznámkové bloky nebo seznamy úkolů se budou při zálohování exportovat jako soubor .nsx a lze je importovat do jiného zařízení Synology NAS."
+   },
+   "NoteStationSECTIONexportKEYmtime": {
+      "message": "Čas úpravy"
+   },
+   "NoteStationSECTIONexportKEYnote": {
+      "message": "Exportovat poznámku jako archiv .zip"
+   },
+   "NoteStationSECTIONexportKEYnotebook": {
+      "message": "Exportování"
+   },
+   "NoteStationSECTIONexportKEYnotebook_display": {
+      "message": "Export vybraných poznámkových bloků do nsx souboru na Note Station za účelem zálohování nebo importu na jiný Synology NAS."
+   },
+   "NoteStationSECTIONexportKEYnotebook_title": {
+      "message": "Název poznámkového bloku"
+   },
+   "NoteStationSECTIONexportKEYpersonal_config": {
+      "message": "Keep personal settings"
+   },
+   "NoteStationSECTIONexportKEYselect_notebook": {
+      "message": "Vybrat poznámkové bloky"
+   },
+   "NoteStationSECTIONexportKEYselect_notebook_desc": {
+      "message": "Please select export notebooks"
+   },
+   "NoteStationSECTIONexportKEYtarget_desc": {
+      "message": "Vyberte položky, které chcete exportovat"
+   },
+   "NoteStationSECTIONexportKEYtarget_notebook": {
+      "message": "Poznámkový blok"
+   },
+   "NoteStationSECTIONexportKEYtitle": {
+      "message": "Exportovat poznámkové bloky nebo seznamy úkolů"
+   },
+   "NoteStationSECTIONexportKEYtodo_list": {
+      "message": "Seznam úkolů"
+   },
+   "NoteStationSECTIONexportKEYword": {
+      "message": "Exportovat jako .docx"
+   },
+   "NoteStationSECTIONfiletableKEYdrop_file": {
+      "message": "Umístit soubory sem"
+   },
+   "NoteStationSECTIONhistoryKEYcopy_to_new_note": {
+      "message": "Kopírovat do nové poznámky"
+   },
+   "NoteStationSECTIONhistoryKEYdevice_name": {
+      "message": "Zařízení"
+   },
+   "NoteStationSECTIONhistoryKEYmodify_time": {
+      "message": "Čas změny"
+   },
+   "NoteStationSECTIONhistoryKEYrestore": {
+      "message": "Obnovit"
+   },
+   "NoteStationSECTIONhistoryKEYusername": {
+      "message": "Uživatelské jméno"
+   },
+   "NoteStationSECTIONhistoryKEYversion": {
+      "message": "Verze"
+   },
+   "NoteStationSECTIONimportKEYcalculating": {
+      "message": "Zpracování"
+   },
+   "NoteStationSECTIONimportKEYcancel_import": {
+      "message": "Zrušit import"
+   },
+   "NoteStationSECTIONimportKEYconfirm_cancel_import": {
+      "message": "Je spuštěna jiná relace nebo úloha importu. Budete-li pokračovat, zrušíte všechny spuštěné úlohy. Opravdu chcete pokračovat?"
+   },
+   "NoteStationSECTIONimportKEYctime": {
+      "message": "Čas vytvoření"
+   },
+   "NoteStationSECTIONimportKEYevernote_config": {
+      "message": "Importovat poznámkové bloky"
+   },
+   "NoteStationSECTIONimportKEYevernote_server": {
+      "message": "Vybrat server"
+   },
+   "NoteStationSECTIONimportKEYget_access_right": {
+      "message": "Vyžádat ověření Evernote"
+   },
+   "NoteStationSECTIONimportKEYget_access_right_btn": {
+      "message": "Vyžádat ověření Evernote"
+   },
+   "NoteStationSECTIONimportKEYget_access_right_desc": {
+      "message": "Chcete-li importovat poznámkové bloky z aplikace Evernote, přihlaste se do aplikace Evernote a ověřte přístup aplikace Note Station k vašemu účtu. Note Station vás přesměruje do aplikace Evernote."
+   },
+   "NoteStationSECTIONimportKEYimport_from_enex": {
+      "message": "Importovat"
+   },
+   "NoteStationSECTIONimportKEYimport_from_enex_display": {
+      "message": "Importovat poznámkové bloky ze souboru .enex aplikace Evernote."
+   },
+   "NoteStationSECTIONimportKEYimport_from_evernote": {
+      "message": "Importovat z aplikace Evernote"
+   },
+   "NoteStationSECTIONimportKEYimport_from_evernote_display": {
+      "message": "Importujte poznámkové bloky z aplikace Evernote."
+   },
+   "NoteStationSECTIONimportKEYimport_from_notebook": {
+      "message": "Importovat"
+   },
+   "NoteStationSECTIONimportKEYimport_from_notebook_display": {
+      "message": "Importovat poznámkové bloky z nsx souboru aplikace Note Station. "
+   },
+   "NoteStationSECTIONimportKEYimport_wizard": {
+      "message": "Průvodce importem z aplikace Evernote"
+   },
+   "NoteStationSECTIONimportKEYimporting": {
+      "message": "Importování"
+   },
+   "NoteStationSECTIONimportKEYmerge_into_notebook": {
+      "message": "Sloučit poznámkové bloky se stejným názvem"
+   },
+   "NoteStationSECTIONimportKEYmtime": {
+      "message": "Čas úpravy"
+   },
+   "NoteStationSECTIONimportKEYnotebook_name": {
+      "message": "Název poznámkového bloku"
+   },
+   "NoteStationSECTIONimportKEYnotebook_stack": {
+      "message": "Nahromadit"
+   },
+   "NoteStationSECTIONimportKEYprepare_import": {
+      "message": "Příprava"
+   },
+   "NoteStationSECTIONimportKEYselect_notebook": {
+      "message": "Vybrat poznámkové bloky"
+   },
+   "NoteStationSECTIONimportKEYselect_notebook_desc": {
+      "message": "Vyberte, které poznámkové bloky chcete importovat."
+   },
+   "NoteStationSECTIONimportKEYtask_canceled": {
+      "message": "Úloha importu byla zrušena."
+   },
+   "NoteStationSECTIONimportKEYwait_evernote": {
+      "message": "Připojování..."
+   },
+   "NoteStationSECTIONimportKEYwaiting": {
+      "message": "Čekání"
+   },
+   "NoteStationSECTIONimportKEYyinxiang": {
+      "message": "YinXiangBiJi"
+   },
+   "NoteStationSECTIONimportingKEYwaiting": {
+      "message": "Limit rychlosti aplikace Evernote dosažen. Čekání na opakování... "
+   },
+   "NoteStationSECTIONinfoKEYbrief": {
+      "message": "Text"
+   },
+   "NoteStationSECTIONinfoKEYcopy_url": {
+      "message": "Kopírovat"
+   },
+   "NoteStationSECTIONinfoKEYcreated": {
+      "message": "Vytvořeno"
+   },
+   "NoteStationSECTIONinfoKEYdelete_gps": {
+      "message": "Odstranit údaje GPS"
+   },
+   "NoteStationSECTIONinfoKEYdelete_gps_message": {
+      "message": "Údaje GPS byly úspěšně odstraněny"
+   },
+   "NoteStationSECTIONinfoKEYhistory": {
+      "message": "Historie"
+   },
+   "NoteStationSECTIONinfoKEYlocation": {
+      "message": "Umístění"
+   },
+   "NoteStationSECTIONinfoKEYmodified": {
+      "message": "Změněno"
+   },
+   "NoteStationSECTIONinfoKEYnotebook": {
+      "message": "Poznámkový blok"
+   },
+   "NoteStationSECTIONinfoKEYset_coordinates": {
+      "message": "Nastavit umístění"
+   },
+   "NoteStationSECTIONinfoKEYsource_url": {
+      "message": "Připojit"
+   },
+   "NoteStationSECTIONinfoKEYtitle": {
+      "message": "Název"
+   },
+   "NoteStationSECTIONinfoKEYview_history": {
+      "message": "Historie zobrazení"
+   },
+   "NoteStationSECTIONjavaKEYjava_not_remind": {
+      "message": "Toto již nezobrazovat"
+   },
+   "NoteStationSECTIONnoteKEYarchive_delete": {
+      "message": "Odstraněné archivované poznámky se nepřesunou do koše. Opravdu chcete odstranit poznámky {0}?"
+   },
+   "NoteStationSECTIONnoteKEYcopy_link": {
+      "message": "Zkopírovat odkaz na poznámku"
+   },
+   "NoteStationSECTIONnoteKEYcopy_to_encrypt": {
+      "message": "Kopírovat do nové šifrované poznámky"
+   },
+   "NoteStationSECTIONnoteKEYcopy_to_unencrypt": {
+      "message": "Kopírovat do nešifrované poznámky"
+   },
+   "NoteStationSECTIONnoteKEYcreate": {
+      "message": "Vytvořit poznámku"
+   },
+   "NoteStationSECTIONnoteKEYcreate_encrypt": {
+      "message": "Vytvořit šifrovanou poznámku"
+   },
+   "NoteStationSECTIONnoteKEYcreate_encrypt_desc": {
+      "message": "Šifrovat tuto poznámku heslem."
+   },
+   "NoteStationSECTIONnoteKEYcreate_from_todo": {
+      "message": "Výstup úloh do"
+   },
+   "NoteStationSECTIONnoteKEYcreate_in": {
+      "message": "Vytvořit poznámku v..."
+   },
+   "NoteStationSECTIONnoteKEYdelete_title": {
+      "message": "Trvale odstranit {0} poznámek"
+   },
+   "NoteStationSECTIONnoteKEYdelete_to_recycle": {
+      "message": "Přesunout {0} poznámek do koše"
+   },
+   "NoteStationSECTIONnoteKEYencrypt_desc": {
+      "message": "Tato poznámka je šifrovaná."
+   },
+   "NoteStationSECTIONnoteKEYencrypted_note": {
+      "message": "Šifrovaná poznámka"
+   },
+   "NoteStationSECTIONnoteKEYno_item": {
+      "message": "Zde nejsou žádné položky!"
+   },
+   "NoteStationSECTIONnoteKEYnote_is_encrypted": {
+      "message": "Tato poznámka je chráněná heslem."
+   },
+   "NoteStationSECTIONnoteKEYuntitled": {
+      "message": "Poznámka bez názvu"
+   },
+   "NoteStationSECTIONnotebookKEYarchive": {
+      "message": "Archivovat"
+   },
+   "NoteStationSECTIONnotebookKEYarchive_delete": {
+      "message": "Odstraněné archivované poznámkové bloky se nepřesunou do koše. Opravdu chcete odstranit vybraný archivovaný poznámkový blok i s poznámkami?"
+   },
+   "NoteStationSECTIONnotebookKEYarchive_warning": {
+      "message": "Archivací poznámkového bloku dojde k odstranění oprávnění ke sdílení a vlastností regálu. Opravdu chcete pokračovat?"
+   },
+   "NoteStationSECTIONnotebookKEYcreate": {
+      "message": "Vytvořit poznámkový blok"
+   },
+   "NoteStationSECTIONnotebookKEYcreate_title": {
+      "message": "Zadejte název poznámkového bloku"
+   },
+   "NoteStationSECTIONnotebookKEYdefault": {
+      "message": "Můj poznámkový blok"
+   },
+   "NoteStationSECTIONnotebookKEYdelete": {
+      "message": "Opravdu chcete odstranit vybraný poznámkový blok?"
+   },
+   "NoteStationSECTIONnotebookKEYrename": {
+      "message": "Přejmenovat poznámkový blok"
+   },
+   "NoteStationSECTIONnotebookKEYunarchive": {
+      "message": "Nearchivovat"
+   },
+   "NoteStationSECTIONnotifyKEYclipper_install": {
+      "message": "Nainstalujete-li program {0}, bude ukládat obsah webu na vaše zařízení Synology NAS, aby byl snadno a rychle přístupný."
+   },
+   "NoteStationSECTIONnotifyKEYexport_success": {
+      "message": "Export dokončen, zkontrolujte {0}{1}{2}."
+   },
+   "NoteStationSECTIONnotifyKEYreminder": {
+      "message": "Připomínka: {0} – {1}"
+   },
+   "NoteStationSECTIONnotifyKEYsend_message": {
+      "message": "Uživatel {0} s vámi sdílel(a) {1}. Ověříte je v {2}{3}{4}."
+   },
+   "NoteStationSECTIONpermKEYro": {
+      "message": "Zobrazit"
+   },
+   "NoteStationSECTIONpermKEYrw": {
+      "message": "Změnit"
+   },
+   "NoteStationSECTIONpresentationKEYtheme_display": {
+      "message": "Zvolit šablonu"
+   },
+   "NoteStationSECTIONpromptKEYdo_not_show_again": {
+      "message": "Tuto zprávu znovu nezobrazovat"
+   },
+   "NoteStationSECTIONpromptKEYdownload_center_link": {
+      "message": "Centrum pro stahování Synology"
+   },
+   "NoteStationSECTIONpromptKEYpanel_desc": {
+      "message": "Používejte službu Note Station přímo ze svého počítače."
+   },
+   "NoteStationSECTIONpromptKEYpanel_error_msg": {
+      "message": "Stažení se nezdařilo. Přejděte na stránku {0}."
+   },
+   "NoteStationSECTIONpromptKEYpanel_title": {
+      "message": "Note Station pro stolní počítače"
+   },
+   "NoteStationSECTIONpromptKEYtoast_link": {
+      "message": "Je k dispozici verze pro stolní počítače!"
+   },
+   "NoteStationSECTIONpromptKEYtoast_title": {
+      "message": "Dobré zprávy!"
+   },
+   "NoteStationSECTIONsearchKEYdate_from": {
+      "message": "Od"
+   },
+   "NoteStationSECTIONsearchKEYdate_to": {
+      "message": "Komu"
+   },
+   "NoteStationSECTIONsearchKEYkeyword": {
+      "message": "Klíčové slovo"
+   },
+   "NoteStationSECTIONsearchKEYno_search_result": {
+      "message": "Nebyly nalezeny žádné shody."
+   },
+   "NoteStationSECTIONsearchKEYresult_title": {
+      "message": "Search Result"
+   },
+   "NoteStationSECTIONsearchKEYsave_as_smart": {
+      "message": "Uložit jako chytrý poznámkový blok"
+   },
+   "NoteStationSECTIONsearchKEYtag_operator": {
+      "message": "Průnik vybraných"
+   },
+   "NoteStationSECTIONsearchKEYtitle": {
+      "message": "Název"
+   },
+   "NoteStationSECTIONsettingKEYadmin": {
+      "message": "Správa"
+   },
+   "NoteStationSECTIONsettingKEYapp_portal": {
+      "message": "Portál aplikací"
+   },
+   "NoteStationSECTIONsettingKEYapp_portal_admin_desc": {
+      "message": "Portál aplikací pro Note Station není povolen. Chcete-li povolit portál aplikací pro Note Station, kontaktujte správce systému."
+   },
+   "NoteStationSECTIONsettingKEYapp_portal_enable_desc": {
+      "message": "Můžete nakonfigurovat alias a nastavení portu, což vám umožní přístup a spuštění Note Station v samostatných záložkách prohlížeče."
+   },
+   "NoteStationSECTIONsettingKEYapp_portal_link_desc": {
+      "message": "Pomocí níže uvedeného odkazu spusťte Note Station v nové záložce prohlížeče."
+   },
+   "NoteStationSECTIONsettingKEYauto_purge": {
+      "message": "Automatické čistění"
+   },
+   "NoteStationSECTIONsettingKEYauto_purge_desc": {
+      "message": "Dokončené úkoly budou po uplynutí zde stanovené doby automaticky smazány."
+   },
+   "NoteStationSECTIONsettingKEYconfirm_move_volume": {
+      "message": "Služba Note Station bude přesouvat data na pozadí. Před dokončením si mohou uživatelé prohlížet pouze poznámky."
+   },
+   "NoteStationSECTIONsettingKEYcrypto_delete_orig": {
+      "message": "Po zašifrování/dešifrování odebrat původní poznámky"
+   },
+   "NoteStationSECTIONsettingKEYdefault_due_date": {
+      "message": "Standardní čas dokončení"
+   },
+   "NoteStationSECTIONsettingKEYdefault_priority": {
+      "message": "Standardní priorita"
+   },
+   "NoteStationSECTIONsettingKEYdefault_reminder_offset": {
+      "message": "Standardní čas upozornění"
+   },
+   "NoteStationSECTIONsettingKEYdesktop_button": {
+      "message": "Získat aplikaci Note Station pro stolní počítače"
+   },
+   "NoteStationSECTIONsettingKEYdesktop_desc": {
+      "message": "Kliknutím na následující tlačítko získáte aplikaci Note Station pro stolní počítače."
+   },
+   "NoteStationSECTIONsettingKEYexport_field": {
+      "message": "Exportovat poznámkové bloky nebo seznamy úkolů"
+   },
+   "NoteStationSECTIONsettingKEYexport_notebook": {
+      "message": "Export poznámkových bloků"
+   },
+   "NoteStationSECTIONsettingKEYfont_size": {
+      "message": "Výchozí velikost písma"
+   },
+   "NoteStationSECTIONsettingKEYgeneral": {
+      "message": "Obecné"
+   },
+   "NoteStationSECTIONsettingKEYimport_export": {
+      "message": "Import a export"
+   },
+   "NoteStationSECTIONsettingKEYimport_notebook": {
+      "message": "Import poznámkových bloků"
+   },
+   "NoteStationSECTIONsettingKEYinline_thumb": {
+      "message": "Pomocí miniatur zobrazíte velké vložené obrázky v panelu poznámek"
+   },
+   "NoteStationSECTIONsettingKEYlaunch_app_portal": {
+      "message": "Nastavit portál aplikací"
+   },
+   "NoteStationSECTIONsettingKEYmoving_data": {
+      "message": "Průběh: {0}"
+   },
+   "NoteStationSECTIONsettingKEYnote": {
+      "message": "Možnosti poznámky"
+   },
+   "NoteStationSECTIONsettingKEYreminder_offset_desc": {
+      "message": "Potřebujete upozornění k dokončení úkolu? Zde si nastavte čas upozornění na úkoly před dokončením."
+   },
+   "NoteStationSECTIONsettingKEYsearch_attachment": {
+      "message": "Povolit indexování obsahu přílohy pro hledání"
+   },
+   "NoteStationSECTIONsettingKEYshare": {
+      "message": "Sdílení"
+   },
+   "NoteStationSECTIONsettingKEYshare_mode": {
+      "message": "Povolit uživatelům, kteří nejsou správci, sdílení poznámek a poznámkových bloků"
+   },
+   "NoteStationSECTIONsettingKEYshare_need_admin": {
+      "message": "Nemáte oprávnění ke sdílení. Požádejte správce o pomoc."
+   },
+   "NoteStationSECTIONsettingKEYtodo_comment": {
+      "message": "Poznámka"
+   },
+   "NoteStationSECTIONsettingKEYtodo_done": {
+      "message": "Stav dokončení"
+   },
+   "NoteStationSECTIONsettingKEYtodo_due_date": {
+      "message": "Datum dokončení"
+   },
+   "NoteStationSECTIONsettingKEYtodo_export_info": {
+      "message": "Vyberte, které z následujících typů informací o úlohách chcete zahrnout do výstupu."
+   },
+   "NoteStationSECTIONsettingKEYtodo_export_to_note": {
+      "message": "Výstup úloh jako poznámka"
+   },
+   "NoteStationSECTIONsettingKEYtodo_general": {
+      "message": "Správa úloh"
+   },
+   "NoteStationSECTIONsettingKEYtodo_priority": {
+      "message": "Důležitost"
+   },
+   "NoteStationSECTIONsettingKEYtodo_show_badge": {
+      "message": "Zobrazit počítadlo úloh po termínu"
+   },
+   "NoteStationSECTIONsettingKEYtodo_star": {
+      "message": "Hvězdička"
+   },
+   "NoteStationSECTIONsettingKEYtodo_subtask": {
+      "message": "Dílčí úloha"
+   },
+   "NoteStationSECTIONsettingKEYtodo_task": {
+      "message": "Seznam úkolů"
+   },
+   "NoteStationSECTIONsettingKEYtodo_title": {
+      "message": "Úloha"
+   },
+   "NoteStationSECTIONsettingKEYview": {
+      "message": "Volby zobrazení"
+   },
+   "NoteStationSECTIONshareKEYcopy_url_done": {
+      "message": "Zkopírováno do schránky"
+   },
+   "NoteStationSECTIONshareKEYenable_public": {
+      "message": "Povolit veřejné sdílení"
+   },
+   "NoteStationSECTIONshareKEYpublic_share": {
+      "message": "Veřejné sdílení"
+   },
+   "NoteStationSECTIONshareKEYpublic_share_link": {
+      "message": "Odkaz veřejného sdílení"
+   },
+   "NoteStationSECTIONshareKEYshare_link_via": {
+      "message": "Sdílet odkaz přes"
+   },
+   "NoteStationSECTIONshareKEYshare_to_dsm_user": {
+      "message": "Sdílet s uživateli DSM"
+   },
+   "NoteStationSECTIONshareKEYshare_to_dsm_user_or_group": {
+      "message": "Uživatelé/skupiny systému DSM"
+   },
+   "NoteStationSECTIONshortcutKEYremove": {
+      "message": "Odebrat z oblíbených"
+   },
+   "NoteStationSECTIONsmartKEYcreate": {
+      "message": "Vytvořit chytrý poznámkový blok"
+   },
+   "NoteStationSECTIONsmartKEYcreate_message": {
+      "message": "Pojmenovat chytrý poznámkový blok"
+   },
+   "NoteStationSECTIONsmartKEYdelete": {
+      "message": "Opravdu chcete odstranit vybraný chytrý poznámkový blok?"
+   },
+   "NoteStationSECTIONsmartKEYedit": {
+      "message": "Upravit chytrý poznámkový blok"
+   },
+   "NoteStationSECTIONsmartKEYquery_empty": {
+      "message": "Stanovte alespoň jedno kritérium."
+   },
+   "NoteStationSECTIONsmartKEYtitle": {
+      "message": "Název chytrého poznámkového bloku"
+   },
+   "NoteStationSECTIONsmartKEYwindow": {
+      "message": "智慧型筆記本"
+   },
+   "NoteStationSECTIONsortKEYby_ctime": {
+      "message": "Seřadit podle času vytvoření"
+   },
+   "NoteStationSECTIONsortKEYby_mtime": {
+      "message": "Seřadit podle času změny"
+   },
+   "NoteStationSECTIONsortKEYby_title": {
+      "message": "Seřadit podle názvu"
+   },
+   "NoteStationSECTIONsortKEYorder_asc": {
+      "message": "Vzestupně"
+   },
+   "NoteStationSECTIONsortKEYorder_desc": {
+      "message": "Sestupně"
+   },
+   "NoteStationSECTIONstackKEYcreate": {
+      "message": "Vytvořit regál"
+   },
+   "NoteStationSECTIONstackKEYcreate_title": {
+      "message": "Zadejte název regálu"
+   },
+   "NoteStationSECTIONstackKEYdelete": {
+      "message": "Opravdu chcete odstranit vybraný regál?"
+   },
+   "NoteStationSECTIONstackKEYdisassemble": {
+      "message": "Rozložit"
+   },
+   "NoteStationSECTIONstackKEYnew": {
+      "message": "Nový regál"
+   },
+   "NoteStationSECTIONstackKEYrename": {
+      "message": "Přejmenovat regál"
+   },
+   "NoteStationSECTIONtagKEYadd_tag": {
+      "message": "+Značka"
+   },
+   "NoteStationSECTIONtagKEYcreate_title": {
+      "message": "Zadejte název značky"
+   },
+   "NoteStationSECTIONtagKEYquick_add": {
+      "message": "Add tags quickly"
+   },
+   "NoteStationSECTIONtagKEYremove_from_all": {
+      "message": "Odebrat značku ze všech poznámek"
+   },
+   "NoteStationSECTIONtagKEYrename": {
+      "message": "Přejmenovat název značky"
+   },
+   "NoteStationSECTIONtagKEYselect_parent": {
+      "message": "Vnořit značku pod"
+   },
+   "NoteStationSECTIONtagKEYshow_subtag": {
+      "message": "Poznámky s podznačkami"
+   },
+   "NoteStationSECTIONtinymceKEYadjust_table_size": {
+      "message": "Upravit velikost tabulky"
+   },
+   "NoteStationSECTIONtinymceKEYchoose_file": {
+      "message": "Procházet"
+   },
+   "NoteStationSECTIONtinymceKEYchoose_file_from_local": {
+      "message": "Vyberte soubory z místního počítače"
+   },
+   "NoteStationSECTIONtinymceKEYconvert_to_image": {
+      "message": "Převést na obrázek"
+   },
+   "NoteStationSECTIONtinymceKEYdelete_column": {
+      "message": "Odstranit sloupec"
+   },
+   "NoteStationSECTIONtinymceKEYdelete_row": {
+      "message": "Odstranit řádek"
+   },
+   "NoteStationSECTIONtinymceKEYdimensions": {
+      "message": "Rozměry"
+   },
+   "NoteStationSECTIONtinymceKEYdownload": {
+      "message": "Stáhnout"
+   },
+   "NoteStationSECTIONtinymceKEYedit": {
+      "message": "Upravit"
+   },
+   "NoteStationSECTIONtinymceKEYfile_path": {
+      "message": "Cesta k souboru"
+   },
+   "NoteStationSECTIONtinymceKEYformat": {
+      "message": "Formát textu"
+   },
+   "NoteStationSECTIONtinymceKEYfrom_local_file": {
+      "message": "Z počítače"
+   },
+   "NoteStationSECTIONtinymceKEYfrom_url": {
+      "message": "Z adresy URL"
+   },
+   "NoteStationSECTIONtinymceKEYgenerate_chart": {
+      "message": "Graf"
+   },
+   "NoteStationSECTIONtinymceKEYheight": {
+      "message": "Výška řádku"
+   },
+   "NoteStationSECTIONtinymceKEYimage_l": {
+      "message": "Velké"
+   },
+   "NoteStationSECTIONtinymceKEYimage_m": {
+      "message": "Střední"
+   },
+   "NoteStationSECTIONtinymceKEYimage_ori": {
+      "message": "Původní"
+   },
+   "NoteStationSECTIONtinymceKEYimage_s": {
+      "message": "Malé"
+   },
+   "NoteStationSECTIONtinymceKEYimage_source": {
+      "message": "Zdroj obrázku"
+   },
+   "NoteStationSECTIONtinymceKEYinsert_column_after": {
+      "message": "Vložit sloupec vpravo"
+   },
+   "NoteStationSECTIONtinymceKEYinsert_column_before": {
+      "message": "Vložit sloupec vlevo"
+   },
+   "NoteStationSECTIONtinymceKEYinsert_edit_link": {
+      "message": "Vložit / upravit odkaz"
+   },
+   "NoteStationSECTIONtinymceKEYinsert_row_after": {
+      "message": "Vložit řádek níže"
+   },
+   "NoteStationSECTIONtinymceKEYinsert_row_before": {
+      "message": "Vložit řádek výše"
+   },
+   "NoteStationSECTIONtinymceKEYinsert_table": {
+      "message": "Vložit tabulku"
+   },
+   "NoteStationSECTIONtinymceKEYlarge": {
+      "message": "large"
+   },
+   "NoteStationSECTIONtinymceKEYmerge_cells": {
+      "message": "Sloučit buňky"
+   },
+   "NoteStationSECTIONtinymceKEYnormal": {
+      "message": "normal"
+   },
+   "NoteStationSECTIONtinymceKEYopen": {
+      "message": "Otevřít"
+   },
+   "NoteStationSECTIONtinymceKEYoriginal": {
+      "message": "Původní"
+   },
+   "NoteStationSECTIONtinymceKEYproper_size": {
+      "message": "Nejlepší rozměry"
+   },
+   "NoteStationSECTIONtinymceKEYredo": {
+      "message": "Provést znovu"
+   },
+   "NoteStationSECTIONtinymceKEYremove": {
+      "message": "Odebrat"
+   },
+   "NoteStationSECTIONtinymceKEYshow_as_youtube_video": {
+      "message": "Vložit video YouTube"
+   },
+   "NoteStationSECTIONtinymceKEYsmall": {
+      "message": "small"
+   },
+   "NoteStationSECTIONtinymceKEYtable_property": {
+      "message": "Vlastnosti tabulky"
+   },
+   "NoteStationSECTIONtinymceKEYtext_to_display": {
+      "message": "Text k zobrazení"
+   },
+   "NoteStationSECTIONtinymceKEYundo": {
+      "message": "Vrátit zpět"
+   },
+   "NoteStationSECTIONtinymceKEYupdate_data_from_table": {
+      "message": "Update data"
+   },
+   "NoteStationSECTIONtinymceKEYurl": {
+      "message": "URL"
+   },
+   "NoteStationSECTIONtinymceKEYwidth": {
+      "message": "Šířka sloupce"
+   },
+   "NoteStationSECTIONtinymceKEYx_large": {
+      "message": "x-large"
+   },
+   "NoteStationSECTIONtinymceKEYx_small": {
+      "message": "x-small"
+   },
+   "NoteStationSECTIONtinymceKEYxx_large": {
+      "message": "xx-large"
+   },
+   "NoteStationSECTIONtinymceKEYxx_small": {
+      "message": "xx-small"
+   },
+   "NoteStationSECTIONtocKEYnotestation": {
+      "message": "Note Station"
+   },
+   "NoteStationSECTIONtocKEYnotestation_creating_notes": {
+      "message": "Vytváření poznámek"
+   },
+   "NoteStationSECTIONtocKEYnotestation_editing_note_information": {
+      "message": "Úprava informací o poznámkách"
+   },
+   "NoteStationSECTIONtocKEYnotestation_getting_started": {
+      "message": "Začínáme"
+   },
+   "NoteStationSECTIONtocKEYnotestation_managing_notes": {
+      "message": "Správa Note Station"
+   },
+   "NoteStationSECTIONtocKEYnotestation_sharing_notes": {
+      "message": "Sdílení poznámek"
+   },
+   "NoteStationSECTIONtocKEYnotestation_using_todo_list": {
+      "message": "Používání seznamu úkolů"
+   },
+   "NoteStationSECTIONtocKEYnotestation_viewing_notes": {
+      "message": "Prohlížení poznámek"
+   },
+   "NoteStationSECTIONtodoKEYadd_a_new_task": {
+      "message": "Přidat novou úlohu"
+   },
+   "NoteStationSECTIONtodoKEYadd_comment": {
+      "message": "Přidat poznámku"
+   },
+   "NoteStationSECTIONtodoKEYadd_sub_task": {
+      "message": "Nová dílčí úloha"
+   },
+   "NoteStationSECTIONtodoKEYall": {
+      "message": "Vše"
+   },
+   "NoteStationSECTIONtodoKEYall_tasks": {
+      "message": "Všechny úlohy"
+   },
+   "NoteStationSECTIONtodoKEYclick_add_task": {
+      "message": "Kliknutím přidáte novou úlohu"
+   },
+   "NoteStationSECTIONtodoKEYcompleted": {
+      "message": "Dokončeno"
+   },
+   "NoteStationSECTIONtodoKEYcustomized": {
+      "message": "Přizpůsobeno"
+   },
+   "NoteStationSECTIONtodoKEYday": {
+      "message": "Den/dny/dní"
+   },
+   "NoteStationSECTIONtodoKEYdays_later": {
+      "message": "dny/í později"
+   },
+   "NoteStationSECTIONtodoKEYdelete_all_tasks": {
+      "message": "Odstranit všechny úlohy"
+   },
+   "NoteStationSECTIONtodoKEYdelete_independent_todo": {
+      "message": "Trvale odstranit všechny úkoly v „Samostatných úkolech“?"
+   },
+   "NoteStationSECTIONtodoKEYdelete_note_todo": {
+      "message": "Trvale odstranit všechny úkoly v „{0}“?"
+   },
+   "NoteStationSECTIONtodoKEYdelete_todo": {
+      "message": "Trvale odstranit {0} úkoly/ů?"
+   },
+   "NoteStationSECTIONtodoKEYdue_date": {
+      "message": "Termín vyhotovení"
+   },
+   "NoteStationSECTIONtodoKEYdue_time": {
+      "message": "Čas dokončení"
+   },
+   "NoteStationSECTIONtodoKEYhour": {
+      "message": "Hodina/y"
+   },
+   "NoteStationSECTIONtodoKEYindependent_tasks": {
+      "message": "Nezávislé úlohy"
+   },
+   "NoteStationSECTIONtodoKEYminute": {
+      "message": "Minuta/y"
+   },
+   "NoteStationSECTIONtodoKEYmonth": {
+      "message": "Měsíc/e"
+   },
+   "NoteStationSECTIONtodoKEYnew_task": {
+      "message": "Nová úloha"
+   },
+   "NoteStationSECTIONtodoKEYnext_30_days": {
+      "message": "Dalších 30 dní"
+   },
+   "NoteStationSECTIONtodoKEYnext_7_days": {
+      "message": "Dalších 7 dní"
+   },
+   "NoteStationSECTIONtodoKEYno_due_date": {
+      "message": "Žádný termín vyhotovení"
+   },
+   "NoteStationSECTIONtodoKEYno_todo_task": {
+      "message": "Nejsou zde žádné úlohy!"
+   },
+   "NoteStationSECTIONtodoKEYnote": {
+      "message": "Poznámka"
+   },
+   "NoteStationSECTIONtodoKEYoff": {
+      "message": "Vypnout"
+   },
+   "NoteStationSECTIONtodoKEYon_time": {
+      "message": "V čase dokončení"
+   },
+   "NoteStationSECTIONtodoKEYothers": {
+      "message": "O měsíc později"
+   },
+   "NoteStationSECTIONtodoKEYoverdue": {
+      "message": "Po termínu"
+   },
+   "NoteStationSECTIONtodoKEYpriority": {
+      "message": "Důležitost"
+   },
+   "NoteStationSECTIONtodoKEYpriority_high": {
+      "message": "Vysoká"
+   },
+   "NoteStationSECTIONtodoKEYpriority_low": {
+      "message": "Nízká"
+   },
+   "NoteStationSECTIONtodoKEYpriority_medium": {
+      "message": "Střední"
+   },
+   "NoteStationSECTIONtodoKEYpriority_no": {
+      "message": "Žádné"
+   },
+   "NoteStationSECTIONtodoKEYreminder_date": {
+      "message": "Čas připomenutí"
+   },
+   "NoteStationSECTIONtodoKEYreminder_time": {
+      "message": "Čas připomenutí"
+   },
+   "NoteStationSECTIONtodoKEYset_due_date": {
+      "message": "Nastavit datum dokončení"
+   },
+   "NoteStationSECTIONtodoKEYset_due_date_first": {
+      "message": "Nejprve zadejte čas dokončení."
+   },
+   "NoteStationSECTIONtodoKEYstarred": {
+      "message": "Označené hvězdičkou"
+   },
+   "NoteStationSECTIONtodoKEYtitle_cannot_empty": {
+      "message": "Název úlohy nemůže být prázdný."
+   },
+   "NoteStationSECTIONtodoKEYtoday": {
+      "message": "Dnes"
+   },
+   "NoteStationSECTIONtodoKEYtomorrow": {
+      "message": "Zítra"
+   },
+   "NoteStationSECTIONtodoKEYuncompleted": {
+      "message": "Nedokončeno"
+   },
+   "NoteStationSECTIONtodoKEYweek": {
+      "message": "Týden/y"
+   },
+   "NoteStationSECTIONtodoKEYweek_later": {
+      "message": "dny/í později"
+   },
+   "NoteStationSECTIONtooltipKEYalign_center": {
+      "message": "Zarovnat na střed"
+   },
+   "NoteStationSECTIONtooltipKEYalign_justify": {
+      "message": "Zarovnat do bloku"
+   },
+   "NoteStationSECTIONtooltipKEYalign_left": {
+      "message": "Zarovnat doprava"
+   },
+   "NoteStationSECTIONtooltipKEYattach_file": {
+      "message": "Připojit soubor"
+   },
+   "NoteStationSECTIONtooltipKEYbackground_color": {
+      "message": "Barva pozadí"
+   },
+   "NoteStationSECTIONtooltipKEYbold": {
+      "message": "Tučně"
+   },
+   "NoteStationSECTIONtooltipKEYbullet_list": {
+      "message": "Odrážky"
+   },
+   "NoteStationSECTIONtooltipKEYclear_formatting": {
+      "message": "Vymazat formátování"
+   },
+   "NoteStationSECTIONtooltipKEYcontent": {
+      "message": "Obsah"
+   },
+   "NoteStationSECTIONtooltipKEYcopy_format": {
+      "message": "Kopírovat formát"
+   },
+   "NoteStationSECTIONtooltipKEYdecrease_indent": {
+      "message": "Zmenšit odsazení"
+   },
+   "NoteStationSECTIONtooltipKEYdecrypt": {
+      "message": "Dešifrovat"
+   },
+   "NoteStationSECTIONtooltipKEYdelete": {
+      "message": "Odstranit"
+   },
+   "NoteStationSECTIONtooltipKEYencrypt": {
+      "message": "Šifrovat"
+   },
+   "NoteStationSECTIONtooltipKEYfont_family": {
+      "message": "Velikost písma"
+   },
+   "NoteStationSECTIONtooltipKEYhorizontal_line": {
+      "message": "Vodorovná čára"
+   },
+   "NoteStationSECTIONtooltipKEYincrease_indent": {
+      "message": "Zvětšit odsazení"
+   },
+   "NoteStationSECTIONtooltipKEYinfo": {
+      "message": "Informace"
+   },
+   "NoteStationSECTIONtooltipKEYinsert_checkbox": {
+      "message": "Vložit zaškrtávací políčko"
+   },
+   "NoteStationSECTIONtooltipKEYinsert_image": {
+      "message": "Vložit obrázek"
+   },
+   "NoteStationSECTIONtooltipKEYitalic": {
+      "message": "Kurzíva"
+   },
+   "NoteStationSECTIONtooltipKEYmail": {
+      "message": "Odeslat jako e-mail"
+   },
+   "NoteStationSECTIONtooltipKEYnumbered_list": {
+      "message": "Číslování"
+   },
+   "NoteStationSECTIONtooltipKEYpresentation": {
+      "message": "Prezentovat"
+   },
+   "NoteStationSECTIONtooltipKEYprint": {
+      "message": "Tisk"
+   },
+   "NoteStationSECTIONtooltipKEYremoveformat": {
+      "message": "Vymazat formátování"
+   },
+   "NoteStationSECTIONtooltipKEYsave": {
+      "message": "Uložit"
+   },
+   "NoteStationSECTIONtooltipKEYshare": {
+      "message": "Sdílet"
+   },
+   "NoteStationSECTIONtooltipKEYsort_by": {
+      "message": "Seřadit podle"
+   },
+   "NoteStationSECTIONtooltipKEYstrikethrough": {
+      "message": "Přeškrtnutí"
+   },
+   "NoteStationSECTIONtooltipKEYsubscript": {
+      "message": "Dolní index"
+   },
+   "NoteStationSECTIONtooltipKEYsuperscript": {
+      "message": "Horní index"
+   },
+   "NoteStationSECTIONtooltipKEYsyno_highlight": {
+      "message": "Zvýraznění"
+   },
+   "NoteStationSECTIONtooltipKEYtable": {
+      "message": "Tabulka"
+   },
+   "NoteStationSECTIONtooltipKEYtag": {
+      "message": "Značka"
+   },
+   "NoteStationSECTIONtooltipKEYtext_color": {
+      "message": "Barva písma"
+   },
+   "NoteStationSECTIONtooltipKEYunderline": {
+      "message": "Podtržení"
+   },
+   "NoteStationSECTIONtooltipKEYview_by": {
+      "message": "Zobrazit podle"
+   },
+   "NoteStationSECTIONuploadKEYfrom_ds": {
+      "message": "Ze zařízení Synology NAS"
+   },
+   "NoteStationSECTIONuploadKEYfrom_pc": {
+      "message": "Odeslat z počítače"
+   },
+   "NoteStationSECTIONuploadKEYlist_file": {
+      "message": "Seznam souborů"
+   },
+   "NoteStationSECTIONuploadKEYupload_file": {
+      "message": "Odeslat soubory"
+   },
+   "NoteStationSECTIONviewerKEYopen_in_audio": {
+      "message": "Otevřít v aplikaci AudioPlayer"
+   },
+   "NoteStationSECTIONviewerKEYopen_in_google": {
+      "message": "Zobrazit v aplikaci Google Docs"
+   },
+   "NoteStationSECTIONviewerKEYopen_in_new_window": {
+      "message": "Otevřít na nové kartě"
+   },
+   "NoteStationSECTIONviewerKEYopen_in_office": {
+      "message": "Otevřít v programu Microsoft Office Online"
+   },
+   "NoteStationSECTIONviewerKEYopen_in_pdf": {
+      "message": "Otevřít v prohlížeči souborů PDF"
+   },
+   "NoteStationSECTIONviewerKEYopen_in_photo": {
+      "message": "Otevřít v prohlížeči fotografií"
+   },
+   "NoteStationSECTIONviewerKEYopen_in_syno_doc": {
+      "message": "Open in Document Viewer"
+   },
+   "NoteStationSECTIONviewerKEYopen_in_text": {
+      "message": "Otevřít v prohlížeči textů"
+   },
+   "NoteStationSECTIONviewerKEYopen_in_video": {
+      "message": "Otevřít v aplikaci VideoPlayer"
+   },
+   "NoteStationSECTIONwindowKEYnote_encryption": {
+      "message": "Šifrování poznámek"
+   },
+   "NoteStationSECTIONwindowKEYnote_information": {
+      "message": "Informace o poznámce"
+   },
+   "NoteStationSECTIONwindowKEYtodo_information": {
+      "message": "Task information"
+   },
+   "synojslibSECTIONcommonKEYclean": {
+      "message": "Vymazat"
+   },
+   "synojslibSECTIONcommonKEYclear_input": {
+      "message": "Vymazat vstup"
+   },
+   "synojslibSECTIONcommonKEYcommit": {
+      "message": "Použít"
+   },
+   "synojslibSECTIONcommonKEYdisabled": {
+      "message": "Zakázáno"
+   },
+   "synojslibSECTIONcommonKEYerror_system": {
+      "message": "Tuto operaci nelze provést. Přihlaste se do systému _OSNAME_ a zkuste to znovu."
+   },
+   "synojslibSECTIONcommonKEYloading": {
+      "message": "Načítání..."
+   },
+   "synojslibSECTIONcommonKEYreset": {
+      "message": "Obnovit"
+   },
+   "synojslibSECTIONcommonKEYsetting_applied": {
+      "message": "Změny se použily."
+   },
+   "synojslibSECTIONcommonKEYsize_byte": {
+      "message": "Bajtů"
+   },
+   "synojslibSECTIONcommonKEYsize_gb": {
+      "message": "GB"
+   },
+   "synojslibSECTIONcommonKEYsize_kb": {
+      "message": "kB"
+   },
+   "synojslibSECTIONcommonKEYsize_mb": {
+      "message": "MB"
+   },
+   "synojslibSECTIONcommonKEYsize_pb": {
+      "message": "PB"
+   },
+   "synojslibSECTIONcommonKEYsize_tb": {
+      "message": "TB"
+   },
+   "synojslibSECTIONextlangKEYafterPageText": {
+      "message": "z {0}"
+   },
+   "synojslibSECTIONextlangKEYafterdate": {
+      "message": "Datum uvedené v tomto poli musí být {0} nebo pozdější"
+   },
+   "synojslibSECTIONextlangKEYaftertime": {
+      "message": "Čas uvedený v tomto poli musí být pozdější než {0}"
+   },
+   "synojslibSECTIONextlangKEYalphaText": {
+      "message": "Toto pole by mělo obsahovat pouze písmena a podtržítko (_)."
+   },
+   "synojslibSECTIONextlangKEYalphanumText": {
+      "message": "Toto pole by mělo obsahovat pouze písmena, čísla a podtržítko (_)."
+   },
+   "synojslibSECTIONextlangKEYapr": {
+      "message": "Duben"
+   },
+   "synojslibSECTIONextlangKEYaug": {
+      "message": "Srpen"
+   },
+   "synojslibSECTIONextlangKEYbeforePageText": {
+      "message": "Stránka"
+   },
+   "synojslibSECTIONextlangKEYbeforedate": {
+      "message": "Datum uvedené v tomto poli musí být {0} nebo dřívější"
+   },
+   "synojslibSECTIONextlangKEYbeforetime": {
+      "message": "Čas uvedený v tomto poli musí být dřívější než {0}"
+   },
+   "synojslibSECTIONextlangKEYcancel": {
+      "message": "Storno"
+   },
+   "synojslibSECTIONextlangKEYcloseText": {
+      "message": "Zavřít tuto kartu"
+   },
+   "synojslibSECTIONextlangKEYcolumnsText": {
+      "message": "Sloupce"
+   },
+   "synojslibSECTIONextlangKEYdate_format": {
+      "message": "Y/M/D"
+   },
+   "synojslibSECTIONextlangKEYddText": {
+      "message": "Vybrané řádky: {0}"
+   },
+   "synojslibSECTIONextlangKEYdec": {
+      "message": "Prosinec"
+   },
+   "synojslibSECTIONextlangKEYdisplaypage": {
+      "message": "Zobrazení {0} až {1} z {2}"
+   },
+   "synojslibSECTIONextlangKEYemailText": {
+      "message": "Toto pole by mělo obsahovat e-mailovou adresu, například: user@domain.com."
+   },
+   "synojslibSECTIONextlangKEYfeb": {
+      "message": "Únor"
+   },
+   "synojslibSECTIONextlangKEYfieldblank": {
+      "message": "Toto pole je vyžadováno."
+   },
+   "synojslibSECTIONextlangKEYfieldmaxlen": {
+      "message": "Maximální délka pro toto pole je {0}."
+   },
+   "synojslibSECTIONextlangKEYfieldminlen": {
+      "message": "Minimální délka pro toto pole je {0}."
+   },
+   "synojslibSECTIONextlangKEYfirstpage": {
+      "message": "První stránka"
+   },
+   "synojslibSECTIONextlangKEYfriday": {
+      "message": "Pátek"
+   },
+   "synojslibSECTIONextlangKEYinvalidText": {
+      "message": "Nesprávná hodnota."
+   },
+   "synojslibSECTIONextlangKEYinvaliddate": {
+      "message": "{0} není platný datum. Zadejte datum pomocí formátu {1}"
+   },
+   "synojslibSECTIONextlangKEYinvalidinteger": {
+      "message": "Zadejte celé číslo. "
+   },
+   "synojslibSECTIONextlangKEYinvalidnumber": {
+      "message": "{0} není platné číslo."
+   },
+   "synojslibSECTIONextlangKEYinvalidtime": {
+      "message": "{0} není platný čas."
+   },
+   "synojslibSECTIONextlangKEYjan": {
+      "message": "Leden"
+   },
+   "synojslibSECTIONextlangKEYjul": {
+      "message": "Červenec"
+   },
+   "synojslibSECTIONextlangKEYjun": {
+      "message": "Červen"
+   },
+   "synojslibSECTIONextlangKEYlastpage": {
+      "message": "Poslední stránka"
+   },
+   "synojslibSECTIONextlangKEYloading": {
+      "message": "Načítání..."
+   },
+   "synojslibSECTIONextlangKEYlockText": {
+      "message": "Zamknout sloupec"
+   },
+   "synojslibSECTIONextlangKEYmar": {
+      "message": "Březen"
+   },
+   "synojslibSECTIONextlangKEYmaxdate": {
+      "message": "Toto datum musí předcházet maximálnímu datu."
+   },
+   "synojslibSECTIONextlangKEYmaxnumber": {
+      "message": "Maximální počet je {0}."
+   },
+   "synojslibSECTIONextlangKEYmay": {
+      "message": "Květen"
+   },
+   "synojslibSECTIONextlangKEYmindate": {
+      "message": "Toto datum musí následovat po minimálním datu."
+   },
+   "synojslibSECTIONextlangKEYminnumber": {
+      "message": "Minimální počet je {0}."
+   },
+   "synojslibSECTIONextlangKEYmonday": {
+      "message": "Pondělí"
+   },
+   "synojslibSECTIONextlangKEYmonthYearText": {
+      "message": "Zvolit měsíc (přechod mezi roky – Control + nahoru/dolů)"
+   },
+   "synojslibSECTIONextlangKEYnextmonth": {
+      "message": "Příští měsíc (Control + doprava)"
+   },
+   "synojslibSECTIONextlangKEYnextpage": {
+      "message": "Další stránka"
+   },
+   "synojslibSECTIONextlangKEYno": {
+      "message": "Ne"
+   },
+   "synojslibSECTIONextlangKEYnov": {
+      "message": "Listopad"
+   },
+   "synojslibSECTIONextlangKEYoct": {
+      "message": "Říjen"
+   },
+   "synojslibSECTIONextlangKEYok": {
+      "message": "OK"
+   },
+   "synojslibSECTIONextlangKEYpagenodata": {
+      "message": "Žádná data "
+   },
+   "synojslibSECTIONextlangKEYprevmonth": {
+      "message": "Předchozí měsíc (Control + doleva)"
+   },
+   "synojslibSECTIONextlangKEYprevpage": {
+      "message": "Předchozí stránka"
+   },
+   "synojslibSECTIONextlangKEYrefresh": {
+      "message": "Aktualizovat"
+   },
+   "synojslibSECTIONextlangKEYsaturday": {
+      "message": "Sobota"
+   },
+   "synojslibSECTIONextlangKEYsep": {
+      "message": "Září"
+   },
+   "synojslibSECTIONextlangKEYshow_password": {
+      "message": "Zobrazit"
+   },
+   "synojslibSECTIONextlangKEYsortAscText": {
+      "message": "Seřadit vzestupně"
+   },
+   "synojslibSECTIONextlangKEYsortDescText": {
+      "message": "Seřadit sestupně"
+   },
+   "synojslibSECTIONextlangKEYsunday": {
+      "message": "Neděle"
+   },
+   "synojslibSECTIONextlangKEYthursday": {
+      "message": "Čtvrtek"
+   },
+   "synojslibSECTIONextlangKEYtime_format": {
+      "message": "H:M"
+   },
+   "synojslibSECTIONextlangKEYtodayText": {
+      "message": "Dnes"
+   },
+   "synojslibSECTIONextlangKEYtodayTip": {
+      "message": "{0} (mezerník)"
+   },
+   "synojslibSECTIONextlangKEYtuesday": {
+      "message": "Úterý"
+   },
+   "synojslibSECTIONextlangKEYunlockText": {
+      "message": "Odemknout sloupec"
+   },
+   "synojslibSECTIONextlangKEYurlText": {
+      "message": "Toto pole by mělo obsahovat adresu URL, například: http://www.domain.com."
+   },
+   "synojslibSECTIONextlangKEYwednesday": {
+      "message": "Středa"
+   },
+   "synojslibSECTIONextlangKEYyes": {
+      "message": "Ano"
+   },
+   "synojslibSECTIONuicommonKEYadd_time": {
+      "message": "Přidat čas"
+   },
+   "synojslibSECTIONuicommonKEYadvanced_search": {
+      "message": "Rozšířené hledání"
+   },
+   "synojslibSECTIONuicommonKEYap_mac_filter_mac_err": {
+      "message": "Zadejte správnou adresu MAC"
+   },
+   "synojslibSECTIONuicommonKEYap_mac_filter_mac_used": {
+      "message": "Adresa MAC již existuje."
+   },
+   "synojslibSECTIONuicommonKEYbandwidth_enable": {
+      "message": "Povolit omezení rychlosti"
+   },
+   "synojslibSECTIONuicommonKEYbrowse": {
+      "message": "Procházet"
+   },
+   "synojslibSECTIONuicommonKEYdesktop": {
+      "message": "Plocha"
+   },
+   "synojslibSECTIONuicommonKEYdisable_limit": {
+      "message": "Bez omezení rychlosti"
+   },
+   "synojslibSECTIONuicommonKEYdisable_limit_group": {
+      "message": "Bez omezení rychlosti"
+   },
+   "synojslibSECTIONuicommonKEYdisable_limit_user": {
+      "message": "Použít nastavení skupin"
+   },
+   "synojslibSECTIONuicommonKEYedit": {
+      "message": "Upravit"
+   },
+   "synojslibSECTIONuicommonKEYempty_grid": {
+      "message": "Žádná data"
+   },
+   "synojslibSECTIONuicommonKEYenable_column_checked": {
+      "message": "Vybrané"
+   },
+   "synojslibSECTIONuicommonKEYenable_column_grayed": {
+      "message": "Částečně vybrané"
+   },
+   "synojslibSECTIONuicommonKEYenable_column_unchecked": {
+      "message": "Nevybrané"
+   },
+   "synojslibSECTIONuicommonKEYerr_creating_volume": {
+      "message": "Zpracovává se nastavení svazku. Zkuste to znovu po dokončení operace."
+   },
+   "synojslibSECTIONuicommonKEYerr_disk_secure_erasing": {
+      "message": "Systém nelze vypnout, restartovat nebo aktualizovat, pokud je spuštěna funkce Secure Erase. Po dokončení operace opakujte akci."
+   },
+   "synojslibSECTIONuicommonKEYerr_dsm_upgrading": {
+      "message": "Systém nelze vypnout ani restartovat, protože probíhá aktualizace systému _OSNAME_."
+   },
+   "synojslibSECTIONuicommonKEYerr_processing_share_setting": {
+      "message": "Zpracovávání nastavení sdílených složek. Zkuste to znovu později."
+   },
+   "synojslibSECTIONuicommonKEYerror_demo": {
+      "message": "Tato funkce není v ukázkovém režimu k dispozici."
+   },
+   "synojslibSECTIONuicommonKEYerror_noprivilege": {
+      "message": "Nemáte oprávnění k používání této služby."
+   },
+   "synojslibSECTIONuicommonKEYerror_occupied": {
+      "message": "Probíhá konfigurace nebo instalace jiného balíčku. Zkuste to znovu později."
+   },
+   "synojslibSECTIONuicommonKEYerror_relogin": {
+      "message": "Jste přihlášeni v jiném počítači. Přihlaste se znovu."
+   },
+   "synojslibSECTIONuicommonKEYerror_system": {
+      "message": "Tuto operaci nelze provést. Zkuste to znovu později."
+   },
+   "synojslibSECTIONuicommonKEYerror_timeout": {
+      "message": "Platnost spojení vypršela. Přihlaste se znovu do systému _OSNAME_."
+   },
+   "synojslibSECTIONuicommonKEYerror_unauth": {
+      "message": "Vaše přihlášení není platné. Přihlaste se znovu."
+   },
+   "synojslibSECTIONuicommonKEYgoto_page": {
+      "message": "Přejít na stránku {0}"
+   },
+   "synojslibSECTIONuicommonKEYgrid_record_count": {
+      "message": "{0} položek."
+   },
+   "synojslibSECTIONuicommonKEYinvalid_time": {
+      "message": "Neplatný formát času."
+   },
+   "synojslibSECTIONuicommonKEYitem": {
+      "message": "položka"
+   },
+   "synojslibSECTIONuicommonKEYitems": {
+      "message": "položek"
+   },
+   "synojslibSECTIONuicommonKEYlimit_customize": {
+      "message": "Omezení rychlosti 2"
+   },
+   "synojslibSECTIONuicommonKEYlimit_default": {
+      "message": "Omezení rychlosti 1"
+   },
+   "synojslibSECTIONuicommonKEYlogout": {
+      "message": "Odhlásit"
+   },
+   "synojslibSECTIONuicommonKEYmsg_waiting": {
+      "message": "Zpracování. Počkejte prosím..."
+   },
+   "synojslibSECTIONuicommonKEYnext_x_pages": {
+      "message": "Dalších {0} stran"
+   },
+   "synojslibSECTIONuicommonKEYoff": {
+      "message": "OFF"
+   },
+   "synojslibSECTIONuicommonKEYon": {
+      "message": "ON"
+   },
+   "synojslibSECTIONuicommonKEYpoweroff_opt": {
+      "message": "Vypnout"
+   },
+   "synojslibSECTIONuicommonKEYpre_x_pages": {
+      "message": "Předchozích {0} stran"
+   },
+   "synojslibSECTIONuicommonKEYreboot_opt": {
+      "message": "Restartovat"
+   },
+   "synojslibSECTIONuicommonKEYreboot_warn": {
+      "message": "Opravdu chcete provést restart?"
+   },
+   "synojslibSECTIONuicommonKEYremove": {
+      "message": "Odebrat"
+   },
+   "synojslibSECTIONuicommonKEYschedule_abbre_fri": {
+      "message": "Pá"
+   },
+   "synojslibSECTIONuicommonKEYschedule_abbre_mon": {
+      "message": "Po"
+   },
+   "synojslibSECTIONuicommonKEYschedule_abbre_sat": {
+      "message": "So"
+   },
+   "synojslibSECTIONuicommonKEYschedule_abbre_sun": {
+      "message": "Ne"
+   },
+   "synojslibSECTIONuicommonKEYschedule_abbre_thu": {
+      "message": "Čt"
+   },
+   "synojslibSECTIONuicommonKEYschedule_abbre_tue": {
+      "message": "Út"
+   },
+   "synojslibSECTIONuicommonKEYschedule_abbre_wed": {
+      "message": "St"
+   },
+   "synojslibSECTIONuicommonKEYschedule_daily": {
+      "message": "Denně"
+   },
+   "synojslibSECTIONuicommonKEYschedule_fri": {
+      "message": "Pátek"
+   },
+   "synojslibSECTIONuicommonKEYschedule_mon": {
+      "message": "Pondělí"
+   },
+   "synojslibSECTIONuicommonKEYschedule_sat": {
+      "message": "Sobota"
+   },
+   "synojslibSECTIONuicommonKEYschedule_sun": {
+      "message": "Neděle"
+   },
+   "synojslibSECTIONuicommonKEYschedule_thu": {
+      "message": "Čtvrtek"
+   },
+   "synojslibSECTIONuicommonKEYschedule_tue": {
+      "message": "Úterý"
+   },
+   "synojslibSECTIONuicommonKEYschedule_wed": {
+      "message": "Středa"
+   },
+   "synojslibSECTIONuicommonKEYschedule_weekdays": {
+      "message": "Pracovní dny"
+   },
+   "synojslibSECTIONuicommonKEYschedule_weekend": {
+      "message": "Víkend"
+   },
+   "synojslibSECTIONuicommonKEYsearch": {
+      "message": "Hledat"
+   },
+   "synojslibSECTIONuicommonKEYsearching": {
+      "message": "Hledání..."
+   },
+   "synojslibSECTIONuicommonKEYshutdown_warn": {
+      "message": "Opravdu chcete provést vypnutí?"
+   },
+   "synojslibSECTIONuicommonKEYsuperboxselect_hint": {
+      "message": "Stisknutím klávesy se šipkou dolů se zobrazí všechny položky, které je možné vybrat. Stisknutím klávesy se šipkou doleva zkontrolujete svůj výběr."
+   },
+   "synojslibSECTIONuicommonKEYsystem_poweroff": {
+      "message": "Zařízení _DISKSTATION_ bude brzy vypnuto."
+   },
+   "synojslibSECTIONuicommonKEYsystem_reboot": {
+      "message": "_DISKSTATION_ se restartuje."
+   },
+   "synojslibSECTIONuicommonKEYsystem_reboot_timeout": {
+      "message": "Zařízení _DISKSTATION_ se restartuje. Po dokončení restartu vyhledejte zařízení _DISKSTATION_ pomocí nástroje \u003Ca class=\"link-font\" href=\"https://find.synology.com\" target=\"_blank\">Web Assistant\u003C/a> nebo Synology Assistant a připojte se k němu."
+   },
+   "synojslibSECTIONuicommonKEYtime_hour": {
+      "message": "hodin(-y)"
+   },
+   "synojslibSECTIONuicommonKEYtime_min": {
+      "message": "minuty"
+   },
+   "synojslibSECTIONuicommonKEYtime_sec": {
+      "message": "sekundy"
+   },
+   "synojslibSECTIONuicommonKEYtimediff_day": {
+      "message": "před {0} dnem"
+   },
+   "synojslibSECTIONuicommonKEYtimediff_days": {
+      "message": "před {0} dny"
+   },
+   "synojslibSECTIONuicommonKEYtimediff_hour": {
+      "message": "před {0} hodinou"
+   },
+   "synojslibSECTIONuicommonKEYtimediff_hours": {
+      "message": "před {0} hodinami"
+   },
+   "synojslibSECTIONuicommonKEYtimediff_minute": {
+      "message": "před {0} minutou"
+   },
+   "synojslibSECTIONuicommonKEYtimediff_minutes": {
+      "message": "před {0} minutami"
+   },
+   "synojslibSECTIONuicommonKEYtimediff_second": {
+      "message": "před {0} vteřinou"
+   },
+   "synojslibSECTIONuicommonKEYtimediff_seconds": {
+      "message": "před {0} vteřinami"
+   },
+   "synojslibSECTIONuicommonKEYwelcome": {
+      "message": "Uvítání"
+   },
+   "synojslibSECTIONvtypeKEYbad_adminname": {
+      "message": "The administrator account is invalid or it contains invalid characters."
+   },
+   "synojslibSECTIONvtypeKEYbad_alias": {
+      "message": "Zadaný alias není platný."
+   },
+   "synojslibSECTIONvtypeKEYbad_backup_destination": {
+      "message": "Název cíle zálohy není platný, nebo obsahuje neplatné znaky."
+   },
+   "synojslibSECTIONvtypeKEYbad_backup_target": {
+      "message": "Cílový název není platný, nebo obsahuje neplatné znaky."
+   },
+   "synojslibSECTIONvtypeKEYbad_cidr": {
+      "message": "Zadaný CIDR není platný."
+   },
+   "synojslibSECTIONvtypeKEYbad_cidr_hostname": {
+      "message": "Zadaný CIDR nebo název hostitele není platný."
+   },
+   "synojslibSECTIONvtypeKEYbad_dar_profile_name": {
+      "message": "Pouze písmena, číslice a znaky mezery. Nepoužívejte vyhrazená slova jako \u003Cb>template\u003C/b>, \u003Cb>lang\u003C/b> a \u003Cb>global\u003C/b>. Název nesmí začínat nebo končit mezerou."
+   },
+   "synojslibSECTIONvtypeKEYbad_ddns_noip_alphanumspace": {
+      "message": "pouze alfanumerické znaky a mezery"
+   },
+   "synojslibSECTIONvtypeKEYbad_ddns_noip_password": {
+      "message": "Znaky +, ?, %, & nejsou povoleny."
+   },
+   "synojslibSECTIONvtypeKEYbad_devicename": {
+      "message": "Název zařízení je neplatný nebo obsahuje neplatné znaky."
+   },
+   "synojslibSECTIONvtypeKEYbad_domain_name": {
+      "message": "Neplatný název domény"
+   },
+   "synojslibSECTIONvtypeKEYbad_email": {
+      "message": "Neplatný formát e-mailu."
+   },
+   "synojslibSECTIONvtypeKEYbad_event_task_name": {
+      "message": "Název úlohy může obsahovat pouze anglická písmena, čísla a mezery. Mezerami však nemůže začínat ani končit."
+   },
+   "synojslibSECTIONvtypeKEYbad_field": {
+      "message": "Hodnota pole není platná."
+   },
+   "synojslibSECTIONvtypeKEYbad_fwname": {
+      "message": "Název pravidla brány firewall je neplatný. Zadejte jiný název."
+   },
+   "synojslibSECTIONvtypeKEYbad_groupname": {
+      "message": "Název skupiny není platný nebo obsahuje neplatné znaky."
+   },
+   "synojslibSECTIONvtypeKEYbad_host": {
+      "message": "Neplatný název hostitele. Název hostitele může obsahovat pouze písmena, číslice, podtržítka (_) a spojovníky (-) a musí začínat písmenem."
+   },
+   "synojslibSECTIONvtypeKEYbad_hostname": {
+      "message": "Neplatný formát názvu hostitele."
+   },
+   "synojslibSECTIONvtypeKEYbad_ip": {
+      "message": "IP adresa, kterou jste zadali, není platná."
+   },
+   "synojslibSECTIONvtypeKEYbad_iporhostname": {
+      "message": "Neplatná IP adresa nebo název hostitele."
+   },
+   "synojslibSECTIONvtypeKEYbad_ipv6prefixLeng": {
+      "message": "Neplatná předpona IPv6."
+   },
+   "synojslibSECTIONvtypeKEYbad_iscsi_hostname": {
+      "message": "Název hostitele smí obsahovat pouze písmena, číslice, dvojtečky (:), spojovníky (-) a tečky (.)."
+   },
+   "synojslibSECTIONvtypeKEYbad_iscsi_lunname": {
+      "message": "Zadaný název jednotky LUN není platný. Další informace jsou uvedeny v nápovědě."
+   },
+   "synojslibSECTIONvtypeKEYbad_iscsi_password": {
+      "message": "Hesla musí být dlouhá 12 až 16 znaků."
+   },
+   "synojslibSECTIONvtypeKEYbad_iscsi_targetiqn": {
+      "message": "Zadaný název IQN cíle iSCSI Target není platný. Další informace naleznete v nápovědě."
+   },
+   "synojslibSECTIONvtypeKEYbad_iscsi_targetname": {
+      "message": "Zadaný název cíle není platný. Další informace naleznete v nápovědě."
+   },
+   "synojslibSECTIONvtypeKEYbad_iscsi_username": {
+      "message": "Pouze čísla a písmena anglické abecedy. Maximálně 12 znaků."
+   },
+   "synojslibSECTIONvtypeKEYbad_mac": {
+      "message": "Zadejte správnou adresu MAC."
+   },
+   "synojslibSECTIONvtypeKEYbad_mask": {
+      "message": "Maska podsítě, kterou jste zadali, není platná."
+   },
+   "synojslibSECTIONvtypeKEYbad_netbkp_module": {
+      "message": "Modul nemůže obsahovat speciální znaky: / \\ # [ ] \u003C > \""
+   },
+   "synojslibSECTIONvtypeKEYbad_networkgroupname": {
+      "message": "Název pracovní skupiny není platný nebo obsahuje neplatné znaky."
+   },
+   "synojslibSECTIONvtypeKEYbad_number": {
+      "message": "Toto číslo nesmí začínat číslicí 0 a musí obsahovat celé číslo."
+   },
+   "synojslibSECTIONvtypeKEYbad_port": {
+      "message": "Číslo portu musí být z rozsahu 1 až 65 535."
+   },
+   "synojslibSECTIONvtypeKEYbad_relay_alias_name": {
+      "message": "QuickConnect ID může obsahovat pouze anglická písmena, číslice a pomlčky (-). Musí začínat písmenem a nesmí končit spojovníkem."
+   },
+   "synojslibSECTIONvtypeKEYbad_sharename": {
+      "message": "Název sdílené složky obsahuje neplatné znaky, začíná nebo končí znakem mezery nebo je vyhrazen pro systémové použití. Další informace o pravidlech zadávání názvů se nacházejí v nápovědě."
+   },
+   "synojslibSECTIONvtypeKEYbad_taskname": {
+      "message": "Název úlohy není platný, nebo obsahuje neplatné znaky."
+   },
+   "synojslibSECTIONvtypeKEYbad_url": {
+      "message": "Neplatný formát adresy URL."
+   },
+   "synojslibSECTIONvtypeKEYbad_urlblocker_profile": {
+      "message": "The URL Blocker profile's name is invalid"
+   },
+   "synojslibSECTIONvtypeKEYbad_username": {
+      "message": "Uživatelské jméno není platné nebo obsahuje neplatné znaky."
+   },
+   "synojslibSECTIONvtypeKEYbad_v6ip": {
+      "message": "Neplatná adresa IPv6."
+   },
+   "synojslibSECTIONvtypeKEYpassword_confirm_failed": {
+      "message": "Heslo nebylo potvrzeno. Zadejte heslo znovu."
+   },
+   "synojslibSECTIONwizardKEYbtnback": {
+      "message": "Zpět"
+   },
+   "synojslibSECTIONwizardKEYbtncancel": {
+      "message": "Storno"
+   },
+   "synojslibSECTIONwizardKEYbtnfinish": {
+      "message": "Hotovo"
+   },
+   "synojslibSECTIONwizardKEYbtnnext": {
+      "message": "Další"
+   },
+   "synojslibSECTIONwizardKEYfinaldescr": {
+      "message": "Klepnutím na možnost {0} zavřete okno."
+   },
+   "synojslibSECTIONwizardKEYnextdescr": {
+      "message": "Klepnutím na možnost {0} můžete pokračovat."
+   }
+}

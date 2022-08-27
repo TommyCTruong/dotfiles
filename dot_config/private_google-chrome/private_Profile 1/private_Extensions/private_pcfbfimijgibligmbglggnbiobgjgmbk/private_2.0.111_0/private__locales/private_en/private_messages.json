@@ -1,0 +1,2393 @@
+{
+   "NoteStationClipperSECTIONappKEYdescription": {
+      "message": "Synology Web Clipper saves web content to your Synology NAS for quick and easy access. A complete page of text, pictures, and li..."
+   },
+   "NoteStationClipperSECTIONappKEYdescription_detail": {
+      "message": "Synology Web Clipper clips web content and saves it to your Synology NAS. A complete web page including text, pictures, and links can be saved. Spare yourself from managing countless browser tabs and bookmarks. With Synology Web Clipper, you can quickly and easily access clipped content via Note Station. You can also add tags and comments to manage clipped content."
+   },
+   "NoteStationClipperSECTIONappKEYdisplayname": {
+      "message": "Synology Web Clipper"
+   },
+   "NoteStationClipperSECTIONcaptureKEYez_capture_mode": {
+      "message": "Enable quick capture mode"
+   },
+   "NoteStationClipperSECTIONcaptureKEYgmail_thread": {
+      "message": "Email Content"
+   },
+   "NoteStationClipperSECTIONcaptureKEYonly_mail_title": {
+      "message": "No message selected. Only the email subject will be saved. Do you want to continue?"
+   },
+   "NoteStationClipperSECTIONcaptureKEYscreenshot": {
+      "message": "Screenshot"
+   },
+   "NoteStationClipperSECTIONcaptureKEYsimplify_content": {
+      "message": "Simplified content"
+   },
+   "NoteStationClipperSECTIONcaptureKEYwhole_content": {
+      "message": "Full content"
+   },
+   "NoteStationClipperSECTIONcaptureKEYwhole_screenshot": {
+      "message": "Whole page screenshot"
+   },
+   "NoteStationClipperSECTIONcommonKEYapply": {
+      "message": "OK"
+   },
+   "NoteStationClipperSECTIONcommonKEYcommfail": {
+      "message": "Connection failed. Please check your network settings."
+   },
+   "NoteStationClipperSECTIONcommonKEYcommon_settings": {
+      "message": "Settings"
+   },
+   "NoteStationClipperSECTIONcommonKEYenter_otp_desc": {
+      "message": "Enter 6-digit code"
+   },
+   "NoteStationClipperSECTIONcommonKEYerror_system": {
+      "message": "Unable to perform this operation, possibly because the network connection is unstable. Please sign in to {0} again later."
+   },
+   "NoteStationClipperSECTIONcommonKEYloading": {
+      "message": "Loading..."
+   },
+   "NoteStationClipperSECTIONcommonKEYlogin": {
+      "message": "Sign In"
+   },
+   "NoteStationClipperSECTIONcommonKEYlogout": {
+      "message": "Logout"
+   },
+   "NoteStationClipperSECTIONcommonKEYmsg_waiting": {
+      "message": "Processing. Please wait..."
+   },
+   "NoteStationClipperSECTIONcommonKEYpassword": {
+      "message": "Password"
+   },
+   "NoteStationClipperSECTIONcommonKEYsave": {
+      "message": "Save"
+   },
+   "NoteStationClipperSECTIONcommonKEYusername": {
+      "message": "Username"
+   },
+   "NoteStationClipperSECTIONloginKEYenter_otp_desc": {
+      "message": "Enter 6-digit code"
+   },
+   "NoteStationClipperSECTIONloginKEYerror_cantlogin": {
+      "message": "The account or password is invalid. Please try again."
+   },
+   "NoteStationClipperSECTIONloginKEYerror_otp_failed": {
+      "message": "Wrong verification code. Please try again."
+   },
+   "NoteStationClipperSECTIONloginKEYmail_service_not_enable": {
+      "message": "Email notification service is not enabled. Please ask your administrator to reset your password."
+   },
+   "NoteStationClipperSECTIONloginKEYno_mail_address": {
+      "message": "No mail address found for this username."
+   },
+   "NoteStationClipperSECTIONloginKEYotp_lost_phone_desc": {
+      "message": "Lost your phone?"
+   },
+   "NoteStationClipperSECTIONloginKEYotp_mail_success": {
+      "message": "An emergency code has been sent to your email address."
+   },
+   "NoteStationClipperSECTIONloginKEYotp_no_emergency_code": {
+      "message": "You have exceeded your emergency code limit. Please contact your system administrator."
+   },
+   "NoteStationClipperSECTIONloginKEYotp_wrong_input_format": {
+      "message": "Please enter a 6-digit verification code or 8-digit emergency code."
+   },
+   "NoteStationClipperSECTIONloginKEYtrust_device": {
+      "message": "Trust this device"
+   },
+   "NoteStationClipperSECTIONloginKEYunknown_otp_err": {
+      "message": "An error occurred. Please contact your system administrator."
+   },
+   "NoteStationClipperSECTIONmailKEYattachment": {
+      "message": "Attachment"
+   },
+   "NoteStationClipperSECTIONmailKEYpeople_involved": {
+      "message": "People Involved"
+   },
+   "NoteStationClipperSECTIONmailKEYsubject": {
+      "message": "Subject"
+   },
+   "NoteStationClipperSECTIONmessageKEYcapture_fail": {
+      "message": "Clipping Failed"
+   },
+   "NoteStationClipperSECTIONmessageKEYcapture_success": {
+      "message": "Clipping Successful"
+   },
+   "NoteStationClipperSECTIONmessageKEYerror_clipper_open_fail": {
+      "message": "Unable to launch Synology Web Clipper on this page. Please refresh this page and try again."
+   },
+   "NoteStationClipperSECTIONmessageKEYerror_https_certificate": {
+      "message": "Unauthorized security certificate. Please go to {0} to proceed with this connection. Would you like to go there now?"
+   },
+   "NoteStationClipperSECTIONmessageKEYerror_install_note_station": {
+      "message": "Unable to log in. Please install and activate Note Station in DSM."
+   },
+   "NoteStationClipperSECTIONmessageKEYerror_upgrade_note_station": {
+      "message": "Your Note Station version is out-of-date. Please go to Package Center and update Note Station."
+   },
+   "NoteStationClipperSECTIONmessageKEYerror_user_home_disabled": {
+      "message": "\"User Home\" service is currently disabled. Please enable \"User Home\" service in DSM and try again."
+   },
+   "NoteStationClipperSECTIONmessageKEYhint_add_comment": {
+      "message": "Add a comment"
+   },
+   "NoteStationClipperSECTIONmessageKEYhint_add_tag": {
+      "message": "Add a tag"
+   },
+   "NoteStationClipperSECTIONmessageKEYhint_hostname": {
+      "message": "NAS IP/QuickConnect ID"
+   },
+   "NoteStationClipperSECTIONquickconnectKEYcannot_connect_to_ds": {
+      "message": "Unable to connect to your Synology NAS. Please make sure both the QuickConnect ID is correct and you can connect to your Synology NAS."
+   },
+   "NoteStationClipperSECTIONquickconnectKEYcannot_connect_to_global": {
+      "message": "Unable to connect to the QuickConnect server. Please try again later."
+   },
+   "NoteStationClipperSECTIONquickconnectKEYcannot_request_tunnel": {
+      "message": "Unable to establish a connection via QuickConnect. Please make sure your QuickConnect settings are correct and the network behavior is normal."
+   },
+   "NoteStationClipperSECTIONsettingKEYaccount": {
+      "message": "Account"
+   },
+   "NoteStationClipperSECTIONsettingKEYdisk_station": {
+      "message": "Synology NAS"
+   },
+   "NoteStationClipperSECTIONsettingKEYfeedback": {
+      "message": "Feedback"
+   },
+   "NoteStationClipperSECTIONsettingKEYversion": {
+      "message": "Version"
+   },
+   "NoteStationClipperSECTIONtooltipKEYsearch": {
+      "message": "Search"
+   },
+   "NoteStationSECTIONappKEYdescription": {
+      "message": "Note Station helps you fully enjoy writing, viewing, managing, and sharing content-rich notes. It is very easy to create content..."
+   },
+   "NoteStationSECTIONappKEYdisplayname": {
+      "message": "Note Station"
+   },
+   "NoteStationSECTIONappKEYopen_in_note_station": {
+      "message": "Open in Note Station"
+   },
+   "NoteStationSECTIONappKEYwz_rm_repo_chkbox": {
+      "message": "Permanently delete database"
+   },
+   "NoteStationSECTIONappKEYwz_rm_repo_desc": {
+      "message": "Permanently delete Note Station database. This data cannot be recovered."
+   },
+   "NoteStationSECTIONappKEYwz_rm_repo_title": {
+      "message": "Delete Note Station Database"
+   },
+   "NoteStationSECTIONcategoryKEYall_joined_notes": {
+      "message": "Joined Notes"
+   },
+   "NoteStationSECTIONcategoryKEYall_notes": {
+      "message": "All Notes"
+   },
+   "NoteStationSECTIONcategoryKEYall_shared_notes": {
+      "message": "Shared Notes"
+   },
+   "NoteStationSECTIONcategoryKEYarchive": {
+      "message": "Archive Notebooks"
+   },
+   "NoteStationSECTIONcategoryKEYjoined": {
+      "message": "Joined Notebooks"
+   },
+   "NoteStationSECTIONcategoryKEYnotebook": {
+      "message": "Notebooks"
+   },
+   "NoteStationSECTIONcategoryKEYrecycle": {
+      "message": "Recycle Bin"
+   },
+   "NoteStationSECTIONcategoryKEYshortcut": {
+      "message": "Favorites"
+   },
+   "NoteStationSECTIONcategoryKEYsmart": {
+      "message": "Smart Notebooks"
+   },
+   "NoteStationSECTIONcategoryKEYtag": {
+      "message": "Tags"
+   },
+   "NoteStationSECTIONcategoryKEYtodo_task": {
+      "message": "To-do List"
+   },
+   "NoteStationSECTIONchartKEYchart_property": {
+      "message": "Property"
+   },
+   "NoteStationSECTIONchartKEYchart_size": {
+      "message": "Size (by Pixel)"
+   },
+   "NoteStationSECTIONchartKEYchart_title": {
+      "message": "Title"
+   },
+   "NoteStationSECTIONchartKEYclone": {
+      "message": "Clone"
+   },
+   "NoteStationSECTIONchartKEYdata": {
+      "message": "Data"
+   },
+   "NoteStationSECTIONchartKEYdata_direction": {
+      "message": "Category (as X-axis)"
+   },
+   "NoteStationSECTIONchartKEYdata_direction_by_column": {
+      "message": "Row"
+   },
+   "NoteStationSECTIONchartKEYdata_direction_by_row": {
+      "message": "Column"
+   },
+   "NoteStationSECTIONchartKEYdata_header": {
+      "message": "Header"
+   },
+   "NoteStationSECTIONchartKEYdata_header_first_column": {
+      "message": "Leftmost column"
+   },
+   "NoteStationSECTIONchartKEYdata_header_first_row": {
+      "message": "Top row"
+   },
+   "NoteStationSECTIONchartKEYdata_range": {
+      "message": "Range"
+   },
+   "NoteStationSECTIONchartKEYinsert_number": {
+      "message": "Quantity"
+   },
+   "NoteStationSECTIONchartKEYinsert_position": {
+      "message": "Position"
+   },
+   "NoteStationSECTIONchartKEYinvalid_must_between": {
+      "message": "Must be between {0} and {1}."
+   },
+   "NoteStationSECTIONchartKEYmenu_delete_columns": {
+      "message": "Delete columns"
+   },
+   "NoteStationSECTIONchartKEYmenu_delete_rows": {
+      "message": "Delete rows"
+   },
+   "NoteStationSECTIONchartKEYmenu_insert_column_left": {
+      "message": "Insert 1 left"
+   },
+   "NoteStationSECTIONchartKEYmenu_insert_column_right": {
+      "message": "Insert 1 right"
+   },
+   "NoteStationSECTIONchartKEYmenu_insert_multi_columns": {
+      "message": "Insert multiple columns"
+   },
+   "NoteStationSECTIONchartKEYmenu_insert_multi_rows": {
+      "message": "Insert multiple rows"
+   },
+   "NoteStationSECTIONchartKEYmenu_insert_row_above": {
+      "message": "Insert 1 above"
+   },
+   "NoteStationSECTIONchartKEYmenu_insert_row_below": {
+      "message": "Insert 1 below"
+   },
+   "NoteStationSECTIONchartKEYposition_above": {
+      "message": "Above"
+   },
+   "NoteStationSECTIONchartKEYposition_below": {
+      "message": "Below"
+   },
+   "NoteStationSECTIONchartKEYposition_left": {
+      "message": "Left"
+   },
+   "NoteStationSECTIONchartKEYposition_right": {
+      "message": "Right"
+   },
+   "NoteStationSECTIONchartKEYremove_all_column_notify": {
+      "message": "You cannot delete all the columns on the sheet."
+   },
+   "NoteStationSECTIONchartKEYremove_all_row_notify": {
+      "message": "You cannot delete all the rows on the sheet."
+   },
+   "NoteStationSECTIONchartKEYtab_title_chart": {
+      "message": "Chart"
+   },
+   "NoteStationSECTIONchartKEYtab_title_config": {
+      "message": "Settings"
+   },
+   "NoteStationSECTIONchartKEYtitle": {
+      "message": "Chart Editor"
+   },
+   "NoteStationSECTIONchartKEYtype": {
+      "message": "Type"
+   },
+   "NoteStationSECTIONchartKEYx_axis_title": {
+      "message": "X-axis Title"
+   },
+   "NoteStationSECTIONchartKEYy_axis_title": {
+      "message": "Y-axis Title"
+   },
+   "NoteStationSECTIONclipperKEYfail": {
+      "message": "Clip fail"
+   },
+   "NoteStationSECTIONclipperKEYprocessing": {
+      "message": "Clipping webpage"
+   },
+   "NoteStationSECTIONcommonKEYaction": {
+      "message": "Remove"
+   },
+   "NoteStationSECTIONcommonKEYadd": {
+      "message": "Add"
+   },
+   "NoteStationSECTIONcommonKEYadd_to_shortcut": {
+      "message": "Add to Favorites"
+   },
+   "NoteStationSECTIONcommonKEYadd_to_stack": {
+      "message": "Add to shelf"
+   },
+   "NoteStationSECTIONcommonKEYcancel": {
+      "message": "Cancel"
+   },
+   "NoteStationSECTIONcommonKEYchange_password": {
+      "message": "Change password"
+   },
+   "NoteStationSECTIONcommonKEYchange_password_tip": {
+      "message": "The new password only applies to new copies of this note. The original note is still encrypted with the old password."
+   },
+   "NoteStationSECTIONcommonKEYclose": {
+      "message": "Close"
+   },
+   "NoteStationSECTIONcommonKEYcolon": {
+      "message": ":"
+   },
+   "NoteStationSECTIONcommonKEYconfirm_leave": {
+      "message": "You are about to log out of DSM or refresh this page. Continuing will cancel all running tasks and any unsaved changes will be lost. Are you sure you want to continue?"
+   },
+   "NoteStationSECTIONcommonKEYconfirm_password": {
+      "message": "Confirm password"
+   },
+   "NoteStationSECTIONcommonKEYcopy": {
+      "message": "Copy"
+   },
+   "NoteStationSECTIONcommonKEYcreate": {
+      "message": "Create"
+   },
+   "NoteStationSECTIONcommonKEYdate_format_with_year": {
+      "message": "{2}, {0} {1} {3}"
+   },
+   "NoteStationSECTIONcommonKEYdecrypt": {
+      "message": "Decrypt"
+   },
+   "NoteStationSECTIONcommonKEYdelete": {
+      "message": "Delete"
+   },
+   "NoteStationSECTIONcommonKEYdifferent_values": {
+      "message": "[Multiple entries...]"
+   },
+   "NoteStationSECTIONcommonKEYdone": {
+      "message": "Done"
+   },
+   "NoteStationSECTIONcommonKEYduplicate": {
+      "message": "Duplicate"
+   },
+   "NoteStationSECTIONcommonKEYedit": {
+      "message": "Edit"
+   },
+   "NoteStationSECTIONcommonKEYempty_recycle": {
+      "message": "Empty Recycle Bin"
+   },
+   "NoteStationSECTIONcommonKEYencrypt": {
+      "message": "Encrypt"
+   },
+   "NoteStationSECTIONcommonKEYenter_password": {
+      "message": "Please enter password"
+   },
+   "NoteStationSECTIONcommonKEYextra": {
+      "message": "Extra"
+   },
+   "NoteStationSECTIONcommonKEYhere": {
+      "message": "Here"
+   },
+   "NoteStationSECTIONcommonKEYleave": {
+      "message": "Leave"
+   },
+   "NoteStationSECTIONcommonKEYloading": {
+      "message": "Loading..."
+   },
+   "NoteStationSECTIONcommonKEYmove": {
+      "message": "Move"
+   },
+   "NoteStationSECTIONcommonKEYname": {
+      "message": "Name"
+   },
+   "NoteStationSECTIONcommonKEYnew_password": {
+      "message": "New password"
+   },
+   "NoteStationSECTIONcommonKEYnote_link_in_recycle": {
+      "message": "Note has been deleted"
+   },
+   "NoteStationSECTIONcommonKEYok": {
+      "message": "OK"
+   },
+   "NoteStationSECTIONcommonKEYopen_note_in_new_tab": {
+      "message": "Open note in new tab"
+   },
+   "NoteStationSECTIONcommonKEYowner": {
+      "message": "Owner"
+   },
+   "NoteStationSECTIONcommonKEYplease_select_item": {
+      "message": "Click an item under any category to start browsing."
+   },
+   "NoteStationSECTIONcommonKEYpreview": {
+      "message": "Preview"
+   },
+   "NoteStationSECTIONcommonKEYprint": {
+      "message": "Print"
+   },
+   "NoteStationSECTIONcommonKEYrecord_audio": {
+      "message": "Record audio"
+   },
+   "NoteStationSECTIONcommonKEYrefresh": {
+      "message": "Refresh"
+   },
+   "NoteStationSECTIONcommonKEYremove_from_stack": {
+      "message": "Remove from shelf"
+   },
+   "NoteStationSECTIONcommonKEYrename": {
+      "message": "Rename"
+   },
+   "NoteStationSECTIONcommonKEYreset": {
+      "message": "Reset"
+   },
+   "NoteStationSECTIONcommonKEYrestore": {
+      "message": "Restore"
+   },
+   "NoteStationSECTIONcommonKEYsearch": {
+      "message": "Search"
+   },
+   "NoteStationSECTIONcommonKEYsearch_todo_tasks": {
+      "message": "Search to-do list"
+   },
+   "NoteStationSECTIONcommonKEYsend_as_mail": {
+      "message": "Send as mail"
+   },
+   "NoteStationSECTIONcommonKEYset_as_preset": {
+      "message": "Set as default notebook"
+   },
+   "NoteStationSECTIONcommonKEYsetting": {
+      "message": "Settings"
+   },
+   "NoteStationSECTIONcommonKEYshare": {
+      "message": "Share"
+   },
+   "NoteStationSECTIONcommonKEYsize": {
+      "message": "Size"
+   },
+   "NoteStationSECTIONcommonKEYskip_notify": {
+      "message": "Don't ask me again"
+   },
+   "NoteStationSECTIONcommonKEYsync": {
+      "message": "Sync Now"
+   },
+   "NoteStationSECTIONcommonKEYuser_or_group": {
+      "message": "User/Group"
+   },
+   "NoteStationSECTIONcommonKEYusername": {
+      "message": "Username"
+   },
+   "NoteStationSECTIONcommonKEYweekday_0": {
+      "message": "Sun"
+   },
+   "NoteStationSECTIONcommonKEYweekday_1": {
+      "message": "Mon"
+   },
+   "NoteStationSECTIONcommonKEYweekday_2": {
+      "message": "Tue"
+   },
+   "NoteStationSECTIONconflictKEYcurrent_version": {
+      "message": "My Version"
+   },
+   "NoteStationSECTIONconflictKEYduplicate": {
+      "message": "Create a new note using my version"
+   },
+   "NoteStationSECTIONconflictKEYlatest_version": {
+      "message": "Latest Version"
+   },
+   "NoteStationSECTIONconflictKEYoverwrite": {
+      "message": "Keep my version"
+   },
+   "NoteStationSECTIONconflictKEYreadme": {
+      "message": "Your note is different from the latest version saved on your Synology NAS. Which version do you want to keep?"
+   },
+   "NoteStationSECTIONconflictKEYskip": {
+      "message": "Keep latest version"
+   },
+   "NoteStationSECTIONconflictKEYtitle": {
+      "message": "Version Conflict"
+   },
+   "NoteStationSECTIONddKEYmulti_items": {
+      "message": "Multiple items({0})"
+   },
+   "NoteStationSECTIONeditorKEYcontent": {
+      "message": "Body"
+   },
+   "NoteStationSECTIONeditorKEYcustom_color": {
+      "message": "Custom"
+   },
+   "NoteStationSECTIONeditorKEYcustom_color_win_title": {
+      "message": "Custom Color"
+   },
+   "NoteStationSECTIONeditorKEYdrop_to_copy": {
+      "message": "Insert here"
+   },
+   "NoteStationSECTIONeditorKEYheading": {
+      "message": "Heading"
+   },
+   "NoteStationSECTIONeditorKEYsearch_status": {
+      "message": "{0} of {1}"
+   },
+   "NoteStationSECTIONeditorKEYupload_processing": {
+      "message": "Processing"
+   },
+   "NoteStationSECTIONeditorKEYupload_waiting": {
+      "message": "Waiting"
+   },
+   "NoteStationSECTIONerrorKEYalready_in_shortcut": {
+      "message": "This is already in Favorites."
+   },
+   "NoteStationSECTIONerrorKEYbackuping": {
+      "message": "Performing data backup. Please try again later."
+   },
+   "NoteStationSECTIONerrorKEYcannot_delete_preset": {
+      "message": "Unable to delete the default notebook."
+   },
+   "NoteStationSECTIONerrorKEYchange_volume_fail": {
+      "message": "Failed to move data to {0}. Cause: {1}"
+   },
+   "NoteStationSECTIONerrorKEYcompress_fail": {
+      "message": "Unable to create Note Station export file."
+   },
+   "NoteStationSECTIONerrorKEYcopy_note_link": {
+      "message": "Copy the link below by Ctrl+C/Command+C."
+   },
+   "NoteStationSECTIONerrorKEYcopy_share_link": {
+      "message": "Copy the link by Ctrl+C/Command+C"
+   },
+   "NoteStationSECTIONerrorKEYdefault_create_fail": {
+      "message": "\"User Home\" is currently disabled. Please go to the \"User\" page and enable it first."
+   },
+   "NoteStationSECTIONerrorKEYdefault_create_fail_directory": {
+      "message": "User home service is currently disabled. Please go to Control Panel > User > Advanced to enable it."
+   },
+   "NoteStationSECTIONerrorKEYdrive_get_failed": {
+      "message": "Note or Notebook is unavailable. Please check your permissions settings."
+   },
+   "NoteStationSECTIONerrorKEYerror_demo": {
+      "message": "This function is not available in demo mode."
+   },
+   "NoteStationSECTIONerrorKEYerror_filename": {
+      "message": "You have selected a file with an incorrect extension. Please make sure the file extension is \".nsx\" which is not case-sensitive."
+   },
+   "NoteStationSECTIONerrorKEYerror_format": {
+      "message": "Unsupported format."
+   },
+   "NoteStationSECTIONerrorKEYerror_no_such_user": {
+      "message": "The user account already exists."
+   },
+   "NoteStationSECTIONerrorKEYerror_ns_disabled": {
+      "message": "Note Station is disabled."
+   },
+   "NoteStationSECTIONerrorKEYerror_synodrive": {
+      "message": "Failed to access data."
+   },
+   "NoteStationSECTIONerrorKEYerror_system": {
+      "message": "Operation failed."
+   },
+   "NoteStationSECTIONerrorKEYexport_no_select_notebook": {
+      "message": "Please select at least one notebook."
+   },
+   "NoteStationSECTIONerrorKEYexport_no_select_target": {
+      "message": "Please select at least one item for export."
+   },
+   "NoteStationSECTIONerrorKEYexport_op_fail": {
+      "message": "Export task failed. Please try again later."
+   },
+   "NoteStationSECTIONerrorKEYextract_fail": {
+      "message": "The selected nsx file is corrupt. Please select another nsx file and try again."
+   },
+   "NoteStationSECTIONerrorKEYfeature_in_https_only": {
+      "message": "Audio recording failed. Please connect to your _DISKSTATION_ again via HTTPS to perform recording."
+   },
+   "NoteStationSECTIONerrorKEYgeolocation_failed": {
+      "message": "The geolocation service failed."
+   },
+   "NoteStationSECTIONerrorKEYgeolocation_not_support": {
+      "message": "Your browser does not support geolocation services."
+   },
+   "NoteStationSECTIONerrorKEYimport_evernote_auth_fail": {
+      "message": "Failed to access to Evernote. Please re-authorize Note Station to access your Evernote account and try again."
+   },
+   "NoteStationSECTIONerrorKEYimport_export_not_running": {
+      "message": "No import or export task is running."
+   },
+   "NoteStationSECTIONerrorKEYimport_export_running": {
+      "message": "Another import or export task is in progress. Please try again later."
+   },
+   "NoteStationSECTIONerrorKEYimport_no_select_notebook": {
+      "message": "Please select at least one notebook."
+   },
+   "NoteStationSECTIONerrorKEYimport_op_fail": {
+      "message": "Import task failed. Please try again later."
+   },
+   "NoteStationSECTIONerrorKEYimport_reach_limit": {
+      "message": "Evernote syncing quota reached, unable to continue import task. Please try again later."
+   },
+   "NoteStationSECTIONerrorKEYimport_unknown": {
+      "message": "Unknown error: "
+   },
+   "NoteStationSECTIONerrorKEYlatest_chrome_or_firefox": {
+      "message": "Please use the latest version of Google Chrome or Mozilla Firefox to record audio."
+   },
+   "NoteStationSECTIONerrorKEYloadsetting_fail": {
+      "message": "Failed to load system settings."
+   },
+   "NoteStationSECTIONerrorKEYmaintenance": {
+      "message": "Note Station is currently under maintenance. Please try again later."
+   },
+   "NoteStationSECTIONerrorKEYmoving_data": {
+      "message": "Note Station is changing volume now, please try again later."
+   },
+   "NoteStationSECTIONerrorKEYno_available_notebook": {
+      "message": "There is no available notebook."
+   },
+   "NoteStationSECTIONerrorKEYno_enough_space": {
+      "message": "Operation failed because the available volume size is insufficient."
+   },
+   "NoteStationSECTIONerrorKEYnote_conflict": {
+      "message": "Note version conflict"
+   },
+   "NoteStationSECTIONerrorKEYnote_link_in_preview": {
+      "message": "Note links cannot work in history versions."
+   },
+   "NoteStationSECTIONerrorKEYnote_not_exist": {
+      "message": "The selected note does not exist."
+   },
+   "NoteStationSECTIONerrorKEYnote_not_in_recycle": {
+      "message": "This note is not in Recycle Bin."
+   },
+   "NoteStationSECTIONerrorKEYobject_no_permission": {
+      "message": "You have insufficient permissions to access this item."
+   },
+   "NoteStationSECTIONerrorKEYobject_not_exist": {
+      "message": "The notebook or note does not exist."
+   },
+   "NoteStationSECTIONerrorKEYperm_op_fail": {
+      "message": "Failed to change permissions."
+   },
+   "NoteStationSECTIONerrorKEYpreset_already_exist": {
+      "message": "Default notebook already exists."
+   },
+   "NoteStationSECTIONerrorKEYrecord_device_no_found": {
+      "message": "No microphone device detected. Please connect a microphone and check your device settings."
+   },
+   "NoteStationSECTIONerrorKEYrecord_perm_deny": {
+      "message": "Microphone access denied. You may have insufficient permissions."
+   },
+   "NoteStationSECTIONerrorKEYrecord_unknown": {
+      "message": "Unknown error: "
+   },
+   "NoteStationSECTIONerrorKEYsave": {
+      "message": "Save failed. Please try again later."
+   },
+   "NoteStationSECTIONerrorKEYspace_not_enough": {
+      "message": "The destination volume has no enough space."
+   },
+   "NoteStationSECTIONerrorKEYtag_conflict": {
+      "message": "The tag already exists on the same level."
+   },
+   "NoteStationSECTIONerrorKEYvolume_moving": {
+      "message": "Note Station is moving data to another volume. Please try again later."
+   },
+   "NoteStationSECTIONerror_backupKEYerr_backup_version": {
+      "message": "Incorrect backup version."
+   },
+   "NoteStationSECTIONerror_backupKEYerr_estimate_dir": {
+      "message": "Failed to estimate backup data size."
+   },
+   "NoteStationSECTIONerror_backupKEYerr_export_repo": {
+      "message": "Failed to export data."
+   },
+   "NoteStationSECTIONerror_backupKEYerr_export_setting": {
+      "message": "Failed to export settings"
+   },
+   "NoteStationSECTIONerror_backupKEYerr_home_share": {
+      "message": "Failed to locate home directory. Please make sure home service is enabled."
+   },
+   "NoteStationSECTIONerror_backupKEYerr_import_repo": {
+      "message": "Failed to import data."
+   },
+   "NoteStationSECTIONerror_backupKEYerr_import_setting": {
+      "message": "Failed to import settings."
+   },
+   "NoteStationSECTIONerror_backupKEYerr_init_failed": {
+      "message": "Failed to initialize backup."
+   },
+   "NoteStationSECTIONerror_backupKEYerr_no_space": {
+      "message": "There is not enough disk space to restore data."
+   },
+   "NoteStationSECTIONexportKEYconfig": {
+      "message": "Export Notebooks"
+   },
+   "NoteStationSECTIONexportKEYconfig_desc": {
+      "message": "Export notebooks for backup or for importing to another Synology NAS."
+   },
+   "NoteStationSECTIONexportKEYctime": {
+      "message": "Created time"
+   },
+   "NoteStationSECTIONexportKEYdescription": {
+      "message": "Exporting notebooks or to-do list allows you to back important data or import them to another Synology NAS for use."
+   },
+   "NoteStationSECTIONexportKEYdest": {
+      "message": "Destination folder"
+   },
+   "NoteStationSECTIONexportKEYdest_desc": {
+      "message": "Please choose output folder"
+   },
+   "NoteStationSECTIONexportKEYexporting": {
+      "message": "Exporting"
+   },
+   "NoteStationSECTIONexportKEYguideline": {
+      "message": "Selected notebooks or to-do list will be exported as an .nsx file for backup and can be imported to another Synology NAS for use."
+   },
+   "NoteStationSECTIONexportKEYmtime": {
+      "message": "Modified time"
+   },
+   "NoteStationSECTIONexportKEYnote": {
+      "message": "Export note as .zip"
+   },
+   "NoteStationSECTIONexportKEYnotebook": {
+      "message": "Export"
+   },
+   "NoteStationSECTIONexportKEYnotebook_display": {
+      "message": "Export selected notebooks to a Note Station nsx file for backup or for importing to another Synology NAS."
+   },
+   "NoteStationSECTIONexportKEYnotebook_title": {
+      "message": "Notebook name"
+   },
+   "NoteStationSECTIONexportKEYpersonal_config": {
+      "message": "Keep personal settings"
+   },
+   "NoteStationSECTIONexportKEYselect_notebook": {
+      "message": "Select Notebooks"
+   },
+   "NoteStationSECTIONexportKEYselect_notebook_desc": {
+      "message": "Please select export notebooks"
+   },
+   "NoteStationSECTIONexportKEYtarget_desc": {
+      "message": "Please select the items for export"
+   },
+   "NoteStationSECTIONexportKEYtarget_notebook": {
+      "message": "Notebook"
+   },
+   "NoteStationSECTIONexportKEYtitle": {
+      "message": "Export Notebooks or To-do List"
+   },
+   "NoteStationSECTIONexportKEYtodo_list": {
+      "message": "To-do list"
+   },
+   "NoteStationSECTIONexportKEYword": {
+      "message": "Export as .docx"
+   },
+   "NoteStationSECTIONfiletableKEYdrop_file": {
+      "message": "Drop Files Here"
+   },
+   "NoteStationSECTIONhistoryKEYcopy_to_new_note": {
+      "message": "Copy to a new note"
+   },
+   "NoteStationSECTIONhistoryKEYdevice_name": {
+      "message": "Device"
+   },
+   "NoteStationSECTIONhistoryKEYmodify_time": {
+      "message": "Modified Time"
+   },
+   "NoteStationSECTIONhistoryKEYrestore": {
+      "message": "Restore"
+   },
+   "NoteStationSECTIONhistoryKEYusername": {
+      "message": "Username"
+   },
+   "NoteStationSECTIONhistoryKEYversion": {
+      "message": "Version"
+   },
+   "NoteStationSECTIONimportKEYcalculating": {
+      "message": "Processing"
+   },
+   "NoteStationSECTIONimportKEYcancel_import": {
+      "message": "Cancel Import"
+   },
+   "NoteStationSECTIONimportKEYconfirm_cancel_import": {
+      "message": "There is another session open or import task running. Continuing will cancel all running tasks. Are you sure you want to continue?"
+   },
+   "NoteStationSECTIONimportKEYctime": {
+      "message": "Created time"
+   },
+   "NoteStationSECTIONimportKEYevernote_config": {
+      "message": "Import Notebooks"
+   },
+   "NoteStationSECTIONimportKEYevernote_server": {
+      "message": "Select Server"
+   },
+   "NoteStationSECTIONimportKEYget_access_right": {
+      "message": "Request Evernote Authorization"
+   },
+   "NoteStationSECTIONimportKEYget_access_right_btn": {
+      "message": "Request Evernote authorization"
+   },
+   "NoteStationSECTIONimportKEYget_access_right_desc": {
+      "message": "To import notebooks from Evernote, please log in to Evernote and authorize Note Station to access your account. Note Station will redirect you to Evernote. "
+   },
+   "NoteStationSECTIONimportKEYimport_from_enex": {
+      "message": "Import"
+   },
+   "NoteStationSECTIONimportKEYimport_from_enex_display": {
+      "message": "Import notebooks from an Evernote .enex file."
+   },
+   "NoteStationSECTIONimportKEYimport_from_evernote": {
+      "message": "Import from Evernote"
+   },
+   "NoteStationSECTIONimportKEYimport_from_evernote_display": {
+      "message": "Import notebooks from Evernote."
+   },
+   "NoteStationSECTIONimportKEYimport_from_notebook": {
+      "message": "Import"
+   },
+   "NoteStationSECTIONimportKEYimport_from_notebook_display": {
+      "message": "Import notebooks from a Note Station nsx file. "
+   },
+   "NoteStationSECTIONimportKEYimport_wizard": {
+      "message": "Evernote Import Wizard"
+   },
+   "NoteStationSECTIONimportKEYimporting": {
+      "message": "Importing"
+   },
+   "NoteStationSECTIONimportKEYmerge_into_notebook": {
+      "message": "Merge notebooks with the same name"
+   },
+   "NoteStationSECTIONimportKEYmtime": {
+      "message": "Modified time"
+   },
+   "NoteStationSECTIONimportKEYnotebook_name": {
+      "message": "Notebook name"
+   },
+   "NoteStationSECTIONimportKEYnotebook_stack": {
+      "message": "Stack"
+   },
+   "NoteStationSECTIONimportKEYprepare_import": {
+      "message": "Preparing"
+   },
+   "NoteStationSECTIONimportKEYselect_notebook": {
+      "message": "Select Notebooks"
+   },
+   "NoteStationSECTIONimportKEYselect_notebook_desc": {
+      "message": "Please select which notebooks to import."
+   },
+   "NoteStationSECTIONimportKEYtask_canceled": {
+      "message": "Your import task was cancelled."
+   },
+   "NoteStationSECTIONimportKEYwait_evernote": {
+      "message": "Connecting..."
+   },
+   "NoteStationSECTIONimportKEYwaiting": {
+      "message": "Waiting"
+   },
+   "NoteStationSECTIONimportKEYyinxiang": {
+      "message": "YinXiangBiJi"
+   },
+   "NoteStationSECTIONimportingKEYwaiting": {
+      "message": "Evernote rate limit reached. Waiting to retry... "
+   },
+   "NoteStationSECTIONinfoKEYbrief": {
+      "message": "Text"
+   },
+   "NoteStationSECTIONinfoKEYcopy_url": {
+      "message": "Copy"
+   },
+   "NoteStationSECTIONinfoKEYcreated": {
+      "message": "Created"
+   },
+   "NoteStationSECTIONinfoKEYdelete_gps": {
+      "message": "Delete GPS Info"
+   },
+   "NoteStationSECTIONinfoKEYdelete_gps_message": {
+      "message": "Deleted GPS information successfully"
+   },
+   "NoteStationSECTIONinfoKEYhistory": {
+      "message": "History"
+   },
+   "NoteStationSECTIONinfoKEYlocation": {
+      "message": "Location"
+   },
+   "NoteStationSECTIONinfoKEYmodified": {
+      "message": "Modified"
+   },
+   "NoteStationSECTIONinfoKEYnotebook": {
+      "message": "Notebook"
+   },
+   "NoteStationSECTIONinfoKEYset_coordinates": {
+      "message": "Set location"
+   },
+   "NoteStationSECTIONinfoKEYsource_url": {
+      "message": "Link"
+   },
+   "NoteStationSECTIONinfoKEYtitle": {
+      "message": "Title"
+   },
+   "NoteStationSECTIONinfoKEYview_history": {
+      "message": "View History"
+   },
+   "NoteStationSECTIONjavaKEYjava_not_remind": {
+      "message": "Don't show this again"
+   },
+   "NoteStationSECTIONnoteKEYarchive_delete": {
+      "message": "The deleted archive notes will not be removed to the recycle bin. Are you sure you want to delete {0} note(s)?"
+   },
+   "NoteStationSECTIONnoteKEYcopy_link": {
+      "message": "Copy note link"
+   },
+   "NoteStationSECTIONnoteKEYcopy_to_encrypt": {
+      "message": "Copy to a new encrypted note"
+   },
+   "NoteStationSECTIONnoteKEYcopy_to_unencrypt": {
+      "message": "Copy to an unencrypted note"
+   },
+   "NoteStationSECTIONnoteKEYcreate": {
+      "message": "Create Note"
+   },
+   "NoteStationSECTIONnoteKEYcreate_encrypt": {
+      "message": "Create Encrypted Note"
+   },
+   "NoteStationSECTIONnoteKEYcreate_encrypt_desc": {
+      "message": "Encrypt this note with a password."
+   },
+   "NoteStationSECTIONnoteKEYcreate_from_todo": {
+      "message": "Output tasks to"
+   },
+   "NoteStationSECTIONnoteKEYcreate_in": {
+      "message": "Create Note In..."
+   },
+   "NoteStationSECTIONnoteKEYdelete_title": {
+      "message": "Permanently delete {0} note(s)"
+   },
+   "NoteStationSECTIONnoteKEYdelete_to_recycle": {
+      "message": "Move {0} note(s) to Recycle Bin"
+   },
+   "NoteStationSECTIONnoteKEYencrypt_desc": {
+      "message": "This note is encrypted."
+   },
+   "NoteStationSECTIONnoteKEYencrypted_note": {
+      "message": "Encrypted Note"
+   },
+   "NoteStationSECTIONnoteKEYno_item": {
+      "message": "No items here!"
+   },
+   "NoteStationSECTIONnoteKEYnote_is_encrypted": {
+      "message": "This note is password-protected."
+   },
+   "NoteStationSECTIONnoteKEYuntitled": {
+      "message": "Untitled Note"
+   },
+   "NoteStationSECTIONnotebookKEYarchive": {
+      "message": "Archive"
+   },
+   "NoteStationSECTIONnotebookKEYarchive_delete": {
+      "message": "The deleted archive notebooks will not be removed to the recycle bin. Are you sure you want to delete the selected archive notebook and its notes?"
+   },
+   "NoteStationSECTIONnotebookKEYarchive_warning": {
+      "message": "Archiving a notebook will remove its share permissions and shelf properties. Are you sure you want to continue?"
+   },
+   "NoteStationSECTIONnotebookKEYcreate": {
+      "message": "Create Notebook"
+   },
+   "NoteStationSECTIONnotebookKEYcreate_title": {
+      "message": "Please enter notebook title"
+   },
+   "NoteStationSECTIONnotebookKEYdefault": {
+      "message": "My Notebook"
+   },
+   "NoteStationSECTIONnotebookKEYdelete": {
+      "message": "Are you sure you want to delete the selected notebook?"
+   },
+   "NoteStationSECTIONnotebookKEYrename": {
+      "message": "Rename Notebook"
+   },
+   "NoteStationSECTIONnotebookKEYunarchive": {
+      "message": "Unarchive"
+   },
+   "NoteStationSECTIONnotifyKEYclipper_install": {
+      "message": "You can install {0} to save web content to your Synology NAS for quick and easy access."
+   },
+   "NoteStationSECTIONnotifyKEYexport_success": {
+      "message": "Export task complete, please check {0}{1}{2}."
+   },
+   "NoteStationSECTIONnotifyKEYreminder": {
+      "message": "Reminder: {0} - {1}"
+   },
+   "NoteStationSECTIONnotifyKEYsend_message": {
+      "message": "{0} shared {1} with you. You can check it in {2}{3}{4}."
+   },
+   "NoteStationSECTIONpermKEYro": {
+      "message": "View"
+   },
+   "NoteStationSECTIONpermKEYrw": {
+      "message": "Modify"
+   },
+   "NoteStationSECTIONpresentationKEYtheme_display": {
+      "message": "Choose a template"
+   },
+   "NoteStationSECTIONpromptKEYdo_not_show_again": {
+      "message": "Do not show this message again"
+   },
+   "NoteStationSECTIONpromptKEYdownload_center_link": {
+      "message": "Synology Download Center"
+   },
+   "NoteStationSECTIONpromptKEYpanel_desc": {
+      "message": "Use Note Station directly from your computer."
+   },
+   "NoteStationSECTIONpromptKEYpanel_error_msg": {
+      "message": "Download failed. Please go to {0}."
+   },
+   "NoteStationSECTIONpromptKEYpanel_title": {
+      "message": "Note Station for Desktop"
+   },
+   "NoteStationSECTIONpromptKEYtoast_link": {
+      "message": "The desktop version is available now!"
+   },
+   "NoteStationSECTIONpromptKEYtoast_title": {
+      "message": "Good news!"
+   },
+   "NoteStationSECTIONsearchKEYdate_from": {
+      "message": "From"
+   },
+   "NoteStationSECTIONsearchKEYdate_to": {
+      "message": "To"
+   },
+   "NoteStationSECTIONsearchKEYkeyword": {
+      "message": "Keyword"
+   },
+   "NoteStationSECTIONsearchKEYno_search_result": {
+      "message": "No matches found."
+   },
+   "NoteStationSECTIONsearchKEYresult_title": {
+      "message": "Search Result"
+   },
+   "NoteStationSECTIONsearchKEYsave_as_smart": {
+      "message": "Save as Smart Notebook"
+   },
+   "NoteStationSECTIONsearchKEYtag_operator": {
+      "message": "Intersect selected"
+   },
+   "NoteStationSECTIONsearchKEYtitle": {
+      "message": "Title"
+   },
+   "NoteStationSECTIONsettingKEYadmin": {
+      "message": "Administration"
+   },
+   "NoteStationSECTIONsettingKEYapp_portal": {
+      "message": "Application Portal"
+   },
+   "NoteStationSECTIONsettingKEYapp_portal_admin_desc": {
+      "message": "Application Portal for Note Station is not enabled. Please contact your system administrator to enable Application Portal for Note Station."
+   },
+   "NoteStationSECTIONsettingKEYapp_portal_enable_desc": {
+      "message": "You can configure alias and port settings to allow you to access and run Note Station in independent browser tabs."
+   },
+   "NoteStationSECTIONsettingKEYapp_portal_link_desc": {
+      "message": "Launch Note Station in a new browser tab using a link below."
+   },
+   "NoteStationSECTIONsettingKEYauto_purge": {
+      "message": "Auto-purge"
+   },
+   "NoteStationSECTIONsettingKEYauto_purge_desc": {
+      "message": "Completed tasks will automatically be deleted after the time set here."
+   },
+   "NoteStationSECTIONsettingKEYconfirm_move_volume": {
+      "message": "Note Station will move data in the background. Before its completion, all users can only view the notes."
+   },
+   "NoteStationSECTIONsettingKEYcrypto_delete_orig": {
+      "message": "Remove original notes after encryption/decryption"
+   },
+   "NoteStationSECTIONsettingKEYdefault_due_date": {
+      "message": "Default due date"
+   },
+   "NoteStationSECTIONsettingKEYdefault_priority": {
+      "message": "Default priority"
+   },
+   "NoteStationSECTIONsettingKEYdefault_reminder_offset": {
+      "message": "Default reminder time"
+   },
+   "NoteStationSECTIONsettingKEYdesktop_button": {
+      "message": "Get Note Station for Desktop"
+   },
+   "NoteStationSECTIONsettingKEYdesktop_desc": {
+      "message": "Click the below button to get Note Station for desktop."
+   },
+   "NoteStationSECTIONsettingKEYexport_field": {
+      "message": "Export Notebooks or To-do List"
+   },
+   "NoteStationSECTIONsettingKEYexport_notebook": {
+      "message": "Export Notebooks"
+   },
+   "NoteStationSECTIONsettingKEYfont_size": {
+      "message": "Default Font Size"
+   },
+   "NoteStationSECTIONsettingKEYgeneral": {
+      "message": "General"
+   },
+   "NoteStationSECTIONsettingKEYimport_export": {
+      "message": "Import and Export"
+   },
+   "NoteStationSECTIONsettingKEYimport_notebook": {
+      "message": "Import Notebooks"
+   },
+   "NoteStationSECTIONsettingKEYinline_thumb": {
+      "message": "Use thumbnails to display large embedded pictures in the note panel"
+   },
+   "NoteStationSECTIONsettingKEYlaunch_app_portal": {
+      "message": "Set up Application Portal"
+   },
+   "NoteStationSECTIONsettingKEYmoving_data": {
+      "message": "Progress: {0}"
+   },
+   "NoteStationSECTIONsettingKEYnote": {
+      "message": "Note Options"
+   },
+   "NoteStationSECTIONsettingKEYreminder_offset_desc": {
+      "message": "Need a reminder to finish a task? Set a time here to get reminders for due tasks."
+   },
+   "NoteStationSECTIONsettingKEYsearch_attachment": {
+      "message": "Enable attachment content indexing for search"
+   },
+   "NoteStationSECTIONsettingKEYshare": {
+      "message": "Sharing"
+   },
+   "NoteStationSECTIONsettingKEYshare_mode": {
+      "message": "Allow non-admin users to share notes and notebooks"
+   },
+   "NoteStationSECTIONsettingKEYshare_need_admin": {
+      "message": "You do not have sharing permissions. Please contact the administrator for assistance."
+   },
+   "NoteStationSECTIONsettingKEYtodo_comment": {
+      "message": "Remark"
+   },
+   "NoteStationSECTIONsettingKEYtodo_done": {
+      "message": "Finish status"
+   },
+   "NoteStationSECTIONsettingKEYtodo_due_date": {
+      "message": "Due date"
+   },
+   "NoteStationSECTIONsettingKEYtodo_export_info": {
+      "message": "Select the following types of task information for output."
+   },
+   "NoteStationSECTIONsettingKEYtodo_export_to_note": {
+      "message": "Output Tasks as a Note"
+   },
+   "NoteStationSECTIONsettingKEYtodo_general": {
+      "message": "Task Management"
+   },
+   "NoteStationSECTIONsettingKEYtodo_priority": {
+      "message": "Priority"
+   },
+   "NoteStationSECTIONsettingKEYtodo_show_badge": {
+      "message": "Show badge for overdue tasks"
+   },
+   "NoteStationSECTIONsettingKEYtodo_star": {
+      "message": "Star"
+   },
+   "NoteStationSECTIONsettingKEYtodo_subtask": {
+      "message": "Subtask"
+   },
+   "NoteStationSECTIONsettingKEYtodo_task": {
+      "message": "To-do List"
+   },
+   "NoteStationSECTIONsettingKEYtodo_title": {
+      "message": "Task"
+   },
+   "NoteStationSECTIONsettingKEYview": {
+      "message": "Viewing Options"
+   },
+   "NoteStationSECTIONshareKEYcopy_url_done": {
+      "message": "Copied to clipboard"
+   },
+   "NoteStationSECTIONshareKEYenable_public": {
+      "message": "Enable public share"
+   },
+   "NoteStationSECTIONshareKEYpublic_share": {
+      "message": "Public Share"
+   },
+   "NoteStationSECTIONshareKEYpublic_share_link": {
+      "message": "Public Share Link"
+   },
+   "NoteStationSECTIONshareKEYshare_link_via": {
+      "message": "Share link via"
+   },
+   "NoteStationSECTIONshareKEYshare_to_dsm_user": {
+      "message": "Share to DSM Users"
+   },
+   "NoteStationSECTIONshareKEYshare_to_dsm_user_or_group": {
+      "message": "DSM Users/Groups"
+   },
+   "NoteStationSECTIONshortcutKEYremove": {
+      "message": "Remove from Favorites"
+   },
+   "NoteStationSECTIONsmartKEYcreate": {
+      "message": "Create Smart Notebook"
+   },
+   "NoteStationSECTIONsmartKEYcreate_message": {
+      "message": "Name this smart notebook"
+   },
+   "NoteStationSECTIONsmartKEYdelete": {
+      "message": "Are you sure you want to delete the selected smart notebook?"
+   },
+   "NoteStationSECTIONsmartKEYedit": {
+      "message": "Edit Smart Notebook"
+   },
+   "NoteStationSECTIONsmartKEYquery_empty": {
+      "message": "Please specify at least one criterion."
+   },
+   "NoteStationSECTIONsmartKEYtitle": {
+      "message": "Smart Notebook Title"
+   },
+   "NoteStationSECTIONsmartKEYwindow": {
+      "message": "智慧型筆記本"
+   },
+   "NoteStationSECTIONsortKEYby_ctime": {
+      "message": "Sort by Created Time"
+   },
+   "NoteStationSECTIONsortKEYby_mtime": {
+      "message": "Sort by Modified Time"
+   },
+   "NoteStationSECTIONsortKEYby_title": {
+      "message": "Sort by Title"
+   },
+   "NoteStationSECTIONsortKEYorder_asc": {
+      "message": "Ascending"
+   },
+   "NoteStationSECTIONsortKEYorder_desc": {
+      "message": "Descending"
+   },
+   "NoteStationSECTIONstackKEYcreate": {
+      "message": "Create Shelf"
+   },
+   "NoteStationSECTIONstackKEYcreate_title": {
+      "message": "Please enter shelf title"
+   },
+   "NoteStationSECTIONstackKEYdelete": {
+      "message": "Are you sure you want to delete the selected shelf?"
+   },
+   "NoteStationSECTIONstackKEYdisassemble": {
+      "message": "Disassemble"
+   },
+   "NoteStationSECTIONstackKEYnew": {
+      "message": "New Shelf"
+   },
+   "NoteStationSECTIONstackKEYrename": {
+      "message": "Rename Shelf"
+   },
+   "NoteStationSECTIONtagKEYadd_tag": {
+      "message": "+Tag"
+   },
+   "NoteStationSECTIONtagKEYcreate_title": {
+      "message": "Please input tag title"
+   },
+   "NoteStationSECTIONtagKEYquick_add": {
+      "message": "Add tags quickly"
+   },
+   "NoteStationSECTIONtagKEYremove_from_all": {
+      "message": "Remove tag from all notes"
+   },
+   "NoteStationSECTIONtagKEYrename": {
+      "message": "Rename Tag Title"
+   },
+   "NoteStationSECTIONtagKEYselect_parent": {
+      "message": "Nest the tag under"
+   },
+   "NoteStationSECTIONtagKEYshow_subtag": {
+      "message": "Notes with sub-tags"
+   },
+   "NoteStationSECTIONtinymceKEYadjust_table_size": {
+      "message": "Adjust table size"
+   },
+   "NoteStationSECTIONtinymceKEYchoose_file": {
+      "message": "Browse"
+   },
+   "NoteStationSECTIONtinymceKEYchoose_file_from_local": {
+      "message": "Please choose files from your local computer"
+   },
+   "NoteStationSECTIONtinymceKEYconvert_to_image": {
+      "message": "Convert to Image"
+   },
+   "NoteStationSECTIONtinymceKEYdelete_column": {
+      "message": "Delete column"
+   },
+   "NoteStationSECTIONtinymceKEYdelete_row": {
+      "message": "Delete row"
+   },
+   "NoteStationSECTIONtinymceKEYdimensions": {
+      "message": "Dimensions"
+   },
+   "NoteStationSECTIONtinymceKEYdownload": {
+      "message": "Download"
+   },
+   "NoteStationSECTIONtinymceKEYedit": {
+      "message": "Edit"
+   },
+   "NoteStationSECTIONtinymceKEYfile_path": {
+      "message": "File path"
+   },
+   "NoteStationSECTIONtinymceKEYformat": {
+      "message": "Text format"
+   },
+   "NoteStationSECTIONtinymceKEYfrom_local_file": {
+      "message": "From my computer"
+   },
+   "NoteStationSECTIONtinymceKEYfrom_url": {
+      "message": "From URL"
+   },
+   "NoteStationSECTIONtinymceKEYgenerate_chart": {
+      "message": "Chart"
+   },
+   "NoteStationSECTIONtinymceKEYheight": {
+      "message": "Row height"
+   },
+   "NoteStationSECTIONtinymceKEYimage_l": {
+      "message": "Large"
+   },
+   "NoteStationSECTIONtinymceKEYimage_m": {
+      "message": "Medium"
+   },
+   "NoteStationSECTIONtinymceKEYimage_ori": {
+      "message": "Original"
+   },
+   "NoteStationSECTIONtinymceKEYimage_s": {
+      "message": "Small"
+   },
+   "NoteStationSECTIONtinymceKEYimage_source": {
+      "message": "Image Source"
+   },
+   "NoteStationSECTIONtinymceKEYinsert_column_after": {
+      "message": "Insert column right"
+   },
+   "NoteStationSECTIONtinymceKEYinsert_column_before": {
+      "message": "Insert column left"
+   },
+   "NoteStationSECTIONtinymceKEYinsert_edit_link": {
+      "message": "Insert/edit link"
+   },
+   "NoteStationSECTIONtinymceKEYinsert_row_after": {
+      "message": "Insert row below"
+   },
+   "NoteStationSECTIONtinymceKEYinsert_row_before": {
+      "message": "Insert row above"
+   },
+   "NoteStationSECTIONtinymceKEYinsert_table": {
+      "message": "Insert table"
+   },
+   "NoteStationSECTIONtinymceKEYlarge": {
+      "message": "Large"
+   },
+   "NoteStationSECTIONtinymceKEYmerge_cells": {
+      "message": "Merge cells"
+   },
+   "NoteStationSECTIONtinymceKEYnormal": {
+      "message": "normal"
+   },
+   "NoteStationSECTIONtinymceKEYopen": {
+      "message": "Open"
+   },
+   "NoteStationSECTIONtinymceKEYoriginal": {
+      "message": "Original"
+   },
+   "NoteStationSECTIONtinymceKEYproper_size": {
+      "message": "Best Fit"
+   },
+   "NoteStationSECTIONtinymceKEYredo": {
+      "message": "Redo"
+   },
+   "NoteStationSECTIONtinymceKEYremove": {
+      "message": "Remove"
+   },
+   "NoteStationSECTIONtinymceKEYshow_as_youtube_video": {
+      "message": "Embed Youtube video"
+   },
+   "NoteStationSECTIONtinymceKEYsmall": {
+      "message": "Small"
+   },
+   "NoteStationSECTIONtinymceKEYtable_property": {
+      "message": "Table properties"
+   },
+   "NoteStationSECTIONtinymceKEYtext_to_display": {
+      "message": "Text to display"
+   },
+   "NoteStationSECTIONtinymceKEYundo": {
+      "message": "Undo"
+   },
+   "NoteStationSECTIONtinymceKEYupdate_data_from_table": {
+      "message": "Update data"
+   },
+   "NoteStationSECTIONtinymceKEYurl": {
+      "message": "URL"
+   },
+   "NoteStationSECTIONtinymceKEYwidth": {
+      "message": "Column width"
+   },
+   "NoteStationSECTIONtinymceKEYx_large": {
+      "message": "Larger"
+   },
+   "NoteStationSECTIONtinymceKEYx_small": {
+      "message": "Smaller"
+   },
+   "NoteStationSECTIONtinymceKEYxx_large": {
+      "message": "Largest"
+   },
+   "NoteStationSECTIONtinymceKEYxx_small": {
+      "message": "Smallest"
+   },
+   "NoteStationSECTIONtocKEYnotestation": {
+      "message": "Note Station"
+   },
+   "NoteStationSECTIONtocKEYnotestation_creating_notes": {
+      "message": "Creating Notes"
+   },
+   "NoteStationSECTIONtocKEYnotestation_editing_note_information": {
+      "message": "Editing Note Information"
+   },
+   "NoteStationSECTIONtocKEYnotestation_getting_started": {
+      "message": "Getting Started"
+   },
+   "NoteStationSECTIONtocKEYnotestation_managing_notes": {
+      "message": "Managing Note Station"
+   },
+   "NoteStationSECTIONtocKEYnotestation_sharing_notes": {
+      "message": "Sharing Notes"
+   },
+   "NoteStationSECTIONtocKEYnotestation_using_todo_list": {
+      "message": "Using The To-do List"
+   },
+   "NoteStationSECTIONtocKEYnotestation_viewing_notes": {
+      "message": "Viewing Notes"
+   },
+   "NoteStationSECTIONtodoKEYadd_a_new_task": {
+      "message": "Add a new task"
+   },
+   "NoteStationSECTIONtodoKEYadd_comment": {
+      "message": "Add remark"
+   },
+   "NoteStationSECTIONtodoKEYadd_sub_task": {
+      "message": "New subtask"
+   },
+   "NoteStationSECTIONtodoKEYall": {
+      "message": "All"
+   },
+   "NoteStationSECTIONtodoKEYall_tasks": {
+      "message": "All Tasks"
+   },
+   "NoteStationSECTIONtodoKEYclick_add_task": {
+      "message": "Click to add a new task"
+   },
+   "NoteStationSECTIONtodoKEYcompleted": {
+      "message": "Completed"
+   },
+   "NoteStationSECTIONtodoKEYcustomized": {
+      "message": "Customized"
+   },
+   "NoteStationSECTIONtodoKEYday": {
+      "message": "Day(s)"
+   },
+   "NoteStationSECTIONtodoKEYdays_later": {
+      "message": "days later"
+   },
+   "NoteStationSECTIONtodoKEYdelete_all_tasks": {
+      "message": "Delete all tasks"
+   },
+   "NoteStationSECTIONtodoKEYdelete_independent_todo": {
+      "message": "Permanently delete all tasks in \"Independent tasks\"?"
+   },
+   "NoteStationSECTIONtodoKEYdelete_note_todo": {
+      "message": "Permanently delete all tasks in \"{0}\"?"
+   },
+   "NoteStationSECTIONtodoKEYdelete_todo": {
+      "message": "Permanently delete {0} task(s)?"
+   },
+   "NoteStationSECTIONtodoKEYdue_date": {
+      "message": "Due date"
+   },
+   "NoteStationSECTIONtodoKEYdue_time": {
+      "message": "Due time"
+   },
+   "NoteStationSECTIONtodoKEYhour": {
+      "message": "Hour(s)"
+   },
+   "NoteStationSECTIONtodoKEYindependent_tasks": {
+      "message": "Independent tasks"
+   },
+   "NoteStationSECTIONtodoKEYminute": {
+      "message": "Minute(s)"
+   },
+   "NoteStationSECTIONtodoKEYmonth": {
+      "message": "Month(s)"
+   },
+   "NoteStationSECTIONtodoKEYnew_task": {
+      "message": "New task"
+   },
+   "NoteStationSECTIONtodoKEYnext_30_days": {
+      "message": "Next 30 days"
+   },
+   "NoteStationSECTIONtodoKEYnext_7_days": {
+      "message": "Next 7 days"
+   },
+   "NoteStationSECTIONtodoKEYno_due_date": {
+      "message": "No due date"
+   },
+   "NoteStationSECTIONtodoKEYno_todo_task": {
+      "message": "No tasks here!"
+   },
+   "NoteStationSECTIONtodoKEYnote": {
+      "message": "Note"
+   },
+   "NoteStationSECTIONtodoKEYoff": {
+      "message": "Off"
+   },
+   "NoteStationSECTIONtodoKEYon_time": {
+      "message": "At due time"
+   },
+   "NoteStationSECTIONtodoKEYothers": {
+      "message": "One month later"
+   },
+   "NoteStationSECTIONtodoKEYoverdue": {
+      "message": "Overdue"
+   },
+   "NoteStationSECTIONtodoKEYpriority": {
+      "message": "Priority"
+   },
+   "NoteStationSECTIONtodoKEYpriority_high": {
+      "message": "High"
+   },
+   "NoteStationSECTIONtodoKEYpriority_low": {
+      "message": "Low"
+   },
+   "NoteStationSECTIONtodoKEYpriority_medium": {
+      "message": "Medium"
+   },
+   "NoteStationSECTIONtodoKEYpriority_no": {
+      "message": "None"
+   },
+   "NoteStationSECTIONtodoKEYreminder_date": {
+      "message": "Reminder time"
+   },
+   "NoteStationSECTIONtodoKEYreminder_time": {
+      "message": "Reminder time"
+   },
+   "NoteStationSECTIONtodoKEYset_due_date": {
+      "message": "Set Due date"
+   },
+   "NoteStationSECTIONtodoKEYset_due_date_first": {
+      "message": "Please set the due time first."
+   },
+   "NoteStationSECTIONtodoKEYstarred": {
+      "message": "Starred"
+   },
+   "NoteStationSECTIONtodoKEYtitle_cannot_empty": {
+      "message": "Task title cannot be blank."
+   },
+   "NoteStationSECTIONtodoKEYtoday": {
+      "message": "Today"
+   },
+   "NoteStationSECTIONtodoKEYtomorrow": {
+      "message": "Tomorrow"
+   },
+   "NoteStationSECTIONtodoKEYuncompleted": {
+      "message": "Uncompleted"
+   },
+   "NoteStationSECTIONtodoKEYweek": {
+      "message": "Week(s)"
+   },
+   "NoteStationSECTIONtodoKEYweek_later": {
+      "message": "days later"
+   },
+   "NoteStationSECTIONtooltipKEYalign_center": {
+      "message": "Center"
+   },
+   "NoteStationSECTIONtooltipKEYalign_justify": {
+      "message": "Justify"
+   },
+   "NoteStationSECTIONtooltipKEYalign_left": {
+      "message": "Align right"
+   },
+   "NoteStationSECTIONtooltipKEYattach_file": {
+      "message": "Attach file"
+   },
+   "NoteStationSECTIONtooltipKEYbackground_color": {
+      "message": "Background color"
+   },
+   "NoteStationSECTIONtooltipKEYbold": {
+      "message": "Bold"
+   },
+   "NoteStationSECTIONtooltipKEYbullet_list": {
+      "message": "Bullets"
+   },
+   "NoteStationSECTIONtooltipKEYclear_formatting": {
+      "message": "Clear formatting"
+   },
+   "NoteStationSECTIONtooltipKEYcontent": {
+      "message": "Content"
+   },
+   "NoteStationSECTIONtooltipKEYcopy_format": {
+      "message": "Copy format"
+   },
+   "NoteStationSECTIONtooltipKEYdecrease_indent": {
+      "message": "Decrease indent"
+   },
+   "NoteStationSECTIONtooltipKEYdecrypt": {
+      "message": "Decrypt"
+   },
+   "NoteStationSECTIONtooltipKEYdelete": {
+      "message": "Delete"
+   },
+   "NoteStationSECTIONtooltipKEYencrypt": {
+      "message": "Encrypt"
+   },
+   "NoteStationSECTIONtooltipKEYfont_family": {
+      "message": "Font Size"
+   },
+   "NoteStationSECTIONtooltipKEYhorizontal_line": {
+      "message": "Horizontal line"
+   },
+   "NoteStationSECTIONtooltipKEYincrease_indent": {
+      "message": "Increase indent"
+   },
+   "NoteStationSECTIONtooltipKEYinfo": {
+      "message": "Info"
+   },
+   "NoteStationSECTIONtooltipKEYinsert_checkbox": {
+      "message": "Insert checkbox"
+   },
+   "NoteStationSECTIONtooltipKEYinsert_image": {
+      "message": "Insert image"
+   },
+   "NoteStationSECTIONtooltipKEYitalic": {
+      "message": "Italic"
+   },
+   "NoteStationSECTIONtooltipKEYmail": {
+      "message": "Send as mail"
+   },
+   "NoteStationSECTIONtooltipKEYnumbered_list": {
+      "message": "Numbering"
+   },
+   "NoteStationSECTIONtooltipKEYpresentation": {
+      "message": "Present"
+   },
+   "NoteStationSECTIONtooltipKEYprint": {
+      "message": "Print"
+   },
+   "NoteStationSECTIONtooltipKEYremoveformat": {
+      "message": "Clear formatting"
+   },
+   "NoteStationSECTIONtooltipKEYsave": {
+      "message": "Save"
+   },
+   "NoteStationSECTIONtooltipKEYshare": {
+      "message": "Share"
+   },
+   "NoteStationSECTIONtooltipKEYsort_by": {
+      "message": "Sort by"
+   },
+   "NoteStationSECTIONtooltipKEYstrikethrough": {
+      "message": "Strikethrough"
+   },
+   "NoteStationSECTIONtooltipKEYsubscript": {
+      "message": "Subscript"
+   },
+   "NoteStationSECTIONtooltipKEYsuperscript": {
+      "message": "Superscript"
+   },
+   "NoteStationSECTIONtooltipKEYsyno_highlight": {
+      "message": "Highlight"
+   },
+   "NoteStationSECTIONtooltipKEYtable": {
+      "message": "Table"
+   },
+   "NoteStationSECTIONtooltipKEYtag": {
+      "message": "Tag"
+   },
+   "NoteStationSECTIONtooltipKEYtext_color": {
+      "message": "Font color"
+   },
+   "NoteStationSECTIONtooltipKEYunderline": {
+      "message": "Underline"
+   },
+   "NoteStationSECTIONtooltipKEYview_by": {
+      "message": "View by"
+   },
+   "NoteStationSECTIONuploadKEYfrom_ds": {
+      "message": "From my Synology NAS"
+   },
+   "NoteStationSECTIONuploadKEYfrom_pc": {
+      "message": "Upload from my computer"
+   },
+   "NoteStationSECTIONuploadKEYlist_file": {
+      "message": "Files List"
+   },
+   "NoteStationSECTIONuploadKEYupload_file": {
+      "message": "Upload Files"
+   },
+   "NoteStationSECTIONviewerKEYopen_in_audio": {
+      "message": "Open in AudioPlayer"
+   },
+   "NoteStationSECTIONviewerKEYopen_in_google": {
+      "message": "Open in Google Docs"
+   },
+   "NoteStationSECTIONviewerKEYopen_in_new_window": {
+      "message": "Open in new tab"
+   },
+   "NoteStationSECTIONviewerKEYopen_in_office": {
+      "message": "Open in Microsoft Office Online"
+   },
+   "NoteStationSECTIONviewerKEYopen_in_pdf": {
+      "message": "Open in PDF Viewer"
+   },
+   "NoteStationSECTIONviewerKEYopen_in_photo": {
+      "message": "Open in Photo Viewer"
+   },
+   "NoteStationSECTIONviewerKEYopen_in_syno_doc": {
+      "message": "Open in Document Viewer"
+   },
+   "NoteStationSECTIONviewerKEYopen_in_text": {
+      "message": "Open in Text Viewer"
+   },
+   "NoteStationSECTIONviewerKEYopen_in_video": {
+      "message": "Open in VideoPlayer"
+   },
+   "NoteStationSECTIONwindowKEYnote_encryption": {
+      "message": "Note Encryption"
+   },
+   "NoteStationSECTIONwindowKEYnote_information": {
+      "message": "Note Information"
+   },
+   "NoteStationSECTIONwindowKEYtodo_information": {
+      "message": "Task information"
+   },
+   "synojslibSECTIONcommonKEYclean": {
+      "message": "Clear"
+   },
+   "synojslibSECTIONcommonKEYclear_input": {
+      "message": "Clear input"
+   },
+   "synojslibSECTIONcommonKEYcommit": {
+      "message": "Apply"
+   },
+   "synojslibSECTIONcommonKEYdisabled": {
+      "message": "Disabled"
+   },
+   "synojslibSECTIONcommonKEYerror_system": {
+      "message": "Unable to perform this operation. Please sign in to _OSNAME_ and try again."
+   },
+   "synojslibSECTIONcommonKEYloading": {
+      "message": "Loading..."
+   },
+   "synojslibSECTIONcommonKEYreset": {
+      "message": "Reset"
+   },
+   "synojslibSECTIONcommonKEYsetting_applied": {
+      "message": "Changes applied."
+   },
+   "synojslibSECTIONcommonKEYsize_byte": {
+      "message": "Bytes"
+   },
+   "synojslibSECTIONcommonKEYsize_gb": {
+      "message": "GB"
+   },
+   "synojslibSECTIONcommonKEYsize_kb": {
+      "message": "KB"
+   },
+   "synojslibSECTIONcommonKEYsize_mb": {
+      "message": "MB"
+   },
+   "synojslibSECTIONcommonKEYsize_pb": {
+      "message": "PB"
+   },
+   "synojslibSECTIONcommonKEYsize_tb": {
+      "message": "TB"
+   },
+   "synojslibSECTIONextlangKEYafterPageText": {
+      "message": "of {0}"
+   },
+   "synojslibSECTIONextlangKEYafterdate": {
+      "message": "The date in this field must be {0} or later"
+   },
+   "synojslibSECTIONextlangKEYaftertime": {
+      "message": "The time in this field must be later than {0}"
+   },
+   "synojslibSECTIONextlangKEYalphaText": {
+      "message": "This field should only contain letters and underscore (_)."
+   },
+   "synojslibSECTIONextlangKEYalphanumText": {
+      "message": "This field should only contain letters, numbers, and underscore (_)."
+   },
+   "synojslibSECTIONextlangKEYapr": {
+      "message": "April"
+   },
+   "synojslibSECTIONextlangKEYaug": {
+      "message": "August"
+   },
+   "synojslibSECTIONextlangKEYbeforePageText": {
+      "message": "Page"
+   },
+   "synojslibSECTIONextlangKEYbeforedate": {
+      "message": "The date in this field must be {0} or earlier"
+   },
+   "synojslibSECTIONextlangKEYbeforetime": {
+      "message": "The time in this field must be earlier than {0}"
+   },
+   "synojslibSECTIONextlangKEYcancel": {
+      "message": "Cancel"
+   },
+   "synojslibSECTIONextlangKEYcloseText": {
+      "message": "Close this tab"
+   },
+   "synojslibSECTIONextlangKEYcolumnsText": {
+      "message": "Columns"
+   },
+   "synojslibSECTIONextlangKEYdate_format": {
+      "message": "Y/M/D"
+   },
+   "synojslibSECTIONextlangKEYddText": {
+      "message": "{0} selected row(s)"
+   },
+   "synojslibSECTIONextlangKEYdec": {
+      "message": "December"
+   },
+   "synojslibSECTIONextlangKEYdisplaypage": {
+      "message": "Displaying {0} - {1} of {2}"
+   },
+   "synojslibSECTIONextlangKEYemailText": {
+      "message": "This field should be an e-mail address, e.g.: user@domain.com."
+   },
+   "synojslibSECTIONextlangKEYfeb": {
+      "message": "February"
+   },
+   "synojslibSECTIONextlangKEYfieldblank": {
+      "message": "This field is required."
+   },
+   "synojslibSECTIONextlangKEYfieldmaxlen": {
+      "message": "The maximum length for this field is {0}."
+   },
+   "synojslibSECTIONextlangKEYfieldminlen": {
+      "message": "The minimum length for this field is {0}."
+   },
+   "synojslibSECTIONextlangKEYfirstpage": {
+      "message": "First Page"
+   },
+   "synojslibSECTIONextlangKEYfriday": {
+      "message": "Friday"
+   },
+   "synojslibSECTIONextlangKEYinvalidText": {
+      "message": "Incorrect value."
+   },
+   "synojslibSECTIONextlangKEYinvaliddate": {
+      "message": "{0} is not a valid date. Please enter a date using the format {1}"
+   },
+   "synojslibSECTIONextlangKEYinvalidinteger": {
+      "message": "Please enter an integer. "
+   },
+   "synojslibSECTIONextlangKEYinvalidnumber": {
+      "message": "{0} is not a valid number."
+   },
+   "synojslibSECTIONextlangKEYinvalidtime": {
+      "message": "{0} is not a valid time."
+   },
+   "synojslibSECTIONextlangKEYjan": {
+      "message": "January"
+   },
+   "synojslibSECTIONextlangKEYjul": {
+      "message": "July"
+   },
+   "synojslibSECTIONextlangKEYjun": {
+      "message": "June"
+   },
+   "synojslibSECTIONextlangKEYlastpage": {
+      "message": "Last Page"
+   },
+   "synojslibSECTIONextlangKEYloading": {
+      "message": "Loading..."
+   },
+   "synojslibSECTIONextlangKEYlockText": {
+      "message": "Lock column"
+   },
+   "synojslibSECTIONextlangKEYmar": {
+      "message": "March"
+   },
+   "synojslibSECTIONextlangKEYmaxdate": {
+      "message": "This date must be before the maximum date."
+   },
+   "synojslibSECTIONextlangKEYmaxnumber": {
+      "message": "The maximum number is {0}."
+   },
+   "synojslibSECTIONextlangKEYmay": {
+      "message": "May"
+   },
+   "synojslibSECTIONextlangKEYmindate": {
+      "message": "This date must be after the minimum date"
+   },
+   "synojslibSECTIONextlangKEYminnumber": {
+      "message": "The minimum number is {0}."
+   },
+   "synojslibSECTIONextlangKEYmonday": {
+      "message": "Monday"
+   },
+   "synojslibSECTIONextlangKEYmonthYearText": {
+      "message": "Choose month (Control+Up/Down to move years)"
+   },
+   "synojslibSECTIONextlangKEYnextmonth": {
+      "message": "Next Month (Control+Right)"
+   },
+   "synojslibSECTIONextlangKEYnextpage": {
+      "message": "Next Page"
+   },
+   "synojslibSECTIONextlangKEYno": {
+      "message": "No"
+   },
+   "synojslibSECTIONextlangKEYnov": {
+      "message": "November"
+   },
+   "synojslibSECTIONextlangKEYoct": {
+      "message": "October"
+   },
+   "synojslibSECTIONextlangKEYok": {
+      "message": "OK"
+   },
+   "synojslibSECTIONextlangKEYpagenodata": {
+      "message": "No data "
+   },
+   "synojslibSECTIONextlangKEYprevmonth": {
+      "message": "Previous Month (Control+Left)"
+   },
+   "synojslibSECTIONextlangKEYprevpage": {
+      "message": "Previous Page"
+   },
+   "synojslibSECTIONextlangKEYrefresh": {
+      "message": "Refresh"
+   },
+   "synojslibSECTIONextlangKEYsaturday": {
+      "message": "Saturday"
+   },
+   "synojslibSECTIONextlangKEYsep": {
+      "message": "September"
+   },
+   "synojslibSECTIONextlangKEYshow_password": {
+      "message": "Show"
+   },
+   "synojslibSECTIONextlangKEYsortAscText": {
+      "message": "Sort ascending"
+   },
+   "synojslibSECTIONextlangKEYsortDescText": {
+      "message": "Sort descending"
+   },
+   "synojslibSECTIONextlangKEYsunday": {
+      "message": "Sunday"
+   },
+   "synojslibSECTIONextlangKEYthursday": {
+      "message": "Thursday"
+   },
+   "synojslibSECTIONextlangKEYtime_format": {
+      "message": "H:M"
+   },
+   "synojslibSECTIONextlangKEYtodayText": {
+      "message": "Today"
+   },
+   "synojslibSECTIONextlangKEYtodayTip": {
+      "message": "{0} (Spacebar)"
+   },
+   "synojslibSECTIONextlangKEYtuesday": {
+      "message": "Tuesday"
+   },
+   "synojslibSECTIONextlangKEYunlockText": {
+      "message": "Unlock column"
+   },
+   "synojslibSECTIONextlangKEYurlText": {
+      "message": "This field should be an URL, e.g.: http://www.domain.com."
+   },
+   "synojslibSECTIONextlangKEYwednesday": {
+      "message": "Wednesday"
+   },
+   "synojslibSECTIONextlangKEYyes": {
+      "message": "Yes"
+   },
+   "synojslibSECTIONuicommonKEYadd_time": {
+      "message": "Add time"
+   },
+   "synojslibSECTIONuicommonKEYadvanced_search": {
+      "message": "Advanced search"
+   },
+   "synojslibSECTIONuicommonKEYap_mac_filter_mac_err": {
+      "message": "Please input the correct MAC address"
+   },
+   "synojslibSECTIONuicommonKEYap_mac_filter_mac_used": {
+      "message": "The MAC address already exists."
+   },
+   "synojslibSECTIONuicommonKEYbandwidth_enable": {
+      "message": "Enable speed limit"
+   },
+   "synojslibSECTIONuicommonKEYbrowse": {
+      "message": "Browse"
+   },
+   "synojslibSECTIONuicommonKEYdesktop": {
+      "message": "Desktop"
+   },
+   "synojslibSECTIONuicommonKEYdisable_limit": {
+      "message": "No speed limit"
+   },
+   "synojslibSECTIONuicommonKEYdisable_limit_group": {
+      "message": "No speed limit"
+   },
+   "synojslibSECTIONuicommonKEYdisable_limit_user": {
+      "message": "Apply group settings"
+   },
+   "synojslibSECTIONuicommonKEYedit": {
+      "message": "Edit"
+   },
+   "synojslibSECTIONuicommonKEYempty_grid": {
+      "message": "No data"
+   },
+   "synojslibSECTIONuicommonKEYenable_column_checked": {
+      "message": "Selected"
+   },
+   "synojslibSECTIONuicommonKEYenable_column_grayed": {
+      "message": "Partially selected"
+   },
+   "synojslibSECTIONuicommonKEYenable_column_unchecked": {
+      "message": "Not selected"
+   },
+   "synojslibSECTIONuicommonKEYerr_creating_volume": {
+      "message": "Processing volume settings. Please try again later when it's finished."
+   },
+   "synojslibSECTIONuicommonKEYerr_disk_secure_erasing": {
+      "message": "The system cannot be shut down, rebooted or updated when performing Secure Erase. Please try again after the operation is completed."
+   },
+   "synojslibSECTIONuicommonKEYerr_dsm_upgrading": {
+      "message": "The system cannot be shut down or rebooted because a _OSNAME_ update is in progress."
+   },
+   "synojslibSECTIONuicommonKEYerr_processing_share_setting": {
+      "message": "Processing shared folder settings. Please try again later."
+   },
+   "synojslibSECTIONuicommonKEYerror_demo": {
+      "message": "This function is not available in demo mode."
+   },
+   "synojslibSECTIONuicommonKEYerror_noprivilege": {
+      "message": "You are not authorized to use this service."
+   },
+   "synojslibSECTIONuicommonKEYerror_occupied": {
+      "message": "Another package is being configured or installed. Please try again later."
+   },
+   "synojslibSECTIONuicommonKEYerror_relogin": {
+      "message": "You have signed in on another computer. Please log in again."
+   },
+   "synojslibSECTIONuicommonKEYerror_system": {
+      "message": "Unable to perform this operation. Please try again later."
+   },
+   "synojslibSECTIONuicommonKEYerror_timeout": {
+      "message": "Connection expired. Please sign in to _OSNAME_ again."
+   },
+   "synojslibSECTIONuicommonKEYerror_unauth": {
+      "message": "Your login is invalid. Please sign in again."
+   },
+   "synojslibSECTIONuicommonKEYgoto_page": {
+      "message": "Go to Page {0}"
+   },
+   "synojslibSECTIONuicommonKEYgrid_record_count": {
+      "message": "{0} items."
+   },
+   "synojslibSECTIONuicommonKEYinvalid_time": {
+      "message": "Invalid time format."
+   },
+   "synojslibSECTIONuicommonKEYitem": {
+      "message": "item"
+   },
+   "synojslibSECTIONuicommonKEYitems": {
+      "message": "items"
+   },
+   "synojslibSECTIONuicommonKEYlimit_customize": {
+      "message": "Speed limit 2"
+   },
+   "synojslibSECTIONuicommonKEYlimit_default": {
+      "message": "Speed limit 1"
+   },
+   "synojslibSECTIONuicommonKEYlogout": {
+      "message": "Logout"
+   },
+   "synojslibSECTIONuicommonKEYmsg_waiting": {
+      "message": "Processing. Please wait..."
+   },
+   "synojslibSECTIONuicommonKEYnext_x_pages": {
+      "message": "Next {0} pages"
+   },
+   "synojslibSECTIONuicommonKEYoff": {
+      "message": "OFF"
+   },
+   "synojslibSECTIONuicommonKEYon": {
+      "message": "ON"
+   },
+   "synojslibSECTIONuicommonKEYpoweroff_opt": {
+      "message": "Shutdown"
+   },
+   "synojslibSECTIONuicommonKEYpre_x_pages": {
+      "message": "Previous {0} pages"
+   },
+   "synojslibSECTIONuicommonKEYreboot_opt": {
+      "message": "Restart"
+   },
+   "synojslibSECTIONuicommonKEYreboot_warn": {
+      "message": "Are you sure you want to restart?"
+   },
+   "synojslibSECTIONuicommonKEYremove": {
+      "message": "Remove"
+   },
+   "synojslibSECTIONuicommonKEYschedule_abbre_fri": {
+      "message": "Fri"
+   },
+   "synojslibSECTIONuicommonKEYschedule_abbre_mon": {
+      "message": "Mon"
+   },
+   "synojslibSECTIONuicommonKEYschedule_abbre_sat": {
+      "message": "Sat"
+   },
+   "synojslibSECTIONuicommonKEYschedule_abbre_sun": {
+      "message": "Sun"
+   },
+   "synojslibSECTIONuicommonKEYschedule_abbre_thu": {
+      "message": "Thu"
+   },
+   "synojslibSECTIONuicommonKEYschedule_abbre_tue": {
+      "message": "Tue"
+   },
+   "synojslibSECTIONuicommonKEYschedule_abbre_wed": {
+      "message": "Wed"
+   },
+   "synojslibSECTIONuicommonKEYschedule_daily": {
+      "message": "Daily"
+   },
+   "synojslibSECTIONuicommonKEYschedule_fri": {
+      "message": "Friday"
+   },
+   "synojslibSECTIONuicommonKEYschedule_mon": {
+      "message": "Monday"
+   },
+   "synojslibSECTIONuicommonKEYschedule_sat": {
+      "message": "Saturday"
+   },
+   "synojslibSECTIONuicommonKEYschedule_sun": {
+      "message": "Sunday"
+   },
+   "synojslibSECTIONuicommonKEYschedule_thu": {
+      "message": "Thursday"
+   },
+   "synojslibSECTIONuicommonKEYschedule_tue": {
+      "message": "Tuesday"
+   },
+   "synojslibSECTIONuicommonKEYschedule_wed": {
+      "message": "Wednesday"
+   },
+   "synojslibSECTIONuicommonKEYschedule_weekdays": {
+      "message": "Weekdays"
+   },
+   "synojslibSECTIONuicommonKEYschedule_weekend": {
+      "message": "Weekend"
+   },
+   "synojslibSECTIONuicommonKEYsearch": {
+      "message": "Search"
+   },
+   "synojslibSECTIONuicommonKEYsearching": {
+      "message": "Searching..."
+   },
+   "synojslibSECTIONuicommonKEYshutdown_warn": {
+      "message": "Are you sure you want to shutdown?"
+   },
+   "synojslibSECTIONuicommonKEYsuperboxselect_hint": {
+      "message": "Hit down arrow key to show all items for selection. Hit left arrow key to check your choices."
+   },
+   "synojslibSECTIONuicommonKEYsystem_poweroff": {
+      "message": "_DISKSTATION_ will soon power off."
+   },
+   "synojslibSECTIONuicommonKEYsystem_reboot": {
+      "message": "_DISKSTATION_ is restarting."
+   },
+   "synojslibSECTIONuicommonKEYsystem_reboot_timeout": {
+      "message": "_DISKSTATION_ is restarting. After the restarting process is complete, use \u003Ca class=\"link-font\" href=\"https://find.synology.com\" target=\"_blank\">Web Assistant\u003C/a> or Synology Assistant to search and connect to _DISKSTATION_."
+   },
+   "synojslibSECTIONuicommonKEYtime_hour": {
+      "message": "hours"
+   },
+   "synojslibSECTIONuicommonKEYtime_min": {
+      "message": "minutes"
+   },
+   "synojslibSECTIONuicommonKEYtime_sec": {
+      "message": "seconds"
+   },
+   "synojslibSECTIONuicommonKEYtimediff_day": {
+      "message": "{0} day ago"
+   },
+   "synojslibSECTIONuicommonKEYtimediff_days": {
+      "message": "{0} days ago"
+   },
+   "synojslibSECTIONuicommonKEYtimediff_hour": {
+      "message": "{0} hour ago"
+   },
+   "synojslibSECTIONuicommonKEYtimediff_hours": {
+      "message": "{0} hours ago"
+   },
+   "synojslibSECTIONuicommonKEYtimediff_minute": {
+      "message": "{0} minute ago"
+   },
+   "synojslibSECTIONuicommonKEYtimediff_minutes": {
+      "message": "{0} minutes ago"
+   },
+   "synojslibSECTIONuicommonKEYtimediff_second": {
+      "message": "{0} second ago"
+   },
+   "synojslibSECTIONuicommonKEYtimediff_seconds": {
+      "message": "{0} seconds ago"
+   },
+   "synojslibSECTIONuicommonKEYwelcome": {
+      "message": "Welcome"
+   },
+   "synojslibSECTIONvtypeKEYbad_adminname": {
+      "message": "The administrator account is invalid or it contains invalid characters."
+   },
+   "synojslibSECTIONvtypeKEYbad_alias": {
+      "message": "The alias you entered is invalid."
+   },
+   "synojslibSECTIONvtypeKEYbad_backup_destination": {
+      "message": "The backup destination name is invalid or contains invalid characters."
+   },
+   "synojslibSECTIONvtypeKEYbad_backup_target": {
+      "message": "The target name is invalid or contains invalid characters."
+   },
+   "synojslibSECTIONvtypeKEYbad_cidr": {
+      "message": "The CIDR you entered is invalid."
+   },
+   "synojslibSECTIONvtypeKEYbad_cidr_hostname": {
+      "message": "The CIDR or hostname you entered is invalid."
+   },
+   "synojslibSECTIONvtypeKEYbad_dar_profile_name": {
+      "message": "Use only letters, numbers and space characters. Do not use preserved words such as \u003Cb>template\u003C/b>, \u003Cb>lang\u003C/b> and \u003Cb>global\u003C/b>. The name cannot start or end with a space."
+   },
+   "synojslibSECTIONvtypeKEYbad_ddns_noip_alphanumspace": {
+      "message": "alphanumeric and space only"
+   },
+   "synojslibSECTIONvtypeKEYbad_ddns_noip_password": {
+      "message": "Character +,?,%,& are not allowed."
+   },
+   "synojslibSECTIONvtypeKEYbad_devicename": {
+      "message": "The device name is invalid or it contains invalid characters."
+   },
+   "synojslibSECTIONvtypeKEYbad_domain_name": {
+      "message": "Invalid domain name"
+   },
+   "synojslibSECTIONvtypeKEYbad_email": {
+      "message": "Invalid email format."
+   },
+   "synojslibSECTIONvtypeKEYbad_event_task_name": {
+      "message": "A task name can include only English characters, numbers, and spaces; it cannot start/end with spaces."
+   },
+   "synojslibSECTIONvtypeKEYbad_field": {
+      "message": "Field value is invalid."
+   },
+   "synojslibSECTIONvtypeKEYbad_fwname": {
+      "message": "This firewall rule name is invalid. Please enter another name."
+   },
+   "synojslibSECTIONvtypeKEYbad_groupname": {
+      "message": "The group name is invalid or contains invalid characters."
+   },
+   "synojslibSECTIONvtypeKEYbad_host": {
+      "message": "Invalid hostname. The hostname can contain only letters, numbers, underscores (_) and dashes (-), and must start with a letter."
+   },
+   "synojslibSECTIONvtypeKEYbad_hostname": {
+      "message": "Invalid hostname format."
+   },
+   "synojslibSECTIONvtypeKEYbad_ip": {
+      "message": "The IP address you entered is invalid."
+   },
+   "synojslibSECTIONvtypeKEYbad_iporhostname": {
+      "message": "Invalid IP or hostname."
+   },
+   "synojslibSECTIONvtypeKEYbad_ipv6prefixLeng": {
+      "message": "Invalid IPv6 prefix."
+   },
+   "synojslibSECTIONvtypeKEYbad_iscsi_hostname": {
+      "message": "Host name can only contain letters, numbers, colons (:), hyphens (-), and dots (.)."
+   },
+   "synojslibSECTIONvtypeKEYbad_iscsi_lunname": {
+      "message": "The LUN name you entered is invalid, please refer to Help for more information."
+   },
+   "synojslibSECTIONvtypeKEYbad_iscsi_password": {
+      "message": "Passwords must be 12 to 16 characters long."
+   },
+   "synojslibSECTIONvtypeKEYbad_iscsi_targetiqn": {
+      "message": "The iSCSI Target IQN you entered is invalid, please refer to Help for more information."
+   },
+   "synojslibSECTIONvtypeKEYbad_iscsi_targetname": {
+      "message": "The target name you entered is invalid, please refer to Help for more information."
+   },
+   "synojslibSECTIONvtypeKEYbad_iscsi_username": {
+      "message": "Numbers and English letters only. Maximum of 12 characters."
+   },
+   "synojslibSECTIONvtypeKEYbad_mac": {
+      "message": "Please input a correct MAC address."
+   },
+   "synojslibSECTIONvtypeKEYbad_mask": {
+      "message": "The subnet mask you entered is invalid."
+   },
+   "synojslibSECTIONvtypeKEYbad_netbkp_module": {
+      "message": "Module cannot contain special characters : / \\ # [ ] \u003C > \""
+   },
+   "synojslibSECTIONvtypeKEYbad_networkgroupname": {
+      "message": "The workgroup name is invalid or contains invalid characters."
+   },
+   "synojslibSECTIONvtypeKEYbad_number": {
+      "message": "This number cannot start with 0 and must be a whole number."
+   },
+   "synojslibSECTIONvtypeKEYbad_port": {
+      "message": "The port number should be from 1 to 65535."
+   },
+   "synojslibSECTIONvtypeKEYbad_relay_alias_name": {
+      "message": "QuickConnect ID can include only English letters, numbers, and dashes (-). It must start with a letter, and cannot end with a dash."
+   },
+   "synojslibSECTIONvtypeKEYbad_sharename": {
+      "message": "The shared folder name contains invalid characters, starts or ends with a space character, or is reserved for system use. Please refer to Help for more information on naming rules."
+   },
+   "synojslibSECTIONvtypeKEYbad_taskname": {
+      "message": "The task name is invalid or contains invalid characters."
+   },
+   "synojslibSECTIONvtypeKEYbad_url": {
+      "message": "Invalid URL format."
+   },
+   "synojslibSECTIONvtypeKEYbad_urlblocker_profile": {
+      "message": "The URL Blocker profile's name is invalid"
+   },
+   "synojslibSECTIONvtypeKEYbad_username": {
+      "message": "The username is invalid or contains invalid characters."
+   },
+   "synojslibSECTIONvtypeKEYbad_v6ip": {
+      "message": "Invalid IPv6 address."
+   },
+   "synojslibSECTIONvtypeKEYpassword_confirm_failed": {
+      "message": "Failed to confirm password. Please enter it again."
+   },
+   "synojslibSECTIONwizardKEYbtnback": {
+      "message": "Back"
+   },
+   "synojslibSECTIONwizardKEYbtncancel": {
+      "message": "Cancel"
+   },
+   "synojslibSECTIONwizardKEYbtnfinish": {
+      "message": "Done"
+   },
+   "synojslibSECTIONwizardKEYbtnnext": {
+      "message": "Next"
+   },
+   "synojslibSECTIONwizardKEYfinaldescr": {
+      "message": "Click {0} to close the window."
+   },
+   "synojslibSECTIONwizardKEYnextdescr": {
+      "message": "Click {0} to continue."
+   }
+}

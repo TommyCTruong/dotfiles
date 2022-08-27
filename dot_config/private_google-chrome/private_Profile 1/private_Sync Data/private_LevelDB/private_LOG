@@ -1,0 +1,18 @@
+2022/08/26-17:01:33.195 3069a Reusing MANIFEST /home/tam/.config/google-chrome/Profile 1/Sync Data/LevelDB/MANIFEST-000001
+2022/08/26-17:01:33.197 3069a Recovering log #14
+2022/08/26-17:01:33.198 3069a Reusing old log /home/tam/.config/google-chrome/Profile 1/Sync Data/LevelDB/000014.log 
+2022/08/26-19:30:21.701 3201c Level-0 table #18: started
+2022/08/26-19:30:21.714 3201c Level-0 table #18: 126518 bytes OK
+2022/08/26-19:30:21.727 3201c Delete type=0 #14
+2022/08/26-19:30:21.728 3201c Compacting 4@0 + 1@1 files
+2022/08/26-19:30:21.769 3201c Generated table #19@0: 133 keys, 22517 bytes
+2022/08/26-19:30:21.770 3201c Compacted 4@0 + 1@1 files => 22517 bytes
+2022/08/26-19:30:21.783 3201c compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/08/26-19:30:21.784 3201c Delete type=2 #8
+2022/08/26-19:30:21.784 3201c Delete type=2 #18
+2022/08/26-19:30:21.784 3201c Delete type=2 #12
+2022/08/26-19:30:21.784 3201c Delete type=2 #15
+2022/08/26-19:30:21.784 3201c Delete type=2 #10
+2022/08/26-21:15:56.403 34967 Level-0 table #21: started
+2022/08/26-21:15:56.425 34967 Level-0 table #21: 112504 bytes OK
+2022/08/26-21:15:56.441 34967 Delete type=0 #17

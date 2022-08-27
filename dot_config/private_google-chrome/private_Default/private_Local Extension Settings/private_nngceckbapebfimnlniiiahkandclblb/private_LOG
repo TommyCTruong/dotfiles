@@ -1,0 +1,35 @@
+2022/08/24-23:13:42.792 556 Reusing MANIFEST /home/tam/.config/google-chrome/Default/Local Extension Settings/nngceckbapebfimnlniiiahkandclblb/MANIFEST-000001
+2022/08/24-23:13:42.792 556 Recovering log #108
+2022/08/24-23:13:42.806 556 Reusing old log /home/tam/.config/google-chrome/Default/Local Extension Settings/nngceckbapebfimnlniiiahkandclblb/000108.log 
+2022/08/24-23:13:42.806 556 Delete type=2 #107
+2022/08/24-23:13:42.806 556 Delete type=2 #105
+2022/08/25-10:48:45.096 ea7a Level-0 table #113: started
+2022/08/25-10:48:45.137 ea7a Level-0 table #113: 3601545 bytes OK
+2022/08/25-10:48:45.152 ea7a Delete type=0 #108
+2022/08/25-18:50:34.735 13c90 Compacting 1@1 + 1@2 files
+2022/08/25-18:50:34.758 13c90 Generated table #114@1: 6 keys, 900107 bytes
+2022/08/25-18:50:34.758 13c90 Compacted 1@1 + 1@2 files => 900107 bytes
+2022/08/25-18:50:34.772 13c90 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/08/25-22:48:47.307 192b4 Level-0 table #116: started
+2022/08/25-22:48:47.352 192b4 Level-0 table #116: 3601546 bytes OK
+2022/08/25-22:48:47.366 192b4 Delete type=2 #113
+2022/08/25-22:48:47.366 192b4 Delete type=0 #112
+2022/08/25-22:48:47.366 192b4 Delete type=2 #110
+2022/08/26-08:29:56.833 1ec1a Compacting 1@1 + 1@2 files
+2022/08/26-08:29:56.850 1ec1a Generated table #117@1: 6 keys, 900106 bytes
+2022/08/26-08:29:56.851 1ec1a Compacted 1@1 + 1@2 files => 900106 bytes
+2022/08/26-08:29:56.865 1ec1a compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/08/26-08:29:56.865 1ec1a Delete type=2 #114
+2022/08/26-08:29:56.865 1ec1a Delete type=2 #116
+2022/08/26-10:48:49.515 23259 Level-0 table #119: started
+2022/08/26-10:48:49.552 23259 Level-0 table #119: 3601542 bytes OK
+2022/08/26-10:48:49.571 23259 Delete type=0 #115
+2022/08/26-10:54:53.127 2339c Compacting 1@1 + 1@2 files
+2022/08/26-10:54:53.150 2339c Generated table #120@1: 6 keys, 900107 bytes
+2022/08/26-10:54:53.150 2339c Compacted 1@1 + 1@2 files => 900107 bytes
+2022/08/26-10:54:53.162 2339c compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/08/26-10:54:53.163 2339c Delete type=2 #119
+2022/08/26-10:54:53.163 2339c Delete type=2 #117
+2022/08/26-22:48:51.713 382b2 Level-0 table #122: started
+2022/08/26-22:48:51.757 382b2 Level-0 table #122: 3601549 bytes OK
+2022/08/26-22:48:51.772 382b2 Delete type=0 #118

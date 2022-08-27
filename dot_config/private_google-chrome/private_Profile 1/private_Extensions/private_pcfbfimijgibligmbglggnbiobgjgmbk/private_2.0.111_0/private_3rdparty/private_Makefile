@@ -1,0 +1,17 @@
+FILES=gmail.js jquery-1.11.3.min.js
+TOOL=/pkgscripts-ng/tool/shrinksafe.php -s -c closure
+
+READABILITY_JS = \
+	readability/Readability.js \
+	readability/JSDOMParser.js
+
+.PHONY: all clean install
+
+all: readability.js
+
+clean:
+
+install:
+
+readability.js: $(READABILITY_JS)
+	$(TOOL) readability.js $(READABILITY_JS)

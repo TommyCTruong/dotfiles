@@ -1,0 +1,2393 @@
+{
+   "NoteStationClipperSECTIONappKEYdescription": {
+      "message": "Synology Web Clipper gemmer netindhold på din Synology NAS til hurtig og nem adgang. En færdig tekstside, billeder og links kan ..."
+   },
+   "NoteStationClipperSECTIONappKEYdescription_detail": {
+      "message": "Synology Web Clipper klipper netindhold og gemmer det på din Synology NAS. En færdig webside, herunder tekst, billeder og links, kan gemmes. Undgå at skulle administrere utallige browserfaner og bogmærker. Med Synology Web Clipper kan du hurtigt og nemt få adgang til klippet indhold via Note Station. Du kan også tilføje tags og kommentarer for at administrere klippet indhold."
+   },
+   "NoteStationClipperSECTIONappKEYdisplayname": {
+      "message": "Synology Web Clipper"
+   },
+   "NoteStationClipperSECTIONcaptureKEYez_capture_mode": {
+      "message": "Aktiver kvikoptagelsestilstand"
+   },
+   "NoteStationClipperSECTIONcaptureKEYgmail_thread": {
+      "message": "Email Content"
+   },
+   "NoteStationClipperSECTIONcaptureKEYonly_mail_title": {
+      "message": "Ingen valgt meddelelse. Kun e-mailemnet bliver gemt. Vil du fortsætte?"
+   },
+   "NoteStationClipperSECTIONcaptureKEYscreenshot": {
+      "message": "Billede"
+   },
+   "NoteStationClipperSECTIONcaptureKEYsimplify_content": {
+      "message": "Forenklet indhold"
+   },
+   "NoteStationClipperSECTIONcaptureKEYwhole_content": {
+      "message": "Fuldt indhold"
+   },
+   "NoteStationClipperSECTIONcaptureKEYwhole_screenshot": {
+      "message": "Billede af hel side"
+   },
+   "NoteStationClipperSECTIONcommonKEYapply": {
+      "message": "OK"
+   },
+   "NoteStationClipperSECTIONcommonKEYcommfail": {
+      "message": "Forbindelse mislykkedes. Kontroller dine netværksindstillinger."
+   },
+   "NoteStationClipperSECTIONcommonKEYcommon_settings": {
+      "message": "Indstillinger"
+   },
+   "NoteStationClipperSECTIONcommonKEYenter_otp_desc": {
+      "message": "Indtast 6-cifret kode"
+   },
+   "NoteStationClipperSECTIONcommonKEYerror_system": {
+      "message": "Kan ikke udføre denne handling, muligvis fordi netværksforbindelsen er ustabil. Log på {0} igen senere."
+   },
+   "NoteStationClipperSECTIONcommonKEYloading": {
+      "message": "Indlæser..."
+   },
+   "NoteStationClipperSECTIONcommonKEYlogin": {
+      "message": "Login"
+   },
+   "NoteStationClipperSECTIONcommonKEYlogout": {
+      "message": "Log ud"
+   },
+   "NoteStationClipperSECTIONcommonKEYmsg_waiting": {
+      "message": "Behandler . Vent..."
+   },
+   "NoteStationClipperSECTIONcommonKEYpassword": {
+      "message": "Adgangskode"
+   },
+   "NoteStationClipperSECTIONcommonKEYsave": {
+      "message": "Gem"
+   },
+   "NoteStationClipperSECTIONcommonKEYusername": {
+      "message": "Brugernavn"
+   },
+   "NoteStationClipperSECTIONloginKEYenter_otp_desc": {
+      "message": "Indtast 6-cifret kode"
+   },
+   "NoteStationClipperSECTIONloginKEYerror_cantlogin": {
+      "message": "Kontoen eller adgangskoden er ugyldig. Prøv igen."
+   },
+   "NoteStationClipperSECTIONloginKEYerror_otp_failed": {
+      "message": "Forkert verificerngskode. Prøv igen."
+   },
+   "NoteStationClipperSECTIONloginKEYmail_service_not_enable": {
+      "message": "E-mailunderretningstjeneste ikke aktiveret. Bed din administrator om at nulstille adgangskoden."
+   },
+   "NoteStationClipperSECTIONloginKEYno_mail_address": {
+      "message": "No mail address found for this username."
+   },
+   "NoteStationClipperSECTIONloginKEYotp_lost_phone_desc": {
+      "message": "Mistet din telefon?"
+   },
+   "NoteStationClipperSECTIONloginKEYotp_mail_success": {
+      "message": "Der er sendt en nødkode til din e-mail-adresse."
+   },
+   "NoteStationClipperSECTIONloginKEYotp_no_emergency_code": {
+      "message": "Du har overskredet din nødkodegrænse. Kontakt systemadministratoren."
+   },
+   "NoteStationClipperSECTIONloginKEYotp_wrong_input_format": {
+      "message": "Indtast en 6-cifret verifikationskode eller 8-cifret nødkode."
+   },
+   "NoteStationClipperSECTIONloginKEYtrust_device": {
+      "message": "Hav tillid til denne enhed"
+   },
+   "NoteStationClipperSECTIONloginKEYunknown_otp_err": {
+      "message": "Der opstod en fejl. Kontakt systemadministratoren."
+   },
+   "NoteStationClipperSECTIONmailKEYattachment": {
+      "message": "Attachment"
+   },
+   "NoteStationClipperSECTIONmailKEYpeople_involved": {
+      "message": "People Involved"
+   },
+   "NoteStationClipperSECTIONmailKEYsubject": {
+      "message": "Emne"
+   },
+   "NoteStationClipperSECTIONmessageKEYcapture_fail": {
+      "message": "Klipning mislykkedes"
+   },
+   "NoteStationClipperSECTIONmessageKEYcapture_success": {
+      "message": "Klipning gennemført"
+   },
+   "NoteStationClipperSECTIONmessageKEYerror_clipper_open_fail": {
+      "message": "Kan ikke starte Synology Web Clipper på denne side. Opdater siden, og prøv igen."
+   },
+   "NoteStationClipperSECTIONmessageKEYerror_https_certificate": {
+      "message": "Uautoriseret sikkerhedscertifikat. Gå til {0} for at fortsætte med denne forbindelse. Vil du gå dertil nu?"
+   },
+   "NoteStationClipperSECTIONmessageKEYerror_install_note_station": {
+      "message": "Kan ikke logge ind. Installer og aktiver Note Station i DSM."
+   },
+   "NoteStationClipperSECTIONmessageKEYerror_upgrade_note_station": {
+      "message": "Din Note Stationversion er forældet. Gå til Pakkecenter, og opdater Note Station."
+   },
+   "NoteStationClipperSECTIONmessageKEYerror_user_home_disabled": {
+      "message": "\"Brugerstart\"-tjenesten er aktuelt deaktiveret. Aktiver \"Brugerstart\"-tjenesten i DSM, og prøv igen."
+   },
+   "NoteStationClipperSECTIONmessageKEYhint_add_comment": {
+      "message": "Tilføj en kommentar"
+   },
+   "NoteStationClipperSECTIONmessageKEYhint_add_tag": {
+      "message": "Tilføj en tag"
+   },
+   "NoteStationClipperSECTIONmessageKEYhint_hostname": {
+      "message": "NAS IP/QuickConnect ID"
+   },
+   "NoteStationClipperSECTIONquickconnectKEYcannot_connect_to_ds": {
+      "message": "Kan ikke oprette forbindelse til din Synology NAS. Sørg for, at begge QuickConnect ID er korrekte, og at dukan oprette forbindelse til din Synology NAS."
+   },
+   "NoteStationClipperSECTIONquickconnectKEYcannot_connect_to_global": {
+      "message": "Kunne ikke oprette forbindelse til QuickConnect-server. Prøv igen senere."
+   },
+   "NoteStationClipperSECTIONquickconnectKEYcannot_request_tunnel": {
+      "message": "Kan ikke oprette forbindelse via QuickConnect. Sørg for, at dine QuickConnect-indstillinger er korrekte, og at netværket opfører sig normalt."
+   },
+   "NoteStationClipperSECTIONsettingKEYaccount": {
+      "message": "Konto"
+   },
+   "NoteStationClipperSECTIONsettingKEYdisk_station": {
+      "message": "Synology NAS"
+   },
+   "NoteStationClipperSECTIONsettingKEYfeedback": {
+      "message": "Feedback"
+   },
+   "NoteStationClipperSECTIONsettingKEYversion": {
+      "message": "Version"
+   },
+   "NoteStationClipperSECTIONtooltipKEYsearch": {
+      "message": "Søg"
+   },
+   "NoteStationSECTIONappKEYdescription": {
+      "message": "Note Station hjælper dig med at skrive, administrere og dele indholdsrige noter. Det er meget nemt at oprette indhold med rig te..."
+   },
+   "NoteStationSECTIONappKEYdisplayname": {
+      "message": "Note Station"
+   },
+   "NoteStationSECTIONappKEYopen_in_note_station": {
+      "message": "Åbn i Note Station"
+   },
+   "NoteStationSECTIONappKEYwz_rm_repo_chkbox": {
+      "message": "Slet database permanent"
+   },
+   "NoteStationSECTIONappKEYwz_rm_repo_desc": {
+      "message": "Slet database på Note Station permanent. Disse data kan ikke gendannes."
+   },
+   "NoteStationSECTIONappKEYwz_rm_repo_title": {
+      "message": "Slet database på Note Station"
+   },
+   "NoteStationSECTIONcategoryKEYall_joined_notes": {
+      "message": "Tilsluttede noter"
+   },
+   "NoteStationSECTIONcategoryKEYall_notes": {
+      "message": "Alle noter"
+   },
+   "NoteStationSECTIONcategoryKEYall_shared_notes": {
+      "message": "Delte noter"
+   },
+   "NoteStationSECTIONcategoryKEYarchive": {
+      "message": "Arkiver notesbøger"
+   },
+   "NoteStationSECTIONcategoryKEYjoined": {
+      "message": "Tilsluttede notesbøger"
+   },
+   "NoteStationSECTIONcategoryKEYnotebook": {
+      "message": "Notesbøger"
+   },
+   "NoteStationSECTIONcategoryKEYrecycle": {
+      "message": "Papirkurv"
+   },
+   "NoteStationSECTIONcategoryKEYshortcut": {
+      "message": "Favoritter"
+   },
+   "NoteStationSECTIONcategoryKEYsmart": {
+      "message": "Smart-notesbøger"
+   },
+   "NoteStationSECTIONcategoryKEYtag": {
+      "message": "Tags"
+   },
+   "NoteStationSECTIONcategoryKEYtodo_task": {
+      "message": "Gøremålsliste"
+   },
+   "NoteStationSECTIONchartKEYchart_property": {
+      "message": "Egenskab"
+   },
+   "NoteStationSECTIONchartKEYchart_size": {
+      "message": "Størrelse (efter pixel)"
+   },
+   "NoteStationSECTIONchartKEYchart_title": {
+      "message": "Titel"
+   },
+   "NoteStationSECTIONchartKEYclone": {
+      "message": "Klon"
+   },
+   "NoteStationSECTIONchartKEYdata": {
+      "message": "Data"
+   },
+   "NoteStationSECTIONchartKEYdata_direction": {
+      "message": "Kategori (som X-akse)"
+   },
+   "NoteStationSECTIONchartKEYdata_direction_by_column": {
+      "message": "Række"
+   },
+   "NoteStationSECTIONchartKEYdata_direction_by_row": {
+      "message": "Kolonne"
+   },
+   "NoteStationSECTIONchartKEYdata_header": {
+      "message": "Hoved"
+   },
+   "NoteStationSECTIONchartKEYdata_header_first_column": {
+      "message": "Kolonne yderst til venstre"
+   },
+   "NoteStationSECTIONchartKEYdata_header_first_row": {
+      "message": "Øverste række"
+   },
+   "NoteStationSECTIONchartKEYdata_range": {
+      "message": "Interval"
+   },
+   "NoteStationSECTIONchartKEYinsert_number": {
+      "message": "Mængde"
+   },
+   "NoteStationSECTIONchartKEYinsert_position": {
+      "message": "Position"
+   },
+   "NoteStationSECTIONchartKEYinvalid_must_between": {
+      "message": "Skal være mellem {0} og {1}."
+   },
+   "NoteStationSECTIONchartKEYmenu_delete_columns": {
+      "message": "Slet kolonner"
+   },
+   "NoteStationSECTIONchartKEYmenu_delete_rows": {
+      "message": "Slet rækker"
+   },
+   "NoteStationSECTIONchartKEYmenu_insert_column_left": {
+      "message": "Indsæt 1 venstre"
+   },
+   "NoteStationSECTIONchartKEYmenu_insert_column_right": {
+      "message": "Indsæt 1 højre"
+   },
+   "NoteStationSECTIONchartKEYmenu_insert_multi_columns": {
+      "message": "Indsæt kolonne til venstre"
+   },
+   "NoteStationSECTIONchartKEYmenu_insert_multi_rows": {
+      "message": "Indsæt flere rækker"
+   },
+   "NoteStationSECTIONchartKEYmenu_insert_row_above": {
+      "message": "Indsæt 1 over"
+   },
+   "NoteStationSECTIONchartKEYmenu_insert_row_below": {
+      "message": "Indsæt 1 under"
+   },
+   "NoteStationSECTIONchartKEYposition_above": {
+      "message": "Over"
+   },
+   "NoteStationSECTIONchartKEYposition_below": {
+      "message": "Under"
+   },
+   "NoteStationSECTIONchartKEYposition_left": {
+      "message": "Venstre"
+   },
+   "NoteStationSECTIONchartKEYposition_right": {
+      "message": "Højre"
+   },
+   "NoteStationSECTIONchartKEYremove_all_column_notify": {
+      "message": "Du kan ikke slette alle kolonnerne i arket."
+   },
+   "NoteStationSECTIONchartKEYremove_all_row_notify": {
+      "message": "Du kan ikke slette alle rækkerne i arket."
+   },
+   "NoteStationSECTIONchartKEYtab_title_chart": {
+      "message": "Diagram"
+   },
+   "NoteStationSECTIONchartKEYtab_title_config": {
+      "message": "Indstillinger"
+   },
+   "NoteStationSECTIONchartKEYtitle": {
+      "message": "Diagram-editor"
+   },
+   "NoteStationSECTIONchartKEYtype": {
+      "message": "Type"
+   },
+   "NoteStationSECTIONchartKEYx_axis_title": {
+      "message": "Titel på x-akse"
+   },
+   "NoteStationSECTIONchartKEYy_axis_title": {
+      "message": "Titel på y-akse"
+   },
+   "NoteStationSECTIONclipperKEYfail": {
+      "message": "Clip fail"
+   },
+   "NoteStationSECTIONclipperKEYprocessing": {
+      "message": "Clipping webpage"
+   },
+   "NoteStationSECTIONcommonKEYaction": {
+      "message": "Fjern"
+   },
+   "NoteStationSECTIONcommonKEYadd": {
+      "message": "Tilføj"
+   },
+   "NoteStationSECTIONcommonKEYadd_to_shortcut": {
+      "message": "Tilføj til favoritter"
+   },
+   "NoteStationSECTIONcommonKEYadd_to_stack": {
+      "message": "Tilføj til hylde"
+   },
+   "NoteStationSECTIONcommonKEYcancel": {
+      "message": "Annuller"
+   },
+   "NoteStationSECTIONcommonKEYchange_password": {
+      "message": "Skift adgangskode"
+   },
+   "NoteStationSECTIONcommonKEYchange_password_tip": {
+      "message": "Den nye adgangskode gælder kun for nye kopier af denne note. Den oprindelige note er stadig krypteret med den gamle adgangskode."
+   },
+   "NoteStationSECTIONcommonKEYclose": {
+      "message": "Luk"
+   },
+   "NoteStationSECTIONcommonKEYcolon": {
+      "message": ":"
+   },
+   "NoteStationSECTIONcommonKEYconfirm_leave": {
+      "message": "Du er ved at logge ud af DSM, eller opdater denne side. Fortsættelse vil annullere alle kørende opgaver og eventuelle ikke-gemte ændringer mistes. Vil du forsætte?"
+   },
+   "NoteStationSECTIONcommonKEYconfirm_password": {
+      "message": "Bekræft adgangskode"
+   },
+   "NoteStationSECTIONcommonKEYcopy": {
+      "message": "Kopier"
+   },
+   "NoteStationSECTIONcommonKEYcreate": {
+      "message": "Opret"
+   },
+   "NoteStationSECTIONcommonKEYdate_format_with_year": {
+      "message": "{2}, {0} {1}"
+   },
+   "NoteStationSECTIONcommonKEYdecrypt": {
+      "message": "Dekrypter"
+   },
+   "NoteStationSECTIONcommonKEYdelete": {
+      "message": "Slet"
+   },
+   "NoteStationSECTIONcommonKEYdifferent_values": {
+      "message": "[Flere angivelser...]"
+   },
+   "NoteStationSECTIONcommonKEYdone": {
+      "message": "Udført"
+   },
+   "NoteStationSECTIONcommonKEYduplicate": {
+      "message": "Dublet"
+   },
+   "NoteStationSECTIONcommonKEYedit": {
+      "message": "Rediger"
+   },
+   "NoteStationSECTIONcommonKEYempty_recycle": {
+      "message": "Tøm papirkurv"
+   },
+   "NoteStationSECTIONcommonKEYencrypt": {
+      "message": "Krypter"
+   },
+   "NoteStationSECTIONcommonKEYenter_password": {
+      "message": "Indtast adgangskode"
+   },
+   "NoteStationSECTIONcommonKEYextra": {
+      "message": "Extra"
+   },
+   "NoteStationSECTIONcommonKEYhere": {
+      "message": "Her"
+   },
+   "NoteStationSECTIONcommonKEYleave": {
+      "message": "Forlad"
+   },
+   "NoteStationSECTIONcommonKEYloading": {
+      "message": "Indlæser..."
+   },
+   "NoteStationSECTIONcommonKEYmove": {
+      "message": "Flyt"
+   },
+   "NoteStationSECTIONcommonKEYname": {
+      "message": "Navn"
+   },
+   "NoteStationSECTIONcommonKEYnew_password": {
+      "message": "Ny adgangskode"
+   },
+   "NoteStationSECTIONcommonKEYnote_link_in_recycle": {
+      "message": "Note has been deleted"
+   },
+   "NoteStationSECTIONcommonKEYok": {
+      "message": "OK"
+   },
+   "NoteStationSECTIONcommonKEYopen_note_in_new_tab": {
+      "message": "Åbn note på ny fane"
+   },
+   "NoteStationSECTIONcommonKEYowner": {
+      "message": "Ejer"
+   },
+   "NoteStationSECTIONcommonKEYplease_select_item": {
+      "message": "Klik på et emne under enhver kategori for at begynde at gennemse."
+   },
+   "NoteStationSECTIONcommonKEYpreview": {
+      "message": "Eksempel"
+   },
+   "NoteStationSECTIONcommonKEYprint": {
+      "message": "Udskriv"
+   },
+   "NoteStationSECTIONcommonKEYrecord_audio": {
+      "message": "Optag lyd"
+   },
+   "NoteStationSECTIONcommonKEYrefresh": {
+      "message": "Opdater"
+   },
+   "NoteStationSECTIONcommonKEYremove_from_stack": {
+      "message": "Fjern fra hylde"
+   },
+   "NoteStationSECTIONcommonKEYrename": {
+      "message": "Omdøb"
+   },
+   "NoteStationSECTIONcommonKEYreset": {
+      "message": "Nulstil"
+   },
+   "NoteStationSECTIONcommonKEYrestore": {
+      "message": "Gendan"
+   },
+   "NoteStationSECTIONcommonKEYsearch": {
+      "message": "Søg"
+   },
+   "NoteStationSECTIONcommonKEYsearch_todo_tasks": {
+      "message": "Søg i gøremålsliste"
+   },
+   "NoteStationSECTIONcommonKEYsend_as_mail": {
+      "message": "Send som post"
+   },
+   "NoteStationSECTIONcommonKEYset_as_preset": {
+      "message": "Angiv som standardnotesbog"
+   },
+   "NoteStationSECTIONcommonKEYsetting": {
+      "message": "Indstillinger"
+   },
+   "NoteStationSECTIONcommonKEYshare": {
+      "message": "Del"
+   },
+   "NoteStationSECTIONcommonKEYsize": {
+      "message": "Størrelse"
+   },
+   "NoteStationSECTIONcommonKEYskip_notify": {
+      "message": "Spørg ikke igen"
+   },
+   "NoteStationSECTIONcommonKEYsync": {
+      "message": "Synkronisering nu"
+   },
+   "NoteStationSECTIONcommonKEYuser_or_group": {
+      "message": "Bruger/gruppe"
+   },
+   "NoteStationSECTIONcommonKEYusername": {
+      "message": "Brugernavn"
+   },
+   "NoteStationSECTIONcommonKEYweekday_0": {
+      "message": "Søn"
+   },
+   "NoteStationSECTIONcommonKEYweekday_1": {
+      "message": "Man"
+   },
+   "NoteStationSECTIONcommonKEYweekday_2": {
+      "message": "Tir"
+   },
+   "NoteStationSECTIONconflictKEYcurrent_version": {
+      "message": "Min version"
+   },
+   "NoteStationSECTIONconflictKEYduplicate": {
+      "message": "Opret en ny note med min version"
+   },
+   "NoteStationSECTIONconflictKEYlatest_version": {
+      "message": "Seneste version"
+   },
+   "NoteStationSECTIONconflictKEYoverwrite": {
+      "message": "Bevar min version"
+   },
+   "NoteStationSECTIONconflictKEYreadme": {
+      "message": "Din note er anderledes end den senest gemte version, der er gemt på din Synology NAS. Hvilken version vil du bevare?"
+   },
+   "NoteStationSECTIONconflictKEYskip": {
+      "message": "Bevar seneste version"
+   },
+   "NoteStationSECTIONconflictKEYtitle": {
+      "message": "Versionskonflikt"
+   },
+   "NoteStationSECTIONddKEYmulti_items": {
+      "message": "Flere emner({0})"
+   },
+   "NoteStationSECTIONeditorKEYcontent": {
+      "message": "Tekst"
+   },
+   "NoteStationSECTIONeditorKEYcustom_color": {
+      "message": "Tilpasset"
+   },
+   "NoteStationSECTIONeditorKEYcustom_color_win_title": {
+      "message": "Tilpas farve"
+   },
+   "NoteStationSECTIONeditorKEYdrop_to_copy": {
+      "message": "Indsæt her"
+   },
+   "NoteStationSECTIONeditorKEYheading": {
+      "message": "Hoved"
+   },
+   "NoteStationSECTIONeditorKEYsearch_status": {
+      "message": "{0} af {1}"
+   },
+   "NoteStationSECTIONeditorKEYupload_processing": {
+      "message": "Behandler"
+   },
+   "NoteStationSECTIONeditorKEYupload_waiting": {
+      "message": "Venter"
+   },
+   "NoteStationSECTIONerrorKEYalready_in_shortcut": {
+      "message": "Dette er allerede i Favoritter."
+   },
+   "NoteStationSECTIONerrorKEYbackuping": {
+      "message": "Udfører backup af data. Prøv igen senere."
+   },
+   "NoteStationSECTIONerrorKEYcannot_delete_preset": {
+      "message": "Kan ikke slette standardnotesbogen."
+   },
+   "NoteStationSECTIONerrorKEYchange_volume_fail": {
+      "message": "Kunne ikke flytte data til {0}. Årsag: {1}"
+   },
+   "NoteStationSECTIONerrorKEYcompress_fail": {
+      "message": "Kan ikke oprette eksportfil i Note Station."
+   },
+   "NoteStationSECTIONerrorKEYcopy_note_link": {
+      "message": "Kopier nedenstående link med Ctrl+C/Command+C."
+   },
+   "NoteStationSECTIONerrorKEYcopy_share_link": {
+      "message": "Kopier link med Ctrl+C/Command+C."
+   },
+   "NoteStationSECTIONerrorKEYdefault_create_fail": {
+      "message": "\"Brugerstart\" er deaktiveret i øjeblikket. Gå til siden \"Bruger\", og aktiver den først."
+   },
+   "NoteStationSECTIONerrorKEYdefault_create_fail_directory": {
+      "message": "Brugerstart er deaktiveret i øjeblikket. Gå til Kontrolpanel > Bruger > Avanceret for at aktivere det."
+   },
+   "NoteStationSECTIONerrorKEYdrive_get_failed": {
+      "message": "Note eller notesbog er ikke tilgængelig. Kontroller dine tilladelsesindstillinger."
+   },
+   "NoteStationSECTIONerrorKEYerror_demo": {
+      "message": "Denne funktion er ikke tilgængelig i demo-tilstand."
+   },
+   "NoteStationSECTIONerrorKEYerror_filename": {
+      "message": "Du har valgt en fil med en forkert filtype. Sørg for, at filtypen er \".nsx\", som ikke skelner mellem store og små bogstaver."
+   },
+   "NoteStationSECTIONerrorKEYerror_format": {
+      "message": "Ikke-understøttet format."
+   },
+   "NoteStationSECTIONerrorKEYerror_no_such_user": {
+      "message": "Brugerkonto findes allerede."
+   },
+   "NoteStationSECTIONerrorKEYerror_ns_disabled": {
+      "message": "Note Station er deaktiveret."
+   },
+   "NoteStationSECTIONerrorKEYerror_synodrive": {
+      "message": "Fejlede ved adgang til data."
+   },
+   "NoteStationSECTIONerrorKEYerror_system": {
+      "message": "Operation mislykkedes."
+   },
+   "NoteStationSECTIONerrorKEYexport_no_select_notebook": {
+      "message": "Vælg mindst én notesbog."
+   },
+   "NoteStationSECTIONerrorKEYexport_no_select_target": {
+      "message": "Vælg mindst et emne til eksport."
+   },
+   "NoteStationSECTIONerrorKEYexport_op_fail": {
+      "message": "Eksportopgave mislykkedes. Prøv igen senere."
+   },
+   "NoteStationSECTIONerrorKEYextract_fail": {
+      "message": "Den valgte nsx-fil er ødelagt. Vælg en anden nsx-fil, og prøv igen."
+   },
+   "NoteStationSECTIONerrorKEYfeature_in_https_only": {
+      "message": "Lydoptagelse mislykkedes. Opret forbindelse til din _DISKSTATION_ igen via HTTPS for at udføre optagelsen."
+   },
+   "NoteStationSECTIONerrorKEYgeolocation_failed": {
+      "message": "Geolokationstjenesten mislykkedes."
+   },
+   "NoteStationSECTIONerrorKEYgeolocation_not_support": {
+      "message": "Din browser understøtter ikke geolokationstjenester."
+   },
+   "NoteStationSECTIONerrorKEYimport_evernote_auth_fail": {
+      "message": "Fejlede ved adgang til Evernote. Autoriser Note Station igen for at få adgang til din Evernote-konto, og prøv igen."
+   },
+   "NoteStationSECTIONerrorKEYimport_export_not_running": {
+      "message": "Der kører ingen import- eller eksportopgave."
+   },
+   "NoteStationSECTIONerrorKEYimport_export_running": {
+      "message": "Der kører en anden import- eller eksportopgave i øjeblikket. Prøv igen senere."
+   },
+   "NoteStationSECTIONerrorKEYimport_no_select_notebook": {
+      "message": "Vælg mindst én notesbog."
+   },
+   "NoteStationSECTIONerrorKEYimport_op_fail": {
+      "message": "Import af opgave mislykkedes. Prøv igen senere."
+   },
+   "NoteStationSECTIONerrorKEYimport_reach_limit": {
+      "message": "Evernote-synkroniseringskvote nået. Kan ikke fortsætte med importopgaven. Prøv igen senere."
+   },
+   "NoteStationSECTIONerrorKEYimport_unknown": {
+      "message": "Ukendt fejl:"
+   },
+   "NoteStationSECTIONerrorKEYlatest_chrome_or_firefox": {
+      "message": "Brug den seneste version af Google Chrome eller Mozilla Firefox til at optage lyd."
+   },
+   "NoteStationSECTIONerrorKEYloadsetting_fail": {
+      "message": "Kunne ikke indlæse systemindstillinger."
+   },
+   "NoteStationSECTIONerrorKEYmaintenance": {
+      "message": "Note Station bliver aktuelt vedligeholdt. Prøv igen senere."
+   },
+   "NoteStationSECTIONerrorKEYmoving_data": {
+      "message": "Note Station is changing volume now, please try again later."
+   },
+   "NoteStationSECTIONerrorKEYno_available_notebook": {
+      "message": "Der er ingen tilgængelig notesbog."
+   },
+   "NoteStationSECTIONerrorKEYno_enough_space": {
+      "message": "Operation mislykkedes, fordi den tilgængelige diskenhedsstørrelse er utilstrækkelig."
+   },
+   "NoteStationSECTIONerrorKEYnote_conflict": {
+      "message": "Note version conflict"
+   },
+   "NoteStationSECTIONerrorKEYnote_link_in_preview": {
+      "message": "Bemærk, at links ikke kan fungere i historikversioner."
+   },
+   "NoteStationSECTIONerrorKEYnote_not_exist": {
+      "message": "Den valgte note findes ikke."
+   },
+   "NoteStationSECTIONerrorKEYnote_not_in_recycle": {
+      "message": "Denne note er ikke i papirkurven."
+   },
+   "NoteStationSECTIONerrorKEYobject_no_permission": {
+      "message": "Du har ikke tilstrækkelige tilladelser til at åbne dette emne."
+   },
+   "NoteStationSECTIONerrorKEYobject_not_exist": {
+      "message": "Notesbogen findes ikke."
+   },
+   "NoteStationSECTIONerrorKEYperm_op_fail": {
+      "message": "Kunne ikke ændre tilladelser."
+   },
+   "NoteStationSECTIONerrorKEYpreset_already_exist": {
+      "message": "Standardnotesbog findes allerede."
+   },
+   "NoteStationSECTIONerrorKEYrecord_device_no_found": {
+      "message": "Ingen mikrofonenhed registreret. Tilslut en mikrofon, og kontroller dine enhedsindstillinger."
+   },
+   "NoteStationSECTIONerrorKEYrecord_perm_deny": {
+      "message": "Mikrofonadgang nægtet Du har måske ikke tilstrækkelige tilladelser."
+   },
+   "NoteStationSECTIONerrorKEYrecord_unknown": {
+      "message": "Ukendt fejl:"
+   },
+   "NoteStationSECTIONerrorKEYsave": {
+      "message": "Lagring mislykkedes. Prøv igen senere."
+   },
+   "NoteStationSECTIONerrorKEYspace_not_enough": {
+      "message": "Destinationsdiskenheden har ikke nok plads."
+   },
+   "NoteStationSECTIONerrorKEYtag_conflict": {
+      "message": "Taggen findes allerede på sammen niveau."
+   },
+   "NoteStationSECTIONerrorKEYvolume_moving": {
+      "message": "Note Station flytter data til en anden diskenhed. Prøv igen senere."
+   },
+   "NoteStationSECTIONerror_backupKEYerr_backup_version": {
+      "message": "Forkert backupversion."
+   },
+   "NoteStationSECTIONerror_backupKEYerr_estimate_dir": {
+      "message": "Kunne ikke anslå backupdatastørrelse."
+   },
+   "NoteStationSECTIONerror_backupKEYerr_export_repo": {
+      "message": "Kunne ikke eksportere data."
+   },
+   "NoteStationSECTIONerror_backupKEYerr_export_setting": {
+      "message": "Kunne ikke eksportere indstillinger"
+   },
+   "NoteStationSECTIONerror_backupKEYerr_home_share": {
+      "message": "Kunne ikke finde startbibliotek. Sørg for, at starttjeneste er aktiveret."
+   },
+   "NoteStationSECTIONerror_backupKEYerr_import_repo": {
+      "message": "Kunne ikke importere data."
+   },
+   "NoteStationSECTIONerror_backupKEYerr_import_setting": {
+      "message": "Kunne ikke importere indstillinger."
+   },
+   "NoteStationSECTIONerror_backupKEYerr_init_failed": {
+      "message": "Kunne ikke initialisere backup."
+   },
+   "NoteStationSECTIONerror_backupKEYerr_no_space": {
+      "message": "Der er ikke tilstrækkelig diskplads til at gendanne data."
+   },
+   "NoteStationSECTIONexportKEYconfig": {
+      "message": "Eksporter notesbøger"
+   },
+   "NoteStationSECTIONexportKEYconfig_desc": {
+      "message": "Eksporter notesbøger til backup eller til import til en anden Synology NAS."
+   },
+   "NoteStationSECTIONexportKEYctime": {
+      "message": "Oprettet kl."
+   },
+   "NoteStationSECTIONexportKEYdescription": {
+      "message": "Eksport af notesbøger eller gøremålslister sætter dig i stand til at udføre backup på vigtige data eller importere dem til at blive brugt på en anden Synology NAS."
+   },
+   "NoteStationSECTIONexportKEYdest": {
+      "message": "Destination folder"
+   },
+   "NoteStationSECTIONexportKEYdest_desc": {
+      "message": "Please choose output folder"
+   },
+   "NoteStationSECTIONexportKEYexporting": {
+      "message": "Eksporterer"
+   },
+   "NoteStationSECTIONexportKEYguideline": {
+      "message": "Udvalgte notesbøger eller gøremålslister bliver eksporteret som en .nsx-fil til backup og kan importeres til at blive brugt på en anden Synology NAS."
+   },
+   "NoteStationSECTIONexportKEYmtime": {
+      "message": "Ændret kl."
+   },
+   "NoteStationSECTIONexportKEYnote": {
+      "message": "Eksporter note som zip"
+   },
+   "NoteStationSECTIONexportKEYnotebook": {
+      "message": "Eksporter"
+   },
+   "NoteStationSECTIONexportKEYnotebook_display": {
+      "message": "Eksporter udvalgte notesbøger til en Note Station nsx-fil til backup elle til import til en anden Synology NAS."
+   },
+   "NoteStationSECTIONexportKEYnotebook_title": {
+      "message": "Navn på notesbog"
+   },
+   "NoteStationSECTIONexportKEYpersonal_config": {
+      "message": "Keep personal settings"
+   },
+   "NoteStationSECTIONexportKEYselect_notebook": {
+      "message": "Vælg notesbøger"
+   },
+   "NoteStationSECTIONexportKEYselect_notebook_desc": {
+      "message": "Please select export notebooks"
+   },
+   "NoteStationSECTIONexportKEYtarget_desc": {
+      "message": "Vælg de emner, du vil eksportere"
+   },
+   "NoteStationSECTIONexportKEYtarget_notebook": {
+      "message": "Notesbog"
+   },
+   "NoteStationSECTIONexportKEYtitle": {
+      "message": "Eksporter notesbøger eller gøremålsliste"
+   },
+   "NoteStationSECTIONexportKEYtodo_list": {
+      "message": "Gøremålsliste"
+   },
+   "NoteStationSECTIONexportKEYword": {
+      "message": "Eksporter som .docx"
+   },
+   "NoteStationSECTIONfiletableKEYdrop_file": {
+      "message": "Læg filer her"
+   },
+   "NoteStationSECTIONhistoryKEYcopy_to_new_note": {
+      "message": "Kopier til en ny note"
+   },
+   "NoteStationSECTIONhistoryKEYdevice_name": {
+      "message": "Enhed"
+   },
+   "NoteStationSECTIONhistoryKEYmodify_time": {
+      "message": "Ændret kl."
+   },
+   "NoteStationSECTIONhistoryKEYrestore": {
+      "message": "Gendan"
+   },
+   "NoteStationSECTIONhistoryKEYusername": {
+      "message": "Brugernavn"
+   },
+   "NoteStationSECTIONhistoryKEYversion": {
+      "message": "Version"
+   },
+   "NoteStationSECTIONimportKEYcalculating": {
+      "message": "Behandler"
+   },
+   "NoteStationSECTIONimportKEYcancel_import": {
+      "message": "Annuller import"
+   },
+   "NoteStationSECTIONimportKEYconfirm_cancel_import": {
+      "message": "Der er en anden åben session, eller importopgave kører. Fortsættelse vil annullere alle kørende opgaver. Vil du forsætte?"
+   },
+   "NoteStationSECTIONimportKEYctime": {
+      "message": "Oprettet kl."
+   },
+   "NoteStationSECTIONimportKEYevernote_config": {
+      "message": "Importer notesbøger"
+   },
+   "NoteStationSECTIONimportKEYevernote_server": {
+      "message": "Vælg server"
+   },
+   "NoteStationSECTIONimportKEYget_access_right": {
+      "message": "Anmod om Evernote-godkendelse"
+   },
+   "NoteStationSECTIONimportKEYget_access_right_btn": {
+      "message": "Anmod om Evernote-godkendelse"
+   },
+   "NoteStationSECTIONimportKEYget_access_right_desc": {
+      "message": "Importer notesbøger fra Evernote ved at logge ind på Evernote og autorisere Note Station til at få adgang til din konto. Note Station vil omdirigere dig til Evernote."
+   },
+   "NoteStationSECTIONimportKEYimport_from_enex": {
+      "message": "Importer"
+   },
+   "NoteStationSECTIONimportKEYimport_from_enex_display": {
+      "message": "Importer notesbøger fra en Evernote .enex-fil."
+   },
+   "NoteStationSECTIONimportKEYimport_from_evernote": {
+      "message": "Importer fra Evernote"
+   },
+   "NoteStationSECTIONimportKEYimport_from_evernote_display": {
+      "message": "Importer notesbøger fra Evernote."
+   },
+   "NoteStationSECTIONimportKEYimport_from_notebook": {
+      "message": "Importer"
+   },
+   "NoteStationSECTIONimportKEYimport_from_notebook_display": {
+      "message": "Importer notesbøger fra en Note Stations nsx-fil."
+   },
+   "NoteStationSECTIONimportKEYimport_wizard": {
+      "message": "Importguide til Evernote"
+   },
+   "NoteStationSECTIONimportKEYimporting": {
+      "message": "Importerer"
+   },
+   "NoteStationSECTIONimportKEYmerge_into_notebook": {
+      "message": "Flet notesbøger med samme navn"
+   },
+   "NoteStationSECTIONimportKEYmtime": {
+      "message": "Ændret kl."
+   },
+   "NoteStationSECTIONimportKEYnotebook_name": {
+      "message": "Navn på notesbog"
+   },
+   "NoteStationSECTIONimportKEYnotebook_stack": {
+      "message": "Stak"
+   },
+   "NoteStationSECTIONimportKEYprepare_import": {
+      "message": "Forbereder"
+   },
+   "NoteStationSECTIONimportKEYselect_notebook": {
+      "message": "Vælg notesbøger"
+   },
+   "NoteStationSECTIONimportKEYselect_notebook_desc": {
+      "message": "Vælg de notesbøger, der skal importeres."
+   },
+   "NoteStationSECTIONimportKEYtask_canceled": {
+      "message": "Din importopgave blev annulleret."
+   },
+   "NoteStationSECTIONimportKEYwait_evernote": {
+      "message": "Opretter forbindelse..."
+   },
+   "NoteStationSECTIONimportKEYwaiting": {
+      "message": "Venter"
+   },
+   "NoteStationSECTIONimportKEYyinxiang": {
+      "message": "YinXiangBiJi"
+   },
+   "NoteStationSECTIONimportingKEYwaiting": {
+      "message": "Grænse for Evernoteklassifikation er nået. Venter på at prøve igen..."
+   },
+   "NoteStationSECTIONinfoKEYbrief": {
+      "message": "Tekst"
+   },
+   "NoteStationSECTIONinfoKEYcopy_url": {
+      "message": "Kopier"
+   },
+   "NoteStationSECTIONinfoKEYcreated": {
+      "message": "Oprettet"
+   },
+   "NoteStationSECTIONinfoKEYdelete_gps": {
+      "message": "Slet GPS-oplysninger"
+   },
+   "NoteStationSECTIONinfoKEYdelete_gps_message": {
+      "message": "Slettede GPS-oplysninger uden fejl"
+   },
+   "NoteStationSECTIONinfoKEYhistory": {
+      "message": "Historik"
+   },
+   "NoteStationSECTIONinfoKEYlocation": {
+      "message": "Placering"
+   },
+   "NoteStationSECTIONinfoKEYmodified": {
+      "message": "Ændret"
+   },
+   "NoteStationSECTIONinfoKEYnotebook": {
+      "message": "Notesbog"
+   },
+   "NoteStationSECTIONinfoKEYset_coordinates": {
+      "message": "Angiv placering"
+   },
+   "NoteStationSECTIONinfoKEYsource_url": {
+      "message": "Link"
+   },
+   "NoteStationSECTIONinfoKEYtitle": {
+      "message": "Titel"
+   },
+   "NoteStationSECTIONinfoKEYview_history": {
+      "message": "Vis oversigt"
+   },
+   "NoteStationSECTIONjavaKEYjava_not_remind": {
+      "message": "Vis ikke dette igen"
+   },
+   "NoteStationSECTIONnoteKEYarchive_delete": {
+      "message": "De slettede arkivnoter bliver ikke fjernet til papirkurven. Vil du slette {0} note(r)?"
+   },
+   "NoteStationSECTIONnoteKEYcopy_link": {
+      "message": "Kopier notelink"
+   },
+   "NoteStationSECTIONnoteKEYcopy_to_encrypt": {
+      "message": "Kopier til en ny krypteret note"
+   },
+   "NoteStationSECTIONnoteKEYcopy_to_unencrypt": {
+      "message": "Kopier til en ikke-krypteret note"
+   },
+   "NoteStationSECTIONnoteKEYcreate": {
+      "message": "Opret note"
+   },
+   "NoteStationSECTIONnoteKEYcreate_encrypt": {
+      "message": "Opret krypteret note"
+   },
+   "NoteStationSECTIONnoteKEYcreate_encrypt_desc": {
+      "message": "Krypter denne note med en adgangskode."
+   },
+   "NoteStationSECTIONnoteKEYcreate_from_todo": {
+      "message": "Outputopgaver til"
+   },
+   "NoteStationSECTIONnoteKEYcreate_in": {
+      "message": "Opret note i..."
+   },
+   "NoteStationSECTIONnoteKEYdelete_title": {
+      "message": "Slet {0} note(r) permanent"
+   },
+   "NoteStationSECTIONnoteKEYdelete_to_recycle": {
+      "message": "Flyt {0} note(r) til papirkurv"
+   },
+   "NoteStationSECTIONnoteKEYencrypt_desc": {
+      "message": "Denne note er krypteret."
+   },
+   "NoteStationSECTIONnoteKEYencrypted_note": {
+      "message": "Krypteret note"
+   },
+   "NoteStationSECTIONnoteKEYno_item": {
+      "message": "Ingen emner her!"
+   },
+   "NoteStationSECTIONnoteKEYnote_is_encrypted": {
+      "message": "Denne note er adgangskodebeskyttet."
+   },
+   "NoteStationSECTIONnoteKEYuntitled": {
+      "message": "Note uden titel"
+   },
+   "NoteStationSECTIONnotebookKEYarchive": {
+      "message": "Arkiver"
+   },
+   "NoteStationSECTIONnotebookKEYarchive_delete": {
+      "message": "De slettede arkivnotesbøger bliver ikke fjernet til papirkurven. Er du sikker på, at du vil slette de valgte arkivnotesbøger og noterne?"
+   },
+   "NoteStationSECTIONnotebookKEYarchive_warning": {
+      "message": "Arkivering af en notesbog vil fjerne dens delingstilladelser og hyldeegenskaber. Vil du forsætte?"
+   },
+   "NoteStationSECTIONnotebookKEYcreate": {
+      "message": "Opret notesbog"
+   },
+   "NoteStationSECTIONnotebookKEYcreate_title": {
+      "message": "Indtast titel på notesbog"
+   },
+   "NoteStationSECTIONnotebookKEYdefault": {
+      "message": "Min notesbog"
+   },
+   "NoteStationSECTIONnotebookKEYdelete": {
+      "message": "Vil du slette den valgte notesbog?"
+   },
+   "NoteStationSECTIONnotebookKEYrename": {
+      "message": "Omdøb notesbog"
+   },
+   "NoteStationSECTIONnotebookKEYunarchive": {
+      "message": "Arkiver ud"
+   },
+   "NoteStationSECTIONnotifyKEYclipper_install": {
+      "message": "Du kan installere {0} for at gemme webindhold på din Synology NAS til hurtig og nem adgang."
+   },
+   "NoteStationSECTIONnotifyKEYexport_success": {
+      "message": "Eksportopgave færdig, kontroller {0}{1}{2}."
+   },
+   "NoteStationSECTIONnotifyKEYreminder": {
+      "message": "Påmindelse: {0} - {1}"
+   },
+   "NoteStationSECTIONnotifyKEYsend_message": {
+      "message": "{0} delt {1} med dig. Du kan kontrollere det under {2}{3}{4}."
+   },
+   "NoteStationSECTIONpermKEYro": {
+      "message": "Vis"
+   },
+   "NoteStationSECTIONpermKEYrw": {
+      "message": "Ret"
+   },
+   "NoteStationSECTIONpresentationKEYtheme_display": {
+      "message": "Vælg en skabelon"
+   },
+   "NoteStationSECTIONpromptKEYdo_not_show_again": {
+      "message": "Vis ikke denne meddelelse igen"
+   },
+   "NoteStationSECTIONpromptKEYdownload_center_link": {
+      "message": "Synology Downloadcenter"
+   },
+   "NoteStationSECTIONpromptKEYpanel_desc": {
+      "message": "Brug Note Station direkte fra computeren."
+   },
+   "NoteStationSECTIONpromptKEYpanel_error_msg": {
+      "message": "Download mislykkedes. Gå til {0}."
+   },
+   "NoteStationSECTIONpromptKEYpanel_title": {
+      "message": "Note Station til skrivebordet"
+   },
+   "NoteStationSECTIONpromptKEYtoast_link": {
+      "message": "Skrivebordsversionen er nu tilgængelig!"
+   },
+   "NoteStationSECTIONpromptKEYtoast_title": {
+      "message": "Gode nyheder!"
+   },
+   "NoteStationSECTIONsearchKEYdate_from": {
+      "message": "Fra"
+   },
+   "NoteStationSECTIONsearchKEYdate_to": {
+      "message": "Til"
+   },
+   "NoteStationSECTIONsearchKEYkeyword": {
+      "message": "Søgeord"
+   },
+   "NoteStationSECTIONsearchKEYno_search_result": {
+      "message": "Ingen matcher fundet."
+   },
+   "NoteStationSECTIONsearchKEYresult_title": {
+      "message": "Search Result"
+   },
+   "NoteStationSECTIONsearchKEYsave_as_smart": {
+      "message": "Gem som Smart-notesbog"
+   },
+   "NoteStationSECTIONsearchKEYtag_operator": {
+      "message": "Skæringspunkt valgt"
+   },
+   "NoteStationSECTIONsearchKEYtitle": {
+      "message": "Titel"
+   },
+   "NoteStationSECTIONsettingKEYadmin": {
+      "message": "Administration"
+   },
+   "NoteStationSECTIONsettingKEYapp_portal": {
+      "message": "Programportal"
+   },
+   "NoteStationSECTIONsettingKEYapp_portal_admin_desc": {
+      "message": "Programportal til Note Station er ikke aktiveret. Kontakt systemadministratoren for at aktivere programportalen til Note Station."
+   },
+   "NoteStationSECTIONsettingKEYapp_portal_enable_desc": {
+      "message": "Du kan konfigurere alias- og portindstillinger for at give dig adgang til og køre Note Station på uafhængige browserfaner."
+   },
+   "NoteStationSECTIONsettingKEYapp_portal_link_desc": {
+      "message": "Start Note Station på en ny browserfane med nedenstående link."
+   },
+   "NoteStationSECTIONsettingKEYauto_purge": {
+      "message": "Automatisk sletning"
+   },
+   "NoteStationSECTIONsettingKEYauto_purge_desc": {
+      "message": "Fuldførte opgaver bliver automatisk slettet efter det tidspunkt, der angives her."
+   },
+   "NoteStationSECTIONsettingKEYconfirm_move_volume": {
+      "message": "Note Station vil flytte data i baggrunden. Før færdiggørelse kan alle brugere kun se noterne."
+   },
+   "NoteStationSECTIONsettingKEYcrypto_delete_orig": {
+      "message": "Fjern originale noter efter kryptering/dekryptering"
+   },
+   "NoteStationSECTIONsettingKEYdefault_due_date": {
+      "message": "Standardforfaldsdato"
+   },
+   "NoteStationSECTIONsettingKEYdefault_priority": {
+      "message": "Standardprioritet"
+   },
+   "NoteStationSECTIONsettingKEYdefault_reminder_offset": {
+      "message": "Standard påmindelsestid"
+   },
+   "NoteStationSECTIONsettingKEYdesktop_button": {
+      "message": "Hent Note Station til skrivebordet"
+   },
+   "NoteStationSECTIONsettingKEYdesktop_desc": {
+      "message": "Klik på knappen nedenfor for at hente Note Station til skrivebordet."
+   },
+   "NoteStationSECTIONsettingKEYexport_field": {
+      "message": "Eksporter notesbøger eller gøremålsliste"
+   },
+   "NoteStationSECTIONsettingKEYexport_notebook": {
+      "message": "Eksporter notesbøger"
+   },
+   "NoteStationSECTIONsettingKEYfont_size": {
+      "message": "Standard skrifttypestørrelse"
+   },
+   "NoteStationSECTIONsettingKEYgeneral": {
+      "message": "Generelt"
+   },
+   "NoteStationSECTIONsettingKEYimport_export": {
+      "message": "Importer og eksporter"
+   },
+   "NoteStationSECTIONsettingKEYimport_notebook": {
+      "message": "Importer notesbøger"
+   },
+   "NoteStationSECTIONsettingKEYinline_thumb": {
+      "message": "Brug miniaturer til at vise store indlejrede billeder i notepanelet"
+   },
+   "NoteStationSECTIONsettingKEYlaunch_app_portal": {
+      "message": "Konfigurer programportal"
+   },
+   "NoteStationSECTIONsettingKEYmoving_data": {
+      "message": "Status: {0}"
+   },
+   "NoteStationSECTIONsettingKEYnote": {
+      "message": "Notevalgmuligheder"
+   },
+   "NoteStationSECTIONsettingKEYreminder_offset_desc": {
+      "message": "Skal du have en påmindelse for at afslutte en opgave? Angiv et tidspunkt her for at få påmindelser for forfaldne opgaver."
+   },
+   "NoteStationSECTIONsettingKEYsearch_attachment": {
+      "message": "Aktiver vedhæftningsindholds indeksering til søgning"
+   },
+   "NoteStationSECTIONsettingKEYshare": {
+      "message": "Deling"
+   },
+   "NoteStationSECTIONsettingKEYshare_mode": {
+      "message": "Tillad ikke-admin-brugere at dele noter og notesbøger"
+   },
+   "NoteStationSECTIONsettingKEYshare_need_admin": {
+      "message": "Du har ingen delingstilladelser. Kontakt administratoren for at få hjælp."
+   },
+   "NoteStationSECTIONsettingKEYtodo_comment": {
+      "message": "Bemærk"
+   },
+   "NoteStationSECTIONsettingKEYtodo_done": {
+      "message": "Status Udfør"
+   },
+   "NoteStationSECTIONsettingKEYtodo_due_date": {
+      "message": "Forfaldsdato"
+   },
+   "NoteStationSECTIONsettingKEYtodo_export_info": {
+      "message": "Vælg følgende typer opgaveoplysninger til output."
+   },
+   "NoteStationSECTIONsettingKEYtodo_export_to_note": {
+      "message": "Outputopgaver som en note"
+   },
+   "NoteStationSECTIONsettingKEYtodo_general": {
+      "message": "Opgaveadministration"
+   },
+   "NoteStationSECTIONsettingKEYtodo_priority": {
+      "message": "Prioritet"
+   },
+   "NoteStationSECTIONsettingKEYtodo_show_badge": {
+      "message": "Vis badge for forfaldne opgaver"
+   },
+   "NoteStationSECTIONsettingKEYtodo_star": {
+      "message": "Stjerne"
+   },
+   "NoteStationSECTIONsettingKEYtodo_subtask": {
+      "message": "Underopgaver"
+   },
+   "NoteStationSECTIONsettingKEYtodo_task": {
+      "message": "Gøremålsliste"
+   },
+   "NoteStationSECTIONsettingKEYtodo_title": {
+      "message": "Opgave"
+   },
+   "NoteStationSECTIONsettingKEYview": {
+      "message": "Visning af valgmuligheder"
+   },
+   "NoteStationSECTIONshareKEYcopy_url_done": {
+      "message": "Kopieret til udklipsholder"
+   },
+   "NoteStationSECTIONshareKEYenable_public": {
+      "message": "Aktiver offentlig deling"
+   },
+   "NoteStationSECTIONshareKEYpublic_share": {
+      "message": "Offentlig deling"
+   },
+   "NoteStationSECTIONshareKEYpublic_share_link": {
+      "message": "Offentligt delelink"
+   },
+   "NoteStationSECTIONshareKEYshare_link_via": {
+      "message": "Del link via"
+   },
+   "NoteStationSECTIONshareKEYshare_to_dsm_user": {
+      "message": "Del med DSM-brugere"
+   },
+   "NoteStationSECTIONshareKEYshare_to_dsm_user_or_group": {
+      "message": "DSM-brugere/grupper"
+   },
+   "NoteStationSECTIONshortcutKEYremove": {
+      "message": "Fjern fra favoritter"
+   },
+   "NoteStationSECTIONsmartKEYcreate": {
+      "message": "Opret Smart-notesbog"
+   },
+   "NoteStationSECTIONsmartKEYcreate_message": {
+      "message": "Navngiv denne Smart-notesbog"
+   },
+   "NoteStationSECTIONsmartKEYdelete": {
+      "message": "Vil du slette den valgte Smart-notesbog?"
+   },
+   "NoteStationSECTIONsmartKEYedit": {
+      "message": "Rediger Smart-notesbog"
+   },
+   "NoteStationSECTIONsmartKEYquery_empty": {
+      "message": "Angiv mindst et kriterie."
+   },
+   "NoteStationSECTIONsmartKEYtitle": {
+      "message": "Titel på Smart-notesbog"
+   },
+   "NoteStationSECTIONsmartKEYwindow": {
+      "message": "智慧型筆記本"
+   },
+   "NoteStationSECTIONsortKEYby_ctime": {
+      "message": "Sorter efter oprettelsestidspunkt"
+   },
+   "NoteStationSECTIONsortKEYby_mtime": {
+      "message": "Sorter efter ændringstidspunkt"
+   },
+   "NoteStationSECTIONsortKEYby_title": {
+      "message": "Sorter efter titel"
+   },
+   "NoteStationSECTIONsortKEYorder_asc": {
+      "message": "Stigende"
+   },
+   "NoteStationSECTIONsortKEYorder_desc": {
+      "message": "Faldende"
+   },
+   "NoteStationSECTIONstackKEYcreate": {
+      "message": "Opret hylde"
+   },
+   "NoteStationSECTIONstackKEYcreate_title": {
+      "message": "Indtast titel på hylde"
+   },
+   "NoteStationSECTIONstackKEYdelete": {
+      "message": "Vil du slette den valgte hylde?"
+   },
+   "NoteStationSECTIONstackKEYdisassemble": {
+      "message": "Skil ad"
+   },
+   "NoteStationSECTIONstackKEYnew": {
+      "message": "Ny hylde"
+   },
+   "NoteStationSECTIONstackKEYrename": {
+      "message": "Omdøb hylde"
+   },
+   "NoteStationSECTIONtagKEYadd_tag": {
+      "message": "+Tag"
+   },
+   "NoteStationSECTIONtagKEYcreate_title": {
+      "message": "Indtast tagtitel"
+   },
+   "NoteStationSECTIONtagKEYquick_add": {
+      "message": "Add tags quickly"
+   },
+   "NoteStationSECTIONtagKEYremove_from_all": {
+      "message": "Fjern tag fra alle noter"
+   },
+   "NoteStationSECTIONtagKEYrename": {
+      "message": "Omdøb tagtitel"
+   },
+   "NoteStationSECTIONtagKEYselect_parent": {
+      "message": "Indlejr taggen under"
+   },
+   "NoteStationSECTIONtagKEYshow_subtag": {
+      "message": "Noter med undertags"
+   },
+   "NoteStationSECTIONtinymceKEYadjust_table_size": {
+      "message": "Juster tabelstørrelse"
+   },
+   "NoteStationSECTIONtinymceKEYchoose_file": {
+      "message": "Gennemse"
+   },
+   "NoteStationSECTIONtinymceKEYchoose_file_from_local": {
+      "message": "Vælg filer fra din lokale computer"
+   },
+   "NoteStationSECTIONtinymceKEYconvert_to_image": {
+      "message": "Konverter til billede"
+   },
+   "NoteStationSECTIONtinymceKEYdelete_column": {
+      "message": "Slet kolonne"
+   },
+   "NoteStationSECTIONtinymceKEYdelete_row": {
+      "message": "Slet række"
+   },
+   "NoteStationSECTIONtinymceKEYdimensions": {
+      "message": "Mål"
+   },
+   "NoteStationSECTIONtinymceKEYdownload": {
+      "message": "Download"
+   },
+   "NoteStationSECTIONtinymceKEYedit": {
+      "message": "Rediger"
+   },
+   "NoteStationSECTIONtinymceKEYfile_path": {
+      "message": "Filsti"
+   },
+   "NoteStationSECTIONtinymceKEYformat": {
+      "message": "Tekstformat:"
+   },
+   "NoteStationSECTIONtinymceKEYfrom_local_file": {
+      "message": "Fra denne computer"
+   },
+   "NoteStationSECTIONtinymceKEYfrom_url": {
+      "message": "Fra URL"
+   },
+   "NoteStationSECTIONtinymceKEYgenerate_chart": {
+      "message": "Diagram"
+   },
+   "NoteStationSECTIONtinymceKEYheight": {
+      "message": "Rækkehøjde"
+   },
+   "NoteStationSECTIONtinymceKEYimage_l": {
+      "message": "Stor"
+   },
+   "NoteStationSECTIONtinymceKEYimage_m": {
+      "message": "Mellem"
+   },
+   "NoteStationSECTIONtinymceKEYimage_ori": {
+      "message": "Original"
+   },
+   "NoteStationSECTIONtinymceKEYimage_s": {
+      "message": "Lille"
+   },
+   "NoteStationSECTIONtinymceKEYimage_source": {
+      "message": "Billedkilde"
+   },
+   "NoteStationSECTIONtinymceKEYinsert_column_after": {
+      "message": "Indsæt kolonne til højre"
+   },
+   "NoteStationSECTIONtinymceKEYinsert_column_before": {
+      "message": "Indsæt kolonne til venstre"
+   },
+   "NoteStationSECTIONtinymceKEYinsert_edit_link": {
+      "message": "Indsæt/rediger link"
+   },
+   "NoteStationSECTIONtinymceKEYinsert_row_after": {
+      "message": "Indsæt række under"
+   },
+   "NoteStationSECTIONtinymceKEYinsert_row_before": {
+      "message": "Indsæt række over"
+   },
+   "NoteStationSECTIONtinymceKEYinsert_table": {
+      "message": "Indsæt tabel"
+   },
+   "NoteStationSECTIONtinymceKEYlarge": {
+      "message": "large"
+   },
+   "NoteStationSECTIONtinymceKEYmerge_cells": {
+      "message": "Flet celler"
+   },
+   "NoteStationSECTIONtinymceKEYnormal": {
+      "message": "normal"
+   },
+   "NoteStationSECTIONtinymceKEYopen": {
+      "message": "Åbn"
+   },
+   "NoteStationSECTIONtinymceKEYoriginal": {
+      "message": "Original"
+   },
+   "NoteStationSECTIONtinymceKEYproper_size": {
+      "message": "Bedste tilpasning"
+   },
+   "NoteStationSECTIONtinymceKEYredo": {
+      "message": "Annuller fortryd"
+   },
+   "NoteStationSECTIONtinymceKEYremove": {
+      "message": "Fjern"
+   },
+   "NoteStationSECTIONtinymceKEYshow_as_youtube_video": {
+      "message": "Indlejr YouTube-video"
+   },
+   "NoteStationSECTIONtinymceKEYsmall": {
+      "message": "small"
+   },
+   "NoteStationSECTIONtinymceKEYtable_property": {
+      "message": "Tabelegenskaber"
+   },
+   "NoteStationSECTIONtinymceKEYtext_to_display": {
+      "message": "Tekst til visning"
+   },
+   "NoteStationSECTIONtinymceKEYundo": {
+      "message": "Fortryd"
+   },
+   "NoteStationSECTIONtinymceKEYupdate_data_from_table": {
+      "message": "Update data"
+   },
+   "NoteStationSECTIONtinymceKEYurl": {
+      "message": "URL"
+   },
+   "NoteStationSECTIONtinymceKEYwidth": {
+      "message": "Kolonnebredde"
+   },
+   "NoteStationSECTIONtinymceKEYx_large": {
+      "message": "x-large"
+   },
+   "NoteStationSECTIONtinymceKEYx_small": {
+      "message": "x-small"
+   },
+   "NoteStationSECTIONtinymceKEYxx_large": {
+      "message": "xx-large"
+   },
+   "NoteStationSECTIONtinymceKEYxx_small": {
+      "message": "xx-small"
+   },
+   "NoteStationSECTIONtocKEYnotestation": {
+      "message": "Note Station"
+   },
+   "NoteStationSECTIONtocKEYnotestation_creating_notes": {
+      "message": "Oprettelse af noter"
+   },
+   "NoteStationSECTIONtocKEYnotestation_editing_note_information": {
+      "message": "Redigering af noteoplysninger"
+   },
+   "NoteStationSECTIONtocKEYnotestation_getting_started": {
+      "message": "Introduktion"
+   },
+   "NoteStationSECTIONtocKEYnotestation_managing_notes": {
+      "message": "Administration af Note Station"
+   },
+   "NoteStationSECTIONtocKEYnotestation_sharing_notes": {
+      "message": "Deling af noter"
+   },
+   "NoteStationSECTIONtocKEYnotestation_using_todo_list": {
+      "message": "Brug af gøremålslisten"
+   },
+   "NoteStationSECTIONtocKEYnotestation_viewing_notes": {
+      "message": "Visning af noter"
+   },
+   "NoteStationSECTIONtodoKEYadd_a_new_task": {
+      "message": "Tilføje en ny opgave"
+   },
+   "NoteStationSECTIONtodoKEYadd_comment": {
+      "message": "Tilføj bemærkning"
+   },
+   "NoteStationSECTIONtodoKEYadd_sub_task": {
+      "message": "Ny underopgave"
+   },
+   "NoteStationSECTIONtodoKEYall": {
+      "message": "Alle"
+   },
+   "NoteStationSECTIONtodoKEYall_tasks": {
+      "message": "Alle opgaver"
+   },
+   "NoteStationSECTIONtodoKEYclick_add_task": {
+      "message": "Klik for at tilføje en ny opgave"
+   },
+   "NoteStationSECTIONtodoKEYcompleted": {
+      "message": "Fuldført"
+   },
+   "NoteStationSECTIONtodoKEYcustomized": {
+      "message": "Tilpasset"
+   },
+   "NoteStationSECTIONtodoKEYday": {
+      "message": "Dag(e)"
+   },
+   "NoteStationSECTIONtodoKEYdays_later": {
+      "message": "dage senere"
+   },
+   "NoteStationSECTIONtodoKEYdelete_all_tasks": {
+      "message": "Slet alle opgaver"
+   },
+   "NoteStationSECTIONtodoKEYdelete_independent_todo": {
+      "message": "Slet permanent alle opgaver i \"Uafhængige opgaver\"?"
+   },
+   "NoteStationSECTIONtodoKEYdelete_note_todo": {
+      "message": "Slet permanent alle opgaver i \"{0}\"?"
+   },
+   "NoteStationSECTIONtodoKEYdelete_todo": {
+      "message": "Slet {0} opgave(r) permanent?"
+   },
+   "NoteStationSECTIONtodoKEYdue_date": {
+      "message": "Forfaldsdato"
+   },
+   "NoteStationSECTIONtodoKEYdue_time": {
+      "message": "Forfaldstid"
+   },
+   "NoteStationSECTIONtodoKEYhour": {
+      "message": "Time(r)"
+   },
+   "NoteStationSECTIONtodoKEYindependent_tasks": {
+      "message": "Uafhængige opgaver"
+   },
+   "NoteStationSECTIONtodoKEYminute": {
+      "message": "Minut(ter)"
+   },
+   "NoteStationSECTIONtodoKEYmonth": {
+      "message": "Måned(er)"
+   },
+   "NoteStationSECTIONtodoKEYnew_task": {
+      "message": "Ny opgave"
+   },
+   "NoteStationSECTIONtodoKEYnext_30_days": {
+      "message": "Næste 30 dage"
+   },
+   "NoteStationSECTIONtodoKEYnext_7_days": {
+      "message": "Næste 7 dage"
+   },
+   "NoteStationSECTIONtodoKEYno_due_date": {
+      "message": "Ingen forfaldsdato"
+   },
+   "NoteStationSECTIONtodoKEYno_todo_task": {
+      "message": "Ingen opgaver her!"
+   },
+   "NoteStationSECTIONtodoKEYnote": {
+      "message": "Note"
+   },
+   "NoteStationSECTIONtodoKEYoff": {
+      "message": "Fra"
+   },
+   "NoteStationSECTIONtodoKEYon_time": {
+      "message": "Ved forfaldstid"
+   },
+   "NoteStationSECTIONtodoKEYothers": {
+      "message": "En måned senere"
+   },
+   "NoteStationSECTIONtodoKEYoverdue": {
+      "message": "Forfalden"
+   },
+   "NoteStationSECTIONtodoKEYpriority": {
+      "message": "Prioritet"
+   },
+   "NoteStationSECTIONtodoKEYpriority_high": {
+      "message": "Høj"
+   },
+   "NoteStationSECTIONtodoKEYpriority_low": {
+      "message": "Lav"
+   },
+   "NoteStationSECTIONtodoKEYpriority_medium": {
+      "message": "Mellem"
+   },
+   "NoteStationSECTIONtodoKEYpriority_no": {
+      "message": "Ingen"
+   },
+   "NoteStationSECTIONtodoKEYreminder_date": {
+      "message": "Påmindelsestid"
+   },
+   "NoteStationSECTIONtodoKEYreminder_time": {
+      "message": "Påmindelsestid"
+   },
+   "NoteStationSECTIONtodoKEYset_due_date": {
+      "message": "Angiv forfaldsdato"
+   },
+   "NoteStationSECTIONtodoKEYset_due_date_first": {
+      "message": "Angiv først forfaldstiden."
+   },
+   "NoteStationSECTIONtodoKEYstarred": {
+      "message": "Med stjerne"
+   },
+   "NoteStationSECTIONtodoKEYtitle_cannot_empty": {
+      "message": "Opgavetitel kan ikke være tom."
+   },
+   "NoteStationSECTIONtodoKEYtoday": {
+      "message": "I dag"
+   },
+   "NoteStationSECTIONtodoKEYtomorrow": {
+      "message": "I morgen"
+   },
+   "NoteStationSECTIONtodoKEYuncompleted": {
+      "message": "Ufuldstændig"
+   },
+   "NoteStationSECTIONtodoKEYweek": {
+      "message": "Uge(r)"
+   },
+   "NoteStationSECTIONtodoKEYweek_later": {
+      "message": "dage senere"
+   },
+   "NoteStationSECTIONtooltipKEYalign_center": {
+      "message": "Centrer"
+   },
+   "NoteStationSECTIONtooltipKEYalign_justify": {
+      "message": "Tilpas"
+   },
+   "NoteStationSECTIONtooltipKEYalign_left": {
+      "message": "Juster til højre"
+   },
+   "NoteStationSECTIONtooltipKEYattach_file": {
+      "message": "Vedhæft fil"
+   },
+   "NoteStationSECTIONtooltipKEYbackground_color": {
+      "message": "Baggrundsfarve"
+   },
+   "NoteStationSECTIONtooltipKEYbold": {
+      "message": "Fed"
+   },
+   "NoteStationSECTIONtooltipKEYbullet_list": {
+      "message": "Punkttegn"
+   },
+   "NoteStationSECTIONtooltipKEYclear_formatting": {
+      "message": "Ryd formatering"
+   },
+   "NoteStationSECTIONtooltipKEYcontent": {
+      "message": "Indhold"
+   },
+   "NoteStationSECTIONtooltipKEYcopy_format": {
+      "message": "Kopier format"
+   },
+   "NoteStationSECTIONtooltipKEYdecrease_indent": {
+      "message": "Formindsk indrykning"
+   },
+   "NoteStationSECTIONtooltipKEYdecrypt": {
+      "message": "Dekrypter"
+   },
+   "NoteStationSECTIONtooltipKEYdelete": {
+      "message": "Slet"
+   },
+   "NoteStationSECTIONtooltipKEYencrypt": {
+      "message": "Krypter"
+   },
+   "NoteStationSECTIONtooltipKEYfont_family": {
+      "message": "Skrifttypestørrelse"
+   },
+   "NoteStationSECTIONtooltipKEYhorizontal_line": {
+      "message": "Horisontal linje"
+   },
+   "NoteStationSECTIONtooltipKEYincrease_indent": {
+      "message": "Forøg indrykning"
+   },
+   "NoteStationSECTIONtooltipKEYinfo": {
+      "message": "Oplysninger"
+   },
+   "NoteStationSECTIONtooltipKEYinsert_checkbox": {
+      "message": "Indsæt afkrydsningsfelt"
+   },
+   "NoteStationSECTIONtooltipKEYinsert_image": {
+      "message": "Indsæt billede"
+   },
+   "NoteStationSECTIONtooltipKEYitalic": {
+      "message": "Kursiv"
+   },
+   "NoteStationSECTIONtooltipKEYmail": {
+      "message": "Send som post"
+   },
+   "NoteStationSECTIONtooltipKEYnumbered_list": {
+      "message": "Nummerering"
+   },
+   "NoteStationSECTIONtooltipKEYpresentation": {
+      "message": "Præsenter"
+   },
+   "NoteStationSECTIONtooltipKEYprint": {
+      "message": "Udskriv"
+   },
+   "NoteStationSECTIONtooltipKEYremoveformat": {
+      "message": "Ryd formatering"
+   },
+   "NoteStationSECTIONtooltipKEYsave": {
+      "message": "Gem"
+   },
+   "NoteStationSECTIONtooltipKEYshare": {
+      "message": "Del"
+   },
+   "NoteStationSECTIONtooltipKEYsort_by": {
+      "message": "Sorter efter"
+   },
+   "NoteStationSECTIONtooltipKEYstrikethrough": {
+      "message": "Gennemstreget"
+   },
+   "NoteStationSECTIONtooltipKEYsubscript": {
+      "message": "Sænket skrift"
+   },
+   "NoteStationSECTIONtooltipKEYsuperscript": {
+      "message": "Hævet skrift"
+   },
+   "NoteStationSECTIONtooltipKEYsyno_highlight": {
+      "message": "Fremhævelse"
+   },
+   "NoteStationSECTIONtooltipKEYtable": {
+      "message": "Tabel"
+   },
+   "NoteStationSECTIONtooltipKEYtag": {
+      "message": "Tag"
+   },
+   "NoteStationSECTIONtooltipKEYtext_color": {
+      "message": "Skrifttypefarve"
+   },
+   "NoteStationSECTIONtooltipKEYunderline": {
+      "message": "Understregning"
+   },
+   "NoteStationSECTIONtooltipKEYview_by": {
+      "message": "Vis efter"
+   },
+   "NoteStationSECTIONuploadKEYfrom_ds": {
+      "message": "Fra min Synology NAS"
+   },
+   "NoteStationSECTIONuploadKEYfrom_pc": {
+      "message": "Upload fra min computer"
+   },
+   "NoteStationSECTIONuploadKEYlist_file": {
+      "message": "Filliste"
+   },
+   "NoteStationSECTIONuploadKEYupload_file": {
+      "message": "Upload filer"
+   },
+   "NoteStationSECTIONviewerKEYopen_in_audio": {
+      "message": "Åbn i AudioPlayer"
+   },
+   "NoteStationSECTIONviewerKEYopen_in_google": {
+      "message": "Åbn i Google Docs"
+   },
+   "NoteStationSECTIONviewerKEYopen_in_new_window": {
+      "message": "Åbn på ny fane"
+   },
+   "NoteStationSECTIONviewerKEYopen_in_office": {
+      "message": "Åbn i Microsoft Office Online"
+   },
+   "NoteStationSECTIONviewerKEYopen_in_pdf": {
+      "message": "Åbn i PDF Viewer"
+   },
+   "NoteStationSECTIONviewerKEYopen_in_photo": {
+      "message": "Åbn i Fotofremviser"
+   },
+   "NoteStationSECTIONviewerKEYopen_in_syno_doc": {
+      "message": "Open in Document Viewer"
+   },
+   "NoteStationSECTIONviewerKEYopen_in_text": {
+      "message": "Åbn i tekstvisning"
+   },
+   "NoteStationSECTIONviewerKEYopen_in_video": {
+      "message": "Åbn i VideoPlayer"
+   },
+   "NoteStationSECTIONwindowKEYnote_encryption": {
+      "message": "Notekryptering"
+   },
+   "NoteStationSECTIONwindowKEYnote_information": {
+      "message": "Noteoplysninger"
+   },
+   "NoteStationSECTIONwindowKEYtodo_information": {
+      "message": "Task information"
+   },
+   "synojslibSECTIONcommonKEYclean": {
+      "message": "Ryd"
+   },
+   "synojslibSECTIONcommonKEYclear_input": {
+      "message": "Slet input"
+   },
+   "synojslibSECTIONcommonKEYcommit": {
+      "message": "Anvend"
+   },
+   "synojslibSECTIONcommonKEYdisabled": {
+      "message": "Deaktiveret"
+   },
+   "synojslibSECTIONcommonKEYerror_system": {
+      "message": "Kan ikke gennemføre denne handling. Log på _OSNAME_, og prøv igen."
+   },
+   "synojslibSECTIONcommonKEYloading": {
+      "message": "Indlæser..."
+   },
+   "synojslibSECTIONcommonKEYreset": {
+      "message": "Nulstil"
+   },
+   "synojslibSECTIONcommonKEYsetting_applied": {
+      "message": "Ændringer anvendt."
+   },
+   "synojslibSECTIONcommonKEYsize_byte": {
+      "message": "Bytes"
+   },
+   "synojslibSECTIONcommonKEYsize_gb": {
+      "message": "GB"
+   },
+   "synojslibSECTIONcommonKEYsize_kb": {
+      "message": "KB"
+   },
+   "synojslibSECTIONcommonKEYsize_mb": {
+      "message": "MB"
+   },
+   "synojslibSECTIONcommonKEYsize_pb": {
+      "message": "PB"
+   },
+   "synojslibSECTIONcommonKEYsize_tb": {
+      "message": "TB"
+   },
+   "synojslibSECTIONextlangKEYafterPageText": {
+      "message": "af {0}"
+   },
+   "synojslibSECTIONextlangKEYafterdate": {
+      "message": "Datoen i dette felt skal være {0} eller senere"
+   },
+   "synojslibSECTIONextlangKEYaftertime": {
+      "message": "Tiden i dette felt skal være senere end {0}"
+   },
+   "synojslibSECTIONextlangKEYalphaText": {
+      "message": "Dette felt må kun indeholde bogstaver og understegninger (_)."
+   },
+   "synojslibSECTIONextlangKEYalphanumText": {
+      "message": "Dette felt må kun indeholde bogstaver, tal og understegninger (_)."
+   },
+   "synojslibSECTIONextlangKEYapr": {
+      "message": "April"
+   },
+   "synojslibSECTIONextlangKEYaug": {
+      "message": "August"
+   },
+   "synojslibSECTIONextlangKEYbeforePageText": {
+      "message": "Side"
+   },
+   "synojslibSECTIONextlangKEYbeforedate": {
+      "message": "Datoen i dette felt skal være {0} eller tidligere"
+   },
+   "synojslibSECTIONextlangKEYbeforetime": {
+      "message": "Tiden i dette felt skal være tidligere end {0}"
+   },
+   "synojslibSECTIONextlangKEYcancel": {
+      "message": "Annuller"
+   },
+   "synojslibSECTIONextlangKEYcloseText": {
+      "message": "Luk denne fane"
+   },
+   "synojslibSECTIONextlangKEYcolumnsText": {
+      "message": "Kolonner"
+   },
+   "synojslibSECTIONextlangKEYdate_format": {
+      "message": "Y/M/D"
+   },
+   "synojslibSECTIONextlangKEYddText": {
+      "message": "{0} valgte rækker"
+   },
+   "synojslibSECTIONextlangKEYdec": {
+      "message": "December"
+   },
+   "synojslibSECTIONextlangKEYdisplaypage": {
+      "message": "Viser {0} - {1} af {2}"
+   },
+   "synojslibSECTIONextlangKEYemailText": {
+      "message": "Dette felt skal være en e-mail-adresse, f.eks.: user@domain.com."
+   },
+   "synojslibSECTIONextlangKEYfeb": {
+      "message": "Februar"
+   },
+   "synojslibSECTIONextlangKEYfieldblank": {
+      "message": "Dette felt er påkrævet."
+   },
+   "synojslibSECTIONextlangKEYfieldmaxlen": {
+      "message": "Maksimumlængden for dette felt er {0}."
+   },
+   "synojslibSECTIONextlangKEYfieldminlen": {
+      "message": "Minimumlængden for dette felt er {0}."
+   },
+   "synojslibSECTIONextlangKEYfirstpage": {
+      "message": "Første side"
+   },
+   "synojslibSECTIONextlangKEYfriday": {
+      "message": "Fredag"
+   },
+   "synojslibSECTIONextlangKEYinvalidText": {
+      "message": "Forkert værdi."
+   },
+   "synojslibSECTIONextlangKEYinvaliddate": {
+      "message": "{0} er ikke en gyldig dato. Indtast en dato ved hjælp af formatet {1}"
+   },
+   "synojslibSECTIONextlangKEYinvalidinteger": {
+      "message": "Indtast et heltal. "
+   },
+   "synojslibSECTIONextlangKEYinvalidnumber": {
+      "message": "{0} er ikke et gyldigt tal."
+   },
+   "synojslibSECTIONextlangKEYinvalidtime": {
+      "message": "{0} er ikke et gyldigt tidspunkt."
+   },
+   "synojslibSECTIONextlangKEYjan": {
+      "message": "Januar"
+   },
+   "synojslibSECTIONextlangKEYjul": {
+      "message": "Juli"
+   },
+   "synojslibSECTIONextlangKEYjun": {
+      "message": "Juni"
+   },
+   "synojslibSECTIONextlangKEYlastpage": {
+      "message": "Sidste side"
+   },
+   "synojslibSECTIONextlangKEYloading": {
+      "message": "Indlæser..."
+   },
+   "synojslibSECTIONextlangKEYlockText": {
+      "message": "Lås kolonne"
+   },
+   "synojslibSECTIONextlangKEYmar": {
+      "message": "Marts"
+   },
+   "synojslibSECTIONextlangKEYmaxdate": {
+      "message": "Denne dato skal ligge før maksimumdatoen."
+   },
+   "synojslibSECTIONextlangKEYmaxnumber": {
+      "message": "Det maksimale antal er {0}."
+   },
+   "synojslibSECTIONextlangKEYmay": {
+      "message": "Maj"
+   },
+   "synojslibSECTIONextlangKEYmindate": {
+      "message": "Denne dato skal ligge efter minimumdatoen."
+   },
+   "synojslibSECTIONextlangKEYminnumber": {
+      "message": "Det minimale antal er {0}."
+   },
+   "synojslibSECTIONextlangKEYmonday": {
+      "message": "Mandag"
+   },
+   "synojslibSECTIONextlangKEYmonthYearText": {
+      "message": "Vælg måned (Control+Op/Ned for at flytte år)"
+   },
+   "synojslibSECTIONextlangKEYnextmonth": {
+      "message": "Næste måned (Control+Højre)"
+   },
+   "synojslibSECTIONextlangKEYnextpage": {
+      "message": "Næste side"
+   },
+   "synojslibSECTIONextlangKEYno": {
+      "message": "Nej"
+   },
+   "synojslibSECTIONextlangKEYnov": {
+      "message": "November"
+   },
+   "synojslibSECTIONextlangKEYoct": {
+      "message": "Oktober"
+   },
+   "synojslibSECTIONextlangKEYok": {
+      "message": "OK"
+   },
+   "synojslibSECTIONextlangKEYpagenodata": {
+      "message": "Ingen data "
+   },
+   "synojslibSECTIONextlangKEYprevmonth": {
+      "message": "Forrige måned (Control+Venstre)"
+   },
+   "synojslibSECTIONextlangKEYprevpage": {
+      "message": "Forrige side"
+   },
+   "synojslibSECTIONextlangKEYrefresh": {
+      "message": "Opdater"
+   },
+   "synojslibSECTIONextlangKEYsaturday": {
+      "message": "Lørdag"
+   },
+   "synojslibSECTIONextlangKEYsep": {
+      "message": "September"
+   },
+   "synojslibSECTIONextlangKEYshow_password": {
+      "message": "Vis"
+   },
+   "synojslibSECTIONextlangKEYsortAscText": {
+      "message": "Sorter stigende"
+   },
+   "synojslibSECTIONextlangKEYsortDescText": {
+      "message": "Sorter faldende"
+   },
+   "synojslibSECTIONextlangKEYsunday": {
+      "message": "Søndag"
+   },
+   "synojslibSECTIONextlangKEYthursday": {
+      "message": "Torsdag"
+   },
+   "synojslibSECTIONextlangKEYtime_format": {
+      "message": "H:M"
+   },
+   "synojslibSECTIONextlangKEYtodayText": {
+      "message": "I dag"
+   },
+   "synojslibSECTIONextlangKEYtodayTip": {
+      "message": "{0} (mellemrum)"
+   },
+   "synojslibSECTIONextlangKEYtuesday": {
+      "message": "Tirsdag"
+   },
+   "synojslibSECTIONextlangKEYunlockText": {
+      "message": "Lås kolonne op"
+   },
+   "synojslibSECTIONextlangKEYurlText": {
+      "message": "Dette felt skal være en URL, f.eks.: http://www.domain.com."
+   },
+   "synojslibSECTIONextlangKEYwednesday": {
+      "message": "Onsdag"
+   },
+   "synojslibSECTIONextlangKEYyes": {
+      "message": "Ja"
+   },
+   "synojslibSECTIONuicommonKEYadd_time": {
+      "message": "Tilføje tid"
+   },
+   "synojslibSECTIONuicommonKEYadvanced_search": {
+      "message": "Avanceret søgning"
+   },
+   "synojslibSECTIONuicommonKEYap_mac_filter_mac_err": {
+      "message": "Indtast den korrekte MAC-adresse"
+   },
+   "synojslibSECTIONuicommonKEYap_mac_filter_mac_used": {
+      "message": "MAC-adresse findes allerede."
+   },
+   "synojslibSECTIONuicommonKEYbandwidth_enable": {
+      "message": "Aktiver hastighedsgrænse"
+   },
+   "synojslibSECTIONuicommonKEYbrowse": {
+      "message": "Gennemse"
+   },
+   "synojslibSECTIONuicommonKEYdesktop": {
+      "message": "Skrivebord"
+   },
+   "synojslibSECTIONuicommonKEYdisable_limit": {
+      "message": "Ingen hastighedsgrænse"
+   },
+   "synojslibSECTIONuicommonKEYdisable_limit_group": {
+      "message": "Ingen hastighedsgrænse"
+   },
+   "synojslibSECTIONuicommonKEYdisable_limit_user": {
+      "message": "Anvend gruppeindstillinger"
+   },
+   "synojslibSECTIONuicommonKEYedit": {
+      "message": "Rediger"
+   },
+   "synojslibSECTIONuicommonKEYempty_grid": {
+      "message": "Ingen data"
+   },
+   "synojslibSECTIONuicommonKEYenable_column_checked": {
+      "message": "Valgte"
+   },
+   "synojslibSECTIONuicommonKEYenable_column_grayed": {
+      "message": "Delvis valgte"
+   },
+   "synojslibSECTIONuicommonKEYenable_column_unchecked": {
+      "message": "Ikke valgte"
+   },
+   "synojslibSECTIONuicommonKEYerr_creating_volume": {
+      "message": "Behandler diskenhedsindstillinger. Prøv igen, når det er færdigt."
+   },
+   "synojslibSECTIONuicommonKEYerr_disk_secure_erasing": {
+      "message": "Systemet kan ikke lukkes ned, genstartes eller opdateres under udførelse af en Secure Erase. Prøv igen, når operationen er fuldført."
+   },
+   "synojslibSECTIONuicommonKEYerr_dsm_upgrading": {
+      "message": "Systemet kan ikke lukkes eller genstartes, fordi der installeres en opdatering af _OSNAME_."
+   },
+   "synojslibSECTIONuicommonKEYerr_processing_share_setting": {
+      "message": "Behandler indstillinger for delt mappe. Prøv igen senere."
+   },
+   "synojslibSECTIONuicommonKEYerror_demo": {
+      "message": "Denne funktion er ikke tilgængelig i demo-tilstand."
+   },
+   "synojslibSECTIONuicommonKEYerror_noprivilege": {
+      "message": "Du er ikke autoriseret til at bruge denne service."
+   },
+   "synojslibSECTIONuicommonKEYerror_occupied": {
+      "message": "En anden pakke bliver konfigureret eller installeret. Prøv igen senere."
+   },
+   "synojslibSECTIONuicommonKEYerror_relogin": {
+      "message": "Du har logget ind på en anden computer. Log ind igen."
+   },
+   "synojslibSECTIONuicommonKEYerror_system": {
+      "message": "Kan ikke gennemføre denne handling. Prøv igen senere."
+   },
+   "synojslibSECTIONuicommonKEYerror_timeout": {
+      "message": "Forbindelse udløbet. Log ind på _OSNAME_ igen."
+   },
+   "synojslibSECTIONuicommonKEYerror_unauth": {
+      "message": "Dit login er ugyldigt. Log på igen."
+   },
+   "synojslibSECTIONuicommonKEYgoto_page": {
+      "message": "Gå til side {0}"
+   },
+   "synojslibSECTIONuicommonKEYgrid_record_count": {
+      "message": "{0} emner."
+   },
+   "synojslibSECTIONuicommonKEYinvalid_time": {
+      "message": "Ugyldigt tidsformat."
+   },
+   "synojslibSECTIONuicommonKEYitem": {
+      "message": "element"
+   },
+   "synojslibSECTIONuicommonKEYitems": {
+      "message": "elementer"
+   },
+   "synojslibSECTIONuicommonKEYlimit_customize": {
+      "message": "Hastighedsgrænse 2"
+   },
+   "synojslibSECTIONuicommonKEYlimit_default": {
+      "message": "Hastighedsgrænse 1"
+   },
+   "synojslibSECTIONuicommonKEYlogout": {
+      "message": "Log af"
+   },
+   "synojslibSECTIONuicommonKEYmsg_waiting": {
+      "message": "Behandler . Vent..."
+   },
+   "synojslibSECTIONuicommonKEYnext_x_pages": {
+      "message": "Næste {0} sider"
+   },
+   "synojslibSECTIONuicommonKEYoff": {
+      "message": "OFF"
+   },
+   "synojslibSECTIONuicommonKEYon": {
+      "message": "ON"
+   },
+   "synojslibSECTIONuicommonKEYpoweroff_opt": {
+      "message": "Luk"
+   },
+   "synojslibSECTIONuicommonKEYpre_x_pages": {
+      "message": "Forrige {0} sider"
+   },
+   "synojslibSECTIONuicommonKEYreboot_opt": {
+      "message": "Genstart"
+   },
+   "synojslibSECTIONuicommonKEYreboot_warn": {
+      "message": "Er du sikker på, at du vil genstarte?"
+   },
+   "synojslibSECTIONuicommonKEYremove": {
+      "message": "Fjern"
+   },
+   "synojslibSECTIONuicommonKEYschedule_abbre_fri": {
+      "message": "Fre"
+   },
+   "synojslibSECTIONuicommonKEYschedule_abbre_mon": {
+      "message": "Man"
+   },
+   "synojslibSECTIONuicommonKEYschedule_abbre_sat": {
+      "message": "Lør"
+   },
+   "synojslibSECTIONuicommonKEYschedule_abbre_sun": {
+      "message": "Søn"
+   },
+   "synojslibSECTIONuicommonKEYschedule_abbre_thu": {
+      "message": "Tor"
+   },
+   "synojslibSECTIONuicommonKEYschedule_abbre_tue": {
+      "message": "Tir"
+   },
+   "synojslibSECTIONuicommonKEYschedule_abbre_wed": {
+      "message": "Ons"
+   },
+   "synojslibSECTIONuicommonKEYschedule_daily": {
+      "message": "Daglig"
+   },
+   "synojslibSECTIONuicommonKEYschedule_fri": {
+      "message": "Fredag"
+   },
+   "synojslibSECTIONuicommonKEYschedule_mon": {
+      "message": "Mandag"
+   },
+   "synojslibSECTIONuicommonKEYschedule_sat": {
+      "message": "Lørdag"
+   },
+   "synojslibSECTIONuicommonKEYschedule_sun": {
+      "message": "Søndag"
+   },
+   "synojslibSECTIONuicommonKEYschedule_thu": {
+      "message": "Torsdag"
+   },
+   "synojslibSECTIONuicommonKEYschedule_tue": {
+      "message": "Tirsdag"
+   },
+   "synojslibSECTIONuicommonKEYschedule_wed": {
+      "message": "Onsdag"
+   },
+   "synojslibSECTIONuicommonKEYschedule_weekdays": {
+      "message": "Ugedage"
+   },
+   "synojslibSECTIONuicommonKEYschedule_weekend": {
+      "message": "Weekend"
+   },
+   "synojslibSECTIONuicommonKEYsearch": {
+      "message": "Søg"
+   },
+   "synojslibSECTIONuicommonKEYsearching": {
+      "message": "Søger efter..."
+   },
+   "synojslibSECTIONuicommonKEYshutdown_warn": {
+      "message": "Er du sikker på, at du vil lukke?"
+   },
+   "synojslibSECTIONuicommonKEYsuperboxselect_hint": {
+      "message": "Tryk på Pil ned for at se alle emner, der kan vælges. Tryk på Venstre pil for at kontrollere din valg."
+   },
+   "synojslibSECTIONuicommonKEYsystem_poweroff": {
+      "message": "_DISKSTATION_ slukker snart."
+   },
+   "synojslibSECTIONuicommonKEYsystem_reboot": {
+      "message": "_DISKSTATION_ genstarter."
+   },
+   "synojslibSECTIONuicommonKEYsystem_reboot_timeout": {
+      "message": "_DISKSTATION_ genstarter. Når genstarten er fuldført, skal du bruge \u003Ca class=\"link-font\" href=\"https://find.synology.com\" target=\"_blank\">Web Assistant\u003C/a> eller Synology Assistant til at søge efter og oprette forbindelse til _DISKSTATION_."
+   },
+   "synojslibSECTIONuicommonKEYtime_hour": {
+      "message": "timer"
+   },
+   "synojslibSECTIONuicommonKEYtime_min": {
+      "message": "minutter"
+   },
+   "synojslibSECTIONuicommonKEYtime_sec": {
+      "message": "sekunder"
+   },
+   "synojslibSECTIONuicommonKEYtimediff_day": {
+      "message": "{0} dag siden"
+   },
+   "synojslibSECTIONuicommonKEYtimediff_days": {
+      "message": "{0} dage siden"
+   },
+   "synojslibSECTIONuicommonKEYtimediff_hour": {
+      "message": "{0} time siden"
+   },
+   "synojslibSECTIONuicommonKEYtimediff_hours": {
+      "message": "{0} timer siden"
+   },
+   "synojslibSECTIONuicommonKEYtimediff_minute": {
+      "message": "{0} minut siden"
+   },
+   "synojslibSECTIONuicommonKEYtimediff_minutes": {
+      "message": "{0} minutter siden"
+   },
+   "synojslibSECTIONuicommonKEYtimediff_second": {
+      "message": "{0} sekund siden"
+   },
+   "synojslibSECTIONuicommonKEYtimediff_seconds": {
+      "message": "{0} sekunder siden"
+   },
+   "synojslibSECTIONuicommonKEYwelcome": {
+      "message": "Velkommen"
+   },
+   "synojslibSECTIONvtypeKEYbad_adminname": {
+      "message": "The administrator account is invalid or it contains invalid characters."
+   },
+   "synojslibSECTIONvtypeKEYbad_alias": {
+      "message": "Det indtastede alias er ugyldigt."
+   },
+   "synojslibSECTIONvtypeKEYbad_backup_destination": {
+      "message": "Navnet på backupdestination er ugyldigt eller indeholder ugyldige tegn."
+   },
+   "synojslibSECTIONvtypeKEYbad_backup_target": {
+      "message": "Målnavnet er ugyldigt eller indeholder ugyldige tegn."
+   },
+   "synojslibSECTIONvtypeKEYbad_cidr": {
+      "message": "Den CIDR, du indtastede, er ugyldig."
+   },
+   "synojslibSECTIONvtypeKEYbad_cidr_hostname": {
+      "message": "Den CIDR eller det værtsnavn, du indtastede, er ugyldig."
+   },
+   "synojslibSECTIONvtypeKEYbad_dar_profile_name": {
+      "message": "Brug kun bogstaver, tal og mellemrum. Brug ikke reserverede ord, f.eks. \u003Cb>template\u003C/b>, \u003Cb>lang\u003C/b> og \u003Cb>global\u003C/b>. Navnet kan ikke starte eller slutte med et mellemrum."
+   },
+   "synojslibSECTIONvtypeKEYbad_ddns_noip_alphanumspace": {
+      "message": "kun alfanumerisk og mellemrum"
+   },
+   "synojslibSECTIONvtypeKEYbad_ddns_noip_password": {
+      "message": "Tegnene +,?,%,& er ikke tilladt."
+   },
+   "synojslibSECTIONvtypeKEYbad_devicename": {
+      "message": "Enhedsnavnet er ugyldigt eller indeholder ugyldige tegn."
+   },
+   "synojslibSECTIONvtypeKEYbad_domain_name": {
+      "message": "Ugyldigt domænenavn"
+   },
+   "synojslibSECTIONvtypeKEYbad_email": {
+      "message": "Ugyldigt e-mail-format."
+   },
+   "synojslibSECTIONvtypeKEYbad_event_task_name": {
+      "message": "Et opgavenavn kan kun indeholde engelske tegn, tal og mellemrum. Det kan ikke starte/slutte med mellemrum."
+   },
+   "synojslibSECTIONvtypeKEYbad_field": {
+      "message": "Feltværdier ugyldig."
+   },
+   "synojslibSECTIONvtypeKEYbad_fwname": {
+      "message": "Navnet på denne firewallregel er ugyldigt. Indtast et andet navn."
+   },
+   "synojslibSECTIONvtypeKEYbad_groupname": {
+      "message": "Gruppenavnet er ugyldigt eller indeholder ugyldige tegn."
+   },
+   "synojslibSECTIONvtypeKEYbad_host": {
+      "message": "Ugyldigt værtsnavn. Værtsnavnet kan kun indeholde bogstaver, tal, understregninger (_) og bindestreger (-) og skal begynde med et bogstav."
+   },
+   "synojslibSECTIONvtypeKEYbad_hostname": {
+      "message": "Ugyldigt værtsnavneformat."
+   },
+   "synojslibSECTIONvtypeKEYbad_ip": {
+      "message": "Den indtastede IP-adresse er ugyldig."
+   },
+   "synojslibSECTIONvtypeKEYbad_iporhostname": {
+      "message": "Ugyldig IP eller ugyldigt værtsnavn."
+   },
+   "synojslibSECTIONvtypeKEYbad_ipv6prefixLeng": {
+      "message": "Ugyldigt IPv6-præfiks."
+   },
+   "synojslibSECTIONvtypeKEYbad_iscsi_hostname": {
+      "message": "Værtsnavn må kun indeholde bogstaver, tal, kolonner (:), bindestreger (-) og prikker (.)."
+   },
+   "synojslibSECTIONvtypeKEYbad_iscsi_lunname": {
+      "message": "Det indtastede LUN-navn er ugyldigt. Gå til Hjælp for at få flere oplysninger."
+   },
+   "synojslibSECTIONvtypeKEYbad_iscsi_password": {
+      "message": "Adgangskoderne skal være på mellem 12 og 16 tegn."
+   },
+   "synojslibSECTIONvtypeKEYbad_iscsi_targetiqn": {
+      "message": "Det indtastede iSCSI Target IQN-navn er ugyldigt. Der henvises til Hjælp, hvor der er flere oplysninger."
+   },
+   "synojslibSECTIONvtypeKEYbad_iscsi_targetname": {
+      "message": "Det indtastede target-navn er ugyldigt. Der henvises til Hjælp, hvor der er flere oplysninger."
+   },
+   "synojslibSECTIONvtypeKEYbad_iscsi_username": {
+      "message": "Tal og kun engelske bogstaver. Maksimum 12 tegn."
+   },
+   "synojslibSECTIONvtypeKEYbad_mac": {
+      "message": "Indtast en korrekt MAC-adresse."
+   },
+   "synojslibSECTIONvtypeKEYbad_mask": {
+      "message": "Den indtastede undernetmaske er ugyldig."
+   },
+   "synojslibSECTIONvtypeKEYbad_netbkp_module": {
+      "message": "Modulnavn kan ikke indeholde specielle tegn:  / \\ # [ ] \u003C > \""
+   },
+   "synojslibSECTIONvtypeKEYbad_networkgroupname": {
+      "message": "Arbejdsgruppenavnet er ugyldigt eller indeholder ugyldige tegn."
+   },
+   "synojslibSECTIONvtypeKEYbad_number": {
+      "message": "Dette tal kan starte med 0 og skal være et heltal."
+   },
+   "synojslibSECTIONvtypeKEYbad_port": {
+      "message": "Portnummeret skal være mellem 1 og 65535."
+   },
+   "synojslibSECTIONvtypeKEYbad_relay_alias_name": {
+      "message": "QuickConnect ID kan kun indeholde engelske bogstaver, tal og bindestreger (-). Det skal begynde med et bogstav og kan ikke slutte på en bindestreg."
+   },
+   "synojslibSECTIONvtypeKEYbad_sharename": {
+      "message": "Navnet på den delte mappe indeholder ugyldig tegn, starter eller slutter med et mellemrum eller er forbeholdt systembrug. Der henvises til Hjælp, hvor der er flere oplysninger om navngivningsregler."
+   },
+   "synojslibSECTIONvtypeKEYbad_taskname": {
+      "message": "Opgavenavnet er ugyldigt eller indeholder ugyldige tegn."
+   },
+   "synojslibSECTIONvtypeKEYbad_url": {
+      "message": "Ugyldigt URL-format."
+   },
+   "synojslibSECTIONvtypeKEYbad_urlblocker_profile": {
+      "message": "The URL Blocker profile's name is invalid"
+   },
+   "synojslibSECTIONvtypeKEYbad_username": {
+      "message": "Brugernavnet er ugyldigt eller indeholder ugyldige tegn."
+   },
+   "synojslibSECTIONvtypeKEYbad_v6ip": {
+      "message": "Ugyldig IPv6-adresse."
+   },
+   "synojslibSECTIONvtypeKEYpassword_confirm_failed": {
+      "message": "Kunne ikke bekræfte adgangskode. Indtast det igen."
+   },
+   "synojslibSECTIONwizardKEYbtnback": {
+      "message": "Tilbage"
+   },
+   "synojslibSECTIONwizardKEYbtncancel": {
+      "message": "Annuller"
+   },
+   "synojslibSECTIONwizardKEYbtnfinish": {
+      "message": "Udført"
+   },
+   "synojslibSECTIONwizardKEYbtnnext": {
+      "message": "Næste"
+   },
+   "synojslibSECTIONwizardKEYfinaldescr": {
+      "message": "Klik på {0} for at lukke vinduet."
+   },
+   "synojslibSECTIONwizardKEYnextdescr": {
+      "message": "Klik på {0} for at fortsætte."
+   }
+}

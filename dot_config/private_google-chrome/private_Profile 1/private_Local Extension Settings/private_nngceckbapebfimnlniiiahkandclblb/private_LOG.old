@@ -1,0 +1,18 @@
+2022/08/22-17:57:43.211 1ca9 Reusing MANIFEST /home/tam/.config/google-chrome/Profile 1/Local Extension Settings/nngceckbapebfimnlniiiahkandclblb/MANIFEST-000001
+2022/08/22-17:57:43.212 1ca9 Recovering log #26
+2022/08/22-17:57:43.218 1ca9 Reusing old log /home/tam/.config/google-chrome/Profile 1/Local Extension Settings/nngceckbapebfimnlniiiahkandclblb/000026.log 
+2022/08/22-23:57:53.261 f5b4 Level-0 table #30: started
+2022/08/22-23:57:53.298 f5b4 Level-0 table #30: 3600860 bytes OK
+2022/08/22-23:57:53.313 f5b4 Delete type=0 #26
+2022/08/23-11:57:55.382 183c4 Level-0 table #32: started
+2022/08/23-11:57:55.422 183c4 Level-0 table #32: 3600866 bytes OK
+2022/08/23-11:57:55.437 183c4 Delete type=0 #29
+2022/08/23-11:57:55.438 183c4 Compacting 4@0 + 1@1 files
+2022/08/23-11:57:55.488 183c4 Generated table #33@0: 1 keys, 900261 bytes
+2022/08/23-11:57:55.488 183c4 Compacted 4@0 + 1@1 files => 900261 bytes
+2022/08/23-11:57:55.500 183c4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/08/23-11:57:55.500 183c4 Delete type=2 #25
+2022/08/23-11:57:55.500 183c4 Delete type=2 #23
+2022/08/23-11:57:55.500 183c4 Delete type=2 #30
+2022/08/23-11:57:55.500 183c4 Delete type=2 #27
+2022/08/23-11:57:55.500 183c4 Delete type=2 #32

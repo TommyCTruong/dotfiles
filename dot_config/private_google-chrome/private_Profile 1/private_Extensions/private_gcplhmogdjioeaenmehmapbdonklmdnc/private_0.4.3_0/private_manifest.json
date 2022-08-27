@@ -1,0 +1,33 @@
+{
+   "action": {
+      "default_icon": "/icons/196.png",
+      "default_popup": "web-ext.html"
+   },
+   "background": {
+      "service_worker": "extension/background3.js"
+   },
+   "commands": {
+      "_execute_action": {
+         "suggested_key": {
+            "default": "Ctrl+Shift+E",
+            "mac": "Command+Shift+E"
+         }
+      }
+   },
+   "content_security_policy": {
+      "extension_pages": "script-src 'self' ; object-src 'self'"
+   },
+   "description": "Quick notes from the browser to Obsidian",
+   "differential_fingerprint": "1.a51c417a091c0fdb84c8b925653c8c2bcfd8092ecd17ebcca3734b825fd8ef66",
+   "icons": {
+      "128": "/icons/128.png",
+      "16": "/icons/16.png",
+      "48": "/icons/48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArqLEpyieNyczUqjWW84GMjuQkwX/Cq1aLmIZHrrr4CrT0s423sP6P5j1Y8G8+EEjWtQnwfQuEt9IgOwDPav71cxq0edOmS8+Dk4MJKkQRbxdCGcetfNTqTB/WzMkpRDHjouE89VWn/QsvoLFXaSnqOE/nu7KDnlE5gp5yPn2tesdAOiCgROsi+clAMlqEVGPEZki5+rdPTsge+2QhxrqNyH89PufA20v0JRJyVgtTfuCi9ARtEgVlSYa2qQ4iL8q3y1un7lUGyew6pUdAfTRXlc4zkqw53ZiHB40SQ5fFQLfZuNDs3CQ2/oGcRfcW70/pXHYnwHaWCKfx/fqk4QUPwIDAQAB",
+   "manifest_version": 3,
+   "name": "Fleeting Notes",
+   "permissions": [ "activeTab", "contextMenus" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.4.3"
+}

@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "text",
+      "message": "Crea distintos código-QR con Logo, Color y mas. Este generador gratuito de códigos crea los resultados en calidad de impresión."
+   },
+   "appName": {
+      "description": "QRCode Monkey title",
+      "message": "QRCode Monkey - QR Code Generator"
+   }
+}

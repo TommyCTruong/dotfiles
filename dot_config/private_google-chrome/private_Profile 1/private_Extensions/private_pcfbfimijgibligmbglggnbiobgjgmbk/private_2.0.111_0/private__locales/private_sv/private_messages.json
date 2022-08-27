@@ -1,0 +1,2393 @@
+{
+   "NoteStationClipperSECTIONappKEYdescription": {
+      "message": "Synology Web Clipper sparar webbinnehåll till din Synology NAS för snabb och enkel åtkomst. En komplett sida med text, bilder oc..."
+   },
+   "NoteStationClipperSECTIONappKEYdescription_detail": {
+      "message": "Synology Web Clipper klipper ut webbinnehåll och sparar den till din Synology NAS. En komplett webbsida inklusive text, bilder och länkar kan sparas. Bespara dig från att hantera oräkneliga flikar och bokmärken i webbläsaren. Med Synology Web Clipper kan du snabbt och enkelt få åtkomst till urklippt innehåll via Note Station. Du kan även lägga till taggar och kommentarer för att hantera urklippt innehåll."
+   },
+   "NoteStationClipperSECTIONappKEYdisplayname": {
+      "message": "Synology Web Clipper"
+   },
+   "NoteStationClipperSECTIONcaptureKEYez_capture_mode": {
+      "message": "Aktivera läge för snabbfångst"
+   },
+   "NoteStationClipperSECTIONcaptureKEYgmail_thread": {
+      "message": "Email Content"
+   },
+   "NoteStationClipperSECTIONcaptureKEYonly_mail_title": {
+      "message": "Inget meddelande valdes. Endast e-postmeddelandets ämne kommer att sparas. Vill du fortsätta?"
+   },
+   "NoteStationClipperSECTIONcaptureKEYscreenshot": {
+      "message": "Skärmbild"
+   },
+   "NoteStationClipperSECTIONcaptureKEYsimplify_content": {
+      "message": "Förenklat innehåll"
+   },
+   "NoteStationClipperSECTIONcaptureKEYwhole_content": {
+      "message": "Fullständigt innehåll"
+   },
+   "NoteStationClipperSECTIONcaptureKEYwhole_screenshot": {
+      "message": "Skärmbild för hel sida"
+   },
+   "NoteStationClipperSECTIONcommonKEYapply": {
+      "message": "OK"
+   },
+   "NoteStationClipperSECTIONcommonKEYcommfail": {
+      "message": "Anslutningen misslyckades. Kontrollera nätverksinställningarna."
+   },
+   "NoteStationClipperSECTIONcommonKEYcommon_settings": {
+      "message": "Inställningar"
+   },
+   "NoteStationClipperSECTIONcommonKEYenter_otp_desc": {
+      "message": "Ange en 6-siffrig kod"
+   },
+   "NoteStationClipperSECTIONcommonKEYerror_system": {
+      "message": "Det går inte att utföra den här åtgärden. Det kan bero på att nätverksanslutningen är instabil. Logga in i {0} och försök igen senare."
+   },
+   "NoteStationClipperSECTIONcommonKEYloading": {
+      "message": "Laddar..."
+   },
+   "NoteStationClipperSECTIONcommonKEYlogin": {
+      "message": "Logga in"
+   },
+   "NoteStationClipperSECTIONcommonKEYlogout": {
+      "message": "Logga ut"
+   },
+   "NoteStationClipperSECTIONcommonKEYmsg_waiting": {
+      "message": "Bearbetar. Vänligen vänta ..."
+   },
+   "NoteStationClipperSECTIONcommonKEYpassword": {
+      "message": "Lösenord"
+   },
+   "NoteStationClipperSECTIONcommonKEYsave": {
+      "message": "Spara"
+   },
+   "NoteStationClipperSECTIONcommonKEYusername": {
+      "message": "Användarnamn"
+   },
+   "NoteStationClipperSECTIONloginKEYenter_otp_desc": {
+      "message": "Ange en 6-siffrig kod"
+   },
+   "NoteStationClipperSECTIONloginKEYerror_cantlogin": {
+      "message": "Kontot eller lösenordet är ogiltigt. Försök igen."
+   },
+   "NoteStationClipperSECTIONloginKEYerror_otp_failed": {
+      "message": "Fel verifikationskod. Försök igen."
+   },
+   "NoteStationClipperSECTIONloginKEYmail_service_not_enable": {
+      "message": "Tjänsten för e-postmeddelanden är inte aktiverad. Be din administrator återställa ditt lösenord."
+   },
+   "NoteStationClipperSECTIONloginKEYno_mail_address": {
+      "message": "No mail address found for this username."
+   },
+   "NoteStationClipperSECTIONloginKEYotp_lost_phone_desc": {
+      "message": "Tappat din telefon?"
+   },
+   "NoteStationClipperSECTIONloginKEYotp_mail_success": {
+      "message": "En nödkod har skickats till din e-postadress."
+   },
+   "NoteStationClipperSECTIONloginKEYotp_no_emergency_code": {
+      "message": "Du har överskridit gränsen för din nödverifikationskod. Kontakta din systemadministratör."
+   },
+   "NoteStationClipperSECTIONloginKEYotp_wrong_input_format": {
+      "message": "Vänligen ange en 6-siffrig verifikationskod eller en 8-siffrig nödkod."
+   },
+   "NoteStationClipperSECTIONloginKEYtrust_device": {
+      "message": "Gör den här enheten betrodd"
+   },
+   "NoteStationClipperSECTIONloginKEYunknown_otp_err": {
+      "message": "Ett fel uppstod. Kontakta din systemadministratör."
+   },
+   "NoteStationClipperSECTIONmailKEYattachment": {
+      "message": "Attachment"
+   },
+   "NoteStationClipperSECTIONmailKEYpeople_involved": {
+      "message": "People Involved"
+   },
+   "NoteStationClipperSECTIONmailKEYsubject": {
+      "message": "Ämne"
+   },
+   "NoteStationClipperSECTIONmessageKEYcapture_fail": {
+      "message": "Urklipp misslyckades"
+   },
+   "NoteStationClipperSECTIONmessageKEYcapture_success": {
+      "message": "Urklipp lyckades"
+   },
+   "NoteStationClipperSECTIONmessageKEYerror_clipper_open_fail": {
+      "message": "Kunde inte starta Synology Web Clipper på den här sidan. Uppdatera sidan och försök igen."
+   },
+   "NoteStationClipperSECTIONmessageKEYerror_https_certificate": {
+      "message": "Oauktoriserat säkerhetscertifikat. Vänligen gå till {0} för att fortsätta med den här anslutningen. Vill du gå dit nu?"
+   },
+   "NoteStationClipperSECTIONmessageKEYerror_install_note_station": {
+      "message": "Kunde inte logga in. Vänligen installera och aktivera Note Station i DSM."
+   },
+   "NoteStationClipperSECTIONmessageKEYerror_upgrade_note_station": {
+      "message": "Din version av Note Station är utdaterad. Vänligen gå till Paketcenter och uppdatera Note Station."
+   },
+   "NoteStationClipperSECTIONmessageKEYerror_user_home_disabled": {
+      "message": "Tjänsten \"Användarhem\" är för närvarande avaktiverad. Vänligen aktivera tjänsten \"Användarhem\" i DSM och försök igen."
+   },
+   "NoteStationClipperSECTIONmessageKEYhint_add_comment": {
+      "message": "Lägg till en kommentar"
+   },
+   "NoteStationClipperSECTIONmessageKEYhint_add_tag": {
+      "message": "Lägg till en tagg"
+   },
+   "NoteStationClipperSECTIONmessageKEYhint_hostname": {
+      "message": "NAS-IP/QuickConnect ID"
+   },
+   "NoteStationClipperSECTIONquickconnectKEYcannot_connect_to_ds": {
+      "message": "Kunde inte ansluta till din Synology NAS. Vänligen kontrollera både att QuickConnect ID är korrekt och att du kan ansluta till din Synology NAS."
+   },
+   "NoteStationClipperSECTIONquickconnectKEYcannot_connect_to_global": {
+      "message": "Kunde inte ansluta till QuickConnect-servern. Försök igen senare."
+   },
+   "NoteStationClipperSECTIONquickconnectKEYcannot_request_tunnel": {
+      "message": "Kunde inte upprätta en anslutning via QuickConnect. Kontrollera att dina inställningar för QuickConnect är korrekta och att nätverket beter sig normalt."
+   },
+   "NoteStationClipperSECTIONsettingKEYaccount": {
+      "message": "Konto"
+   },
+   "NoteStationClipperSECTIONsettingKEYdisk_station": {
+      "message": "Synology NAS"
+   },
+   "NoteStationClipperSECTIONsettingKEYfeedback": {
+      "message": "Feedback"
+   },
+   "NoteStationClipperSECTIONsettingKEYversion": {
+      "message": "Version"
+   },
+   "NoteStationClipperSECTIONtooltipKEYsearch": {
+      "message": "Sök"
+   },
+   "NoteStationSECTIONappKEYdescription": {
+      "message": "Note Station hjälper dig att fullt ut ha glädje av att skriva, visa, hantera och dela innehållsrika anteckningar. Det är väldigt..."
+   },
+   "NoteStationSECTIONappKEYdisplayname": {
+      "message": "Note Station"
+   },
+   "NoteStationSECTIONappKEYopen_in_note_station": {
+      "message": "Öppna i Note Station"
+   },
+   "NoteStationSECTIONappKEYwz_rm_repo_chkbox": {
+      "message": "Ta bort databasen permanent"
+   },
+   "NoteStationSECTIONappKEYwz_rm_repo_desc": {
+      "message": "Ta bort databasen för Note Station permanent. Det här namnet kan inte återställas."
+   },
+   "NoteStationSECTIONappKEYwz_rm_repo_title": {
+      "message": "Ta bort databasen för Note Station"
+   },
+   "NoteStationSECTIONcategoryKEYall_joined_notes": {
+      "message": "Sammankopplade anteckningar"
+   },
+   "NoteStationSECTIONcategoryKEYall_notes": {
+      "message": "Alla anteckningar"
+   },
+   "NoteStationSECTIONcategoryKEYall_shared_notes": {
+      "message": "Delade anteckningar"
+   },
+   "NoteStationSECTIONcategoryKEYarchive": {
+      "message": "Arkiverade anteckningsböcker"
+   },
+   "NoteStationSECTIONcategoryKEYjoined": {
+      "message": "Sammankopplade anteckningsböcker"
+   },
+   "NoteStationSECTIONcategoryKEYnotebook": {
+      "message": "Anteckningsböcker"
+   },
+   "NoteStationSECTIONcategoryKEYrecycle": {
+      "message": "Papperskorg"
+   },
+   "NoteStationSECTIONcategoryKEYshortcut": {
+      "message": "Favoriter"
+   },
+   "NoteStationSECTIONcategoryKEYsmart": {
+      "message": "Smarta anteckningsböcker"
+   },
+   "NoteStationSECTIONcategoryKEYtag": {
+      "message": "Taggar"
+   },
+   "NoteStationSECTIONcategoryKEYtodo_task": {
+      "message": "Att-göra-lista"
+   },
+   "NoteStationSECTIONchartKEYchart_property": {
+      "message": "Enhet"
+   },
+   "NoteStationSECTIONchartKEYchart_size": {
+      "message": "Storlek (per pixel)"
+   },
+   "NoteStationSECTIONchartKEYchart_title": {
+      "message": "Titel"
+   },
+   "NoteStationSECTIONchartKEYclone": {
+      "message": "Klon"
+   },
+   "NoteStationSECTIONchartKEYdata": {
+      "message": "Data"
+   },
+   "NoteStationSECTIONchartKEYdata_direction": {
+      "message": "Kategori (som X-axel)"
+   },
+   "NoteStationSECTIONchartKEYdata_direction_by_column": {
+      "message": "Rad"
+   },
+   "NoteStationSECTIONchartKEYdata_direction_by_row": {
+      "message": "Kolumn"
+   },
+   "NoteStationSECTIONchartKEYdata_header": {
+      "message": "Rubrik"
+   },
+   "NoteStationSECTIONchartKEYdata_header_first_column": {
+      "message": "Kolumn längst till vänster"
+   },
+   "NoteStationSECTIONchartKEYdata_header_first_row": {
+      "message": "Översta raden"
+   },
+   "NoteStationSECTIONchartKEYdata_range": {
+      "message": "Intervall"
+   },
+   "NoteStationSECTIONchartKEYinsert_number": {
+      "message": "Antal"
+   },
+   "NoteStationSECTIONchartKEYinsert_position": {
+      "message": "Position"
+   },
+   "NoteStationSECTIONchartKEYinvalid_must_between": {
+      "message": "Måste vara mellan {0} och {1}."
+   },
+   "NoteStationSECTIONchartKEYmenu_delete_columns": {
+      "message": "Radera kolumner"
+   },
+   "NoteStationSECTIONchartKEYmenu_delete_rows": {
+      "message": "Radera rader"
+   },
+   "NoteStationSECTIONchartKEYmenu_insert_column_left": {
+      "message": "Infoga 1 till vänster"
+   },
+   "NoteStationSECTIONchartKEYmenu_insert_column_right": {
+      "message": "Infoga 1 till höger"
+   },
+   "NoteStationSECTIONchartKEYmenu_insert_multi_columns": {
+      "message": "Infoga flera kolumner"
+   },
+   "NoteStationSECTIONchartKEYmenu_insert_multi_rows": {
+      "message": "Infoga flera rader"
+   },
+   "NoteStationSECTIONchartKEYmenu_insert_row_above": {
+      "message": "Infoga 1 ovanför"
+   },
+   "NoteStationSECTIONchartKEYmenu_insert_row_below": {
+      "message": "Infoga 1 nedanför"
+   },
+   "NoteStationSECTIONchartKEYposition_above": {
+      "message": "Ovanför"
+   },
+   "NoteStationSECTIONchartKEYposition_below": {
+      "message": "Under"
+   },
+   "NoteStationSECTIONchartKEYposition_left": {
+      "message": "Vänster"
+   },
+   "NoteStationSECTIONchartKEYposition_right": {
+      "message": "Höger"
+   },
+   "NoteStationSECTIONchartKEYremove_all_column_notify": {
+      "message": "Du kan inte radera alla kolumner på bladet."
+   },
+   "NoteStationSECTIONchartKEYremove_all_row_notify": {
+      "message": "Du kan inte radera alla rader på bladet."
+   },
+   "NoteStationSECTIONchartKEYtab_title_chart": {
+      "message": "Diagram"
+   },
+   "NoteStationSECTIONchartKEYtab_title_config": {
+      "message": "Inställningar"
+   },
+   "NoteStationSECTIONchartKEYtitle": {
+      "message": "Diagramredigerare"
+   },
+   "NoteStationSECTIONchartKEYtype": {
+      "message": "Typ"
+   },
+   "NoteStationSECTIONchartKEYx_axis_title": {
+      "message": "Titel på x-axel"
+   },
+   "NoteStationSECTIONchartKEYy_axis_title": {
+      "message": "Titel på y-axel"
+   },
+   "NoteStationSECTIONclipperKEYfail": {
+      "message": "Clip fail"
+   },
+   "NoteStationSECTIONclipperKEYprocessing": {
+      "message": "Clipping webpage"
+   },
+   "NoteStationSECTIONcommonKEYaction": {
+      "message": "Ta bort"
+   },
+   "NoteStationSECTIONcommonKEYadd": {
+      "message": "Lägg till"
+   },
+   "NoteStationSECTIONcommonKEYadd_to_shortcut": {
+      "message": "Lägg till i favoriter"
+   },
+   "NoteStationSECTIONcommonKEYadd_to_stack": {
+      "message": "Lägg till på hylla"
+   },
+   "NoteStationSECTIONcommonKEYcancel": {
+      "message": "Avbryt"
+   },
+   "NoteStationSECTIONcommonKEYchange_password": {
+      "message": "Ändra lösenord"
+   },
+   "NoteStationSECTIONcommonKEYchange_password_tip": {
+      "message": "Det nya lösenordet gäller bara för nya kopior av den här anteckningen. Den ursprungliga anteckningen är fortfarande krypterad med det gamla lösenordet."
+   },
+   "NoteStationSECTIONcommonKEYclose": {
+      "message": "Stäng"
+   },
+   "NoteStationSECTIONcommonKEYcolon": {
+      "message": ":"
+   },
+   "NoteStationSECTIONcommonKEYconfirm_leave": {
+      "message": "Du är på väg att logga ut från DSM eller uppdatera den här sidan. Att fortsätta avbryter alla pågående uppgifter och alla ändringar som inte sparats förloras. Är du säker på att du vill fortsätta?"
+   },
+   "NoteStationSECTIONcommonKEYconfirm_password": {
+      "message": "Bekräfta lösenord"
+   },
+   "NoteStationSECTIONcommonKEYcopy": {
+      "message": "Kopiera"
+   },
+   "NoteStationSECTIONcommonKEYcreate": {
+      "message": "Skapa"
+   },
+   "NoteStationSECTIONcommonKEYdate_format_with_year": {
+      "message": "{2} {1} {0}"
+   },
+   "NoteStationSECTIONcommonKEYdecrypt": {
+      "message": "Dekryptera"
+   },
+   "NoteStationSECTIONcommonKEYdelete": {
+      "message": "Radera"
+   },
+   "NoteStationSECTIONcommonKEYdifferent_values": {
+      "message": "[Flera poster...]"
+   },
+   "NoteStationSECTIONcommonKEYdone": {
+      "message": "Klar"
+   },
+   "NoteStationSECTIONcommonKEYduplicate": {
+      "message": "Duplicera"
+   },
+   "NoteStationSECTIONcommonKEYedit": {
+      "message": "Redigera"
+   },
+   "NoteStationSECTIONcommonKEYempty_recycle": {
+      "message": "Töm Papperskorg"
+   },
+   "NoteStationSECTIONcommonKEYencrypt": {
+      "message": "Kryptera"
+   },
+   "NoteStationSECTIONcommonKEYenter_password": {
+      "message": "Ange lösenord"
+   },
+   "NoteStationSECTIONcommonKEYextra": {
+      "message": "Extra"
+   },
+   "NoteStationSECTIONcommonKEYhere": {
+      "message": "Här"
+   },
+   "NoteStationSECTIONcommonKEYleave": {
+      "message": "Lämna"
+   },
+   "NoteStationSECTIONcommonKEYloading": {
+      "message": "Laddar..."
+   },
+   "NoteStationSECTIONcommonKEYmove": {
+      "message": "Flytta"
+   },
+   "NoteStationSECTIONcommonKEYname": {
+      "message": "Namn"
+   },
+   "NoteStationSECTIONcommonKEYnew_password": {
+      "message": "Nytt lösenord"
+   },
+   "NoteStationSECTIONcommonKEYnote_link_in_recycle": {
+      "message": "Note has been deleted"
+   },
+   "NoteStationSECTIONcommonKEYok": {
+      "message": "OK"
+   },
+   "NoteStationSECTIONcommonKEYopen_note_in_new_tab": {
+      "message": "Öppna anteckning i ny flik"
+   },
+   "NoteStationSECTIONcommonKEYowner": {
+      "message": "Ägare"
+   },
+   "NoteStationSECTIONcommonKEYplease_select_item": {
+      "message": "Klicka på ett objekt under valfri kategori för att börja bläddra."
+   },
+   "NoteStationSECTIONcommonKEYpreview": {
+      "message": "Förhandsgranska"
+   },
+   "NoteStationSECTIONcommonKEYprint": {
+      "message": "Skriv ut"
+   },
+   "NoteStationSECTIONcommonKEYrecord_audio": {
+      "message": "Spela in ljud"
+   },
+   "NoteStationSECTIONcommonKEYrefresh": {
+      "message": "Uppdatera"
+   },
+   "NoteStationSECTIONcommonKEYremove_from_stack": {
+      "message": "Ta bort från hylla"
+   },
+   "NoteStationSECTIONcommonKEYrename": {
+      "message": "Döp om"
+   },
+   "NoteStationSECTIONcommonKEYreset": {
+      "message": "Återställ"
+   },
+   "NoteStationSECTIONcommonKEYrestore": {
+      "message": "Återställ"
+   },
+   "NoteStationSECTIONcommonKEYsearch": {
+      "message": "Sök"
+   },
+   "NoteStationSECTIONcommonKEYsearch_todo_tasks": {
+      "message": "Sök att-göra-lista"
+   },
+   "NoteStationSECTIONcommonKEYsend_as_mail": {
+      "message": "Skicka som e-postmeddelande"
+   },
+   "NoteStationSECTIONcommonKEYset_as_preset": {
+      "message": "Ställ in som standardanteckningsbok"
+   },
+   "NoteStationSECTIONcommonKEYsetting": {
+      "message": "Inställningar"
+   },
+   "NoteStationSECTIONcommonKEYshare": {
+      "message": "Dela"
+   },
+   "NoteStationSECTIONcommonKEYsize": {
+      "message": "Storlek"
+   },
+   "NoteStationSECTIONcommonKEYskip_notify": {
+      "message": "Fråga mig inte igen"
+   },
+   "NoteStationSECTIONcommonKEYsync": {
+      "message": "Synkronisera nu"
+   },
+   "NoteStationSECTIONcommonKEYuser_or_group": {
+      "message": "Användare/grupp"
+   },
+   "NoteStationSECTIONcommonKEYusername": {
+      "message": "Användarnamn"
+   },
+   "NoteStationSECTIONcommonKEYweekday_0": {
+      "message": "Sön"
+   },
+   "NoteStationSECTIONcommonKEYweekday_1": {
+      "message": "Mån"
+   },
+   "NoteStationSECTIONcommonKEYweekday_2": {
+      "message": "Tis"
+   },
+   "NoteStationSECTIONconflictKEYcurrent_version": {
+      "message": "Min version"
+   },
+   "NoteStationSECTIONconflictKEYduplicate": {
+      "message": "Skapa en ny anteckning genom att använda min version"
+   },
+   "NoteStationSECTIONconflictKEYlatest_version": {
+      "message": "Senaste versionen"
+   },
+   "NoteStationSECTIONconflictKEYoverwrite": {
+      "message": "Behåll min version"
+   },
+   "NoteStationSECTIONconflictKEYreadme": {
+      "message": "Din anteckning skiljer sig från den senaste version som sparats på din Synology NAS. Vilken version vill du behålla?"
+   },
+   "NoteStationSECTIONconflictKEYskip": {
+      "message": "Behåll senaste version"
+   },
+   "NoteStationSECTIONconflictKEYtitle": {
+      "message": "Versionskonflikt"
+   },
+   "NoteStationSECTIONddKEYmulti_items": {
+      "message": "Flera objekt ({0})"
+   },
+   "NoteStationSECTIONeditorKEYcontent": {
+      "message": "Brödtext"
+   },
+   "NoteStationSECTIONeditorKEYcustom_color": {
+      "message": "Anpassad"
+   },
+   "NoteStationSECTIONeditorKEYcustom_color_win_title": {
+      "message": "Anpassad färg"
+   },
+   "NoteStationSECTIONeditorKEYdrop_to_copy": {
+      "message": "Infoga här"
+   },
+   "NoteStationSECTIONeditorKEYheading": {
+      "message": "Rubrik"
+   },
+   "NoteStationSECTIONeditorKEYsearch_status": {
+      "message": "{0} av {1}"
+   },
+   "NoteStationSECTIONeditorKEYupload_processing": {
+      "message": "Bearbetar"
+   },
+   "NoteStationSECTIONeditorKEYupload_waiting": {
+      "message": "Väntar"
+   },
+   "NoteStationSECTIONerrorKEYalready_in_shortcut": {
+      "message": "Den här finns redan i Favoriter."
+   },
+   "NoteStationSECTIONerrorKEYbackuping": {
+      "message": "Utför datasäkerhetskopiering. Vänligen försök igen senare."
+   },
+   "NoteStationSECTIONerrorKEYcannot_delete_preset": {
+      "message": "Kunde inte ta bort den anteckningsbok som är standard."
+   },
+   "NoteStationSECTIONerrorKEYchange_volume_fail": {
+      "message": "Kunde inte flytta data till {0}. Orsak: {1}"
+   },
+   "NoteStationSECTIONerrorKEYcompress_fail": {
+      "message": "Kunde inte skapa en exportfil för Note Station."
+   },
+   "NoteStationSECTIONerrorKEYcopy_note_link": {
+      "message": "Kopiera nedan länk med Ctrl+C/Command+C."
+   },
+   "NoteStationSECTIONerrorKEYcopy_share_link": {
+      "message": "Kopiera länken med Ctrl+C/Command+C"
+   },
+   "NoteStationSECTIONerrorKEYdefault_create_fail": {
+      "message": "\"Användarhem\" är för närvarande avaktiverat. Vänligen gå till sidan ”Användare” för att aktivera den först."
+   },
+   "NoteStationSECTIONerrorKEYdefault_create_fail_directory": {
+      "message": "Tjänsten användarhem är för närvarande avaktiverad. Vänligen gå till Kontrollpanel > Användare > Avancerat för att aktivera den."
+   },
+   "NoteStationSECTIONerrorKEYdrive_get_failed": {
+      "message": "Anteckning eller Anteckningsbok är inte tillgänglig. Vänligen kontrollera behörighetsinställningar."
+   },
+   "NoteStationSECTIONerrorKEYerror_demo": {
+      "message": "Den här funktionen är inte tillgänglig i demoläget."
+   },
+   "NoteStationSECTIONerrorKEYerror_filename": {
+      "message": "Du har valt en fil med fel ändelse. Vänligen tillförsäkra att filändelsen är\" nsx\" som inte är skiftlägeskänslig."
+   },
+   "NoteStationSECTIONerrorKEYerror_format": {
+      "message": "Formatet stöds ej."
+   },
+   "NoteStationSECTIONerrorKEYerror_no_such_user": {
+      "message": "Användarkontot existerar redan."
+   },
+   "NoteStationSECTIONerrorKEYerror_ns_disabled": {
+      "message": "Note Station är avaktiverad."
+   },
+   "NoteStationSECTIONerrorKEYerror_synodrive": {
+      "message": "Kunde inte få åtkomst till data."
+   },
+   "NoteStationSECTIONerrorKEYerror_system": {
+      "message": "Åtgärden misslyckades."
+   },
+   "NoteStationSECTIONerrorKEYexport_no_select_notebook": {
+      "message": "Vänligen välj minst en anteckningsbok."
+   },
+   "NoteStationSECTIONerrorKEYexport_no_select_target": {
+      "message": "Vänligen välj minst ett objekt att exportera."
+   },
+   "NoteStationSECTIONerrorKEYexport_op_fail": {
+      "message": "Exportuppgift misslyckades. Försök igen senare."
+   },
+   "NoteStationSECTIONerrorKEYextract_fail": {
+      "message": "Den valda nsx-filen är korrupt. Vänligen välj en annan nsx-fil och försök igen."
+   },
+   "NoteStationSECTIONerrorKEYfeature_in_https_only": {
+      "message": "Ljudinspelning misslyckades. Vänligen anslut din _DISKSTATION_ igen via HTTPS för att göra inspelning."
+   },
+   "NoteStationSECTIONerrorKEYgeolocation_failed": {
+      "message": "Tjänsten geografisk plats misslyckades."
+   },
+   "NoteStationSECTIONerrorKEYgeolocation_not_support": {
+      "message": "Din webbläsare har inte stöd för tjänsten geografisk plats."
+   },
+   "NoteStationSECTIONerrorKEYimport_evernote_auth_fail": {
+      "message": "Kunde inte få åtkomst till Evernote. Vänligen auktorisera Note Station igen för att få åtkomst till ditt Evernote-konto och försök igen."
+   },
+   "NoteStationSECTIONerrorKEYimport_export_not_running": {
+      "message": "Ingen import- eller exportuppgift körs."
+   },
+   "NoteStationSECTIONerrorKEYimport_export_running": {
+      "message": "En annan import- eller exportuppgift pågår. Försök igen senare."
+   },
+   "NoteStationSECTIONerrorKEYimport_no_select_notebook": {
+      "message": "Vänligen välj minst en anteckningsbok."
+   },
+   "NoteStationSECTIONerrorKEYimport_op_fail": {
+      "message": "Importuppgift misslyckades. Försök igen senare."
+   },
+   "NoteStationSECTIONerrorKEYimport_reach_limit": {
+      "message": "Kvot för synkning för Evernote uppnådd, kunde inte fortsätta med importuppgiften. Försök igen senare."
+   },
+   "NoteStationSECTIONerrorKEYimport_unknown": {
+      "message": "Okänt fel:"
+   },
+   "NoteStationSECTIONerrorKEYlatest_chrome_or_firefox": {
+      "message": "Vänligen använd den senaste versionen av Google Chrome eller Mozilla Firefox för att spela in ljud."
+   },
+   "NoteStationSECTIONerrorKEYloadsetting_fail": {
+      "message": "Kunde inte ladda systeminställningarna."
+   },
+   "NoteStationSECTIONerrorKEYmaintenance": {
+      "message": "Note Station underhålls för närvarande. Vänligen försök igen senare."
+   },
+   "NoteStationSECTIONerrorKEYmoving_data": {
+      "message": "Note Station is changing volume now, please try again later."
+   },
+   "NoteStationSECTIONerrorKEYno_available_notebook": {
+      "message": "Det finns ingen tillgänglig anteckningsbok."
+   },
+   "NoteStationSECTIONerrorKEYno_enough_space": {
+      "message": "Åtgärden misslyckades eftersom det inte finns tillräckligt med ledigt utrymme."
+   },
+   "NoteStationSECTIONerrorKEYnote_conflict": {
+      "message": "Note version conflict"
+   },
+   "NoteStationSECTIONerrorKEYnote_link_in_preview": {
+      "message": "Anteckningslänkar fungerar inte i historiska versioner."
+   },
+   "NoteStationSECTIONerrorKEYnote_not_exist": {
+      "message": "Den valda anteckningen finns inte."
+   },
+   "NoteStationSECTIONerrorKEYnote_not_in_recycle": {
+      "message": "Den här anteckningen finns inte i Papperskorg."
+   },
+   "NoteStationSECTIONerrorKEYobject_no_permission": {
+      "message": "Du har otillräckliga behörigheter för att få åtkomst till det här objektet."
+   },
+   "NoteStationSECTIONerrorKEYobject_not_exist": {
+      "message": "Anteckningsboken eller anteckningen finns inte."
+   },
+   "NoteStationSECTIONerrorKEYperm_op_fail": {
+      "message": "Kunde inte ändra behörigheter."
+   },
+   "NoteStationSECTIONerrorKEYpreset_already_exist": {
+      "message": "Det finns redan en anteckningsbok som är standard."
+   },
+   "NoteStationSECTIONerrorKEYrecord_device_no_found": {
+      "message": "Ingen mikrofonenhet upptäcktes. Vänligen anslut en mikrofon och kontrollera dina enhetsinställningar."
+   },
+   "NoteStationSECTIONerrorKEYrecord_perm_deny": {
+      "message": "Åtkomst till mikrofon nekad. Det är möjligt att inte har tillräckliga behörigheter."
+   },
+   "NoteStationSECTIONerrorKEYrecord_unknown": {
+      "message": "Okänt fel:"
+   },
+   "NoteStationSECTIONerrorKEYsave": {
+      "message": "Sparningen misslyckades. Försök igen senare."
+   },
+   "NoteStationSECTIONerrorKEYspace_not_enough": {
+      "message": "Destinationsvolymen har inte tillräckligt med utrymme."
+   },
+   "NoteStationSECTIONerrorKEYtag_conflict": {
+      "message": "Taggen finns redan på samma nivå."
+   },
+   "NoteStationSECTIONerrorKEYvolume_moving": {
+      "message": "Note Station flyttar data till en annan volym. Vänligen försök igen senare."
+   },
+   "NoteStationSECTIONerror_backupKEYerr_backup_version": {
+      "message": "Felaktig version av säkerhetskopia."
+   },
+   "NoteStationSECTIONerror_backupKEYerr_estimate_dir": {
+      "message": "Kunde inte uppskatta datastorlek på säkerhetskopia."
+   },
+   "NoteStationSECTIONerror_backupKEYerr_export_repo": {
+      "message": "Kunde inte exportera data."
+   },
+   "NoteStationSECTIONerror_backupKEYerr_export_setting": {
+      "message": "Kunde inte exportera inställningar"
+   },
+   "NoteStationSECTIONerror_backupKEYerr_home_share": {
+      "message": "Kunde inte hitta katalogen home. Vänligen kontrollera att tjänsten home är aktiverad."
+   },
+   "NoteStationSECTIONerror_backupKEYerr_import_repo": {
+      "message": "Kunde inte importera data."
+   },
+   "NoteStationSECTIONerror_backupKEYerr_import_setting": {
+      "message": "Kunde inte importera inställningar."
+   },
+   "NoteStationSECTIONerror_backupKEYerr_init_failed": {
+      "message": "Kunde inte initiera säkerhetskopiering."
+   },
+   "NoteStationSECTIONerror_backupKEYerr_no_space": {
+      "message": "Det finns inte tillräckligt med diskutrymme för att återställa data."
+   },
+   "NoteStationSECTIONexportKEYconfig": {
+      "message": "Exportera anteckningsböcker"
+   },
+   "NoteStationSECTIONexportKEYconfig_desc": {
+      "message": "Exportera anteckningsböcker för säkerhetskopiering eller för import till en annan Synology NAS."
+   },
+   "NoteStationSECTIONexportKEYctime": {
+      "message": "Skapad tid"
+   },
+   "NoteStationSECTIONexportKEYdescription": {
+      "message": "Att exportera anteckningsböcker eller att-göra-lista låter dig säkerhetskopiera data eller importera dem för användning på en annan Synology NAS."
+   },
+   "NoteStationSECTIONexportKEYdest": {
+      "message": "Destination folder"
+   },
+   "NoteStationSECTIONexportKEYdest_desc": {
+      "message": "Please choose output folder"
+   },
+   "NoteStationSECTIONexportKEYexporting": {
+      "message": "Exporterar"
+   },
+   "NoteStationSECTIONexportKEYguideline": {
+      "message": "Markerade anteckningsböcker eller att-göra-lista exporteras som en .nsx-fil för säkerhetskopiering och kan importeras för användning på en annan Synology NAS."
+   },
+   "NoteStationSECTIONexportKEYmtime": {
+      "message": "Modifierad tid"
+   },
+   "NoteStationSECTIONexportKEYnote": {
+      "message": "Exportera anteckning som .zip"
+   },
+   "NoteStationSECTIONexportKEYnotebook": {
+      "message": "Exportera"
+   },
+   "NoteStationSECTIONexportKEYnotebook_display": {
+      "message": "Exportera valda anteckningsböcker till en Note Station-nsx-fil för säkerhetskopiering eller för import till en annan Synology NAS."
+   },
+   "NoteStationSECTIONexportKEYnotebook_title": {
+      "message": "Namn på anteckningsbok"
+   },
+   "NoteStationSECTIONexportKEYpersonal_config": {
+      "message": "Keep personal settings"
+   },
+   "NoteStationSECTIONexportKEYselect_notebook": {
+      "message": "Välj anteckningsböcker"
+   },
+   "NoteStationSECTIONexportKEYselect_notebook_desc": {
+      "message": "Please select export notebooks"
+   },
+   "NoteStationSECTIONexportKEYtarget_desc": {
+      "message": "Vänligen välj objekten som ska exporteras"
+   },
+   "NoteStationSECTIONexportKEYtarget_notebook": {
+      "message": "Anteckningsbok"
+   },
+   "NoteStationSECTIONexportKEYtitle": {
+      "message": "Exportera Anteckningsböcker eller Att-göra-lista"
+   },
+   "NoteStationSECTIONexportKEYtodo_list": {
+      "message": "Att-göra-lista"
+   },
+   "NoteStationSECTIONexportKEYword": {
+      "message": "Exportera som .docx"
+   },
+   "NoteStationSECTIONfiletableKEYdrop_file": {
+      "message": "Släpp filerna här"
+   },
+   "NoteStationSECTIONhistoryKEYcopy_to_new_note": {
+      "message": "Kopiera till en ny anteckning"
+   },
+   "NoteStationSECTIONhistoryKEYdevice_name": {
+      "message": "Enhet"
+   },
+   "NoteStationSECTIONhistoryKEYmodify_time": {
+      "message": "Tid för ändring"
+   },
+   "NoteStationSECTIONhistoryKEYrestore": {
+      "message": "Återställ"
+   },
+   "NoteStationSECTIONhistoryKEYusername": {
+      "message": "Användarnamn"
+   },
+   "NoteStationSECTIONhistoryKEYversion": {
+      "message": "Version"
+   },
+   "NoteStationSECTIONimportKEYcalculating": {
+      "message": "Bearbetar"
+   },
+   "NoteStationSECTIONimportKEYcancel_import": {
+      "message": "Avbryter import"
+   },
+   "NoteStationSECTIONimportKEYconfirm_cancel_import": {
+      "message": "Det är en annan session öppen eller en importuppgift som körs. Att fortsätta avbryter alla pågående uppgifter. Är du säker på att du vill fortsätta?"
+   },
+   "NoteStationSECTIONimportKEYctime": {
+      "message": "Skapad tid"
+   },
+   "NoteStationSECTIONimportKEYevernote_config": {
+      "message": "Importera anteckningsböcker"
+   },
+   "NoteStationSECTIONimportKEYevernote_server": {
+      "message": "Välj server"
+   },
+   "NoteStationSECTIONimportKEYget_access_right": {
+      "message": "Begär auktorisering för Evernote"
+   },
+   "NoteStationSECTIONimportKEYget_access_right_btn": {
+      "message": "Begär auktorisering för Evernote"
+   },
+   "NoteStationSECTIONimportKEYget_access_right_desc": {
+      "message": "För att importera anteckningsböcker från Evernote, vänligen logga in på Evernote och auktorisera Note Station för tillgång till ditt konto. Note Station omdirigerar dig till Evernote."
+   },
+   "NoteStationSECTIONimportKEYimport_from_enex": {
+      "message": "Importera"
+   },
+   "NoteStationSECTIONimportKEYimport_from_enex_display": {
+      "message": "Importera anteckningsböcker från en Evernote .enex-fil."
+   },
+   "NoteStationSECTIONimportKEYimport_from_evernote": {
+      "message": "Import från Evernote"
+   },
+   "NoteStationSECTIONimportKEYimport_from_evernote_display": {
+      "message": "Importera anteckningsböcker från Evernote."
+   },
+   "NoteStationSECTIONimportKEYimport_from_notebook": {
+      "message": "Importera"
+   },
+   "NoteStationSECTIONimportKEYimport_from_notebook_display": {
+      "message": "Importera anteckningsböcker från en Note Station-nsx-fil."
+   },
+   "NoteStationSECTIONimportKEYimport_wizard": {
+      "message": "Guide för import av Evernote"
+   },
+   "NoteStationSECTIONimportKEYimporting": {
+      "message": "Importera"
+   },
+   "NoteStationSECTIONimportKEYmerge_into_notebook": {
+      "message": "Sammanfoga anteckningsböcker med samma namn"
+   },
+   "NoteStationSECTIONimportKEYmtime": {
+      "message": "Modifierad tid"
+   },
+   "NoteStationSECTIONimportKEYnotebook_name": {
+      "message": "Namn på anteckningsbok"
+   },
+   "NoteStationSECTIONimportKEYnotebook_stack": {
+      "message": "Stack"
+   },
+   "NoteStationSECTIONimportKEYprepare_import": {
+      "message": "Förbereder"
+   },
+   "NoteStationSECTIONimportKEYselect_notebook": {
+      "message": "Välj anteckningsböcker"
+   },
+   "NoteStationSECTIONimportKEYselect_notebook_desc": {
+      "message": "Vänligen välj vilka anteckningsböcker som ska importeras."
+   },
+   "NoteStationSECTIONimportKEYtask_canceled": {
+      "message": "Din importuppgift avbröts."
+   },
+   "NoteStationSECTIONimportKEYwait_evernote": {
+      "message": "Ansluter..."
+   },
+   "NoteStationSECTIONimportKEYwaiting": {
+      "message": "Väntar"
+   },
+   "NoteStationSECTIONimportKEYyinxiang": {
+      "message": "YinXiangBiJi"
+   },
+   "NoteStationSECTIONimportingKEYwaiting": {
+      "message": "Gränsvärde för Evernote uppnått. Väntar på att göra ett nytt försök..."
+   },
+   "NoteStationSECTIONinfoKEYbrief": {
+      "message": "Text"
+   },
+   "NoteStationSECTIONinfoKEYcopy_url": {
+      "message": "Kopiera"
+   },
+   "NoteStationSECTIONinfoKEYcreated": {
+      "message": "Skapades"
+   },
+   "NoteStationSECTIONinfoKEYdelete_gps": {
+      "message": "Ta bort GPS-information"
+   },
+   "NoteStationSECTIONinfoKEYdelete_gps_message": {
+      "message": "GPS-information borttagen med lyckat resultat"
+   },
+   "NoteStationSECTIONinfoKEYhistory": {
+      "message": "Historik"
+   },
+   "NoteStationSECTIONinfoKEYlocation": {
+      "message": "Plats"
+   },
+   "NoteStationSECTIONinfoKEYmodified": {
+      "message": "Ändrad"
+   },
+   "NoteStationSECTIONinfoKEYnotebook": {
+      "message": "Anteckningsbok"
+   },
+   "NoteStationSECTIONinfoKEYset_coordinates": {
+      "message": "Ställ in plats"
+   },
+   "NoteStationSECTIONinfoKEYsource_url": {
+      "message": "Anslut"
+   },
+   "NoteStationSECTIONinfoKEYtitle": {
+      "message": "Titel"
+   },
+   "NoteStationSECTIONinfoKEYview_history": {
+      "message": "Se Historik"
+   },
+   "NoteStationSECTIONjavaKEYjava_not_remind": {
+      "message": "Visa inte det här igen"
+   },
+   "NoteStationSECTIONnoteKEYarchive_delete": {
+      "message": "De raderade arkiverade anteckningarna kommer nu att tas bort och flyttas till papperskorgen. Är du säker på att du vill radera {0} anteckning(ar)?"
+   },
+   "NoteStationSECTIONnoteKEYcopy_link": {
+      "message": "Kopiera anteckningslänk"
+   },
+   "NoteStationSECTIONnoteKEYcopy_to_encrypt": {
+      "message": "Kopiera till en ny krypterad anteckning"
+   },
+   "NoteStationSECTIONnoteKEYcopy_to_unencrypt": {
+      "message": "Kopiera till en krypterad anteckning"
+   },
+   "NoteStationSECTIONnoteKEYcreate": {
+      "message": "Skapa anteckning"
+   },
+   "NoteStationSECTIONnoteKEYcreate_encrypt": {
+      "message": "Skapa krypterad anteckning"
+   },
+   "NoteStationSECTIONnoteKEYcreate_encrypt_desc": {
+      "message": "Kryptera den här anteckningen med ett lösenord."
+   },
+   "NoteStationSECTIONnoteKEYcreate_from_todo": {
+      "message": "Mata ut uppgift till"
+   },
+   "NoteStationSECTIONnoteKEYcreate_in": {
+      "message": "Skapa anteckning i..."
+   },
+   "NoteStationSECTIONnoteKEYdelete_title": {
+      "message": "Ta bort {0} anteckning(ar) permanent"
+   },
+   "NoteStationSECTIONnoteKEYdelete_to_recycle": {
+      "message": "Flytta {0} anteckning(ar) till Papperskorg"
+   },
+   "NoteStationSECTIONnoteKEYencrypt_desc": {
+      "message": "Den här anteckningen är krypterad."
+   },
+   "NoteStationSECTIONnoteKEYencrypted_note": {
+      "message": "Krypterad anteckning"
+   },
+   "NoteStationSECTIONnoteKEYno_item": {
+      "message": "Inga objekt här!"
+   },
+   "NoteStationSECTIONnoteKEYnote_is_encrypted": {
+      "message": "Den här anteckningen är lösenordsskyddad."
+   },
+   "NoteStationSECTIONnoteKEYuntitled": {
+      "message": "Namnlös anteckning"
+   },
+   "NoteStationSECTIONnotebookKEYarchive": {
+      "message": "Arkiv"
+   },
+   "NoteStationSECTIONnotebookKEYarchive_delete": {
+      "message": "De raderade arkiverade anteckningsböckerna kommer nu att tas bort och flyttas till papperskorgen. Är du säker på att du vill radera den arkiverade anteckningsboken och dess anteckningar?"
+   },
+   "NoteStationSECTIONnotebookKEYarchive_warning": {
+      "message": "Arkivering av en anteckningsbok tar bort dess behörigheter för delning och egenskaper för hylla. Är du säker på att du vill fortsätta?"
+   },
+   "NoteStationSECTIONnotebookKEYcreate": {
+      "message": "Skapa anteckningsbok"
+   },
+   "NoteStationSECTIONnotebookKEYcreate_title": {
+      "message": "Vänligen ange anteckningsbokens titel"
+   },
+   "NoteStationSECTIONnotebookKEYdefault": {
+      "message": "Min anteckningsbok"
+   },
+   "NoteStationSECTIONnotebookKEYdelete": {
+      "message": "Är du säker på att du vill radera den valda anteckningsboken?"
+   },
+   "NoteStationSECTIONnotebookKEYrename": {
+      "message": "Döp om anteckningsboken"
+   },
+   "NoteStationSECTIONnotebookKEYunarchive": {
+      "message": "Upphäv arkivering"
+   },
+   "NoteStationSECTIONnotifyKEYclipper_install": {
+      "message": "Du kan installera {0} för att spara webbinnehåll till din Synology NAS för snabb och enkel åtkomst."
+   },
+   "NoteStationSECTIONnotifyKEYexport_success": {
+      "message": "Exportuppgift slutförd, vänligen kontrollera {0}{1}{2}."
+   },
+   "NoteStationSECTIONnotifyKEYreminder": {
+      "message": "Kom ihåg: {0} - {1}"
+   },
+   "NoteStationSECTIONnotifyKEYsend_message": {
+      "message": "{0} delade {1} med dig. Du kan se den i {2}{3}{4}."
+   },
+   "NoteStationSECTIONpermKEYro": {
+      "message": "Visa"
+   },
+   "NoteStationSECTIONpermKEYrw": {
+      "message": "Ändra"
+   },
+   "NoteStationSECTIONpresentationKEYtheme_display": {
+      "message": "Välj en mall"
+   },
+   "NoteStationSECTIONpromptKEYdo_not_show_again": {
+      "message": "Visa inte detta meddelande igen"
+   },
+   "NoteStationSECTIONpromptKEYdownload_center_link": {
+      "message": "Synology Nerladdningscenter"
+   },
+   "NoteStationSECTIONpromptKEYpanel_desc": {
+      "message": "Använd Note Station direkt från din dator."
+   },
+   "NoteStationSECTIONpromptKEYpanel_error_msg": {
+      "message": "Nedladdning misslyckades. Vänligen gå till {0}."
+   },
+   "NoteStationSECTIONpromptKEYpanel_title": {
+      "message": "Note Station för skrivbord"
+   },
+   "NoteStationSECTIONpromptKEYtoast_link": {
+      "message": "Skrivbordsversionen är tillgänglig nu!"
+   },
+   "NoteStationSECTIONpromptKEYtoast_title": {
+      "message": "Goda nyheter!"
+   },
+   "NoteStationSECTIONsearchKEYdate_from": {
+      "message": "Från"
+   },
+   "NoteStationSECTIONsearchKEYdate_to": {
+      "message": "Till"
+   },
+   "NoteStationSECTIONsearchKEYkeyword": {
+      "message": "Sökord"
+   },
+   "NoteStationSECTIONsearchKEYno_search_result": {
+      "message": "Inga träffar."
+   },
+   "NoteStationSECTIONsearchKEYresult_title": {
+      "message": "Search Result"
+   },
+   "NoteStationSECTIONsearchKEYsave_as_smart": {
+      "message": "Spara som Smart anteckningsbok"
+   },
+   "NoteStationSECTIONsearchKEYtag_operator": {
+      "message": "Genomskär markerade"
+   },
+   "NoteStationSECTIONsearchKEYtitle": {
+      "message": "Titel"
+   },
+   "NoteStationSECTIONsettingKEYadmin": {
+      "message": "Administration"
+   },
+   "NoteStationSECTIONsettingKEYapp_portal": {
+      "message": "Applikationsportal"
+   },
+   "NoteStationSECTIONsettingKEYapp_portal_admin_desc": {
+      "message": "Applikationsportal för Note Station är inte aktiverad. Vänligen kontakta din systemadministrator för att aktivera Applikationsportal för Note Station."
+   },
+   "NoteStationSECTIONsettingKEYapp_portal_enable_desc": {
+      "message": "Du kan konfigurera alias och portinställningar för att få åtkomst till och köra Note Station i oberoende webbläsarflikar."
+   },
+   "NoteStationSECTIONsettingKEYapp_portal_link_desc": {
+      "message": "Starta Note Station i en ny flik i webbläsaren med länken här nedanför."
+   },
+   "NoteStationSECTIONsettingKEYauto_purge": {
+      "message": "Rensa automatiskt"
+   },
+   "NoteStationSECTIONsettingKEYauto_purge_desc": {
+      "message": "Slutförda uppgifter raderas automatiskt efter den tid som ställs in här."
+   },
+   "NoteStationSECTIONsettingKEYconfirm_move_volume": {
+      "message": "Note Station kommer att flytta data i bakgrunden. Innan det är slutfört kan användare bara titta på anteckningarna."
+   },
+   "NoteStationSECTIONsettingKEYcrypto_delete_orig": {
+      "message": "Ta bort ursprungliga anteckningar efter kryptering/dekryptering"
+   },
+   "NoteStationSECTIONsettingKEYdefault_due_date": {
+      "message": "Standardförfallodatum"
+   },
+   "NoteStationSECTIONsettingKEYdefault_priority": {
+      "message": "Standardprioritet"
+   },
+   "NoteStationSECTIONsettingKEYdefault_reminder_offset": {
+      "message": "Standardtid för påminnelse"
+   },
+   "NoteStationSECTIONsettingKEYdesktop_button": {
+      "message": "Hämta Note Station för skrivbord"
+   },
+   "NoteStationSECTIONsettingKEYdesktop_desc": {
+      "message": "Klicka på nedan knapp för att hämta Note Station för skrivbord."
+   },
+   "NoteStationSECTIONsettingKEYexport_field": {
+      "message": "Exportera Anteckningsböcker eller Att-göra-lista"
+   },
+   "NoteStationSECTIONsettingKEYexport_notebook": {
+      "message": "Exportera anteckningsböcker"
+   },
+   "NoteStationSECTIONsettingKEYfont_size": {
+      "message": "Standardstorlek på teckensnitt"
+   },
+   "NoteStationSECTIONsettingKEYgeneral": {
+      "message": "Allmänt"
+   },
+   "NoteStationSECTIONsettingKEYimport_export": {
+      "message": "Import och export"
+   },
+   "NoteStationSECTIONsettingKEYimport_notebook": {
+      "message": "Importera anteckningsböcker"
+   },
+   "NoteStationSECTIONsettingKEYinline_thumb": {
+      "message": "Använd miniatyrbilder för att visa stora inbäddade bilder i anteckningspanelen"
+   },
+   "NoteStationSECTIONsettingKEYlaunch_app_portal": {
+      "message": "Konfigurera Applikationsportal"
+   },
+   "NoteStationSECTIONsettingKEYmoving_data": {
+      "message": "Förlopp: {0}"
+   },
+   "NoteStationSECTIONsettingKEYnote": {
+      "message": "Alternativ för Anteckning"
+   },
+   "NoteStationSECTIONsettingKEYreminder_offset_desc": {
+      "message": "Behöver du en påminnelse för att slutföra en uppgift? Ställ in en tid här för att få påminnelser vid förfallotid för uppgifter."
+   },
+   "NoteStationSECTIONsettingKEYsearch_attachment": {
+      "message": "Aktivera indexering av innehåll i bilagor för sökning"
+   },
+   "NoteStationSECTIONsettingKEYshare": {
+      "message": "Delning"
+   },
+   "NoteStationSECTIONsettingKEYshare_mode": {
+      "message": "Tillåt att användare som inte är admin delar anteckningar och anteckningsböcker"
+   },
+   "NoteStationSECTIONsettingKEYshare_need_admin": {
+      "message": "Du har inte behörigheter för att dela. Vänligen kontakta administrator för hjälp."
+   },
+   "NoteStationSECTIONsettingKEYtodo_comment": {
+      "message": "Anmärkning"
+   },
+   "NoteStationSECTIONsettingKEYtodo_done": {
+      "message": "Status för slutförd"
+   },
+   "NoteStationSECTIONsettingKEYtodo_due_date": {
+      "message": "Förfallodatum"
+   },
+   "NoteStationSECTIONsettingKEYtodo_export_info": {
+      "message": "Välj följande typer av uppgiftsinformation för utmatning."
+   },
+   "NoteStationSECTIONsettingKEYtodo_export_to_note": {
+      "message": "Mata ut uppgift som en Anteckning"
+   },
+   "NoteStationSECTIONsettingKEYtodo_general": {
+      "message": "Uppgiftshantering"
+   },
+   "NoteStationSECTIONsettingKEYtodo_priority": {
+      "message": "Prioritet"
+   },
+   "NoteStationSECTIONsettingKEYtodo_show_badge": {
+      "message": "Visa bricka för försenade uppgifter"
+   },
+   "NoteStationSECTIONsettingKEYtodo_star": {
+      "message": "Stjärna"
+   },
+   "NoteStationSECTIONsettingKEYtodo_subtask": {
+      "message": "Underuppgift"
+   },
+   "NoteStationSECTIONsettingKEYtodo_task": {
+      "message": "Att-göra-lista"
+   },
+   "NoteStationSECTIONsettingKEYtodo_title": {
+      "message": "Uppgift"
+   },
+   "NoteStationSECTIONsettingKEYview": {
+      "message": "Visa alternativ"
+   },
+   "NoteStationSECTIONshareKEYcopy_url_done": {
+      "message": "Kopierad till urklipp"
+   },
+   "NoteStationSECTIONshareKEYenable_public": {
+      "message": "Aktivera gemensam delning"
+   },
+   "NoteStationSECTIONshareKEYpublic_share": {
+      "message": "Gemensam delning"
+   },
+   "NoteStationSECTIONshareKEYpublic_share_link": {
+      "message": "Gemensam delningslänk"
+   },
+   "NoteStationSECTIONshareKEYshare_link_via": {
+      "message": "Dela länk via"
+   },
+   "NoteStationSECTIONshareKEYshare_to_dsm_user": {
+      "message": "Dela till DSM-användare"
+   },
+   "NoteStationSECTIONshareKEYshare_to_dsm_user_or_group": {
+      "message": "DSM-användare/-grupp"
+   },
+   "NoteStationSECTIONshortcutKEYremove": {
+      "message": "Ta bort från favoriter"
+   },
+   "NoteStationSECTIONsmartKEYcreate": {
+      "message": "Skapa Smart anteckningsbok"
+   },
+   "NoteStationSECTIONsmartKEYcreate_message": {
+      "message": "Namnge den här smarta anteckningsboken"
+   },
+   "NoteStationSECTIONsmartKEYdelete": {
+      "message": "Är du säker på att du vill radera den valda smarta anteckningsboken?"
+   },
+   "NoteStationSECTIONsmartKEYedit": {
+      "message": "Redigera Smart anteckningsbok"
+   },
+   "NoteStationSECTIONsmartKEYquery_empty": {
+      "message": "Vänligen specificera minst en kriterium."
+   },
+   "NoteStationSECTIONsmartKEYtitle": {
+      "message": "Titel på Smart anteckningsbok"
+   },
+   "NoteStationSECTIONsmartKEYwindow": {
+      "message": "智慧型筆記本"
+   },
+   "NoteStationSECTIONsortKEYby_ctime": {
+      "message": "Sortera efter Skapad tid"
+   },
+   "NoteStationSECTIONsortKEYby_mtime": {
+      "message": "Sortera efter Ändrad tid"
+   },
+   "NoteStationSECTIONsortKEYby_title": {
+      "message": "Sortera efter Titel"
+   },
+   "NoteStationSECTIONsortKEYorder_asc": {
+      "message": "Stigande"
+   },
+   "NoteStationSECTIONsortKEYorder_desc": {
+      "message": "Fallande"
+   },
+   "NoteStationSECTIONstackKEYcreate": {
+      "message": "Skapa hylla"
+   },
+   "NoteStationSECTIONstackKEYcreate_title": {
+      "message": "Vänligen ange en titel för hyllan"
+   },
+   "NoteStationSECTIONstackKEYdelete": {
+      "message": "Är du säker på att du vill radera den valda hyllan?"
+   },
+   "NoteStationSECTIONstackKEYdisassemble": {
+      "message": "Ta isär"
+   },
+   "NoteStationSECTIONstackKEYnew": {
+      "message": "Ny hylla"
+   },
+   "NoteStationSECTIONstackKEYrename": {
+      "message": "Byt namn på hyllan"
+   },
+   "NoteStationSECTIONtagKEYadd_tag": {
+      "message": "+Tagg"
+   },
+   "NoteStationSECTIONtagKEYcreate_title": {
+      "message": "Vänligen skriv in taggens titel"
+   },
+   "NoteStationSECTIONtagKEYquick_add": {
+      "message": "Add tags quickly"
+   },
+   "NoteStationSECTIONtagKEYremove_from_all": {
+      "message": "Ta bort tagg från alla anteckningar"
+   },
+   "NoteStationSECTIONtagKEYrename": {
+      "message": "Döp om taggens titel"
+   },
+   "NoteStationSECTIONtagKEYselect_parent": {
+      "message": "Kapsla taggen under"
+   },
+   "NoteStationSECTIONtagKEYshow_subtag": {
+      "message": "Anteckningar med undertaggar"
+   },
+   "NoteStationSECTIONtinymceKEYadjust_table_size": {
+      "message": "Justera tabellstorlek"
+   },
+   "NoteStationSECTIONtinymceKEYchoose_file": {
+      "message": "Bläddra"
+   },
+   "NoteStationSECTIONtinymceKEYchoose_file_from_local": {
+      "message": "Vänligen välj filer från din lokala dator"
+   },
+   "NoteStationSECTIONtinymceKEYconvert_to_image": {
+      "message": "Konvertera till bild"
+   },
+   "NoteStationSECTIONtinymceKEYdelete_column": {
+      "message": "Radera kolumn"
+   },
+   "NoteStationSECTIONtinymceKEYdelete_row": {
+      "message": "Radera rad"
+   },
+   "NoteStationSECTIONtinymceKEYdimensions": {
+      "message": "Dimensioner"
+   },
+   "NoteStationSECTIONtinymceKEYdownload": {
+      "message": "Ladda ner"
+   },
+   "NoteStationSECTIONtinymceKEYedit": {
+      "message": "Redigera"
+   },
+   "NoteStationSECTIONtinymceKEYfile_path": {
+      "message": "Filsökväg"
+   },
+   "NoteStationSECTIONtinymceKEYformat": {
+      "message": "Textformat"
+   },
+   "NoteStationSECTIONtinymceKEYfrom_local_file": {
+      "message": "Från min dator"
+   },
+   "NoteStationSECTIONtinymceKEYfrom_url": {
+      "message": "Från URL"
+   },
+   "NoteStationSECTIONtinymceKEYgenerate_chart": {
+      "message": "Diagram"
+   },
+   "NoteStationSECTIONtinymceKEYheight": {
+      "message": "Radhöjd"
+   },
+   "NoteStationSECTIONtinymceKEYimage_l": {
+      "message": "Stor"
+   },
+   "NoteStationSECTIONtinymceKEYimage_m": {
+      "message": "Medel"
+   },
+   "NoteStationSECTIONtinymceKEYimage_ori": {
+      "message": "Ursprunglig"
+   },
+   "NoteStationSECTIONtinymceKEYimage_s": {
+      "message": "Liten"
+   },
+   "NoteStationSECTIONtinymceKEYimage_source": {
+      "message": "Bildkälla"
+   },
+   "NoteStationSECTIONtinymceKEYinsert_column_after": {
+      "message": "Infoga kolumn till höger"
+   },
+   "NoteStationSECTIONtinymceKEYinsert_column_before": {
+      "message": "Infoga kolumn till vänster"
+   },
+   "NoteStationSECTIONtinymceKEYinsert_edit_link": {
+      "message": "Infoga/redigera länk"
+   },
+   "NoteStationSECTIONtinymceKEYinsert_row_after": {
+      "message": "Infoga rad under"
+   },
+   "NoteStationSECTIONtinymceKEYinsert_row_before": {
+      "message": "Infoga rad ovanför"
+   },
+   "NoteStationSECTIONtinymceKEYinsert_table": {
+      "message": "Infoga tabell"
+   },
+   "NoteStationSECTIONtinymceKEYlarge": {
+      "message": "large"
+   },
+   "NoteStationSECTIONtinymceKEYmerge_cells": {
+      "message": "Sammanfoga celler"
+   },
+   "NoteStationSECTIONtinymceKEYnormal": {
+      "message": "normal"
+   },
+   "NoteStationSECTIONtinymceKEYopen": {
+      "message": "Öppna"
+   },
+   "NoteStationSECTIONtinymceKEYoriginal": {
+      "message": "Ursprunglig"
+   },
+   "NoteStationSECTIONtinymceKEYproper_size": {
+      "message": "Bästa passning"
+   },
+   "NoteStationSECTIONtinymceKEYredo": {
+      "message": "Gör om"
+   },
+   "NoteStationSECTIONtinymceKEYremove": {
+      "message": "Ta bort"
+   },
+   "NoteStationSECTIONtinymceKEYshow_as_youtube_video": {
+      "message": "Bädda in Youtube-video"
+   },
+   "NoteStationSECTIONtinymceKEYsmall": {
+      "message": "small"
+   },
+   "NoteStationSECTIONtinymceKEYtable_property": {
+      "message": "Tabellegenskaper"
+   },
+   "NoteStationSECTIONtinymceKEYtext_to_display": {
+      "message": "Text att visa"
+   },
+   "NoteStationSECTIONtinymceKEYundo": {
+      "message": "Ångra"
+   },
+   "NoteStationSECTIONtinymceKEYupdate_data_from_table": {
+      "message": "Update data"
+   },
+   "NoteStationSECTIONtinymceKEYurl": {
+      "message": "URL"
+   },
+   "NoteStationSECTIONtinymceKEYwidth": {
+      "message": "Kolumnbredd"
+   },
+   "NoteStationSECTIONtinymceKEYx_large": {
+      "message": "x-large"
+   },
+   "NoteStationSECTIONtinymceKEYx_small": {
+      "message": "x-small"
+   },
+   "NoteStationSECTIONtinymceKEYxx_large": {
+      "message": "xx-large"
+   },
+   "NoteStationSECTIONtinymceKEYxx_small": {
+      "message": "xx-small"
+   },
+   "NoteStationSECTIONtocKEYnotestation": {
+      "message": "Note Station"
+   },
+   "NoteStationSECTIONtocKEYnotestation_creating_notes": {
+      "message": "Skapa anteckningar"
+   },
+   "NoteStationSECTIONtocKEYnotestation_editing_note_information": {
+      "message": "Redigera anteckningsinformation"
+   },
+   "NoteStationSECTIONtocKEYnotestation_getting_started": {
+      "message": "Komma igång"
+   },
+   "NoteStationSECTIONtocKEYnotestation_managing_notes": {
+      "message": "Hantera Note Station"
+   },
+   "NoteStationSECTIONtocKEYnotestation_sharing_notes": {
+      "message": "Dela anteckningar"
+   },
+   "NoteStationSECTIONtocKEYnotestation_using_todo_list": {
+      "message": "Använda att-göra-listan"
+   },
+   "NoteStationSECTIONtocKEYnotestation_viewing_notes": {
+      "message": "Visa anteckningar"
+   },
+   "NoteStationSECTIONtodoKEYadd_a_new_task": {
+      "message": "Lägg till en ny uppgift"
+   },
+   "NoteStationSECTIONtodoKEYadd_comment": {
+      "message": "Lägg till kommentar"
+   },
+   "NoteStationSECTIONtodoKEYadd_sub_task": {
+      "message": "Ny underuppgift"
+   },
+   "NoteStationSECTIONtodoKEYall": {
+      "message": "Alla"
+   },
+   "NoteStationSECTIONtodoKEYall_tasks": {
+      "message": "Alla uppgifter"
+   },
+   "NoteStationSECTIONtodoKEYclick_add_task": {
+      "message": "Klicka för att lägga till en ny uppgift"
+   },
+   "NoteStationSECTIONtodoKEYcompleted": {
+      "message": "Slutförd"
+   },
+   "NoteStationSECTIONtodoKEYcustomized": {
+      "message": "Anpassat"
+   },
+   "NoteStationSECTIONtodoKEYday": {
+      "message": "Dag(ar)"
+   },
+   "NoteStationSECTIONtodoKEYdays_later": {
+      "message": "dagar senare"
+   },
+   "NoteStationSECTIONtodoKEYdelete_all_tasks": {
+      "message": "Radera alla uppgifter"
+   },
+   "NoteStationSECTIONtodoKEYdelete_independent_todo": {
+      "message": "Radera alla uppgifter i \"Oberoende uppgifter\" permanent?"
+   },
+   "NoteStationSECTIONtodoKEYdelete_note_todo": {
+      "message": "Radera alla uppgifter i \"{0}\" permanent?"
+   },
+   "NoteStationSECTIONtodoKEYdelete_todo": {
+      "message": "Radera {0} uppgift(er) permanent?"
+   },
+   "NoteStationSECTIONtodoKEYdue_date": {
+      "message": "Förfallodatum"
+   },
+   "NoteStationSECTIONtodoKEYdue_time": {
+      "message": "Förfallotid"
+   },
+   "NoteStationSECTIONtodoKEYhour": {
+      "message": "Timme(timmar)"
+   },
+   "NoteStationSECTIONtodoKEYindependent_tasks": {
+      "message": "Oberoende uppgifter"
+   },
+   "NoteStationSECTIONtodoKEYminute": {
+      "message": "Minut(er)"
+   },
+   "NoteStationSECTIONtodoKEYmonth": {
+      "message": "Månad(er)"
+   },
+   "NoteStationSECTIONtodoKEYnew_task": {
+      "message": "Ny uppgift"
+   },
+   "NoteStationSECTIONtodoKEYnext_30_days": {
+      "message": "Nästa 30 dagarna"
+   },
+   "NoteStationSECTIONtodoKEYnext_7_days": {
+      "message": "Nästa 7 dagarna"
+   },
+   "NoteStationSECTIONtodoKEYno_due_date": {
+      "message": "Ingen förfallodatum"
+   },
+   "NoteStationSECTIONtodoKEYno_todo_task": {
+      "message": "Inga uppgifter här!"
+   },
+   "NoteStationSECTIONtodoKEYnote": {
+      "message": "Anteckning"
+   },
+   "NoteStationSECTIONtodoKEYoff": {
+      "message": "Av"
+   },
+   "NoteStationSECTIONtodoKEYon_time": {
+      "message": "Vid förfallotid"
+   },
+   "NoteStationSECTIONtodoKEYothers": {
+      "message": "En månad senare"
+   },
+   "NoteStationSECTIONtodoKEYoverdue": {
+      "message": "Förfallen"
+   },
+   "NoteStationSECTIONtodoKEYpriority": {
+      "message": "Prioritet"
+   },
+   "NoteStationSECTIONtodoKEYpriority_high": {
+      "message": "Hög"
+   },
+   "NoteStationSECTIONtodoKEYpriority_low": {
+      "message": "Låg"
+   },
+   "NoteStationSECTIONtodoKEYpriority_medium": {
+      "message": "Medel"
+   },
+   "NoteStationSECTIONtodoKEYpriority_no": {
+      "message": "Ingen"
+   },
+   "NoteStationSECTIONtodoKEYreminder_date": {
+      "message": "Påminnelsetid"
+   },
+   "NoteStationSECTIONtodoKEYreminder_time": {
+      "message": "Påminnelsetid"
+   },
+   "NoteStationSECTIONtodoKEYset_due_date": {
+      "message": "Ställ in förfallodatum"
+   },
+   "NoteStationSECTIONtodoKEYset_due_date_first": {
+      "message": "Vänligen ställ först in förfallotiden."
+   },
+   "NoteStationSECTIONtodoKEYstarred": {
+      "message": "Stjärnmärkt"
+   },
+   "NoteStationSECTIONtodoKEYtitle_cannot_empty": {
+      "message": "Uppgiftens titel kan inte vara tom."
+   },
+   "NoteStationSECTIONtodoKEYtoday": {
+      "message": "Idag"
+   },
+   "NoteStationSECTIONtodoKEYtomorrow": {
+      "message": "Imorgon"
+   },
+   "NoteStationSECTIONtodoKEYuncompleted": {
+      "message": "Oavslutad"
+   },
+   "NoteStationSECTIONtodoKEYweek": {
+      "message": "Vecka(veckor)"
+   },
+   "NoteStationSECTIONtodoKEYweek_later": {
+      "message": "dagar senare"
+   },
+   "NoteStationSECTIONtooltipKEYalign_center": {
+      "message": "Centrera"
+   },
+   "NoteStationSECTIONtooltipKEYalign_justify": {
+      "message": "Justera"
+   },
+   "NoteStationSECTIONtooltipKEYalign_left": {
+      "message": "Anpassa höger"
+   },
+   "NoteStationSECTIONtooltipKEYattach_file": {
+      "message": "Bifoga fil"
+   },
+   "NoteStationSECTIONtooltipKEYbackground_color": {
+      "message": "Bakgrundsfärg"
+   },
+   "NoteStationSECTIONtooltipKEYbold": {
+      "message": "Fet"
+   },
+   "NoteStationSECTIONtooltipKEYbullet_list": {
+      "message": "Punkter"
+   },
+   "NoteStationSECTIONtooltipKEYclear_formatting": {
+      "message": "Rensa formatering"
+   },
+   "NoteStationSECTIONtooltipKEYcontent": {
+      "message": "Innehåll"
+   },
+   "NoteStationSECTIONtooltipKEYcopy_format": {
+      "message": "Kopiera format"
+   },
+   "NoteStationSECTIONtooltipKEYdecrease_indent": {
+      "message": "Minska indrag"
+   },
+   "NoteStationSECTIONtooltipKEYdecrypt": {
+      "message": "Dekryptera"
+   },
+   "NoteStationSECTIONtooltipKEYdelete": {
+      "message": "Radera"
+   },
+   "NoteStationSECTIONtooltipKEYencrypt": {
+      "message": "Kryptera"
+   },
+   "NoteStationSECTIONtooltipKEYfont_family": {
+      "message": "Teckenstorlek"
+   },
+   "NoteStationSECTIONtooltipKEYhorizontal_line": {
+      "message": "Horisontell linje"
+   },
+   "NoteStationSECTIONtooltipKEYincrease_indent": {
+      "message": "Öka indrag"
+   },
+   "NoteStationSECTIONtooltipKEYinfo": {
+      "message": "Info"
+   },
+   "NoteStationSECTIONtooltipKEYinsert_checkbox": {
+      "message": "Infoga kryssruta"
+   },
+   "NoteStationSECTIONtooltipKEYinsert_image": {
+      "message": "Infoga bild"
+   },
+   "NoteStationSECTIONtooltipKEYitalic": {
+      "message": "Kursiv"
+   },
+   "NoteStationSECTIONtooltipKEYmail": {
+      "message": "Skicka som e-postmeddelande"
+   },
+   "NoteStationSECTIONtooltipKEYnumbered_list": {
+      "message": "Numrering"
+   },
+   "NoteStationSECTIONtooltipKEYpresentation": {
+      "message": "Presentera"
+   },
+   "NoteStationSECTIONtooltipKEYprint": {
+      "message": "Skriv ut"
+   },
+   "NoteStationSECTIONtooltipKEYremoveformat": {
+      "message": "Rensa formatering"
+   },
+   "NoteStationSECTIONtooltipKEYsave": {
+      "message": "Spara"
+   },
+   "NoteStationSECTIONtooltipKEYshare": {
+      "message": "Dela"
+   },
+   "NoteStationSECTIONtooltipKEYsort_by": {
+      "message": "Sortera efter"
+   },
+   "NoteStationSECTIONtooltipKEYstrikethrough": {
+      "message": "Genomstruken"
+   },
+   "NoteStationSECTIONtooltipKEYsubscript": {
+      "message": "Nedsänkt"
+   },
+   "NoteStationSECTIONtooltipKEYsuperscript": {
+      "message": "Upphöjd"
+   },
+   "NoteStationSECTIONtooltipKEYsyno_highlight": {
+      "message": "Markera"
+   },
+   "NoteStationSECTIONtooltipKEYtable": {
+      "message": "Tabell"
+   },
+   "NoteStationSECTIONtooltipKEYtag": {
+      "message": "Tagg"
+   },
+   "NoteStationSECTIONtooltipKEYtext_color": {
+      "message": "Teckenfärg"
+   },
+   "NoteStationSECTIONtooltipKEYunderline": {
+      "message": "Understruken"
+   },
+   "NoteStationSECTIONtooltipKEYview_by": {
+      "message": "Visa per"
+   },
+   "NoteStationSECTIONuploadKEYfrom_ds": {
+      "message": "Från min Synology NAS"
+   },
+   "NoteStationSECTIONuploadKEYfrom_pc": {
+      "message": "Ladda upp från min dator"
+   },
+   "NoteStationSECTIONuploadKEYlist_file": {
+      "message": "Fillista"
+   },
+   "NoteStationSECTIONuploadKEYupload_file": {
+      "message": "Ladda upp filer"
+   },
+   "NoteStationSECTIONviewerKEYopen_in_audio": {
+      "message": "Öppna i AudioPlayer"
+   },
+   "NoteStationSECTIONviewerKEYopen_in_google": {
+      "message": "Öppna i Google Dokument"
+   },
+   "NoteStationSECTIONviewerKEYopen_in_new_window": {
+      "message": "Öppna i ny flik"
+   },
+   "NoteStationSECTIONviewerKEYopen_in_office": {
+      "message": "Öppna i Microsoft Office Online"
+   },
+   "NoteStationSECTIONviewerKEYopen_in_pdf": {
+      "message": "Öppna i PDF-visare"
+   },
+   "NoteStationSECTIONviewerKEYopen_in_photo": {
+      "message": "Öppna i Bildvisare"
+   },
+   "NoteStationSECTIONviewerKEYopen_in_syno_doc": {
+      "message": "Open in Document Viewer"
+   },
+   "NoteStationSECTIONviewerKEYopen_in_text": {
+      "message": "Öppna i Textvisare"
+   },
+   "NoteStationSECTIONviewerKEYopen_in_video": {
+      "message": "Öppna i VideoPlayer"
+   },
+   "NoteStationSECTIONwindowKEYnote_encryption": {
+      "message": "Anteckningskryptering"
+   },
+   "NoteStationSECTIONwindowKEYnote_information": {
+      "message": "Anteckningsinformation"
+   },
+   "NoteStationSECTIONwindowKEYtodo_information": {
+      "message": "Task information"
+   },
+   "synojslibSECTIONcommonKEYclean": {
+      "message": "Rensa"
+   },
+   "synojslibSECTIONcommonKEYclear_input": {
+      "message": "Rensa inmatning"
+   },
+   "synojslibSECTIONcommonKEYcommit": {
+      "message": "Tillämpa"
+   },
+   "synojslibSECTIONcommonKEYdisabled": {
+      "message": "Avaktiverad"
+   },
+   "synojslibSECTIONcommonKEYerror_system": {
+      "message": "Det går inte att utföra den här åtgärden. Logga in på _OSNAME_ och försök igen."
+   },
+   "synojslibSECTIONcommonKEYloading": {
+      "message": "Laddar..."
+   },
+   "synojslibSECTIONcommonKEYreset": {
+      "message": "Återställ"
+   },
+   "synojslibSECTIONcommonKEYsetting_applied": {
+      "message": "Ändringarna har tillämpats."
+   },
+   "synojslibSECTIONcommonKEYsize_byte": {
+      "message": "Bytes"
+   },
+   "synojslibSECTIONcommonKEYsize_gb": {
+      "message": "GB"
+   },
+   "synojslibSECTIONcommonKEYsize_kb": {
+      "message": "KB"
+   },
+   "synojslibSECTIONcommonKEYsize_mb": {
+      "message": "MB"
+   },
+   "synojslibSECTIONcommonKEYsize_pb": {
+      "message": "PB"
+   },
+   "synojslibSECTIONcommonKEYsize_tb": {
+      "message": "TB"
+   },
+   "synojslibSECTIONextlangKEYafterPageText": {
+      "message": "av {0}"
+   },
+   "synojslibSECTIONextlangKEYafterdate": {
+      "message": "Datum i detta fält måste vara {0} eller senare"
+   },
+   "synojslibSECTIONextlangKEYaftertime": {
+      "message": "Tiden i detta fält måste vara senare än {0}"
+   },
+   "synojslibSECTIONextlangKEYalphaText": {
+      "message": "Detta fält bör endast innehålla bokstäver och understreck (_)."
+   },
+   "synojslibSECTIONextlangKEYalphanumText": {
+      "message": "Detta fält bör endast innehålla bokstäver, siffror och understreck (_)."
+   },
+   "synojslibSECTIONextlangKEYapr": {
+      "message": "april"
+   },
+   "synojslibSECTIONextlangKEYaug": {
+      "message": "augusti"
+   },
+   "synojslibSECTIONextlangKEYbeforePageText": {
+      "message": "Sida"
+   },
+   "synojslibSECTIONextlangKEYbeforedate": {
+      "message": "Datum i detta fält måste vara {0} eller tidigare"
+   },
+   "synojslibSECTIONextlangKEYbeforetime": {
+      "message": "Tiden i detta fält måste vara tidigare än {0}"
+   },
+   "synojslibSECTIONextlangKEYcancel": {
+      "message": "Avbryt"
+   },
+   "synojslibSECTIONextlangKEYcloseText": {
+      "message": "Stäng fliken"
+   },
+   "synojslibSECTIONextlangKEYcolumnsText": {
+      "message": "Kolumner"
+   },
+   "synojslibSECTIONextlangKEYdate_format": {
+      "message": "Y/M/D"
+   },
+   "synojslibSECTIONextlangKEYddText": {
+      "message": "{0} vald(a) rad(er)"
+   },
+   "synojslibSECTIONextlangKEYdec": {
+      "message": "december"
+   },
+   "synojslibSECTIONextlangKEYdisplaypage": {
+      "message": "Visar {0} - {1} av {2}"
+   },
+   "synojslibSECTIONextlangKEYemailText": {
+      "message": "Detta fält bör innehålla en e-postadress, t.ex.: user@domain.com."
+   },
+   "synojslibSECTIONextlangKEYfeb": {
+      "message": "februari"
+   },
+   "synojslibSECTIONextlangKEYfieldblank": {
+      "message": "Det här fältet krävs."
+   },
+   "synojslibSECTIONextlangKEYfieldmaxlen": {
+      "message": "Maximal längd för det här fältet är {0}."
+   },
+   "synojslibSECTIONextlangKEYfieldminlen": {
+      "message": "Minimal längd för det här fältet är {0}."
+   },
+   "synojslibSECTIONextlangKEYfirstpage": {
+      "message": "Första sidan"
+   },
+   "synojslibSECTIONextlangKEYfriday": {
+      "message": "Fredag"
+   },
+   "synojslibSECTIONextlangKEYinvalidText": {
+      "message": "Fel värde."
+   },
+   "synojslibSECTIONextlangKEYinvaliddate": {
+      "message": "{0} är inte ett giltigt datum. Vänligen ange ett datum med formatet {1}"
+   },
+   "synojslibSECTIONextlangKEYinvalidinteger": {
+      "message": "Ange ett tal. "
+   },
+   "synojslibSECTIONextlangKEYinvalidnumber": {
+      "message": "{0} är inte ett giltigt nummer."
+   },
+   "synojslibSECTIONextlangKEYinvalidtime": {
+      "message": "{0} är inte en giltig tid."
+   },
+   "synojslibSECTIONextlangKEYjan": {
+      "message": "januari"
+   },
+   "synojslibSECTIONextlangKEYjul": {
+      "message": "juli"
+   },
+   "synojslibSECTIONextlangKEYjun": {
+      "message": "juni"
+   },
+   "synojslibSECTIONextlangKEYlastpage": {
+      "message": "Sista sidan"
+   },
+   "synojslibSECTIONextlangKEYloading": {
+      "message": "Laddar..."
+   },
+   "synojslibSECTIONextlangKEYlockText": {
+      "message": "Lås kolumn"
+   },
+   "synojslibSECTIONextlangKEYmar": {
+      "message": "mars"
+   },
+   "synojslibSECTIONextlangKEYmaxdate": {
+      "message": "Datumet måste ligga före maximidatumet."
+   },
+   "synojslibSECTIONextlangKEYmaxnumber": {
+      "message": "Det högsta antalet är {0}."
+   },
+   "synojslibSECTIONextlangKEYmay": {
+      "message": "maj"
+   },
+   "synojslibSECTIONextlangKEYmindate": {
+      "message": "Datumet måste ligga efter minimidatumet."
+   },
+   "synojslibSECTIONextlangKEYminnumber": {
+      "message": "Det lägsta antalet är {0}."
+   },
+   "synojslibSECTIONextlangKEYmonday": {
+      "message": "Måndag"
+   },
+   "synojslibSECTIONextlangKEYmonthYearText": {
+      "message": "Välj månad (byt år med Control+upp-/nedpil)"
+   },
+   "synojslibSECTIONextlangKEYnextmonth": {
+      "message": "Nästa månad (Control+högerpil)"
+   },
+   "synojslibSECTIONextlangKEYnextpage": {
+      "message": "Nästa sida"
+   },
+   "synojslibSECTIONextlangKEYno": {
+      "message": "Nej"
+   },
+   "synojslibSECTIONextlangKEYnov": {
+      "message": "november"
+   },
+   "synojslibSECTIONextlangKEYoct": {
+      "message": "oktober"
+   },
+   "synojslibSECTIONextlangKEYok": {
+      "message": "OK"
+   },
+   "synojslibSECTIONextlangKEYpagenodata": {
+      "message": "Inga data "
+   },
+   "synojslibSECTIONextlangKEYprevmonth": {
+      "message": "Föregående månad (Control+vänsterpil)"
+   },
+   "synojslibSECTIONextlangKEYprevpage": {
+      "message": "Föregående sida"
+   },
+   "synojslibSECTIONextlangKEYrefresh": {
+      "message": "Ladda om"
+   },
+   "synojslibSECTIONextlangKEYsaturday": {
+      "message": "Lördag"
+   },
+   "synojslibSECTIONextlangKEYsep": {
+      "message": "september"
+   },
+   "synojslibSECTIONextlangKEYshow_password": {
+      "message": "Visa"
+   },
+   "synojslibSECTIONextlangKEYsortAscText": {
+      "message": "Sortera stigande"
+   },
+   "synojslibSECTIONextlangKEYsortDescText": {
+      "message": "Sortera fallande "
+   },
+   "synojslibSECTIONextlangKEYsunday": {
+      "message": "Söndag"
+   },
+   "synojslibSECTIONextlangKEYthursday": {
+      "message": "Torsdag"
+   },
+   "synojslibSECTIONextlangKEYtime_format": {
+      "message": "H:M"
+   },
+   "synojslibSECTIONextlangKEYtodayText": {
+      "message": "Idag"
+   },
+   "synojslibSECTIONextlangKEYtodayTip": {
+      "message": "{0} (mellanslag)"
+   },
+   "synojslibSECTIONextlangKEYtuesday": {
+      "message": "Tisdag"
+   },
+   "synojslibSECTIONextlangKEYunlockText": {
+      "message": "Lås upp kolumn"
+   },
+   "synojslibSECTIONextlangKEYurlText": {
+      "message": "Detta fält bör innehålla en URL-adress, t.ex.: http://www.domain.com."
+   },
+   "synojslibSECTIONextlangKEYwednesday": {
+      "message": "Onsdag"
+   },
+   "synojslibSECTIONextlangKEYyes": {
+      "message": "Ja"
+   },
+   "synojslibSECTIONuicommonKEYadd_time": {
+      "message": "Lägg till tid"
+   },
+   "synojslibSECTIONuicommonKEYadvanced_search": {
+      "message": "Avancerad sökning"
+   },
+   "synojslibSECTIONuicommonKEYap_mac_filter_mac_err": {
+      "message": "Ange korrekt MAC-adress"
+   },
+   "synojslibSECTIONuicommonKEYap_mac_filter_mac_used": {
+      "message": "MAC-adressen finns redan."
+   },
+   "synojslibSECTIONuicommonKEYbandwidth_enable": {
+      "message": "Aktivera hastighetsgräns"
+   },
+   "synojslibSECTIONuicommonKEYbrowse": {
+      "message": "Bläddra"
+   },
+   "synojslibSECTIONuicommonKEYdesktop": {
+      "message": "Skrivbord"
+   },
+   "synojslibSECTIONuicommonKEYdisable_limit": {
+      "message": "Ingen hastighetsgräns"
+   },
+   "synojslibSECTIONuicommonKEYdisable_limit_group": {
+      "message": "Ingen hastighetsgräns"
+   },
+   "synojslibSECTIONuicommonKEYdisable_limit_user": {
+      "message": "Tillämpa gruppinställningar"
+   },
+   "synojslibSECTIONuicommonKEYedit": {
+      "message": "Redigera"
+   },
+   "synojslibSECTIONuicommonKEYempty_grid": {
+      "message": "Inga data"
+   },
+   "synojslibSECTIONuicommonKEYenable_column_checked": {
+      "message": "Markerad"
+   },
+   "synojslibSECTIONuicommonKEYenable_column_grayed": {
+      "message": "Delvis markerad"
+   },
+   "synojslibSECTIONuicommonKEYenable_column_unchecked": {
+      "message": "Inte markerad"
+   },
+   "synojslibSECTIONuicommonKEYerr_creating_volume": {
+      "message": "Bearbetar volyminställningarna. Var vänlig försök igen senare när det är klart."
+   },
+   "synojslibSECTIONuicommonKEYerr_disk_secure_erasing": {
+      "message": "Systemet kan inte stängs av, startas om eller uppdateras när Secure Erase utförs. Vänligen försök igen när åtgärden är slutförd."
+   },
+   "synojslibSECTIONuicommonKEYerr_dsm_upgrading": {
+      "message": "Systemet kan inte stängas av eller startas om eftersom en _OSNAME_-uppdatering pågår."
+   },
+   "synojslibSECTIONuicommonKEYerr_processing_share_setting": {
+      "message": "Bearbetar inställningar för delad mapp. Försök igen senare."
+   },
+   "synojslibSECTIONuicommonKEYerror_demo": {
+      "message": "Denna funktion är inte tillgänglig i demoläget."
+   },
+   "synojslibSECTIONuicommonKEYerror_noprivilege": {
+      "message": "Du saknar rättigheter att använda den här tjänsten."
+   },
+   "synojslibSECTIONuicommonKEYerror_occupied": {
+      "message": "Ett annat paket konfigureras eller installeras. Försök igen senare."
+   },
+   "synojslibSECTIONuicommonKEYerror_relogin": {
+      "message": "Du har loggat in på en annan dator. Vänligen logga in igen."
+   },
+   "synojslibSECTIONuicommonKEYerror_system": {
+      "message": "Det går inte att utföra den här åtgärden. Försök igen senare."
+   },
+   "synojslibSECTIONuicommonKEYerror_timeout": {
+      "message": "Anslutningen har upphört gälla. Logga in på _OSNAME_ igen."
+   },
+   "synojslibSECTIONuicommonKEYerror_unauth": {
+      "message": "Din inloggning är ogiltig. Logga in igen."
+   },
+   "synojslibSECTIONuicommonKEYgoto_page": {
+      "message": "Gå till sidan {0}"
+   },
+   "synojslibSECTIONuicommonKEYgrid_record_count": {
+      "message": "{0} objekt."
+   },
+   "synojslibSECTIONuicommonKEYinvalid_time": {
+      "message": "Ogiltigt tidsformat."
+   },
+   "synojslibSECTIONuicommonKEYitem": {
+      "message": "objekt"
+   },
+   "synojslibSECTIONuicommonKEYitems": {
+      "message": "objekt"
+   },
+   "synojslibSECTIONuicommonKEYlimit_customize": {
+      "message": "Hastighetsbegränsning 2"
+   },
+   "synojslibSECTIONuicommonKEYlimit_default": {
+      "message": "Hastighetsbegränsning 1"
+   },
+   "synojslibSECTIONuicommonKEYlogout": {
+      "message": "Logga ut"
+   },
+   "synojslibSECTIONuicommonKEYmsg_waiting": {
+      "message": "Bearbetar. Vänligen vänta ..."
+   },
+   "synojslibSECTIONuicommonKEYnext_x_pages": {
+      "message": "Nästa {0} sidor"
+   },
+   "synojslibSECTIONuicommonKEYoff": {
+      "message": "OFF"
+   },
+   "synojslibSECTIONuicommonKEYon": {
+      "message": "ON"
+   },
+   "synojslibSECTIONuicommonKEYpoweroff_opt": {
+      "message": "Stäng av"
+   },
+   "synojslibSECTIONuicommonKEYpre_x_pages": {
+      "message": "Föregående {0} sidor"
+   },
+   "synojslibSECTIONuicommonKEYreboot_opt": {
+      "message": "Starta om"
+   },
+   "synojslibSECTIONuicommonKEYreboot_warn": {
+      "message": "Är du säker på att du vill starta om?"
+   },
+   "synojslibSECTIONuicommonKEYremove": {
+      "message": "Ta bort"
+   },
+   "synojslibSECTIONuicommonKEYschedule_abbre_fri": {
+      "message": "Fre"
+   },
+   "synojslibSECTIONuicommonKEYschedule_abbre_mon": {
+      "message": "Mån "
+   },
+   "synojslibSECTIONuicommonKEYschedule_abbre_sat": {
+      "message": "Lör"
+   },
+   "synojslibSECTIONuicommonKEYschedule_abbre_sun": {
+      "message": "Sön"
+   },
+   "synojslibSECTIONuicommonKEYschedule_abbre_thu": {
+      "message": "Tor"
+   },
+   "synojslibSECTIONuicommonKEYschedule_abbre_tue": {
+      "message": "Tis "
+   },
+   "synojslibSECTIONuicommonKEYschedule_abbre_wed": {
+      "message": "Ons "
+   },
+   "synojslibSECTIONuicommonKEYschedule_daily": {
+      "message": "Varje dag"
+   },
+   "synojslibSECTIONuicommonKEYschedule_fri": {
+      "message": "Fredag"
+   },
+   "synojslibSECTIONuicommonKEYschedule_mon": {
+      "message": "Måndag"
+   },
+   "synojslibSECTIONuicommonKEYschedule_sat": {
+      "message": "Lördag"
+   },
+   "synojslibSECTIONuicommonKEYschedule_sun": {
+      "message": "Söndag"
+   },
+   "synojslibSECTIONuicommonKEYschedule_thu": {
+      "message": "Torsdag"
+   },
+   "synojslibSECTIONuicommonKEYschedule_tue": {
+      "message": "Tisdag"
+   },
+   "synojslibSECTIONuicommonKEYschedule_wed": {
+      "message": "Onsdag"
+   },
+   "synojslibSECTIONuicommonKEYschedule_weekdays": {
+      "message": "veckodagar"
+   },
+   "synojslibSECTIONuicommonKEYschedule_weekend": {
+      "message": "Helg "
+   },
+   "synojslibSECTIONuicommonKEYsearch": {
+      "message": "Sök"
+   },
+   "synojslibSECTIONuicommonKEYsearching": {
+      "message": "Söker..."
+   },
+   "synojslibSECTIONuicommonKEYshutdown_warn": {
+      "message": "Är du säker på att du vill stänga av?"
+   },
+   "synojslibSECTIONuicommonKEYsuperboxselect_hint": {
+      "message": "Tryck på tangenten med en nedåtpil för att visa alla objekt för valet. Tryck på tangenten med en vänsterpil för att kontrollera dina val."
+   },
+   "synojslibSECTIONuicommonKEYsystem_poweroff": {
+      "message": "_DISKSTATION_ kommer snart att stängas av."
+   },
+   "synojslibSECTIONuicommonKEYsystem_reboot": {
+      "message": "_DISKSTATION_ startas om."
+   },
+   "synojslibSECTIONuicommonKEYsystem_reboot_timeout": {
+      "message": "_DISKSTATION_ startas om. När omstarten är färdig kan du använda \u003Ca class=\"link-font\" href=\"https://find.synology.com\" target=\"_blank\">Web Assistant\u003C/a> eller Synology Assistant för att söka efter och ansluta till _DISKSTATION_."
+   },
+   "synojslibSECTIONuicommonKEYtime_hour": {
+      "message": "timmar"
+   },
+   "synojslibSECTIONuicommonKEYtime_min": {
+      "message": "minuter"
+   },
+   "synojslibSECTIONuicommonKEYtime_sec": {
+      "message": "sekunder"
+   },
+   "synojslibSECTIONuicommonKEYtimediff_day": {
+      "message": "{0} dag sedan"
+   },
+   "synojslibSECTIONuicommonKEYtimediff_days": {
+      "message": "{0} dagar sedan"
+   },
+   "synojslibSECTIONuicommonKEYtimediff_hour": {
+      "message": "{0} timme sedan"
+   },
+   "synojslibSECTIONuicommonKEYtimediff_hours": {
+      "message": "{0} timmar sedan"
+   },
+   "synojslibSECTIONuicommonKEYtimediff_minute": {
+      "message": "{0} minut sedan"
+   },
+   "synojslibSECTIONuicommonKEYtimediff_minutes": {
+      "message": "{0} minuter sedan"
+   },
+   "synojslibSECTIONuicommonKEYtimediff_second": {
+      "message": "{0} sekund sedan"
+   },
+   "synojslibSECTIONuicommonKEYtimediff_seconds": {
+      "message": "{0} sekunder sedan"
+   },
+   "synojslibSECTIONuicommonKEYwelcome": {
+      "message": "Välkommen"
+   },
+   "synojslibSECTIONvtypeKEYbad_adminname": {
+      "message": "The administrator account is invalid or it contains invalid characters."
+   },
+   "synojslibSECTIONvtypeKEYbad_alias": {
+      "message": "Det alias du angav är felaktigt."
+   },
+   "synojslibSECTIONvtypeKEYbad_backup_destination": {
+      "message": "Säkerhetskopieringsmålets namn är ogiltigt eller innehåller ogiltiga tecken."
+   },
+   "synojslibSECTIONvtypeKEYbad_backup_target": {
+      "message": "Målets namn är ogiltigt eller innehåller ogiltiga tecken."
+   },
+   "synojslibSECTIONvtypeKEYbad_cidr": {
+      "message": "Det CIDR du angav är ogiltigt."
+   },
+   "synojslibSECTIONvtypeKEYbad_cidr_hostname": {
+      "message": "Det CIDR eller värdnamnet du angav är ogiltigt."
+   },
+   "synojslibSECTIONvtypeKEYbad_dar_profile_name": {
+      "message": "Använd endast bokstäver, siffror och mellanslag. Använd inte reserverade ord såsom \u003Cb>template\u003C/b>, \u003Cb>lang\u003C/b> och \u003Cb>global\u003C/b>. Namnet kan inte börja eller sluta med ett mellanslag."
+   },
+   "synojslibSECTIONvtypeKEYbad_ddns_noip_alphanumspace": {
+      "message": "endast alfanumeriska och mellanslag"
+   },
+   "synojslibSECTIONvtypeKEYbad_ddns_noip_password": {
+      "message": "Tecknen +,?,%,& är inte tillåtna."
+   },
+   "synojslibSECTIONvtypeKEYbad_devicename": {
+      "message": "Enhetens namn är ogiltigt eller innehåller ogiltiga tecken."
+   },
+   "synojslibSECTIONvtypeKEYbad_domain_name": {
+      "message": "Ogiltigt domännamn"
+   },
+   "synojslibSECTIONvtypeKEYbad_email": {
+      "message": "Ogiltigt e-postformat."
+   },
+   "synojslibSECTIONvtypeKEYbad_event_task_name": {
+      "message": "Ett uppgiftsnamn kan bara innehålla engelska tecken, nummer och mellanslag; det kan inte börja/sluta med mellanslag."
+   },
+   "synojslibSECTIONvtypeKEYbad_field": {
+      "message": "Fältvärdet är ogiltigt."
+   },
+   "synojslibSECTIONvtypeKEYbad_fwname": {
+      "message": "Detta namn på regel för brandvägg är ogiltigt. Ange ett annat namn."
+   },
+   "synojslibSECTIONvtypeKEYbad_groupname": {
+      "message": "Gruppnamnet är ogiltigt eller innehåller ogiltiga tecken."
+   },
+   "synojslibSECTIONvtypeKEYbad_host": {
+      "message": "Ogiltigt värdnamn. Värdnamnet kan bara innehålla bokstäver, siffror, understreck (_) och streck (-) och måste börja med en bokstav."
+   },
+   "synojslibSECTIONvtypeKEYbad_hostname": {
+      "message": "Ogiltigt värdnamnsformat."
+   },
+   "synojslibSECTIONvtypeKEYbad_ip": {
+      "message": "IP-adressen du har angivit är ogiltig."
+   },
+   "synojslibSECTIONvtypeKEYbad_iporhostname": {
+      "message": "Ogiltigt IP- eller värdnamn."
+   },
+   "synojslibSECTIONvtypeKEYbad_ipv6prefixLeng": {
+      "message": "OgiltigtIPv6-prefix."
+   },
+   "synojslibSECTIONvtypeKEYbad_iscsi_hostname": {
+      "message": "Värdnamn får endast innehålla bokstäver, siffror, kolon (:), bindestreck (-) och punkter (.)."
+   },
+   "synojslibSECTIONvtypeKEYbad_iscsi_lunname": {
+      "message": "LUN-namnet du angivit är ogiltigt. Se Hjälp för mer information."
+   },
+   "synojslibSECTIONvtypeKEYbad_iscsi_password": {
+      "message": "Lösenord måste vara mellan 12 och 16 tecken långa."
+   },
+   "synojslibSECTIONvtypeKEYbad_iscsi_targetiqn": {
+      "message": "Det iSCSI Target IQN du angivit är ogiltigt, se Hjälp för mer information."
+   },
+   "synojslibSECTIONvtypeKEYbad_iscsi_targetname": {
+      "message": "Target-namnet du angivit är ogiltigt, se Hjälp för mer information."
+   },
+   "synojslibSECTIONvtypeKEYbad_iscsi_username": {
+      "message": "Endast siffror och engelska bokstäver. Högst 12 tecken."
+   },
+   "synojslibSECTIONvtypeKEYbad_mac": {
+      "message": "Ange en korrekt MAC-adress."
+   },
+   "synojslibSECTIONvtypeKEYbad_mask": {
+      "message": "Subnätmasken du har angivit är ogiltig."
+   },
+   "synojslibSECTIONvtypeKEYbad_netbkp_module": {
+      "message": "Modulnamnet får inte innehålla specialtecknen: / \\ # [ ] \u003C > \""
+   },
+   "synojslibSECTIONvtypeKEYbad_networkgroupname": {
+      "message": "Arbetsgruppens namn är ogiltigt eller innehåller ogiltiga tecken."
+   },
+   "synojslibSECTIONvtypeKEYbad_number": {
+      "message": "Talet kan inte börja med 0 och måste vara ett heltal."
+   },
+   "synojslibSECTIONvtypeKEYbad_port": {
+      "message": "Portnumret måste ligga mellan 1 och 65535."
+   },
+   "synojslibSECTIONvtypeKEYbad_relay_alias_name": {
+      "message": "QuickConnect ID får bara innehålla engelska bokstäver, nummer och bindestreck (-). Det måste börja med en bokstav och får inte sluta med ett bindestreck."
+   },
+   "synojslibSECTIONvtypeKEYbad_sharename": {
+      "message": "Den delade mappens namn innehåller ogiltiga tecken, börjar eller slutar med ett mellanslag eller är reserverat för systemet. Vänligen se Hjälp för mer information om regler för namngivning."
+   },
+   "synojslibSECTIONvtypeKEYbad_taskname": {
+      "message": "Uppgiftens namn är ogiltig eller innehåller ogiltiga tecken."
+   },
+   "synojslibSECTIONvtypeKEYbad_url": {
+      "message": "Ogiltigt URL-format."
+   },
+   "synojslibSECTIONvtypeKEYbad_urlblocker_profile": {
+      "message": "The URL Blocker profile's name is invalid"
+   },
+   "synojslibSECTIONvtypeKEYbad_username": {
+      "message": "Användarnamnet är ogiltigt eller innehåller ogiltiga tecken."
+   },
+   "synojslibSECTIONvtypeKEYbad_v6ip": {
+      "message": "Ogiltig IPv6-adress."
+   },
+   "synojslibSECTIONvtypeKEYpassword_confirm_failed": {
+      "message": "Kunde ej bekräfta lösenordet. Ange lösenordet igen."
+   },
+   "synojslibSECTIONwizardKEYbtnback": {
+      "message": "Bakåt"
+   },
+   "synojslibSECTIONwizardKEYbtncancel": {
+      "message": "Avbryt"
+   },
+   "synojslibSECTIONwizardKEYbtnfinish": {
+      "message": "Klart"
+   },
+   "synojslibSECTIONwizardKEYbtnnext": {
+      "message": "Nästa"
+   },
+   "synojslibSECTIONwizardKEYfinaldescr": {
+      "message": "Klicka på {0} för att stänga fönstret"
+   },
+   "synojslibSECTIONwizardKEYnextdescr": {
+      "message": "Klicka {0} för att fortsätta."
+   }
+}

@@ -1,0 +1,4 @@
+[2022-08-25 09:42:19.632] [main] [info] update#ctor - updates are disabled as there is no update URL
+[2022-08-25 09:42:21.651] [main] [info] Starting extension host with pid 48358 (fork() took 43 ms).
+[2022-08-26 11:01:51.281] [main] [info] Extension host with pid 48358 exited with code: 0, signal: null.
+[2022-08-26 11:01:51.288] [main] [info] Waiting for extension host with pid 48358 to exit.

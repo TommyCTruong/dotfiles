@@ -1,0 +1,6 @@
+2022/08/24-10:14:19.422 1c520 Creating DB /home/tam/.config/google-chrome/Default/IndexedDB/https_techviewleo.com_0.indexeddb.leveldb since it was missing.
+2022/08/24-10:14:19.449 1c520 Reusing MANIFEST /home/tam/.config/google-chrome/Default/IndexedDB/https_techviewleo.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/24-10:37:18.965 1c503 Level-0 table #5: started
+2022/08/24-10:37:18.975 1c503 Level-0 table #5: 826 bytes OK
+2022/08/24-10:37:18.990 1c503 Delete type=0 #3
+2022/08/24-10:37:18.990 1c503 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

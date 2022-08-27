@@ -1,0 +1,43 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "background.bundle.js" ]
+   },
+   "browser_action": {
+      "default_icon": "icon-128.png",
+      "default_popup": "popup.html"
+   },
+   "commands": {
+      "open-dashboard": {
+         "description": "Open the Automa dashboard",
+         "suggested_key": {
+            "default": "Ctrl+Shift+A",
+            "mac": "MacCtrl+Shift+A"
+         }
+      }
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "contentScript.bundle.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": false,
+      "js": [ "webService.bundle.js" ],
+      "matches": [ "http://localhost/*", "*://*.automa.site/*", "*://automa.vercel.app/*" ],
+      "run_at": "document_start"
+   } ],
+   "description": "An extension for automating your browser by connecting blocks",
+   "differential_fingerprint": "1.98359f56abae71993c3bcf3472c1e6237c75355da3ce525740883737df60552f",
+   "icons": {
+      "128": "icon-128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjELTsup/T477ms/CNpxYjHHDzO2QTxvr6Qz05u9fnM5zzKv4f8g8vT/wKq42x/smvYXzn57TYOcT7ZSpsZjs8USZMHus65vFpt8LrArVRc+3r1BBWA1iD1fr8XVJyDHvkB3GMDbbr6jrkewf2ikjPqst5POgxPegKQtfVKzoX+3i9AMSqE9AwkM0uvclYplptbCzQ/PYxFLzjHVnEUSGIoz7qtTI2EHi7i0nTXq7knC6mChF7LNL4uMg/MNlKqZk8Kglq/EtGMV/S/vgDm6u98gmxhhOPd4vfyuiBCBKp+W9s10q6kdqctqm+zMYvJXCRlAYHkKkDOpb6h1kkSJIFwIDAQAB",
+   "manifest_version": 2,
+   "name": "Automa",
+   "optional_permissions": [ "clipboardRead", "downloads", "contextMenus", "notifications", "cookies" ],
+   "permissions": [ "tabs", "proxy", "alarms", "storage", "debugger", "webNavigation", "unlimitedStorage", "\u003Call_urls>" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.16.7",
+   "web_accessible_resources": [ "/elementSelector.css", "/Inter-roman-latin.var.woff2", "/icon-128.png", "/locales/*", "elementSelector.bundle.js" ]
+}

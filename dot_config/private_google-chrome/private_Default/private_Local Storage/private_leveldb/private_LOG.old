@@ -1,0 +1,6 @@
+2022/08/24-20:01:31.068 5 Reusing MANIFEST /home/tam/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2022/08/24-20:01:31.070 5 Recovering log #808
+2022/08/24-20:01:31.073 5 Reusing old log /home/tam/.config/google-chrome/Default/Local Storage/leveldb/000808.log 
+2022/08/24-20:12:51.525 7 Level-0 table #813: started
+2022/08/24-20:12:51.536 7 Level-0 table #813: 32836 bytes OK
+2022/08/24-20:12:51.553 7 Delete type=0 #808

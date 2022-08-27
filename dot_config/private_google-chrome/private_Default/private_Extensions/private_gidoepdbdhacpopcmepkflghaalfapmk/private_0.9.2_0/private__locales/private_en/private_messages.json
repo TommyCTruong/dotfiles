@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "text",
+      "message": "Create custom QR-Codes with Logo, Color and more for free. This QR-Code-Generator saves in print quality and vector graphics."
+   },
+   "appName": {
+      "description": "QRCode Monkey title",
+      "message": "QRCode Monkey - Free QR Code Generator"
+   }
+}

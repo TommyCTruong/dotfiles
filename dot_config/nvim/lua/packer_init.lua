@@ -62,15 +62,17 @@ return packer.startup(function(use)
   use {
     'vimwiki/vimwiki',
     config = function()
+      vim.g.vimwiki_global_ext = 0
       vim.g.vimwiki_list = {
         {
           path = '~/wiki/',
           syntax = 'markdown',
-          ext  = '.md',
+          ext  = '.wiki',
         }
       }
       vim.g.vimwiki_ext2syntax = {
         ['.md'] = 'markdown',
+        ['.wiki'] = 'markdown',
         ['.markdown'] = 'markdown',
         ['.mdown'] = 'markdown',
       }

@@ -1,0 +1,6 @@
+2022/08/24-20:01:31.071 570 Reusing MANIFEST /home/tam/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2022/08/24-20:01:31.072 570 Recovering log #200
+2022/08/24-20:01:31.081 570 Reusing old log /home/tam/.config/google-chrome/Default/Sync Data/LevelDB/000200.log 
+2022/08/24-21:33:45.341 6904 Level-0 table #204: started
+2022/08/24-21:33:45.365 6904 Level-0 table #204: 111363 bytes OK
+2022/08/24-21:33:45.406 6904 Delete type=0 #200

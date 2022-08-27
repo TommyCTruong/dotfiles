@@ -1,0 +1,18 @@
+session_name: tmuxp
+windows:
+- window_name: tmuxp
+  focus: True
+  layout: main-vertical
+  panes:
+  - focus: true
+  - pane 
+  - make watch_test
+- window_name: docs
+  layout: main-horizontal
+  options:
+    main-pane-height: 35
+  panes:
+  - focus: true
+  - pane
+  - pane
+  - make start
