@@ -39,8 +39,6 @@
       <property name="plugin-ids" type="array">
         <value type="int" value="10"/>
         <value type="int" value="12"/>
-        <value type="int" value="15"/>
-        <value type="int" value="16"/>
         <value type="int" value="13"/>
         <value type="int" value="20"/>
         <value type="int" value="11"/>
@@ -117,16 +115,6 @@
       <property name="style" type="uint" value="0"/>
     </property>
     <property name="plugin-14" type="string" value="thunar-tpa"/>
-    <property name="plugin-15" type="string" value="launcher">
-      <property name="items" type="array">
-        <value type="string" value="16604987391.desktop"/>
-      </property>
-    </property>
-    <property name="plugin-16" type="string" value="launcher">
-      <property name="items" type="array">
-        <value type="string" value="16604987752.desktop"/>
-      </property>
-    </property>
     <property name="clipman" type="empty">
       <property name="settings" type="empty">
         <property name="add-primary-clipboard" type="bool" value="true"/>
@@ -143,12 +131,10 @@
     <property name="plugin-18" type="string" value="windowmenu"/>
     <property name="plugin-19" type="string" value="launcher">
       <property name="items" type="array">
-        <value type="string" value="16611810051.desktop"/>
       </property>
     </property>
     <property name="plugin-20" type="string" value="launcher">
       <property name="items" type="array">
-        <value type="string" value="16611810162.desktop"/>
       </property>
     </property>
   </property>
