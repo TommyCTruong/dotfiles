@@ -1,0 +1,7 @@
+# file is /etc/systemd/network/2-br0-dhcp.network
+
+[Match]
+Name=br0
+
+[Network]
+DHCP=ipv4

@@ -1,0 +1,7 @@
+# file is 1-br0-bind.network
+
+[Match]
+Name=enp0s25
+
+[Network]
+Bridge=br0
