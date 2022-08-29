@@ -32,3 +32,4 @@ watchexec
 xdotool
 xscreensaver
 zoxide
+zsh
