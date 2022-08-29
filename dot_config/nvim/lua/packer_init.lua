@@ -70,12 +70,6 @@ return packer.startup(function(use)
           ext  = '.wiki',
         }
       }
-      vim.g.vimwiki_ext2syntax = {
-        ['.md'] = 'markdown',
-        ['.wiki'] = 'markdown',
-        ['.markdown'] = 'markdown',
-        ['.mdown'] = 'markdown',
-      }
     end
   }
   -- Icons
