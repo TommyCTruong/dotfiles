@@ -3,6 +3,7 @@ bat
 base-devel
 bottom
 broot
+dnsutils
 dust
 exa
 fd
