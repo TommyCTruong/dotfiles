@@ -43,6 +43,7 @@ alias pseek="sudo pacman -Ss"
 
 ######## Misc #####
 #alias cp="rsync -avz --progress"
+alias n="nnn -d"
 alias rcp="rsync -avhW --no-compress --progress --info=progress2"
 alias distro='cat /etc/*-release'
 alias 1="xdotool set_desktop 0"
