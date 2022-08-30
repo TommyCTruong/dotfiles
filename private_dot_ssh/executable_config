@@ -32,3 +32,9 @@ Host github
   Port 22
   IdentityFile ~/.ssh/id_rsa_github
   IdentitiesOnly yes
+Host unifi
+  HostName 192.168.1.11
+  User bamboo123
+  Port 22
+  IdentityFile ~/.ssh/id_rsa
+  IdentitiesOnly yes
