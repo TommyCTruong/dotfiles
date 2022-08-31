@@ -43,7 +43,7 @@ alias pseek="sudo pacman -Ss"
 
 ######## Misc #####
 #alias cp="rsync -avz --progress"
-alias v="vi -o ~/index.wiki -O ~/wiki/diary/diary.wiki"
+alias v="vi -o ~/wiki/index.wiki -O ~/wiki/diary/diary.wiki"
 alias unifi="ssh -o HostKeyAlgorithms=+ssh-rsa bamboo123@192.168.1.11"
 alias create_account="sudo useradd -m -G wheel -s /bin/bash"
 alias n="nnn -d"
