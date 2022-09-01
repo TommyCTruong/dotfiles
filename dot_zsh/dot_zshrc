@@ -44,3 +44,4 @@ preexec() { print -Pn "\e]0;$1%~\a" }
 autoload -z edit-command-line
 zle -N edit-command-line
 bindkey "^X^E" edit-command-line
+source "$HOME/.zsh/plugins/zsh-system-clipboard/zsh-system-clipboard.zsh"
