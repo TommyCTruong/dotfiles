@@ -45,3 +45,4 @@ autoload -z edit-command-line
 zle -N edit-command-line
 bindkey "^X^E" edit-command-line
 #source "$HOME/.zsh/plugins/zsh-system-clipboard/zsh-system-clipboard.zsh"
+source ~/.zsh/plugins/zsh-vimode-visual/zsh-vimode-visual.zsh
