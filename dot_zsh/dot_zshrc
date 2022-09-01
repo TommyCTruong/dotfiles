@@ -45,4 +45,8 @@ autoload -z edit-command-line
 zle -N edit-command-line
 bindkey "^X^E" edit-command-line
 #source "$HOME/.zsh/plugins/zsh-system-clipboard/zsh-system-clipboard.zsh"
-
+zvm_vi_yank () {
+	zvm_yank
+	printf %s "${CUTBUFFER}" | xclip -sel c
+	zvm_exit_visual_mode
+}
