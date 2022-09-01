@@ -50,6 +50,8 @@ zvm_vi_yank () {
 	printf %s "${CUTBUFFER}" | xclip -sel c
 	zvm_exit_visual_mode
 }
-### Autopair ###
+### Marvim
+source ~/.zsh/plugins/marvim/plugin/marvim.vim
+### Autopair ####
 source ~/.zsh/plugins/.zsh-autopair/autopair.zsh
 autopair-init
