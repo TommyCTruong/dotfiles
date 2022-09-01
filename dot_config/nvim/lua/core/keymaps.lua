@@ -29,7 +29,8 @@ map('', '<right>', '<nop>')
 
 -- Map Esc to kk
 map('i', 'kk', '<Esc>')
-
+-- Map C-w, v to vertical window as default
+map('n', '<C-w>n', ':vnew<CR>')
 -- Clear search highlighting with <leader> and c
 map('n', '<leader>c', ':nohl<CR>')
 
