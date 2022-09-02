@@ -53,5 +53,5 @@ zvm_vi_yank () {
 ### Autopair ####
 source ~/.zsh/plugins/.zsh-autopair/autopair.zsh
 ### private functions
-soure ./functions.sh
+source ./functions.sh
 autopair-init
