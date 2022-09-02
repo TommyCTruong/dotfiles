@@ -80,6 +80,9 @@ return packer.startup(function(use)
       }
     end
   }
+--vim.cmd([[
+--let @m="^$a tam\<Esc>j"
+--]])
   -- Icons
   use 'kyazdani42/nvim-web-devicons'
 
