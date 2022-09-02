@@ -1,0 +1,5 @@
+# pack-refs with: peeled fully-peeled sorted 
+9f5a47bfc10ce2803f7a6f9fce387bdfe110c219 refs/remotes/origin/fix_store_path_bug
+13e7b0799e42ca22d448f16350a121f8679e9395 refs/remotes/origin/manual_instalation_is_wrong
+a146011e859d166b68edc64341b42729d8b5c5cf refs/remotes/origin/master
+a146011e859d166b68edc64341b42729d8b5c5cf refs/tags/v0.5-Beta
