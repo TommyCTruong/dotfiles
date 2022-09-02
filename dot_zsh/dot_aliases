@@ -3,6 +3,7 @@ alias src="exec zsh"
 #### Wiki ###
 alias wiki="cd ~/wiki; vi ~/wiki/index.wiki"
 alias wupdate="cd ~/wiki; git save; git done"
+alias v="vi -o ~/wiki/index.wiki -O ~/wiki/diary/diary.wiki"
 
 ###### chezmoi #################
 alias ch="chezmoi"
@@ -41,10 +42,16 @@ alias pupdate="sudo pacman -Syu"
 alias plist="sudo pacman -Qe"
 alias pseek="sudo pacman -Ss"
 
+## lsd ##
+alias ls='lsd'
+alias l='ls -l'
+alias la='ls -a'
+alias lla='ls -la'
+alias lt='ls --tree'
+
 ######## Misc #####
 #alias cp="rsync -avz --progress"
 alias g="google"
-alias v="vi -o ~/wiki/index.wiki -O ~/wiki/diary/diary.wiki"
 alias unifi="ssh -o HostKeyAlgorithms=+ssh-rsa bamboo123@192.168.1.11"
 alias create_account="sudo useradd -m -G wheel -s /bin/bash"
 alias n="nnn -d"
@@ -52,8 +59,6 @@ alias rcp="rsync -avhW --no-compress --progress --info=progress2"
 alias distro='cat /etc/*-release'
 alias 1="xdotool set_desktop 0"
 alias 2="xdotool set_desktop 1"
-alias 3="xdotool set_desktop 2"
-alias 4="xdotool set_desktop 3"
 alias move="xdotool set_desktop --relative"
 alias cl=clear
 alias vgit="chezmoi edit --apply ~/.gitconfig;src"
@@ -63,9 +68,6 @@ alias sys="sudo systemctl"
 alias e="nvim"
 alias vi="nvim"
 alias vinit="chezmoi edit --apply /home/tam/.config/nvim/init.lua;src"
-alias l='exa --icons'
-alias ls="exa -la"
-alias ll='ls -la'
 alias cat='bat'
 alias myip="curl ifconfig.me; echo"
 alias shutdown='sudo shutdown now'
