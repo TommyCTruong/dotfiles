@@ -5,13 +5,13 @@ bottom
 broot
 dnsutils
 dust
-exa
 fd
 fzf
 git
 git-delta
 gping
 hyperfine
+lsd
 neofetch
 neovim
 net-tools
