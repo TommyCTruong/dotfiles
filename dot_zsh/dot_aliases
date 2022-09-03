@@ -4,7 +4,7 @@ alias src="exec zsh"
 alias wiki="cd ~/wiki; vi ~/wiki/index.wiki"
 alias wupdate="cd ~/wiki; git save; git done"
 alias v="vi -o ~/wiki/index.wiki -O ~/wiki/diary/diary.wiki"
-
+alias addnvim='ch add ~/.config/nvim'
 ###### chezmoi #################
 alias ch="chezmoi"
 alias addzsh="chezmoi add ~/.zsh"
@@ -73,4 +73,3 @@ alias myip="curl ifconfig.me; echo"
 alias shutdown='sudo shutdown now'
 alias reboot='sudo systemctl reboot'
 alias suspend='sudo pm-suspend'
-
