@@ -44,10 +44,10 @@ alias pseek="sudo pacman -Ss"
 
 ## lsd ##
 alias ls='lsd'
-alias l='ls -l'
-alias la='ls -a'
-alias lla='ls -la'
-alias lt='ls --tree'
+alias l='ls -l lsd --group-dirs first'
+alias la='ls -a lsd --group-dirs first'
+alias lla='ls -la lsd --group-dirs first'
+alias lt='ls --tree lsd --group-dirs first'
 
 ######## Misc #####
 #alias cp="rsync -avz --progress"
