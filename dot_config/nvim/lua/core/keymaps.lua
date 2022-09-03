@@ -1,113 +1,75 @@
+-----------------------------------------------------------
+-- Define keymaps of Neovim and installed plugins.
+-----------------------------------------------------------
 
---[[------------------------------------]]--
---       keymaps - general mappings       --
---             Author: elai               --
---            License: GPLv3              --
---[[------------------------------------]]--
+local function map(mode, lhs, rhs, opts)
+  local options = { noremap = true, silent = true }
+  if opts then
+    options = vim.tbl_extend('force', options, opts)
+  end
+  vim.api.nvim_set_keymap(mode, lhs, rhs, options)
+end
 
--- Shorten function name
-local map = vim.keymap.set
-local opts = { noremap = true, silent = true }
-local term_opts = { silent = true }
+-- Change leader to a comma
+vim.g.mapleader = ','
 
--- Remap space as leader key
-map("", "<Space>", "<Nop>", {})
-vim.g.mapleader = " "
-vim.g.maplocalleader = " "
+-----------------------------------------------------------
+-- Neovim shortcuts
+-----------------------------------------------------------
+--- added by tam ----
+--map('n', 'cp', '"+y')
+--map('n', 'cv', '"+p')
+--map('n', 'x', '"_x')
 
------------------
--- Normal Mode --
------------------
+-- Disable arrow keys
+map('', '<up>', '<nop>')
+map('', '<down>', '<nop>')
+map('', '<left>', '<nop>')
+map('', '<right>', '<nop>')
 
+-- Map Esc to kk
+map('i', 'kk', '<Esc>')
+-- Map C-w, v to vertical window as default
+map('n', '<C-w>n', ':vnew<CR>')
 -- Clear search highlighting with <leader> and c
-map('n', '<leader>h', ':nohl<CR>')
+map('n', '<leader>c', ':nohl<CR>')
 
--- Mappings for moving through splits
-map("n", "<A-h>", "<C-w>h", {})
-map("n", "<A-j>", "<C-w>j", {})
-map("n", "<A-k>", "<C-w>k", {})
-map("n", "<A-l>", "<C-w>l", {})
+-- Toggle auto-indenting for code paste
+map('n', '<F2>', ':set invpaste paste?<CR>')
+vim.opt.pastetoggle = '<F2>'
 
--- Resize current buffer by +/- 2
-map("n", "<C-h>", ":vertical resize +2<cr>", {})
-map("n", "<C-j>", ":resize +2<cr>", {})
-map("n", "<C-k>", ":resize -2<cr>", {})
-map("n", "<C-l>", ":vertical resize -2<cr>", {})
+-- Change split orientation
+map('n', '<leader>tk', '<C-w>t<C-w>K') -- change vertical to horizontal
+map('n', '<leader>th', '<C-w>t<C-w>H') -- change horizontal to vertical
 
--- Alternate way to save and quit nvim
-map("n", "<A-w>", ":w<CR>", {})  -- save file
-map("n", "<A-q>", ":q<CR>", {})  -- quit nvim
-map("n", "<A-1>", ":q!<CR>", {}) -- quit without saving
+-- Move around splits using Ctrl + {h,j,k,l}
+map('n', '<C-h>', '<C-w>h')
+map('n', '<C-j>', '<C-w>j')
+map('n', '<C-k>', '<C-w>k')
+map('n', '<C-l>', '<C-w>l')
 
--- Nvim Comment
-map("n", "<leader>c", ":CommentToggle<CR>", {}) -- Comment One Line
-map("n", "<leader>p", "vip:CommentToggle<CR>", {}) -- Comment A Paragraph
-map("x", "<leader>c", ":'<,'>CommentToggle<CR>", {}) -- Comment Multiple Lines In Visual Mode
+-- Reload configuration without restart nvim --
+map('n', '<leader>r', ':so %<CR>')
 
--- Don't accidently create macros when trying to quit
-map('n', 'Q', 'q', {})
-map('n', 'q', '<nop>', {})
+-- Fast saving with <leader> and s
+map('n', '<leader>w', ':w<CR>')
+map('i', '<leader>w', '<C-c>:w<CR>')
 
--- GitSings
-map('n', "<leader>gp", ":Gitsigns preview_hunk<CR>", {})  -- preview_hunk
-map('n', "<leader>gr", ":Gitsigns reset_buffer<CR>", {})  -- reset_buffer
+-- Close all windows and exit from Neovim with <leader> and q
+map('n', '<leader>q', ':qa!<CR>')
 
--- Toggle Alpha Dashboard
-map('n', "<leader>a", ":set laststatus=3<CR> | :Alpha<CR>", {})
+-----------------------------------------------------------
+-- Applications and Plugins shortcuts
+-----------------------------------------------------------
 
--- Toggle NvimTree
-map("n", "<leader>e", ":NvimTreeToggle<CR>", {})
+-- Terminal mappings
+map('n', '<C-t>', ':Term<CR>', { noremap = true })  -- open
+map('t', '<Esc>', '<C-\\><C-n>')                    -- exit
 
--- Yank entire line
-map("n", "yie", ":<C-u>%y<CR>", {})
+-- NvimTree
+map('n', '<C-n>', ':NvimTreeToggle<CR>')            -- open/close
+map('n', '<leader>f', ':NvimTreeRefresh<CR>')       -- refresh
+map('n', '<leader>n', ':NvimTreeFindFile<CR>')      -- search file
 
--- Packer Update
-map("n", "<leader>u", ":PackerSync<CR>", {})
-
--- Telescope Mappings
-map("n", "<Leader>b", "<cmd>lua require'telescope.builtin'.buffers(require('telescope.themes').get_dropdown({ previewer = false }))<cr>", {}) -- preview buffers
-map("n", "<Leader>of", "<cmd>lua require'telescope.builtin'.oldfiles(require('telescope.themes').get_dropdown({ previewer = false }))<cr>", {}) -- old files
-map("n", "<Leader>f", "<cmd>lua require'telescope.builtin'.find_files(require('telescope.themes').get_dropdown({ previewer = false }))<cr>", {}) -- Find files
-map("n", "<leader>gs", ":Telescope git_status<CR>", {}) -- git status
-
------------------
--- Insert Mode --
------------------
--- Map Escape Key To kj
-map ("i", "kj", "<ESC>", {})
-
--- Fix One [Car] behind
-map ("i", "<Esc>", "<Esc>`^", {})
-
--- Center screen after search
-vim.cmd([[
-nnoremap n nzzzv
-nnoremap N Nzzzv
-]])
-
--- Auto Pairs
-vim.cmd([[
-inoremap ( ()<left>
-inoremap [ []<left>
-inoremap { {}<left>
-inoremap {<CR> {<CR>}<ESC>0
-inoremap {;<CR> {<CR>};<ESC>0
-nnoremap <Leader>o o<Esc>^Da
-nnoremap <Leader>O O<Esc>^Da
-inoremap <expr><TAB> pumvisible() ? "\<C-n>" : "\<TAB>"
-inoremap " ""<left>
-inoremap ' ''<left>
-]])
-
------------------
--- Visual Mode --
------------------
--- Move Text Up And Down
-vim.cmd([[
-nnoremap <C-A-J> :m .+1<CR>==
-nnoremap <C-A-K> :m .-2<CR>==
-inoremap <C-A-J> <Esc>:m .+1<CR>==gi
-inoremap <C-A-K> <Esc>:m .-2<CR>==gi
-vnoremap <C-A-J> :m '>+1<CR>gv=gv
-vnoremap <C-A-K> :m '<-2<CR>gv=gv
-]])
+-- Tagbar
+map('n', '<leader>z', ':TagbarToggle<CR>')          -- open/close
