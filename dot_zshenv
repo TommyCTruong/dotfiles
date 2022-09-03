@@ -1,6 +1,6 @@
 #. "$HOME/.cargo/env"
 ########### new fun new
-export PATH=$HOME/.cargo/bin:$HOME/.zsh/scripts:~/.gdrive-downloader:$PATH
+export PATH=$HOME/go/bin:$HOME/.cargo/bin:$HOME/.zsh/scripts:~/.gdrive-downloader:$PATH
 export XDG_CONFIG_HOME="$HOME/.config"
 export XDG_DATA_HOME="$HOME/.local/share"
 export XDG_CACHE_HOME="$HOME/.cache"
