@@ -1,0 +1,67 @@
+.
+├── lua
+│   ├── core
+│   │   ├── autocmds.lua
+│   │   ├── colors.lua
+│   │   ├── keymaps.lua
+│   │   ├── macros.lua
+│   │   ├── options.lua
+│   │   ├── statusline.lua
+│   │   └── utils.lua
+│   ├── plugins
+│   │   ├── alpha-nvim.lua
+│   │   ├── indent-blankline.lua
+│   │   ├── mason-lspconfig.lua
+│   │   ├── nvim-cmp.lua
+│   │   ├── nvim-lspconfig.lua
+│   │   ├── nvim-tree.lua
+│   │   ├── nvim-treesitter.lua
+│   │   └── vimwiki.lua
+│   └── packer_init.lua
+├── pack
+│   └── packer
+│       └── start
+│           └── packer.nvim
+│               ├── doc
+│               │   └── packer.txt
+│               ├── lua
+│               │   ├── packer
+│               │   │   ├── plugin_types
+│               │   │   │   ├── git.lua
+│               │   │   │   └── local.lua
+│               │   │   ├── async.lua
+│               │   │   ├── clean.lua
+│               │   │   ├── compile.lua
+│               │   │   ├── display.lua
+│               │   │   ├── handlers.lua
+│               │   │   ├── install.lua
+│               │   │   ├── jobs.lua
+│               │   │   ├── load.lua
+│               │   │   ├── log.lua
+│               │   │   ├── luarocks.lua
+│               │   │   ├── plugin_types.lua
+│               │   │   ├── plugin_utils.lua
+│               │   │   ├── result.lua
+│               │   │   ├── snapshot.lua
+│               │   │   ├── update.lua
+│               │   │   └── util.lua
+│               │   └── packer.lua
+│               ├── tests
+│               │   ├── helpers.lua
+│               │   ├── local_plugin_spec.lua
+│               │   ├── minimal.vim
+│               │   ├── packer_plugin_utils_spec.lua
+│               │   ├── packer_use_spec.lua
+│               │   ├── plugin_utils_spec.lua
+│               │   └── snapshot_spec.lua
+│               ├── Dockerfile
+│               ├── LICENSE
+│               ├── Makefile
+│               ├── README.md
+│               ├── selene.toml
+│               ├── stylua.toml
+│               └── vim.toml
+├── plugin
+│   └── packer_compiled.lua
+├── init.lua
+└── t.txt
