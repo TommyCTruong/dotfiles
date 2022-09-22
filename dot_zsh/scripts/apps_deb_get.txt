@@ -1,0 +1,5 @@
+du-dust
+fd
+git-delta
+lsd
+bottom

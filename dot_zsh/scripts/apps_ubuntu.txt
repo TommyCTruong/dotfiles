@@ -1,0 +1,12 @@
+ccrypt
+zoxide
+ripgrep
+bat
+duf
+alacritty
+fzf
+hyperfine
+neofetch
+rofi
+thefuck
+tmux
