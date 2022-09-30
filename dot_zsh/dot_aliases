@@ -51,7 +51,7 @@ alias lt='ls --tree  --group-dirs first'
 
 ######## Misc #####
 #alias cp="rsync -avz --progress"
-#alias yay='paru'
+##alias yay='paru'
 alias g="google"
 alias unifi="ssh -o HostKeyAlgorithms=+ssh-rsa bamboo123@192.168.1.11"
 alias create_account="sudo useradd -m -G wheel -s /bin/bash"
