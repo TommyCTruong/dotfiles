@@ -32,7 +32,7 @@ alias wgd="sudo wg-quick down wg0"
 #### debian #################
 alias dupdate="sudo apt update && sudo apt upgrade -y"
 ##############################
-
+alias k='cd ~/.config/kitty/'
 ##### pacman ##########
 ## make a directory and  cd into
 alias killterm="killall alacritty"
