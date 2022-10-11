@@ -1,0 +1,76 @@
+alias src="exec zsh"
+#alias src="source ~/.zsh/.zshrc"
+#### Wiki ###
+alias wiki="cd ~/wiki; vi ~/wiki/index.wiki"
+alias wupdate="cd ~/wiki; git save; git done"
+alias v="vi -o ~/wiki/index.wiki -O ~/wiki/diary/diary.wiki"
+alias addnvim='ch add ~/.config/nvim'
+###### chezmoi #################
+alias ch="chezmoi"
+alias addzsh="chezmoi add ~/.zsh"
+alias readd="chezmoi re-add"
+alias cs="chezmoi status"
+alias valias="chezmoi edit --apply ~/.zsh/.aliases; src"
+alias vtmux="chezmoi edit --apply ~/.tmux.conf; src"
+alias venv="chezmoi edit --apply ~/.zshenv; source ~/.zshenv;src"
+alias zshadd="chezmoi add  ~/.zsh/"
+alias ce="chezmoi edit --apply"
+alias ca="chezmoi apply -v"
+alias cdiff="chezmoi diff"
+alias vzsh="chezmoi edit --apply ~/.zsh/.zshrc;src"
+alias ccd="cd ~/.local/share/chezmoi"
+alias add="chezmoi add"
+
+###### Tmux ###################################
+alias mux="tmuxp load dev"
+alias kmux="tmux kill-session"
+
+######## Wireguard ###################
+alias wgu="sudo wg-quick up wg0"
+alias wgd="sudo wg-quick down wg0"
+
+#### debian #################
+alias dupdate="sudo apt update && sudo apt upgrade -y"
+##############################
+alias k='cd ~/.config/kitty/'
+##### pacman ##########
+## make a directory and  cd into
+alias killterm="killall alacritty"
+alias pi="sudo pacman -S --noconfirm --needed"
+alias pu="sudo pacman -R"
+alias pupdate="sudo pacman -Syu"
+alias plist="sudo pacman -Qe"
+alias pseek="sudo pacman -Ss"
+
+## lsd ##
+alias ls='lsd'
+alias l='ls -l --group-dirs first'
+alias la='ls -a  --group-dirs first'
+alias lla='ls -la  --group-dirs first'
+alias lt='ls --tree  --group-dirs first'
+
+######## Misc #####
+#alias cp="rsync -avz --progress"
+##alias yay='paru'
+alias g="google"
+alias unifi="ssh -o HostKeyAlgorithms=+ssh-rsa bamboo123@192.168.1.11"
+alias create_account="sudo useradd -m -G wheel -s /bin/bash"
+alias n="nnn -d"
+alias rcp="rsync -avhW --no-compress --progress --info=progress2"
+alias distro='cat /etc/*-release'
+alias 1="xdotool set_desktop 0"
+alias 2="xdotool set_desktop 1"
+alias move="xdotool set_desktop --relative"
+alias cl=clear
+alias vgit="chezmoi edit --apply ~/.gitconfig;src"
+alias h="cd ~"
+alias aliasl="bat ~/.zsh/.aliases"
+alias sys="sudo systemctl"
+alias e="nvim"
+alias vi="nvim"
+alias vinit="chezmoi edit --apply /home/tam/.config/nvim/init.lua;src"
+alias cat='bat'
+alias myip="curl ifconfig.me; echo"
+alias shutdown='sudo shutdown now'
+alias reboot='sudo systemctl reboot'
+alias suspend='sudo pm-suspend'
