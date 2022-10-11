@@ -16,6 +16,12 @@ return {
   adjust_window_size_when_changing_font_size = false,
 
   keys = {
+    --reload configuration
+    {
+      key = 'r',
+      mods = 'CMD|SHIFT',
+      action = wezterm.action.ReloadConfiguration,
+    },
     -- Screen
     {
       key = 'f',
