@@ -8,6 +8,7 @@ alias addnvim='ch add ~/.config/nvim'
 ###### chezmoi #################
 alias ch="chezmoi"
 alias addzsh="chezmoi add ~/.zsh"
+alias addfish="chezmoi add ~/.config/fish"
 alias readd="chezmoi re-add"
 alias cs="chezmoi status"
 alias valias="chezmoi edit --apply ~/.aliases; src"
