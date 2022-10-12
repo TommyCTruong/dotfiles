@@ -9,7 +9,7 @@ set fish_greeting                                 # Supresses fish's intro messa
 set TERM "xterm-256color"                         # Sets the terminal type
 set -gx EDITOR nvim
 
-
+#
 source ~/.aliases
 zoxide init fish | source
 starship init fish | source
