@@ -26,6 +26,12 @@ Host hostodo
     HostName hostodo.cuti.net
     User tam
     Port 2020
+Host gitea
+  HostName 192.168.1.4
+  User git
+  Port 222
+  IdentityFile ~/.ssh/id_rsa_gitea
+  IdentitiesOnly yes
 Host github
   HostName github.com
   User git
