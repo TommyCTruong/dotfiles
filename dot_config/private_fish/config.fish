@@ -13,4 +13,4 @@ set -gx EDITOR nvim
 source ~/.aliases
 zoxide init fish | source
 starship init fish | source
-neofetch &
+#neofetch &
