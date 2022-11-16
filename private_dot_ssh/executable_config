@@ -1,3 +1,6 @@
+Host pihole1 #NAS
+    Hostname 192.168.1.15
+    User tam
 Host neptune #NAS
     Hostname 192.168.1.4
     User tam
