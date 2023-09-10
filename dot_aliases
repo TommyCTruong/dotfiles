@@ -1,10 +1,10 @@
 alias src="exec zsh"
 #alias src="source ~/.zsh/.zshrc"
 #### Wiki ###
-alias wiki="cd ~/wiki; vi ~/wiki/index.wiki"
-alias wupdate="cd ~/wiki; git save; git done"
-alias v="vi -o ~/wiki/index.wiki -O ~/wiki/diary/diary.wiki"
-alias addnvim='ch add ~/.config/nvim'
+##alias wiki="cd ~/wiki; vi ~/wiki/index.wiki"
+#alias wupdate="cd ~/wiki; git save; git done"
+#alias v="vi -o ~/wiki/index.wiki -O ~/wiki/diary/diary.wiki"
+#alias addnvim='ch add ~/.config/nvim'
 ###### chezmoi #################
 alias ch="chezmoi"
 alias addzsh="chezmoi add ~/.zsh"
